@@ -1,0 +1,48 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "Canadian Law MCP"
+jurisdiction: "CA"
+
+sources:
+  - name: "Justice Laws Website (Consolidated Acts and Regulations)"
+    authority: "Department of Justice Canada"
+    official_portal: "https://laws-lois.justice.gc.ca"
+    canonical_identifier: "N/A (Canadian legislation uses Act short title as canonical identifier; some acts have official chapter numbers e.g. S.C. 2000, c. 5)"
+    retrieval_method: "XML_DOWNLOAD"
+    api_documentation: "https://laws-lois.justice.gc.ca/eng/XML/Legis.html"
+    update_frequency: "weekly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Open Government Licence - Canada"
+      url: "https://open.canada.ca/en/open-government-licence-canada"
+      summary: "Government of Canada open data, free to use and redistribute with attribution to the Crown"
+    coverage:
+      scope: "All consolidated federal Acts and regulations including PIPEDA, CASL, Criminal Code (cybercrime provisions), Canada Business Corporations Act, Competition Act, Privacy Act (public sector), Telecommunications Act, Bank Act, and related instruments"
+      limitations: "Provincial and territorial legislation not included; historical versions may be incomplete for Acts repealed before consolidation; bilingual (EN/FR) — both official languages available"
+    languages:
+      - "en"
+      - "fr"
+
+  - name: "Office of the Privacy Commissioner of Canada (OPC) Guidance"
+    authority: "Office of the Privacy Commissioner of Canada"
+    official_portal: "https://www.priv.gc.ca"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "monthly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Open Government Licence - Canada"
+      url: "https://open.canada.ca/en/open-government-licence-canada"
+      summary: "Government of Canada publications, free to reproduce with attribution"
+    coverage:
+      scope: "OPC guidance documents, findings, policy positions on PIPEDA interpretation, breach notification guidance, and cross-border data flow guidance"
+      limitations: "Not all historical guidance documents available; enforcement decisions may lag publication"
+    languages:
+      - "en"
+      - "fr"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"

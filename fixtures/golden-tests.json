@@ -1,0 +1,181 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Canadian Law MCP",
+  "description": "Golden contract tests for the Canadian Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "ca-001",
+      "category": "article_retrieval",
+      "description": "Retrieve PIPEDA Section 2 -- purpose and definitions of personal information protection",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Personal Information Protection and Electronic Documents Act",
+        "article": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["personal information"],
+        "fields_present": ["text", "article_number"],
+        "citation_url_pattern": "^https://laws-lois\\.justice\\.gc\\.ca/"
+      }
+    },
+    {
+      "id": "ca-002",
+      "category": "article_retrieval",
+      "description": "Retrieve CASL Section 1 -- short title of Canada's Anti-Spam Legislation",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "An Act to promote the efficiency and adaptability of the Canadian economy",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["electronic", "commercial"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ca-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Criminal Code cybercrime section -- unauthorized use of computer (Section 342.1)",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Criminal Code",
+        "article": "342.1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["computer", "unauthorized", "offence"],
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ca-004",
+      "category": "search",
+      "description": "Full-text search for 'personal information' returns PIPEDA and Privacy Act provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal information"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["PIPEDA", "Privacy Act", "personal information", "Personal Information Protection"]
+      }
+    },
+    {
+      "id": "ca-005",
+      "category": "search",
+      "description": "Full-text search for 'anti-spam' returns CASL provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "anti-spam"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["electronic message", "commercial", "CASL", "spam"]
+      }
+    },
+    {
+      "id": "ca-006",
+      "category": "search",
+      "description": "Full-text search for 'cybercrime' returns Criminal Code provisions on computer offences",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybercrime"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Criminal Code", "computer", "offence", "unauthorized"]
+      }
+    },
+    {
+      "id": "ca-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for PIPEDA Section 5 includes laws-lois.justice.gc.ca URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Personal Information Protection and Electronic Documents Act",
+        "article": "5"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "^https://laws-lois\\.justice\\.gc\\.ca/",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ca-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Privacy Act Section 3 includes official URL and stable identifier",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Privacy Act",
+        "article": "3"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["text"],
+        "citation_url_pattern": "^https://laws-lois\\.justice\\.gc\\.ca/",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ca-009",
+      "category": "eu_cross_reference",
+      "description": "PIPEDA cross-reference to EU GDPR -- Canada has had an EU adequacy finding for commercial organizations subject to PIPEDA",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Personal Information Protection and Electronic Documents Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "adequacy"]
+      }
+    },
+    {
+      "id": "ca-010",
+      "category": "eu_cross_reference",
+      "description": "Competition Act cross-reference to EU competition law frameworks",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Competition Act"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["competition", "EU", "antitrust", "market"]
+      }
+    },
+    {
+      "id": "ca-011",
+      "category": "negative_test",
+      "description": "Non-existent Canadian Act returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Fictional Maple Syrup Regulation Act 2099",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ca-012",
+      "category": "negative_test",
+      "description": "Malformed section number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Personal Information Protection and Electronic Documents Act",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}

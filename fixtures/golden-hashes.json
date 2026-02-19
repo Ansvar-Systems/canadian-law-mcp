@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Canadian Law MCP",
+  "jurisdiction": "CA",
+  "provisions": [
+    {
+      "id": "ca-hash-001",
+      "description": "Canadian Charter of Rights and Freedoms Section 8 -- right to be secure against unreasonable search or seizure (constitutional basis for privacy rights)",
+      "upstream_url": "https://laws-lois.justice.gc.ca/eng/const/page-12.html",
+      "selector_hint": "Section 8 - Search or seizure",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Everyone has the right to be secure against unreasonable search or seizure"
+    },
+    {
+      "id": "ca-hash-002",
+      "description": "Personal Information Protection and Electronic Documents Act -- Section 2 (Purpose)",
+      "upstream_url": "https://laws-lois.justice.gc.ca/eng/acts/P-8.6/page-1.html",
+      "selector_hint": "Section 2 - Purpose",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "personal information"
+    },
+    {
+      "id": "ca-hash-003",
+      "description": "Canada's Anti-Spam Legislation (CASL) -- Section 1 (Short title)",
+      "upstream_url": "https://laws-lois.justice.gc.ca/eng/acts/E-1.6/page-1.html",
+      "selector_hint": "Section 1 - Short title",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Canadian economy"
+    },
+    {
+      "id": "ca-hash-004",
+      "description": "Criminal Code -- Section 1 (Short title)",
+      "upstream_url": "https://laws-lois.justice.gc.ca/eng/acts/C-46/page-1.html",
+      "selector_hint": "Section 1 - Short title",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Criminal Code"
+    },
+    {
+      "id": "ca-hash-005",
+      "description": "Privacy Act (public sector) -- Section 2 (Purpose)",
+      "upstream_url": "https://laws-lois.justice.gc.ca/eng/acts/P-21/page-1.html",
+      "selector_hint": "Section 2 - Purpose",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "personal information"
+    },
+    {
+      "id": "ca-hash-006",
+      "description": "Competition Act -- Section 1 (Short title)",
+      "upstream_url": "https://laws-lois.justice.gc.ca/eng/acts/C-34/page-1.html",
+      "selector_hint": "Section 1 - Short title",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Competition Act"
+    }
+  ]
+}
