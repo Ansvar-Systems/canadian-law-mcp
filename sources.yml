@@ -8,10 +8,10 @@ sources:
     authority: "Department of Justice Canada"
     official_portal: "https://laws-lois.justice.gc.ca"
     canonical_identifier: "N/A (Canadian legislation uses Act short title as canonical identifier; some acts have official chapter numbers e.g. S.C. 2000, c. 5)"
-    retrieval_method: "XML_DOWNLOAD"
-    api_documentation: "https://laws-lois.justice.gc.ca/eng/XML/Legis.html"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "https://laws-lois.justice.gc.ca/eng/acts/{act-path}/FullText.html"
     update_frequency: "weekly"
-    last_ingested: "PENDING_FIRST_INGEST"
+    last_ingested: "2026-02-19"
     license_or_terms:
       type: "Open Government Licence - Canada"
       url: "https://open.canada.ca/en/open-government-licence-canada"
@@ -45,4 +45,4 @@ sources:
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "PENDING_FIRST_INGEST"
+  last_verified: "2026-02-19"
