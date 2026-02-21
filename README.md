@@ -123,6 +123,55 @@ Once connected, just ask naturally:
 
 ---
 
+## Key Legislation Covered
+
+| Act | Domain | Key Topics |
+|-----|--------|------------|
+| **Personal Information Protection and Electronic Documents Act (PIPEDA)** | Data Protection | Personal information, consent, accountability principles, breach notification, EU adequacy |
+| **Consumer Privacy Protection Act (CPPA/Bill C-27)** | Data Protection (proposed) | PIPEDA replacement, AIDA (AI regulation), enhanced enforcement, privacy tribunal |
+| **Canada's Anti-Spam Legislation (CASL)** | Electronic Commerce | Commercial electronic messages, consent, unsubscribe mechanism, penalties |
+| **Criminal Code (cybercrime provisions)** | Cybercrime | Unauthorized use of computer (s.342.1), mischief to data (s.430), interception (s.184) |
+| **Privacy Act** | Public Sector Privacy | Government institutions, personal information, access rights |
+| **Canada Business Corporations Act** | Corporate Law | Corporate governance, directors duties, shareholder rights |
+| **Competition Act** | Competition Law | Anti-competitive practices, mergers, deceptive marketing |
+| **Telecommunications Act** | Communications | Carrier regulation, CRTC powers, network security |
+
+---
+
+---
+
+## Deployment Tier
+
+**MEDIUM** -- dual tier, free database bundled in npm package.
+
+| Tier | Platform | Database | Content |
+|------|----------|----------|---------|
+| **Free** | Vercel (Hobby) / npm (stdio) | Core federal statutes (~100-180 MB) | Key federal Acts (PIPEDA, CASL, Criminal Code, Privacy Act, Competition Act), FTS search, EU/international cross-references |
+| **Professional** | Azure Container Apps / Docker / Local | Full database (~500-800 MB) | + All consolidated Acts and regulations, OPC guidance, provincial privacy law summaries (Quebec Law 25, PIPA Alberta) |
+
+The full database is larger due to the comprehensive scope of consolidated federal legislation and supplementary regulatory guidance. The free tier contains all key cybersecurity, privacy, and commercial legislation from the Justice Laws Website.
+
+---
+
+---
+
+## Database Estimates
+
+| Component | Free Tier | Full (Professional) |
+|-----------|-----------|---------------------|
+| Core federal Acts | ~80-120 MB | ~80-120 MB |
+| All consolidated regulations | -- | ~250-400 MB |
+| OPC guidance & findings | -- | ~50-80 MB |
+| Provincial privacy law summaries | -- | ~30-50 MB |
+| Cross-references & metadata | ~5 MB | ~15 MB |
+| **Total** | **~100-180 MB** | **~500-800 MB** |
+
+**Delivery strategy:** Free-tier DB bundled in npm package (Strategy A -- fits within Vercel 250 MB function limit). If final size exceeds 250 MB after ingestion, switch to Strategy B (runtime download from GitHub Releases).
+
+---
+
+---
+
 ## Available Tools (13)
 
 ### Core Legal Research Tools (8)
