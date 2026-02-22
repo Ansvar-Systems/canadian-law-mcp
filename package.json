@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/canadian-law-mcp",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "mcpName": "eu.ansvar/canadian-law-mcp",
   "description": "Canadian federal law database covering privacy (PIPEDA), anti-spam (CASL), cybercrime, competition, corporate, and public sector privacy legislation with bilingual (EN/FR) full-text search",
   "author": "Ansvar Systems <hello@ansvar.eu>",
