@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "jurisdiction": "CA",
+  "portal": "laws-lois.justice.gc.ca",
+  "generated": "2026-02-22",
+  "total_laws": 9,
+  "total_provisions": 4181,
+  "laws": [
+    {
+      "id": "bank-act",
+      "title": "Bank Act",
+      "provisions": 1376
+    },
+    {
+      "id": "casl",
+      "title": "An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act",
+      "provisions": 91
+    },
+    {
+      "id": "cbca",
+      "title": "Canada Business Corporations Act",
+      "provisions": 296
+    },
+    {
+      "id": "competition-act",
+      "title": "Competition Act",
+      "provisions": 213
+    },
+    {
+      "id": "copyright-act",
+      "title": "Copyright Act",
+      "provisions": 248
+    },
+    {
+      "id": "criminal-code",
+      "title": "Criminal Code",
+      "provisions": 1644
+    },
+    {
+      "id": "pipeda",
+      "title": "Personal Information Protection and Electronic Documents Act",
+      "provisions": 71
+    },
+    {
+      "id": "privacy-act",
+      "title": "Privacy Act",
+      "provisions": 92
+    },
+    {
+      "id": "telecommunications-act",
+      "title": "Telecommunications Act",
+      "provisions": 150
+    }
+  ]
+}

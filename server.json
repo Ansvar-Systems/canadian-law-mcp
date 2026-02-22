@@ -7,14 +7,39 @@
     "source": "github"
   },
   "homepage": "https://ansvar.eu",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "Apache-2.0",
+  "keywords": [
+    "canadian-law",
+    "canada",
+    "legal",
+    "pipeda",
+    "casl",
+    "privacy",
+    "anti-spam",
+    "cybercrime",
+    "competition-act",
+    "criminal-code",
+    "compliance",
+    "mcp"
+  ],
   "packages": [
     {
       "registryType": "npm",
       "identifier": "@ansvar/canadian-law-mcp",
-      "version": "1.0.0",
-      "transport": { "type": "stdio" }
+      "version": "1.1.0",
+      "transport": {
+        "type": "stdio"
+      }
+    },
+    {
+      "registryType": "npm",
+      "identifier": "@ansvar/canadian-law-mcp",
+      "version": "1.1.0",
+      "transport": {
+        "type": "streamable-http",
+        "url": "https://canadian-law-mcp.vercel.app/mcp"
+      }
     }
   ]
 }
