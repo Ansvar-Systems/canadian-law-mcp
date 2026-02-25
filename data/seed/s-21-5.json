@@ -1,0 +1,51 @@
+{
+  "id": "s-21-5",
+  "type": "statute",
+  "title": "Statutes Repeal Act",
+  "title_en": "Statutes Repeal Act",
+  "short_name": "Statutes Repeal Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/S-21.5/",
+  "description": "Statutes Repeal Act (Statutes Repeal Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Statutes Repeal Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Annual report of legislation not in force",
+      "content": "2 In every calendar year, the Minister of Justice shall cause to be laid before the Senate and the House of Commons, on any of the first five days on which that House sits, a report listing every Act of Parliament or provision of an Act of Parliament that is to come into force on a day or days to be fixed by proclamation or order of the Governor in Council and that (a) was assented to nine years or more before the December 31 immediately preceding the laying of the report; and (b) had not come into force on or before that December 31."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Repeal on December 31 following",
+      "content": "3 Every Act or provision listed in the annual report is repealed on December 31 of the year in which the report is laid unless it comes into force on or before that December 31 or during that year either House of Parliament adopts a resolution that the Act or provision not be repealed."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Publication in Canada Gazette",
+      "content": "4 The Minister of Justice shall publish each year in the Canada Gazette a list of every Act or provision repealed on the preceding December 31 under this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Transitional",
+      "content": "5 Section 2 does not apply to any provision amended by an Act that was assented to during the nine calendar years preceding the year this Act comes into force, or to any provision that is necessary for the amended provision to have effect, until the calendar year following the ninth anniversary of that assent. Footnote *"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Coming into force",
+      "content": "6 This Act comes into force two years after the day on which it receives royal assent. Return to footnote * [Note: Act in force on June 18, 2010.] Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": []
+}

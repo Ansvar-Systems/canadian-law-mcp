@@ -1,0 +1,73 @@
+{
+  "id": "s-10-9",
+  "type": "statute",
+  "title": "Small Business Investment Grants Act",
+  "title_en": "Small Business Investment Grants Act",
+  "short_name": "Small Business Investment Grants Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/S-10.9/",
+  "description": "Small Business Investment Grants Act (Small Business Investment Grants Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Small Business Investment Grants Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 In this Act, Minister Minister means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; ( ministre ) person person includes a partnership; ( personne ) prescribed prescribed means prescribed by the regulations. ( Version anglaise seulement )"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Small Business Investment Grants",
+      "section": "3",
+      "title": "Application for grant",
+      "content": "3 (1) On application to the Minister by a person who establishes in the form and manner prescribed that he is, pursuant to the regulations, eligible to receive a grant in respect of interest payable by the person on a prescribed small business investment debt obligation owed by him, the Minister may, subject to the regulations, make a grant to the person or his agent of such amount, not exceeding four per cent per annum of the principle balance outstanding from time to time of the debt obligation, as would reduce the effective rate of interest on the debt obligation for the period in respect of which the grant is made to not less than twelve per cent per annum. (2) Where a person who is eligible to receive a grant under subsection (1) authorizes the Minister to make the grant to an agent of the person, (a) the Minister may make the grant to that agent; and (b) the authorization in respect of which the grant is made may not be amended or revoked without the consent of the Minister. (3) The Minister may only make grants under subsection (1) in respect of small business investment debt obligations that are incurred prior to April 1, 1983."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "General",
+      "section": "4",
+      "title": "Regulations",
+      "content": "4 The Governor in Council may make regulations prescribing anything that by this Act is to be prescribed and providing for all other matters and things as he deems necessary to carry out the provisions of this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "General",
+      "section": "5",
+      "title": "Recovery of grants",
+      "content": "5 (1) Where a grant is made to a person under section 3 and for any reason (a) the person is not entitled to the grant, (b) the amount of the grant exceeds the amount to which the person is entitled, or (c) a term or condition to which the grant is subject has not been met or has been contravened, the amount of the grant or excess, as the case may be, together with interest determined as prescribed and computed from the date the grant is made, is a debt due to Her Majesty in right of Canada and may be recovered as such from the person in any court of competent jurisdiction. (2) Where a circumstance referred to in paragraph (1)(a), (b) or (c) occurs in respect of a grant made to a person under section 3 and the Minister has, under such conditions as are prescribed, advised the person in writing that the amount of the grant will not be recovered from the person in that circumstance, subsection (1) shall, effective on the date the circumstance occurred, cease to apply in respect of the grant. (3) Everyone who, under this Act, submits any information or documentation, makes any statement or answers any question, whether in connection with an application for a grant or otherwise, knowing that the information, documentation, statement or answer is false or misleading or misrepresents or fails to disclose a material fact, is guilty of an offence and is liable (a) on summary conviction, to a fine not exceeding ten thousand dollars or to imprisonment for a term not exceeding one year or to both; or (b) on conviction on indictment, to a fine not exceeding one hundred thousand dollars or to imprisonment for a term not exceeding five years or to both. Footnote *"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "General",
+      "section": "6",
+      "title": "Coming into force",
+      "content": "6 This Act shall come into force on a day to be fixed by proclamation. Return to footnote * [Note: Act in force May 19, 1983, see SI/83-112.] Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "Minister means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; ( ministre )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "person includes a partnership; ( personne )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed means prescribed by the regulations. ( Version anglaise seulement )",
+      "source_provision": "s2"
+    }
+  ]
+}

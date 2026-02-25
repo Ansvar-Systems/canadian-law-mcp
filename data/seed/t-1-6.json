@@ -1,0 +1,57 @@
+{
+  "id": "t-1-6",
+  "type": "statute",
+  "title": "Tax Conventions Implementation Act, 2004",
+  "title_en": "Tax Conventions Implementation Act, 2004",
+  "short_name": "Tax Conventions Implementation Act, 2004",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/T-1.6/",
+  "description": "Tax Conventions Implementation Act, 2004 (Tax Conventions Implementation Act, 2004). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Tax Conventions Implementation Act, 2004 ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 Canada–Gabon Tax Convention",
+      "section": "2",
+      "title": "Short title",
+      "content": "2 (1) The Canada–Gabon Tax Convention Act, 2004 is enacted as follows: [See Canada–Gabon Tax Convention Act, 2004 ] (2) The schedule to the Canada–Gabon Tax Convention Act, 2004 is set out in Schedule 1 to this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 Canada–Ireland Tax Convention",
+      "section": "3",
+      "title": "Short title",
+      "content": "3 (1) The Canada–Ireland Tax Convention Act, 2004 is enacted as follows: [See Canada–Ireland Tax Convention Act, 2004 ] (2) The schedule to the Canada–Ireland Tax Convention Act, 2004 is set out in Schedule 2 to this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 3 Canada–Armenia Tax Convention",
+      "section": "4",
+      "title": "",
+      "content": "4 (1) The Canada–Armenia Tax Convention Act, 2004 is enacted as follows: [See Canada–Armenia Tax Convention Act, 2004 ] (2) The schedule to the Canada–Armenia Tax Convention Act, 2004 is set out in Schedule 3 to this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 4 Canada–Oman Tax Agreement",
+      "section": "5",
+      "title": "",
+      "content": "5 (1) The Canada–Oman Tax Agreement Act, 2004 is enacted as follows: [See Canada–Oman Tax Agreement Act, 2004 ] (2) Schedules 1 and 2 to the Canada–Oman Tax Agreement Act, 2004 are set out in Schedule 4 to this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 5 Canada–Azerbaijan Tax Convention",
+      "section": "6",
+      "title": "",
+      "content": "6 (1) The Canada–Azerbaijan Tax Convention Act, 2004 is enacted as follows: [See Canada–Azerbaijan Tax Convention Act, 2004 ] (2) Schedules 1 and 2 to the Canada–Azerbaijan Tax Convention Act, 2004 are set out in Schedule 5 to this Act."
+    }
+  ],
+  "definitions": []
+}

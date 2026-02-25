@@ -1,0 +1,70 @@
+{
+  "id": "s-6",
+  "type": "statute",
+  "title": "Seals Act",
+  "title_en": "Seals Act",
+  "short_name": "Seals Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/S-6/",
+  "description": "Seals Act (Seals Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Seals Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 In this Act, counter-signature counter-signature means the endorsement on a royal instrument or on a document under the sign-manual of the signature of Her Majesty’s responsible Canadian minister; ( contreseing ) document under the sign-manual document under the sign-manual means an instrument, in respect of Canada, that, under the present practice, is issued in the name and under the signature of Her Majesty the Queen without any seal; ( document revêtu du seing royal ) Great Seal of the Realm Great Seal of the Realm means the Great Seal of the United Kingdom of Great Britain and Northern Ireland for which provision was made in Article XXIV of An Act for an Union of the two Kingdoms of England and Scotland , 5 Anne, 1706, chapter VIII [Statutes at Large, Volume IV], and includes the wafer seal; ( grand sceau du Royaume ) royal instrument royal instrument means an instrument, in respect of Canada, that, under the present practice, is issued by and in the name of the Queen and passed under the Great Seal of the Realm or under one of the signets; ( instrument royal ) royal seals royal seals include the Great Seal of Canada and any other seals or signets that may, with the approval of Her Majesty the Queen, be authorized under this Act; ( sceaux royaux ) signet signet means the seal that, under the existing practice in the United Kingdom, is delivered by Her Majesty the Queen to each of her Principal Secretaries of State in the United Kingdom, and includes the lesser signet or second secretarial seal and the cachet. ( signet )"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Issue of royal instruments",
+      "content": "3 Notwithstanding any law in force in Canada, any royal instrument may be issued by and with the authority of Her Majesty the Queen and passed under the Great Seal of Canada, or under any other royal seal approved by Her Majesty the Queen for the purpose."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Orders and regulations",
+      "content": "4 Notwithstanding any law in force in Canada, the Governor in Council may, subject to the approval of Her Majesty the Queen, make orders and regulations relating to royal seals, the use thereof, royal instruments and documents under the sign-manual, and, without restricting the generality of the foregoing, in relation to the following matters: (a) the specification of the instruments or classes of instruments that are to be passed under the royal seals; (b) the authorization of royal seals, the naming of those seals and the specification of the purposes for which they are to be used; (c) the custody of the royal seals; (d) the procedure governing the use of the royal seals; (e) counter-signature of royal instruments; (f) the issuing and counter-signature of documents under the sign-manual; (g) the procedure whereby the approval of Her Majesty the Queen and her authority for the issuing of royal instruments and documents under the sign-manual is to be given; and (h) the authentication and proof of royal instruments and documents under the sign-manual, including the conditions under which certification by an official, or publication by the Queen’s Printer, constitutes authentication and proof. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "counter-signature",
+      "definition": "counter-signature means the endorsement on a royal instrument or on a document under the sign-manual of the signature of Her Majesty’s responsible Canadian minister; ( contreseing )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "document under the sign-manual",
+      "definition": "document under the sign-manual means an instrument, in respect of Canada, that, under the present practice, is issued in the name and under the signature of Her Majesty the Queen without any seal; ( document revêtu du seing royal )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Great Seal of the Realm",
+      "definition": "Great Seal of the Realm means the Great Seal of the United Kingdom of Great Britain and Northern Ireland for which provision was made in Article XXIV of An Act for an Union of the two Kingdoms of England and Scotland , 5 Anne, 1706, chapter VIII [Statutes at Large, Volume IV], and includes the wafer seal; ( grand sceau du Royaume )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "royal instrument",
+      "definition": "royal instrument means an instrument, in respect of Canada, that, under the present practice, is issued by and in the name of the Queen and passed under the Great Seal of the Realm or under one of the signets; ( instrument royal )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "royal seals",
+      "definition": "royal seals include the Great Seal of Canada and any other seals or signets that may, with the approval of Her Majesty the Queen, be authorized under this Act; ( sceaux royaux )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "signet",
+      "definition": "signet means the seal that, under the existing practice in the United Kingdom, is delivered by Her Majesty the Queen to each of her Principal Secretaries of State in the United Kingdom, and includes the lesser signet or second secretarial seal and the cachet. ( signet )",
+      "source_provision": "s2"
+    }
+  ]
+}

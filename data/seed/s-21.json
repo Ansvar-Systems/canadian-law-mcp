@@ -1,0 +1,120 @@
+{
+  "id": "s-21",
+  "type": "statute",
+  "title": "Publication of Statutes Act",
+  "title_en": "Publication of Statutes Act",
+  "short_name": "Publication of Statutes Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/S-21/",
+  "description": "Publication of Statutes Act (Publication of Statutes Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Publication of Statutes Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Short title",
+      "content": "2 In this Act, Minister means the Minister of Public Works and Government Services."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "The Clerk of the Parliaments",
+      "section": "3",
+      "title": "Clerk of the Parliaments to have custody of original Acts",
+      "content": "3 All the original Acts passed by the Legislatures of the former Provinces of Upper Canada and Lower Canada, or of the former Province of Canada, transferred to and deposited of record in the office of the Clerk of the Senate, and all original Acts of the Parliament of Canada assented to by the Governor General, shall be and continue to remain of record in the custody of the Clerk of the Senate of Canada, who shall be known and designated as the Clerk of the Parliaments."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "The Clerk of the Parliaments",
+      "section": "4",
+      "title": "Seal of office",
+      "content": "4 The Clerk of the Parliaments shall have a seal of office and shall affix the seal to certified copies of all Acts required to be produced before courts of justice, either within or outside Canada, and in any other case in which the Clerk of the Parliaments considers it expedient."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "The Clerk of the Parliaments",
+      "section": "5",
+      "title": "Certified copies of Acts",
+      "content": "5 All copies of the Acts certified by the Clerk of the Parliaments pursuant to section 4 shall be held to be duplicate originals and to be evidence of those Acts and of their contents as if printed under the authority of Parliament by the Queen’s Printer."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "The Clerk of the Parliaments",
+      "section": "6",
+      "title": "Certified copies of Acts",
+      "content": "6 [Repealed, 1999, c. 31, s. 195]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "The Clerk of the Parliaments",
+      "section": "7",
+      "title": "Certified copies of Acts",
+      "content": "7 The Clerk of the Parliaments shall furnish certified copies of any of the Acts mentioned in section 3 to any department of the federal public administration or the public service of any province or to any person applying for a copy, and on every certified copy shall, before delivering it, receive a fee of two dollars, in addition to the cost of the printed copy, if a printed copy is furnished, or in addition to a fee of ten cents for every hundred words in the copy, if the copy furnished is not printed. Previous Version"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "The Clerk of the Parliaments",
+      "section": "8",
+      "title": "Certificate",
+      "content": "8 The Clerk of the Parliaments shall insert at the foot of every copy of an Act required to be certified pursuant to section 7, a written certificate, duly signed and authenticated by him, to the effect that it is a true copy of the Act passed by Parliament, or by the Legislature of the former Province of Canada, or of the former Province of Upper Canada or Lower Canada, as the case may be, in the session thereof held in the year of Her Majesty’s reign, and assented to in Her Majesty’s name by the Governor General or , as the case may be, on the day of ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Printing and Distribution of the Statutes",
+      "section": "9",
+      "title": "Certified copy",
+      "content": "9 The Clerk of the Parliaments shall furnish the Queen’s Printer with a certified copy of every Act of Parliament as soon as it has received royal assent."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Printing and Distribution of the Statutes",
+      "section": "10",
+      "title": "Printing Acts",
+      "content": "10 (1) The Acts of the Parliament of Canada shall be printed in two separate Parts, the first of which shall contain such Acts, orders in council, proclamations and other documents and such Acts of the Parliament of the United Kingdom as the Governor in Council deems to be of a public and general nature or interest in Canada and directs to be inserted, and the second of which shall contain the remaining Acts passed during each calendar year or other period prescribed by the Governor in Council and shall be printed after the first Part. (2) Copies of the volume or volumes of the Acts referred to in subsection (1) shall be printed by the Queen’s Printer, who shall, as soon as practicable after the end of every calendar year or other period prescribed by the Governor in Council, deliver or send by post or otherwise the proper number of copies to (a) the members of the two Houses of Parliament, respectively, who shall each be entitled to receive such number of copies as is directed by joint resolution of those Houses, or, in default of such resolution, as is directed by the Governor in Council; and (b) such public departments, administrative bodies and officers throughout Canada as the Governor in Council directs."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Printing and Distribution of the Statutes",
+      "section": "11",
+      "title": "Printing of Statutes",
+      "content": "11 The Statutes of Canada shall be printed in the English and French languages in such form, on such paper and in such type and shall be bound in such manner as the Governor in Council may prescribe by regulation."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Printing and Distribution of the Statutes",
+      "section": "12",
+      "title": "Bills assented to",
+      "content": "12 Whenever any bill receives the royal assent, the Queen’s Printer shall, if so directed by the Minister, cause distribution of the Act to be made, to the same persons and in like manner and numbers as provided in section 10 with respect to the Acts of any calendar year or other period prescribed by the Governor in Council, or such Acts may, by order of the Governor in Council, be published in the Canada Gazette , and printed afterwards in the proper Part of the Statutes."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Printing and Distribution of the Statutes",
+      "section": "13",
+      "title": "List to be transmitted",
+      "content": "13 The Clerk of the Privy Council shall, within fifteen days after the end of every calendar year or other period prescribed by the Governor in Council, transmit to the Queen’s Printer a list of the public departments, administrative bodies and officers to whom the Statutes of the year or period are by section 10 required to be transmitted, and shall also, as occasion requires, furnish the Queen’s Printer with copies of all orders in council made under this Act."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Printing and Distribution of the Statutes",
+      "section": "14",
+      "title": "Record to be kept",
+      "content": "14 The Queen’s Printer shall keep a complete record of the number of copies of the Acts of each calendar year or other period prescribed by the Governor in Council that have been printed, and of their disposition, and the record shall form a part of the annual report of the Department of Supply and Services."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Payment for Printing of Private Bills",
+      "section": "15",
+      "title": "Private bill charges",
+      "content": "15 Any person desiring to obtain a bill of a private or personal character shall pay to the Clerk of the House in which the proposed legislation is first introduced the charges prescribed by the rules of the House. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": []
+}

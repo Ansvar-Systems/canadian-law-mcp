@@ -1,0 +1,188 @@
+{
+  "id": "c-36-75",
+  "type": "statute",
+  "title": "Consumer-Driven Banking Act",
+  "title_en": "Consumer-Driven Banking Act",
+  "short_name": "Consumer-Driven Banking Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/C-36.75/",
+  "description": "Consumer-Driven Banking Act (Consumer-Driven Banking Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Consumer-Driven Banking Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 The following definitions apply in this Act. Agency Agency means the Financial Consumer Agency of Canada established under section 3 of the Financial Consumer Agency of Canada Act . ( Agence ) derived data derived data means data about a consumer, product or service that has been enhanced by a participating entity to significantly increase its usefulness or commercial value. ( données dérivées ) entity entity means a corporation, trust, partnership, fund or an unincorporated association or organization. ( entité ) Minister Minister means the Minister of Finance. ( ministre ) Senior Deputy Commissioner Senior Deputy Commissioner means the Senior Deputy Commissioner for Consumer-Driven Banking appointed under subsection 7.2(1) of the Financial Consumer Agency of Canada Act . ( commissaire adjoint principal )"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Purpose",
+      "section": "3",
+      "title": "Purpose",
+      "content": "3 The purpose of this Act is to establish a framework within which consumers, including small businesses, can direct that their data be shared among participating entities of their choice and to ensure that the sharing of data among participating entities is safe and secure."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Application",
+      "section": "4",
+      "title": "Data",
+      "content": "4 (1) This Act applies in respect of data that relates to the following products and services, including data that is provided by a consumer and data that is provided for in the regulations: The following provision is not in force. (a) deposit accounts; The following provision is not in force. (b) registered and non-registered investment accounts; The following provision is not in force. (c) payment products, including credit cards and prepaid payment products; The following provision is not in force. (d) lines of credit, mortgages or hypothecs and other kinds of loans; and The following provision is not in force. (e) other products or services provided for in the regulations. The following provision is not in force. (2) This Act does not apply in respect of derived data. The following provision is not in force."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Application",
+      "section": "5",
+      "title": "Limit — editing data",
+      "content": "5 Data that is shared between participating entities in accordance with this Act is to be shared in a manner that does not enable the participating entity that receives the data to edit the data on servers that are used by the participating entity that provides the data. The following provision is not in force."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Application",
+      "section": "6",
+      "title": "Restriction",
+      "content": "6 Nothing in this Act affects any restriction imposed under the Bank Act on banks with respect to the sharing of information about a consumer with an insurance company, agent or broker for the business of insurance."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Registry",
+      "section": "7",
+      "title": "Participating entities",
+      "content": "7 The Agency must maintain a public registry of participating entities that contains information respecting each participating entity."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Technical Standards",
+      "section": "8",
+      "title": "Designation of body",
+      "content": "8 (1) The Minister may, by order, designate a body to be the technical standards body that is responsible for establishing the technical standards that are to be used for the sharing of data by participating entities in accordance with this Act. (2) In designating the technical standards body, the Minister must take into account the following principles: (a) the need to ensure the safe, secure and efficient sharing of data among participating entities; (b) fairness, accessibility, transparency and good governance; (c) any other principle that the Minister considers relevant; and (d) any other principle provided for in the regulations. (3) The Minister must publish the order in the Canada Gazette ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Technical Standards",
+      "section": "9",
+      "title": "Review",
+      "content": "9 The Minister must review the designation every three years."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Technical Standards",
+      "section": "10",
+      "title": "Revocation",
+      "content": "10 (1) The Minister may, by order, revoke the designation, including in the following circumstances: (a) the Senior Deputy Commissioner advises the Minister to do so; (b) the Minister is of the opinion that the designation is no longer consistent with the principles referred to in subsection 8(2); (c) the Minister is of the opinion that the designation poses a risk to national security; or (d) the Minister is of the opinion that the designation poses a risk to the integrity or security of the financial system in Canada. (2) The Minister must publish the order in the Canada Gazette ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Technical Standards",
+      "section": "11",
+      "title": "Statutory Instruments Act",
+      "content": "11 The Statutory Instruments Act does not apply to an order made under subsection 8(1) or 10(1). The following provision is not in force."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Technical Standards",
+      "section": "12",
+      "title": "Annual report",
+      "content": "12 The technical standards body that is designated must submit an annual report to the Senior Deputy Commissioner in accordance with the regulations. The following provision is not in force."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Technical Standards",
+      "section": "13",
+      "title": "Change that has significant impact",
+      "content": "13 The technical standards body that is designated must notify the Senior Deputy Commissioner of any change that has a significant impact on the technical standards body or the technical standards, including any change to the operation of the technical standards or the governance, composition or decision-making of the technical standards body, as soon as feasible but no later than the seventh day after the day on which the change takes effect."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Prohibitions",
+      "section": "14",
+      "title": "Claiming to be participating entity",
+      "content": "14 An individual or entity, other than a participating entity, must not (a) use the term “participating entity” or a variation, abbreviation or equivalent of that term, or any words, name or designation — in any language — in a manner that leads to a reasonable belief that the individual or entity is a participating entity for the purposes of this Act; or (b) represent themselves, in any way or by any means, to be a participating entity for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Prohibitions",
+      "section": "15",
+      "title": "False or misleading information",
+      "content": "15 An individual or entity must not knowingly provide false or misleading information in relation to their participation under this Act."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Offences and Punishment",
+      "section": "16",
+      "title": "Offence and punishment",
+      "content": "16 Every individual or entity who contravenes section 14 or 15 is guilty of an offence and is liable (a) on conviction on indictment, (i) in the case of an individual, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both, or (ii) in the case of an entity, to a fine of not more than $5,000,000; or (b) on summary conviction, (i) in the case of an individual, to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both, or (ii) in the case of an entity, to a fine of not more than $500,000."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Offences and Punishment",
+      "section": "17",
+      "title": "Order to comply",
+      "content": "17 (1) If an individual or entity is convicted of an offence under this Act, the court may, in addition to any punishment that it may otherwise impose, order the individual or entity to comply with the provisions of this Act or the regulations in respect of which the individual or entity was convicted. (2) If an individual or entity is convicted of an offence under this Act, the court may, if it is satisfied that as a result of the commission of the offence the convicted individual or entity acquired any monetary benefits or that monetary benefits accrued to the convicted individual or entity or the individual’s spouse, common-law partner or other dependant, order the convicted individual or entity to pay, despite the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to three times the court’s estimation of the amount of those monetary benefits."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Offences and Punishment",
+      "section": "18",
+      "title": "Party to offence",
+      "content": "18 If an entity commits an offence under this Act, any director, any officer, any agent or mandatary or any principal officer of the entity who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on summary conviction or on conviction on indictment to the punishment provided for an individual in respect of the offence, whether or not the entity has been prosecuted or convicted."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Offences and Punishment",
+      "section": "19",
+      "title": "Limitation period",
+      "content": "19 (1) Proceedings by way of summary conviction in respect of an offence under this Act may be commenced at any time within, but not later than, two years after the day on which the subject matter of the proceedings became known to the Senior Deputy Commissioner. (2) A document appearing to have been issued by the Senior Deputy Commissioner, certifying the day on which the subject matter of any proceedings became known to the Senior Deputy Commissioner, is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and is, in the absence of evidence to the contrary, proof of the matter asserted in it."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Regulations",
+      "section": "20",
+      "title": "Regulations",
+      "content": "20 The Governor in Council may, on the recommendation of the Minister, make regulations (a) providing for data for the purposes of subsection 4(1); (b) providing for products and services for the purposes of paragraph 4(1)(e); (c) providing for principles for the purposes of paragraph 8(2)(d); and (d) respecting the annual report referred to in section 12, including the information that is to be included in the report and the form and manner in which, and the time within which, it is to be submitted."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Coming into Force",
+      "section": "21",
+      "title": "Order in council",
+      "content": "21 Sections 4 to 7, 12 and 13 come into force on a day or days to be fixed by order of the Governor in Council. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agency",
+      "definition": "Agency means the Financial Consumer Agency of Canada established under section 3 of the Financial Consumer Agency of Canada Act . ( Agence )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "derived data",
+      "definition": "derived data means data about a consumer, product or service that has been enhanced by a participating entity to significantly increase its usefulness or commercial value. ( données dérivées )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "entity",
+      "definition": "entity means a corporation, trust, partnership, fund or an unincorporated association or organization. ( entité )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister means the Minister of Finance. ( ministre )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Senior Deputy Commissioner",
+      "definition": "Senior Deputy Commissioner means the Senior Deputy Commissioner for Consumer-Driven Banking appointed under subsection 7.2(1) of the Financial Consumer Agency of Canada Act . ( commissaire adjoint principal )",
+      "source_provision": "s2"
+    }
+  ]
+}

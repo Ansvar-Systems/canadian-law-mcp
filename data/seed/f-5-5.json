@@ -1,0 +1,2283 @@
+{
+  "id": "f-5-5",
+  "type": "statute",
+  "title": "Federal Accountability Act",
+  "title_en": "Federal Accountability Act",
+  "short_name": "Federal Accountability Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/F-5.5/",
+  "description": "Federal Accountability Act (Federal Accountability Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Federal Accountability Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Conflict of Interest Act",
+      "section": "2",
+      "title": "Short title",
+      "content": "2 The Conflict of Interest Act is enacted as follows: [See Conflict of Interest Act ] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Conflict of Interest Act",
+      "section": "3",
+      "title": "Positions",
+      "content": "3 (1) An employee who occupies a position in the office of the Ethics Commissioner immediately before the day on which section 81 of the Parliament of Canada Act , as enacted by section 28 of this Act, comes into force continues in that position, except that from that day the employee occupies that position in the office of the Conflict of Interest and Ethics Commissioner. (2) Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the office of the Ethics Commissioner that, on the day on which this section comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the office of the Conflict of Interest and Ethics Commissioner. (3) Every reference to the Ethics Commissioner in any deed, contract, agreement, instrument or other document executed by that person is to be read as a reference to the Conflict of Interest and Ethics Commissioner, unless the context otherwise requires. (4) Any action, suit or other legal or administrative proceeding to which the Ethics Commissioner is a party that is pending on the coming into force of this section may be continued by or against the Conflict of Interest and Ethics Commissioner in a similar manner and to the same extent as it would have been continued by or against the Ethics Commissioner. (5) All information that, on the day on which this section comes into force, is in the possession or control of the Ethics Commissioner relating to the exercise of his or her powers, duties and functions under the Parliament of Canada Act is, as of that day, under the control of the Conflict of Interest and Ethics Commissioner. (6) The Conflict of Interest and Ethics Commissioner has, with respect to persons subject to and obligations established by The Conflict of Interest and Post-Employment Code for Public Office Holders , as issued from time to time, the same powers, duties and functions that the Ethics Counsellor or Ethics Commissioner had in relation to those persons and obligations. In addition, the Conflict of Interest and Ethics Commissioner has all the powers, duties and functions of the Commissioner under the Conflict of Interest Act in relation to those persons and obligations. (7) Subsection (6) does not apply to any person or obligation in respect of which the Ethics Counsellor or Ethics Commissioner had reached a final decision. (8) A member of the Senate or House of Commons may, with respect to persons subject to and obligations established by The Conflict of Interest and Post-Employment Code for Public Office Holders , as issued from time to time, make a request to the Conflict of Interest and Ethics Commissioner in accordance with section 44 of the Conflict of Interest Act ."
+    },
+    {
+      "provision_ref": "s3.1",
+      "chapter": "Conflict of Interest Act",
+      "section": "3.1",
+      "title": "Reference to Act",
+      "content": "3.1 (1) In this section, the other Act means, before the day on which section 66 of this Act comes into force, the Lobbyists Registration Act and, from that day, the Lobbying Act . (2) If, on the day on which section 27 of this Act comes into force, section 10.11 of the other Act, as enacted by section 75 of this Act, is not yet in force, persons who would otherwise be bound by section 29 of the Conflict of Interest and Post-Employment Code for Public Office Holders by virtue of their office and who cease to hold that office on or after that day but before the day on which that section 10.11 comes into force, are subject to the obligations established by section 29 of that Code, despite the coming into force of section 27 of this Act. (3) The registrar referred to in section 8 of the other Act has, with respect to the persons and obligations referred to in subsection (2), the same powers, duties and functions that the Ethics Commissioner would have in relation to those persons and obligations if section 27 of this Act were not in force. Consequential Amendments Canada Post Corporation Act"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Conflict of Interest Act",
+      "section": "4",
+      "title": "Jurisdiction of registrar",
+      "content": "4 [Amendment] Federal Courts Act"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Conflict of Interest Act",
+      "section": "5",
+      "title": "Jurisdiction of registrar",
+      "content": "5 [Amendment]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Conflict of Interest Act",
+      "section": "6",
+      "title": "Jurisdiction of registrar",
+      "content": "6 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Conflict of Interest Act",
+      "section": "7",
+      "title": "Jurisdiction of registrar",
+      "content": "7 [Amendments] First Nations Fiscal and Statistical Management Act"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Conflict of Interest Act",
+      "section": "8",
+      "title": "Jurisdiction of registrar",
+      "content": "8 [Amendment] Garnishment, Attachment and Pension Diversion Act"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Conflict of Interest Act",
+      "section": "9",
+      "title": "",
+      "content": "9 [Amendment]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Conflict of Interest Act",
+      "section": "10",
+      "title": "",
+      "content": "10 [Amendment]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Conflict of Interest Act",
+      "section": "11",
+      "title": "",
+      "content": "11 [Amendment]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Conflict of Interest Act",
+      "section": "12",
+      "title": "",
+      "content": "12 [Amendment]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Conflict of Interest Act",
+      "section": "13",
+      "title": "",
+      "content": "13 [Amendment]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Conflict of Interest Act",
+      "section": "14",
+      "title": "",
+      "content": "14 [Amendment]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Conflict of Interest Act",
+      "section": "15",
+      "title": "",
+      "content": "15 [Amendment]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Conflict of Interest Act",
+      "section": "16",
+      "title": "",
+      "content": "16 [Amendment]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Conflict of Interest Act",
+      "section": "17",
+      "title": "",
+      "content": "17 [Amendment] Government Employees Compensation Act"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Conflict of Interest Act",
+      "section": "18",
+      "title": "",
+      "content": "18 [Amendment] Non-smokers’ Health Act"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Conflict of Interest Act",
+      "section": "19",
+      "title": "",
+      "content": "19 [Amendment] Official Languages Act"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Conflict of Interest Act",
+      "section": "20",
+      "title": "",
+      "content": "20 [Amendment]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Conflict of Interest Act",
+      "section": "21",
+      "title": "",
+      "content": "21 [Amendment]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Conflict of Interest Act",
+      "section": "22",
+      "title": "",
+      "content": "22 [Amendments]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Conflict of Interest Act",
+      "section": "23",
+      "title": "",
+      "content": "23 [Amendment]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Conflict of Interest Act",
+      "section": "24",
+      "title": "",
+      "content": "24 [Amendment]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Conflict of Interest Act",
+      "section": "25",
+      "title": "",
+      "content": "25 [Amendment] Parliament of Canada Act"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Conflict of Interest Act",
+      "section": "26",
+      "title": "",
+      "content": "26 [Amendment]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Conflict of Interest Act",
+      "section": "27",
+      "title": "",
+      "content": "27 [Amendment]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Conflict of Interest Act",
+      "section": "28",
+      "title": "",
+      "content": "28 [Amendment] Parliamentary Employment and Staff Relations Act"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Conflict of Interest Act",
+      "section": "29",
+      "title": "",
+      "content": "29 [Amendment]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Conflict of Interest Act",
+      "section": "30",
+      "title": "",
+      "content": "30 [Amendment]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Conflict of Interest Act",
+      "section": "31",
+      "title": "",
+      "content": "31 [Amendment]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Conflict of Interest Act",
+      "section": "32",
+      "title": "",
+      "content": "32 [Amendment] Public Service Superannuation Act"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Conflict of Interest Act",
+      "section": "33",
+      "title": "",
+      "content": "33 [Amendment] Radiocommunication Act"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Conflict of Interest Act",
+      "section": "34",
+      "title": "",
+      "content": "34 [Amendment] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Conflict of Interest Act",
+      "section": "35",
+      "title": "",
+      "content": "35 [Amendment]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Conflict of Interest Act",
+      "section": "36",
+      "title": "",
+      "content": "36 [Amendment]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Conflict of Interest Act",
+      "section": "37",
+      "title": "",
+      "content": "37 [Amendment]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Conflict of Interest Act",
+      "section": "38",
+      "title": "",
+      "content": "38 [Amendment]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Canada Elections Act",
+      "section": "39",
+      "title": "",
+      "content": "39 [Amendment]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Canada Elections Act",
+      "section": "40",
+      "title": "",
+      "content": "40 [Amendment]"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Canada Elections Act",
+      "section": "41",
+      "title": "",
+      "content": "41 [Amendments]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Canada Elections Act",
+      "section": "42",
+      "title": "",
+      "content": "42 [Amendment]"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Canada Elections Act",
+      "section": "43",
+      "title": "",
+      "content": "43 [Amendment]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Canada Elections Act",
+      "section": "44",
+      "title": "",
+      "content": "44 [Amendments]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Canada Elections Act",
+      "section": "45",
+      "title": "",
+      "content": "45 [Amendments]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Canada Elections Act",
+      "section": "46",
+      "title": "",
+      "content": "46 [Amendments]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Canada Elections Act",
+      "section": "47",
+      "title": "",
+      "content": "47 [Amendments]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Canada Elections Act",
+      "section": "48",
+      "title": "",
+      "content": "48 [Amendments]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Canada Elections Act",
+      "section": "49",
+      "title": "",
+      "content": "49 [Amendment]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Canada Elections Act",
+      "section": "50",
+      "title": "",
+      "content": "50 [Amendment]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Canada Elections Act",
+      "section": "51",
+      "title": "",
+      "content": "51 [Amendment]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Canada Elections Act",
+      "section": "52",
+      "title": "",
+      "content": "52 [Amendments]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Canada Elections Act",
+      "section": "53",
+      "title": "",
+      "content": "53 [Amendment]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Canada Elections Act",
+      "section": "54",
+      "title": "",
+      "content": "54 [Amendments]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Canada Elections Act",
+      "section": "55",
+      "title": "",
+      "content": "55 [Amendment]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Canada Elections Act",
+      "section": "56",
+      "title": "",
+      "content": "56 [Amendments]"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Canada Elections Act",
+      "section": "57",
+      "title": "",
+      "content": "57 [Amendments]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Canada Elections Act",
+      "section": "58",
+      "title": "",
+      "content": "58 [Amendment]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Canada Elections Act",
+      "section": "59",
+      "title": "",
+      "content": "59 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Canada Elections Act",
+      "section": "60",
+      "title": "",
+      "content": "60 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Canada Elections Act",
+      "section": "61",
+      "title": "",
+      "content": "61 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Canada Elections Act",
+      "section": "62",
+      "title": "",
+      "content": "62 [Transitional provision] Consequential Amendments Income Tax Act"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Canada Elections Act",
+      "section": "63",
+      "title": "",
+      "content": "63 [Amendment]"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Canada Elections Act",
+      "section": "64",
+      "title": "",
+      "content": "64 [Amendments]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Lobbyists Registration Act",
+      "section": "65",
+      "title": "",
+      "content": "65 [Amendment]"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Lobbyists Registration Act",
+      "section": "66",
+      "title": "",
+      "content": "66 [Amendment]"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Lobbyists Registration Act",
+      "section": "67",
+      "title": "",
+      "content": "67 [Amendments]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Lobbyists Registration Act",
+      "section": "68",
+      "title": "",
+      "content": "68 [Amendment]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Lobbyists Registration Act",
+      "section": "69",
+      "title": "",
+      "content": "69 [Amendments]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Lobbyists Registration Act",
+      "section": "70",
+      "title": "",
+      "content": "70 [Amendments]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Lobbyists Registration Act",
+      "section": "71",
+      "title": "",
+      "content": "71 [Amendment]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Lobbyists Registration Act",
+      "section": "72",
+      "title": "",
+      "content": "72 [Amendments]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Lobbyists Registration Act",
+      "section": "73",
+      "title": "",
+      "content": "73 [Amendment]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Lobbyists Registration Act",
+      "section": "74",
+      "title": "",
+      "content": "74 [Amendment]"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Lobbyists Registration Act",
+      "section": "75",
+      "title": "",
+      "content": "75 [Amendment]"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Lobbyists Registration Act",
+      "section": "76",
+      "title": "",
+      "content": "76 [Amendment]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Lobbyists Registration Act",
+      "section": "77",
+      "title": "",
+      "content": "77 [Amendments]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Lobbyists Registration Act",
+      "section": "78",
+      "title": "",
+      "content": "78 [Amendment]"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Lobbyists Registration Act",
+      "section": "79",
+      "title": "",
+      "content": "79 [Amendment]"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Lobbyists Registration Act",
+      "section": "80",
+      "title": "",
+      "content": "80 [Amendment]"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Lobbyists Registration Act",
+      "section": "81",
+      "title": "",
+      "content": "81 [Amendment] Terminology"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Lobbyists Registration Act",
+      "section": "82",
+      "title": "",
+      "content": "82 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Lobbyists Registration Act",
+      "section": "83",
+      "title": "",
+      "content": "83 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Lobbyists Registration Act",
+      "section": "84",
+      "title": "",
+      "content": "84 [Transitional provisions]"
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Lobbyists Registration Act",
+      "section": "85",
+      "title": "",
+      "content": "85 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Lobbyists Registration Act",
+      "section": "86",
+      "title": "",
+      "content": "86 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Lobbyists Registration Act",
+      "section": "87",
+      "title": "",
+      "content": "87 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Lobbyists Registration Act",
+      "section": "88",
+      "title": "",
+      "content": "88 [Transitional provisions]"
+    },
+    {
+      "provision_ref": "s88.1",
+      "chapter": "Lobbyists Registration Act",
+      "section": "88.1",
+      "title": "",
+      "content": "88.1 [Transitional provisions]"
+    },
+    {
+      "provision_ref": "s88.11",
+      "chapter": "Lobbyists Registration Act",
+      "section": "88.11",
+      "title": "",
+      "content": "88.11 [Transitional provisions]"
+    },
+    {
+      "provision_ref": "s88.2",
+      "chapter": "Lobbyists Registration Act",
+      "section": "88.2",
+      "title": "",
+      "content": "88.2 [Transitional provision] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Lobbyists Registration Act",
+      "section": "89",
+      "title": "",
+      "content": "89 [Amendment]"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Lobbyists Registration Act",
+      "section": "90",
+      "title": "",
+      "content": "90 [Amendment]"
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Lobbyists Registration Act",
+      "section": "91",
+      "title": "",
+      "content": "91 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Lobbyists Registration Act",
+      "section": "92",
+      "title": "",
+      "content": "92 [Amendment]"
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Lobbyists Registration Act",
+      "section": "93",
+      "title": "",
+      "content": "93 [Amendment]"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Lobbyists Registration Act",
+      "section": "94",
+      "title": "",
+      "content": "94 [Amendment]"
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Lobbyists Registration Act",
+      "section": "95",
+      "title": "",
+      "content": "95 [Amendment] Official Languages Act"
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Lobbyists Registration Act",
+      "section": "96",
+      "title": "",
+      "content": "96 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Lobbyists Registration Act",
+      "section": "97",
+      "title": "",
+      "content": "97 [Amendment]"
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Lobbyists Registration Act",
+      "section": "98",
+      "title": "",
+      "content": "98 [Amendment]"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Parliament of Canada Act",
+      "section": "99",
+      "title": "",
+      "content": "99 [Amendment]"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Public Service Employment Act",
+      "section": "100",
+      "title": "",
+      "content": "100 [Amendment]"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Public Service Employment Act",
+      "section": "101",
+      "title": "",
+      "content": "101 [Amendment]"
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Public Service Employment Act",
+      "section": "102",
+      "title": "",
+      "content": "102 [Amendment]"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Public Service Employment Act",
+      "section": "103",
+      "title": "",
+      "content": "103 [Amendments]"
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Public Service Employment Act",
+      "section": "104",
+      "title": "",
+      "content": "104 [Amendment]"
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Public Service Employment Act",
+      "section": "105",
+      "title": "",
+      "content": "105 [Amendment]"
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Public Service Employment Act",
+      "section": "106",
+      "title": "",
+      "content": "106 [Amendment] Transitional Provision"
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Public Service Employment Act",
+      "section": "107",
+      "title": "",
+      "content": "107 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Coming into Force",
+      "section": "108",
+      "title": "Order in council",
+      "content": "108 Footnote * (1) The provisions of the Conflict of Interest Act , as enacted by section 2 of this Act, sections 3 to 34 of this Act and any provisions enacted or repeals effected by those sections come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 35 to 38, 59, 83, 88.1 to 88.2 and 100 to 107 in force on assent December 12, 2006; the Conflict of Interest Act , as enacted by section 2, and sections 3 to 34 in force July 9, 2007, see SI/2007-75.] (2) Notwithstanding subsection 114(4) of the Canada Pension Plan , the provisions of the Conflict of Interest Act , as enacted by section 2 of this Act, come into force as provided under subsection (1) but do not apply in respect of the Canada Pension Plan Investment Board unless the lieutenant governor in council of each of at least two thirds of the included provinces, within the meaning of subsection 114(1) of the Canada Pension Plan , having in the aggregate not less than two thirds of the population of all of the included provinces, has signified the consent of that province to those provisions. Footnote * (3) Sections 39 and 40, subsections 44(1) and (2) and sections 56 and 58 come into force six months after the day on which this Act receives royal assent. Return to footnote * [Note: Sections 39 and 40, subsections 44(1) and (2) and sections 56 and 58 in force June 12, 2007.] (4) Sections 41 to 43, subsections 44(3) and (4) and sections 45 to 55, 57 and 60 to 64 come into force or are deemed to have come into force on January 1, 2007. (4.1) Sections 63 and 64 come into force or are deemed to have come into force on January 1, 2007, but do not apply in respect of monetary contributions made before that day. Footnote * (5) Sections 65 to 82, 84 to 88 and 89 to 98 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 65 to 82, 84 to 88 and 89 to 98 in force July 2, 2008, see SI/2008-41.] Footnote * (6) Section 99 of this Act comes into force on the day on which section 81 of the Parliament of Canada Act , as enacted by section 28 of this Act, comes into force. Return to footnote * [Note: Section 99 in force July 9, 2007.]"
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Access to Information Act",
+      "section": "109",
+      "title": "Coming into force",
+      "content": "109 [Amendments]"
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Auditor General Act",
+      "section": "110",
+      "title": "Coming into force",
+      "content": "110 [Amendments]"
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Official Languages Act",
+      "section": "111",
+      "title": "Coming into force",
+      "content": "111 [Amendments]"
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Parliament of Canada Act",
+      "section": "112",
+      "title": "",
+      "content": "112 [Amendment]"
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Parliament of Canada Act",
+      "section": "113",
+      "title": "",
+      "content": "113 [Amendment]"
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Parliament of Canada Act",
+      "section": "114",
+      "title": "",
+      "content": "114 [Amendment]"
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Parliament of Canada Act",
+      "section": "115",
+      "title": "",
+      "content": "115 [Amendment]"
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Parliament of Canada Act",
+      "section": "116",
+      "title": "",
+      "content": "116 [Amendment] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Parliament of Canada Act",
+      "section": "117",
+      "title": "",
+      "content": "117 (1) [Repealed, 2006, c. 9, s. 117(2)] (2) [Amendment] Previous Version"
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Privacy Act",
+      "section": "118",
+      "title": "",
+      "content": "118 [Amendments]"
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "119",
+      "title": "",
+      "content": "119 [Amendments]"
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Transitional Provision",
+      "section": "120",
+      "title": "",
+      "content": "120 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "121",
+      "title": "",
+      "content": "121 The Director of Public Prosecutions Act is enacted as follows: [See Director of Public Prosecutions Act ] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "122",
+      "title": "",
+      "content": "122 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "123",
+      "title": "",
+      "content": "123 [Transitional provisions]"
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "124",
+      "title": "",
+      "content": "124 [Transitional provisions]"
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "125",
+      "title": "",
+      "content": "125 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "126",
+      "title": "",
+      "content": "126 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "127",
+      "title": "",
+      "content": "127 [Transitional provisions]"
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "128",
+      "title": "",
+      "content": "128 [Transitional provision] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "129",
+      "title": "",
+      "content": "129 [Amendment] Canada Elections Act"
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "130",
+      "title": "",
+      "content": "130 [Amendment]"
+    },
+    {
+      "provision_ref": "s131",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "131",
+      "title": "",
+      "content": "131 [Amendments]"
+    },
+    {
+      "provision_ref": "s132",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "132",
+      "title": "",
+      "content": "132 [Amendment]"
+    },
+    {
+      "provision_ref": "s133",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "133",
+      "title": "",
+      "content": "133 [Amendments]"
+    },
+    {
+      "provision_ref": "s134",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "134",
+      "title": "",
+      "content": "134 [Amendment]"
+    },
+    {
+      "provision_ref": "s135",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "135",
+      "title": "",
+      "content": "135 [Amendment]"
+    },
+    {
+      "provision_ref": "s136",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "136",
+      "title": "",
+      "content": "136 [Amendment] Department of Justice Act"
+    },
+    {
+      "provision_ref": "s137",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "137",
+      "title": "",
+      "content": "137 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s138",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "138",
+      "title": "",
+      "content": "138 [Amendment]"
+    },
+    {
+      "provision_ref": "s139",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "139",
+      "title": "",
+      "content": "139 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s140",
+      "chapter": "Director of Public Prosecutions Act",
+      "section": "140",
+      "title": "",
+      "content": "140 [Amendment]"
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "Access to Information Act",
+      "section": "141",
+      "title": "",
+      "content": "141 [Amendments]"
+    },
+    {
+      "provision_ref": "s142",
+      "chapter": "Access to Information Act",
+      "section": "142",
+      "title": "",
+      "content": "142 [Amendment]"
+    },
+    {
+      "provision_ref": "s143",
+      "chapter": "Access to Information Act",
+      "section": "143",
+      "title": "",
+      "content": "143 [Amendment]"
+    },
+    {
+      "provision_ref": "s144",
+      "chapter": "Access to Information Act",
+      "section": "144",
+      "title": "",
+      "content": "144 [Amendment]"
+    },
+    {
+      "provision_ref": "s145",
+      "chapter": "Access to Information Act",
+      "section": "145",
+      "title": "",
+      "content": "145 [Amendment]"
+    },
+    {
+      "provision_ref": "s146",
+      "chapter": "Access to Information Act",
+      "section": "146",
+      "title": "",
+      "content": "146 [Amendments]"
+    },
+    {
+      "provision_ref": "s147",
+      "chapter": "Access to Information Act",
+      "section": "147",
+      "title": "",
+      "content": "147 [Amendment]"
+    },
+    {
+      "provision_ref": "s148",
+      "chapter": "Access to Information Act",
+      "section": "148",
+      "title": "",
+      "content": "148 [Amendment]"
+    },
+    {
+      "provision_ref": "s149",
+      "chapter": "Access to Information Act",
+      "section": "149",
+      "title": "",
+      "content": "149 [Amendments]"
+    },
+    {
+      "provision_ref": "s150",
+      "chapter": "Access to Information Act",
+      "section": "150",
+      "title": "",
+      "content": "150 [Amendment]"
+    },
+    {
+      "provision_ref": "s151",
+      "chapter": "Access to Information Act",
+      "section": "151",
+      "title": "",
+      "content": "151 [Amendment]"
+    },
+    {
+      "provision_ref": "s152",
+      "chapter": "Access to Information Act",
+      "section": "152",
+      "title": "",
+      "content": "152 [Amendment]"
+    },
+    {
+      "provision_ref": "s153",
+      "chapter": "Access to Information Act",
+      "section": "153",
+      "title": "",
+      "content": "153 [Amendment]"
+    },
+    {
+      "provision_ref": "s154",
+      "chapter": "Access to Information Act",
+      "section": "154",
+      "title": "",
+      "content": "154 [Amendment]"
+    },
+    {
+      "provision_ref": "s155",
+      "chapter": "Access to Information Act",
+      "section": "155",
+      "title": "",
+      "content": "155 [Amendment]"
+    },
+    {
+      "provision_ref": "s156",
+      "chapter": "Access to Information Act",
+      "section": "156",
+      "title": "",
+      "content": "156 [Amendment]"
+    },
+    {
+      "provision_ref": "s157",
+      "chapter": "Access to Information Act",
+      "section": "157",
+      "title": "",
+      "content": "157 [Amendment]"
+    },
+    {
+      "provision_ref": "s158",
+      "chapter": "Access to Information Act",
+      "section": "158",
+      "title": "",
+      "content": "158 [Amendment]"
+    },
+    {
+      "provision_ref": "s159",
+      "chapter": "Access to Information Act",
+      "section": "159",
+      "title": "",
+      "content": "159 [Amendment]"
+    },
+    {
+      "provision_ref": "s160",
+      "chapter": "Access to Information Act",
+      "section": "160",
+      "title": "",
+      "content": "160 [Amendment]"
+    },
+    {
+      "provision_ref": "s161",
+      "chapter": "Access to Information Act",
+      "section": "161",
+      "title": "",
+      "content": "161 [Amendments]"
+    },
+    {
+      "provision_ref": "s162",
+      "chapter": "Access to Information Act",
+      "section": "162",
+      "title": "",
+      "content": "162 [Amendment]"
+    },
+    {
+      "provision_ref": "s163",
+      "chapter": "Access to Information Act",
+      "section": "163",
+      "title": "",
+      "content": "163 [Amendments]"
+    },
+    {
+      "provision_ref": "s164",
+      "chapter": "Access to Information Act",
+      "section": "164",
+      "title": "",
+      "content": "164 [Amendment]"
+    },
+    {
+      "provision_ref": "s165",
+      "chapter": "Access to Information Act",
+      "section": "165",
+      "title": "",
+      "content": "165 [Amendment]"
+    },
+    {
+      "provision_ref": "s166",
+      "chapter": "Access to Information Act",
+      "section": "166",
+      "title": "",
+      "content": "166 [Amendment]"
+    },
+    {
+      "provision_ref": "s167",
+      "chapter": "Access to Information Act",
+      "section": "167",
+      "title": "",
+      "content": "167 [Amendment]"
+    },
+    {
+      "provision_ref": "s168",
+      "chapter": "Access to Information Act",
+      "section": "168",
+      "title": "",
+      "content": "168 [Amendment]"
+    },
+    {
+      "provision_ref": "s169",
+      "chapter": "Access to Information Act",
+      "section": "169",
+      "title": "",
+      "content": "169 [Amendment]"
+    },
+    {
+      "provision_ref": "s170",
+      "chapter": "Access to Information Act",
+      "section": "170",
+      "title": "",
+      "content": "170 [Amendment]"
+    },
+    {
+      "provision_ref": "s171",
+      "chapter": "Access to Information Act",
+      "section": "171",
+      "title": "",
+      "content": "171 [Amendment]"
+    },
+    {
+      "provision_ref": "s172",
+      "chapter": "Access to Information Act",
+      "section": "172",
+      "title": "",
+      "content": "172 [Amendment]"
+    },
+    {
+      "provision_ref": "s172.01",
+      "chapter": "Access to Information Act",
+      "section": "172.01",
+      "title": "",
+      "content": "172.01 [Amendment] Consequential Amendment Canadian Wheat Board Act"
+    },
+    {
+      "provision_ref": "s172.1",
+      "chapter": "Access to Information Act",
+      "section": "172.1",
+      "title": "",
+      "content": "172.1 [Amendment]"
+    },
+    {
+      "provision_ref": "s173",
+      "chapter": "Canada Elections Act",
+      "section": "173",
+      "title": "",
+      "content": "173 [Amendment]"
+    },
+    {
+      "provision_ref": "s174",
+      "chapter": "Canada Elections Act",
+      "section": "174",
+      "title": "",
+      "content": "174 [Amendments]"
+    },
+    {
+      "provision_ref": "s175",
+      "chapter": "Canada Elections Act",
+      "section": "175",
+      "title": "",
+      "content": "175 [Amendment]"
+    },
+    {
+      "provision_ref": "s176",
+      "chapter": "Canada Elections Act",
+      "section": "176",
+      "title": "",
+      "content": "176 [Amendment]"
+    },
+    {
+      "provision_ref": "s177",
+      "chapter": "Canada Elections Act",
+      "section": "177",
+      "title": "",
+      "content": "177 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s178",
+      "chapter": "Canada Elections Act",
+      "section": "178",
+      "title": "",
+      "content": "178 [Transitional provisions]"
+    },
+    {
+      "provision_ref": "s179",
+      "chapter": "Export Development Act",
+      "section": "179",
+      "title": "",
+      "content": "179 [Amendment]"
+    },
+    {
+      "provision_ref": "s179.1",
+      "chapter": "Library and Archives of Canada Act",
+      "section": "179.1",
+      "title": "",
+      "content": "179.1 [Amendment]"
+    },
+    {
+      "provision_ref": "s180",
+      "chapter": "Library and Archives of Canada Act",
+      "section": "180",
+      "title": "",
+      "content": "180 [Amendment]"
+    },
+    {
+      "provision_ref": "s181",
+      "chapter": "Privacy Act",
+      "section": "181",
+      "title": "",
+      "content": "181 [Amendments]"
+    },
+    {
+      "provision_ref": "s182",
+      "chapter": "Privacy Act",
+      "section": "182",
+      "title": "",
+      "content": "182 [Amendment]"
+    },
+    {
+      "provision_ref": "s183",
+      "chapter": "Privacy Act",
+      "section": "183",
+      "title": "",
+      "content": "183 [Amendment]"
+    },
+    {
+      "provision_ref": "s184",
+      "chapter": "Privacy Act",
+      "section": "184",
+      "title": "",
+      "content": "184 [Amendment]"
+    },
+    {
+      "provision_ref": "s185",
+      "chapter": "Privacy Act",
+      "section": "185",
+      "title": "",
+      "content": "185 [Amendment]"
+    },
+    {
+      "provision_ref": "s186",
+      "chapter": "Privacy Act",
+      "section": "186",
+      "title": "",
+      "content": "186 [Amendment]"
+    },
+    {
+      "provision_ref": "s187",
+      "chapter": "Privacy Act",
+      "section": "187",
+      "title": "",
+      "content": "187 [Amendment]"
+    },
+    {
+      "provision_ref": "s188",
+      "chapter": "Privacy Act",
+      "section": "188",
+      "title": "",
+      "content": "188 [Amendment]"
+    },
+    {
+      "provision_ref": "s189",
+      "chapter": "Privacy Act",
+      "section": "189",
+      "title": "",
+      "content": "189 [Amendment]"
+    },
+    {
+      "provision_ref": "s190",
+      "chapter": "Privacy Act",
+      "section": "190",
+      "title": "",
+      "content": "190 [Amendment]"
+    },
+    {
+      "provision_ref": "s191",
+      "chapter": "Privacy Act",
+      "section": "191",
+      "title": "",
+      "content": "191 [Amendment]"
+    },
+    {
+      "provision_ref": "s192",
+      "chapter": "Privacy Act",
+      "section": "192",
+      "title": "",
+      "content": "192 [Amendment]"
+    },
+    {
+      "provision_ref": "s193",
+      "chapter": "Privacy Act",
+      "section": "193",
+      "title": "",
+      "content": "193 [Amendment]"
+    },
+    {
+      "provision_ref": "s194",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "194",
+      "title": "",
+      "content": "194 [Amendments]"
+    },
+    {
+      "provision_ref": "s195",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "195",
+      "title": "",
+      "content": "195 [Amendment]"
+    },
+    {
+      "provision_ref": "s196",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "196",
+      "title": "",
+      "content": "196 [Amendment]"
+    },
+    {
+      "provision_ref": "s197",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "197",
+      "title": "",
+      "content": "197 [Amendments]"
+    },
+    {
+      "provision_ref": "s198",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "198",
+      "title": "",
+      "content": "198 [Amendment]"
+    },
+    {
+      "provision_ref": "s199",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "199",
+      "title": "",
+      "content": "199 [Amendment]"
+    },
+    {
+      "provision_ref": "s200",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "200",
+      "title": "",
+      "content": "200 [Amendment]"
+    },
+    {
+      "provision_ref": "s201",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "201",
+      "title": "",
+      "content": "201 [Amendment]"
+    },
+    {
+      "provision_ref": "s202",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "202",
+      "title": "",
+      "content": "202 [Amendments]"
+    },
+    {
+      "provision_ref": "s203",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "203",
+      "title": "",
+      "content": "203 [Amendment]"
+    },
+    {
+      "provision_ref": "s204",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "204",
+      "title": "",
+      "content": "204 [Amendment]"
+    },
+    {
+      "provision_ref": "s205",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "205",
+      "title": "",
+      "content": "205 [Amendments]"
+    },
+    {
+      "provision_ref": "s206",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "206",
+      "title": "",
+      "content": "206 [Amendment]"
+    },
+    {
+      "provision_ref": "s207",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "207",
+      "title": "",
+      "content": "207 [Amendment]"
+    },
+    {
+      "provision_ref": "s208",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "208",
+      "title": "",
+      "content": "208 [Amendment]"
+    },
+    {
+      "provision_ref": "s209",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "209",
+      "title": "",
+      "content": "209 [Amendment]"
+    },
+    {
+      "provision_ref": "s210",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "210",
+      "title": "",
+      "content": "210 [Amendments]"
+    },
+    {
+      "provision_ref": "s211",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "211",
+      "title": "",
+      "content": "211 [Amendment]"
+    },
+    {
+      "provision_ref": "s212",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "212",
+      "title": "",
+      "content": "212 [Amendment]"
+    },
+    {
+      "provision_ref": "s213",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "213",
+      "title": "",
+      "content": "213 [Amendment]"
+    },
+    {
+      "provision_ref": "s214",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "214",
+      "title": "",
+      "content": "214 [Amendment]"
+    },
+    {
+      "provision_ref": "s215",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "215",
+      "title": "",
+      "content": "215 [Amendment]"
+    },
+    {
+      "provision_ref": "s216",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "216",
+      "title": "",
+      "content": "216 [Amendment]"
+    },
+    {
+      "provision_ref": "s217",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "217",
+      "title": "",
+      "content": "217 [Amendments]"
+    },
+    {
+      "provision_ref": "s218",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "218",
+      "title": "",
+      "content": "218 [Amendment]"
+    },
+    {
+      "provision_ref": "s219",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "219",
+      "title": "",
+      "content": "219 [Amendment]"
+    },
+    {
+      "provision_ref": "s220",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "220",
+      "title": "",
+      "content": "220 [Amendment]"
+    },
+    {
+      "provision_ref": "s221",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "221",
+      "title": "",
+      "content": "221 [Amendment]"
+    },
+    {
+      "provision_ref": "s222",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "222",
+      "title": "",
+      "content": "222 [Amendment]"
+    },
+    {
+      "provision_ref": "s223",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "223",
+      "title": "",
+      "content": "223 [Amendment]"
+    },
+    {
+      "provision_ref": "s224",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "224",
+      "title": "",
+      "content": "224 [Amendment]"
+    },
+    {
+      "provision_ref": "s225",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "225",
+      "title": "",
+      "content": "225 [Amendment] Coordinating Amendment"
+    },
+    {
+      "provision_ref": "s226",
+      "chapter": "Public Servants Disclosure Protection Act",
+      "section": "226",
+      "title": "",
+      "content": "226 [Amendment]"
+    },
+    {
+      "provision_ref": "s227",
+      "chapter": "Salaries Act",
+      "section": "227",
+      "title": "",
+      "content": "227 [Amendment]"
+    },
+    {
+      "provision_ref": "s228",
+      "chapter": "Coming into Force",
+      "section": "228",
+      "title": "Order in council",
+      "content": "228 Footnote * (1) Sections 3.01 and 3.1 of the Access to Information Act , as enacted by section 142 of this Act, and section 3.01 of the Privacy Act , as enacted by section 182 of this Act, as well as subsection 141(2), sections 143 to 149, 154 and 157 to 160, subsection 163(1), sections 164 to 179, subsection 181(2) and sections 183, 184 and 186 to 193 of this Act and any provisions enacted by those provisions come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 173 to 178 in force February 10, 2007, see SI/2007-17; section 3.01 of the Access to Information Act , as enacted by section 142, section 3.01 of the Privacy Act , as enacted by section 182 and sections 149, 154, 157, 158, 160, 172, 172.1, 179, 184, 186, 187 and 189 in force March 1, 2007, see SI/2007-19; sections 144 to 146, 165 to 171, 183 and 191 to 193 in force April 1, 2007, see SI/2007-20; section 172.01 in force April 1, 2007, see SI/2007-38; section 3.1 of the Access to Information Act , as enacted by section 142, subsection 141(2), sections 143, 147, 148, 159, subsection 163(1), section 164, subsection 181(2) and sections 188 and 190 in force September 1, 2007, see SI/2007-39; remainder of provisions in force on assent December 12, 2006.] (2) Despite subsection (1), the definition government institution in section 3 of the Access to Information Act , as enacted by subsection 141(2) of this Act, and the definition government institution in section 3 of the Privacy Act , as enacted by subsection 181(2) of this Act, do not apply in respect of the Canada Pension Plan Investment Board unless the lieutenant governor in council of each of at least two thirds of the included provinces, within the meaning of subsection 114(1) of the Canada Pension Plan , having in the aggregate not less than two thirds of the population of all of the included provinces, has signified the consent of that province to the application of those definitions to the Board."
+    },
+    {
+      "provision_ref": "s229",
+      "chapter": "Business Development Bank of Canada Act",
+      "section": "229",
+      "title": "Canada Pension Plan Investment Board",
+      "content": "229 [Amendment]"
+    },
+    {
+      "provision_ref": "s230",
+      "chapter": "Canada Council for the Arts Act",
+      "section": "230",
+      "title": "Canada Pension Plan Investment Board",
+      "content": "230 [Amendment]"
+    },
+    {
+      "provision_ref": "s231",
+      "chapter": "Canada Mortgage And Housing Corporation Act",
+      "section": "231",
+      "title": "",
+      "content": "231 [Amendments]"
+    },
+    {
+      "provision_ref": "s232",
+      "chapter": "Canada Mortgage And Housing Corporation Act",
+      "section": "232",
+      "title": "",
+      "content": "232 [Amendment]"
+    },
+    {
+      "provision_ref": "s233",
+      "chapter": "Canada Mortgage And Housing Corporation Act",
+      "section": "233",
+      "title": "",
+      "content": "233 [Amendment]"
+    },
+    {
+      "provision_ref": "s234",
+      "chapter": "Canada Post Corporation Act",
+      "section": "234",
+      "title": "",
+      "content": "234 [Amendments]"
+    },
+    {
+      "provision_ref": "s235",
+      "chapter": "Canada Post Corporation Act",
+      "section": "235",
+      "title": "",
+      "content": "235 [Amendment]"
+    },
+    {
+      "provision_ref": "s236",
+      "chapter": "Canada Post Corporation Act",
+      "section": "236",
+      "title": "",
+      "content": "236 [Amendment]"
+    },
+    {
+      "provision_ref": "s237",
+      "chapter": "Canada Revenue Agency Act",
+      "section": "237",
+      "title": "",
+      "content": "237 [Amendment]"
+    },
+    {
+      "provision_ref": "s238",
+      "chapter": "Canadian Commercial Corporation Act",
+      "section": "238",
+      "title": "",
+      "content": "238 [Amendment]"
+    },
+    {
+      "provision_ref": "s239",
+      "chapter": "Canadian Dairy Commission Act",
+      "section": "239",
+      "title": "",
+      "content": "239 [Amendment]"
+    },
+    {
+      "provision_ref": "s240",
+      "chapter": "Canadian Dairy Commission Act",
+      "section": "240",
+      "title": "",
+      "content": "240 [Amendments]"
+    },
+    {
+      "provision_ref": "s241",
+      "chapter": "Canadian Dairy Commission Act",
+      "section": "241",
+      "title": "",
+      "content": "241 [Amendment] Transitional Provision"
+    },
+    {
+      "provision_ref": "s242",
+      "chapter": "Canadian Dairy Commission Act",
+      "section": "242",
+      "title": "",
+      "content": "242 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s243",
+      "chapter": "Canadian Race Relations Foundation Act",
+      "section": "243",
+      "title": "",
+      "content": "243 [Amendment]"
+    },
+    {
+      "provision_ref": "s244",
+      "chapter": "Canadian Race Relations Foundation Act",
+      "section": "244",
+      "title": "",
+      "content": "244 [Amendment]"
+    },
+    {
+      "provision_ref": "s244.1",
+      "chapter": "Canadian Tourism Commission Act",
+      "section": "244.1",
+      "title": "",
+      "content": "244.1 [Amendment]"
+    },
+    {
+      "provision_ref": "s244.2",
+      "chapter": "Canadian Tourism Commission Act",
+      "section": "244.2",
+      "title": "",
+      "content": "244.2 [Amendment]"
+    },
+    {
+      "provision_ref": "s245",
+      "chapter": "Cape Breton Development Corporation Act",
+      "section": "245",
+      "title": "",
+      "content": "245 [Amendment]"
+    },
+    {
+      "provision_ref": "s246",
+      "chapter": "Criminal Code",
+      "section": "246",
+      "title": "",
+      "content": "246 [Amendment]"
+    },
+    {
+      "provision_ref": "s247",
+      "chapter": "Enterprise Cape Breton Corporation Act",
+      "section": "247",
+      "title": "",
+      "content": "247 [Amendments]"
+    },
+    {
+      "provision_ref": "s248",
+      "chapter": "Enterprise Cape Breton Corporation Act",
+      "section": "248",
+      "title": "",
+      "content": "248 [Amendment]"
+    },
+    {
+      "provision_ref": "s249",
+      "chapter": "Enterprise Cape Breton Corporation Act",
+      "section": "249",
+      "title": "",
+      "content": "249 [Amendment]"
+    },
+    {
+      "provision_ref": "s250",
+      "chapter": "Enterprise Cape Breton Corporation Act",
+      "section": "250",
+      "title": "",
+      "content": "250 [Amendment]"
+    },
+    {
+      "provision_ref": "s251",
+      "chapter": "Enterprise Cape Breton Corporation Act",
+      "section": "251",
+      "title": "",
+      "content": "251 [Amendments]"
+    },
+    {
+      "provision_ref": "s252",
+      "chapter": "Enterprise Cape Breton Corporation Act",
+      "section": "252",
+      "title": "",
+      "content": "252 [Amendments] Transitional Provision"
+    },
+    {
+      "provision_ref": "s253",
+      "chapter": "Enterprise Cape Breton Corporation Act",
+      "section": "253",
+      "title": "",
+      "content": "253 [Transitional provision]"
+    },
+    {
+      "provision_ref": "s254",
+      "chapter": "Export Development Act",
+      "section": "254",
+      "title": "",
+      "content": "254 [Amendment]"
+    },
+    {
+      "provision_ref": "s255",
+      "chapter": "Farm Credit Canada Act",
+      "section": "255",
+      "title": "",
+      "content": "255 [Amendment]"
+    },
+    {
+      "provision_ref": "s256",
+      "chapter": "Farm Credit Canada Act",
+      "section": "256",
+      "title": "",
+      "content": "256 [Amendment]"
+    },
+    {
+      "provision_ref": "s257",
+      "chapter": "Financial Administration Act",
+      "section": "257",
+      "title": "",
+      "content": "257 [Amendment]"
+    },
+    {
+      "provision_ref": "s258",
+      "chapter": "Financial Administration Act",
+      "section": "258",
+      "title": "",
+      "content": "258 [Amendment]"
+    },
+    {
+      "provision_ref": "s259",
+      "chapter": "Financial Administration Act",
+      "section": "259",
+      "title": "",
+      "content": "259 [Amendment]"
+    },
+    {
+      "provision_ref": "s260",
+      "chapter": "Financial Administration Act",
+      "section": "260",
+      "title": "",
+      "content": "260 [Amendment]"
+    },
+    {
+      "provision_ref": "s261",
+      "chapter": "Financial Administration Act",
+      "section": "261",
+      "title": "",
+      "content": "261 [Amendment]"
+    },
+    {
+      "provision_ref": "s262",
+      "chapter": "Financial Administration Act",
+      "section": "262",
+      "title": "",
+      "content": "262 [Amendments]"
+    },
+    {
+      "provision_ref": "s263",
+      "chapter": "Financial Administration Act",
+      "section": "263",
+      "title": "",
+      "content": "263 [Amendment]"
+    },
+    {
+      "provision_ref": "s264",
+      "chapter": "Financial Administration Act",
+      "section": "264",
+      "title": "",
+      "content": "264 [Amendment]"
+    },
+    {
+      "provision_ref": "s265",
+      "chapter": "Financial Administration Act",
+      "section": "265",
+      "title": "",
+      "content": "265 [Amendment]"
+    },
+    {
+      "provision_ref": "s266",
+      "chapter": "Financial Administration Act",
+      "section": "266",
+      "title": "",
+      "content": "266 [Amendment]"
+    },
+    {
+      "provision_ref": "s267",
+      "chapter": "Financial Administration Act",
+      "section": "267",
+      "title": "",
+      "content": "267 [Amendment]"
+    },
+    {
+      "provision_ref": "s268",
+      "chapter": "Financial Administration Act",
+      "section": "268",
+      "title": "",
+      "content": "268 [Amendment]"
+    },
+    {
+      "provision_ref": "s269",
+      "chapter": "Financial Administration Act",
+      "section": "269",
+      "title": "",
+      "content": "269 [Amendment]"
+    },
+    {
+      "provision_ref": "s270",
+      "chapter": "Financial Administration Act",
+      "section": "270",
+      "title": "",
+      "content": "270 [Amendment] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s271",
+      "chapter": "Financial Administration Act",
+      "section": "271",
+      "title": "",
+      "content": "271 [Amendment]"
+    },
+    {
+      "provision_ref": "s272",
+      "chapter": "Financial Administration Act",
+      "section": "272",
+      "title": "",
+      "content": "272 [Amendment]"
+    },
+    {
+      "provision_ref": "s273",
+      "chapter": "Financial Administration Act",
+      "section": "273",
+      "title": "",
+      "content": "273 [Amendment]"
+    },
+    {
+      "provision_ref": "s274",
+      "chapter": "Financial Administration Act",
+      "section": "274",
+      "title": "",
+      "content": "274 [Amendment]"
+    },
+    {
+      "provision_ref": "s275",
+      "chapter": "Financial Administration Act",
+      "section": "275",
+      "title": "",
+      "content": "275 [Amendment]"
+    },
+    {
+      "provision_ref": "s276",
+      "chapter": "Freshwater Fish Marketing Act",
+      "section": "276",
+      "title": "",
+      "content": "276 [Amendments]"
+    },
+    {
+      "provision_ref": "s277",
+      "chapter": "Freshwater Fish Marketing Act",
+      "section": "277",
+      "title": "",
+      "content": "277 [Amendment]"
+    },
+    {
+      "provision_ref": "s278",
+      "chapter": "Freshwater Fish Marketing Act",
+      "section": "278",
+      "title": "",
+      "content": "278 [Amendment]"
+    },
+    {
+      "provision_ref": "s279",
+      "chapter": "Museums Act",
+      "section": "279",
+      "title": "",
+      "content": "279 [Amendment]"
+    },
+    {
+      "provision_ref": "s280",
+      "chapter": "National Arts Centre Act",
+      "section": "280",
+      "title": "",
+      "content": "280 [Amendment]"
+    },
+    {
+      "provision_ref": "s281",
+      "chapter": "National Arts Centre Act",
+      "section": "281",
+      "title": "",
+      "content": "281 [Amendment]"
+    },
+    {
+      "provision_ref": "s282",
+      "chapter": "National Arts Centre Act",
+      "section": "282",
+      "title": "",
+      "content": "282 [Amendment]"
+    },
+    {
+      "provision_ref": "s283",
+      "chapter": "National Capital Act",
+      "section": "283",
+      "title": "",
+      "content": "283 [Amendments]"
+    },
+    {
+      "provision_ref": "s284",
+      "chapter": "National Capital Act",
+      "section": "284",
+      "title": "",
+      "content": "284 [Amendment]"
+    },
+    {
+      "provision_ref": "s285",
+      "chapter": "National Capital Act",
+      "section": "285",
+      "title": "",
+      "content": "285 [Amendments]"
+    },
+    {
+      "provision_ref": "s286",
+      "chapter": "National Capital Act",
+      "section": "286",
+      "title": "",
+      "content": "286 [Amendment]"
+    },
+    {
+      "provision_ref": "s287",
+      "chapter": "National Capital Act",
+      "section": "287",
+      "title": "",
+      "content": "287 [Amendment]"
+    },
+    {
+      "provision_ref": "s288",
+      "chapter": "National Capital Act",
+      "section": "288",
+      "title": "",
+      "content": "288 [Amendment]"
+    },
+    {
+      "provision_ref": "s289",
+      "chapter": "National Capital Act",
+      "section": "289",
+      "title": "",
+      "content": "289 [Amendment]"
+    },
+    {
+      "provision_ref": "s290",
+      "chapter": "Pilotage Act",
+      "section": "290",
+      "title": "",
+      "content": "290 [Amendments]"
+    },
+    {
+      "provision_ref": "s291",
+      "chapter": "Pilotage Act",
+      "section": "291",
+      "title": "",
+      "content": "291 [Amendment]"
+    },
+    {
+      "provision_ref": "s292",
+      "chapter": "Pilotage Act",
+      "section": "292",
+      "title": "",
+      "content": "292 [Amendment]"
+    },
+    {
+      "provision_ref": "s293",
+      "chapter": "Pilotage Act",
+      "section": "293",
+      "title": "",
+      "content": "293 [Amendment]"
+    },
+    {
+      "provision_ref": "s294",
+      "chapter": "Pilotage Act",
+      "section": "294",
+      "title": "",
+      "content": "294 [Amendment]"
+    },
+    {
+      "provision_ref": "s295",
+      "chapter": "Public Sector Pension Investment Board Act",
+      "section": "295",
+      "title": "",
+      "content": "295 [Amendment]"
+    },
+    {
+      "provision_ref": "s296",
+      "chapter": "Public Sector Pension Investment Board Act",
+      "section": "296",
+      "title": "",
+      "content": "296 [Amendment]"
+    },
+    {
+      "provision_ref": "s297",
+      "chapter": "Public Sector Pension Investment Board Act",
+      "section": "297",
+      "title": "",
+      "content": "297 [Amendment]"
+    },
+    {
+      "provision_ref": "s298",
+      "chapter": "Royal Canadian Mint Act",
+      "section": "298",
+      "title": "",
+      "content": "298 [Amendment]"
+    },
+    {
+      "provision_ref": "s299",
+      "chapter": "Standards Council of Canada Act",
+      "section": "299",
+      "title": "",
+      "content": "299 [Amendment]"
+    },
+    {
+      "provision_ref": "s300",
+      "chapter": "Coming into Force",
+      "section": "300",
+      "title": "Order in council",
+      "content": "300 Footnote * (1) Subject to subsection (2), sections 239 to 242, 244, 246 to 253 and 261, subsections 262(1) and (3) and sections 263 to 266, 269, 283 to 289 and 295 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 244, 246, 261, subsections 262(1) and (3) and sections 263 to 266, 269 and 295 in force March 1, 2007, see SI/2007-15; sections 247 to 253 in force April 1, 2007, see SI/2007-28; sections 283 to 289 in force April 1, 2007, see SI/2007-29; sections 239 to 242 in force April 27, 2007, see SI/2007-30; remainder of provisions, except subsection 262(2), in force on assent December 12, 2006.] Footnote * (2) Subsection 262(2) comes into force, in accordance with subsection 114(4) of the Canada Pension Plan , on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Subsection 262(2) in force December 31, 2011, see SI/2011-117.]"
+    },
+    {
+      "provision_ref": "s301",
+      "chapter": "Auditor General Act",
+      "section": "301",
+      "title": "Order in council",
+      "content": "301 [Amendments]"
+    },
+    {
+      "provision_ref": "s302",
+      "chapter": "Auditor General Act",
+      "section": "302",
+      "title": "Order in council",
+      "content": "302 [Amendments]"
+    },
+    {
+      "provision_ref": "s303",
+      "chapter": "Auditor General Act",
+      "section": "303",
+      "title": "Order in council",
+      "content": "303 [Amendment]"
+    },
+    {
+      "provision_ref": "s304",
+      "chapter": "Auditor General Act",
+      "section": "304",
+      "title": "Order in council",
+      "content": "304 [Amendment]"
+    },
+    {
+      "provision_ref": "s305",
+      "chapter": "Auditor General Act",
+      "section": "305",
+      "title": "Order in council",
+      "content": "305 [Amendment]"
+    },
+    {
+      "provision_ref": "s306",
+      "chapter": "Department of Public Works and Government Services Act",
+      "section": "306",
+      "title": "",
+      "content": "306 [Amendment]"
+    },
+    {
+      "provision_ref": "s307",
+      "chapter": "Department of Public Works and Government Services Act",
+      "section": "307",
+      "title": "",
+      "content": "307 [Amendment]"
+    },
+    {
+      "provision_ref": "s308",
+      "chapter": "Financial Administration Act",
+      "section": "308",
+      "title": "",
+      "content": "308 [Amendment]"
+    },
+    {
+      "provision_ref": "s309",
+      "chapter": "Financial Administration Act",
+      "section": "309",
+      "title": "",
+      "content": "309 [Amendments]"
+    },
+    {
+      "provision_ref": "s310",
+      "chapter": "Financial Administration Act",
+      "section": "310",
+      "title": "",
+      "content": "310 [Amendment]"
+    },
+    {
+      "provision_ref": "s311",
+      "chapter": "Financial Administration Act",
+      "section": "311",
+      "title": "",
+      "content": "311 [Amendment]"
+    },
+    {
+      "provision_ref": "s312",
+      "chapter": "Financial Administration Act",
+      "section": "312",
+      "title": "",
+      "content": "312 [Amendment] Coordinating Amendment"
+    },
+    {
+      "provision_ref": "s313",
+      "chapter": "Financial Administration Act",
+      "section": "313",
+      "title": "",
+      "content": "313 [Amendment]"
+    },
+    {
+      "provision_ref": "s314",
+      "chapter": "Coming into Force",
+      "section": "314",
+      "title": "Order in council",
+      "content": "314 Footnote * (1) Sections 306 and 307 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 301 to 305 and 308 to 313 in force on assent December 12, 2006; sections 306 and 307 in force May 5, 2008, see SI/2008-52.] (2) Notwithstanding subsection 114(4) of the Canada Pension Plan , section 312 comes into force on the day on which this Act is assented to, but that section does not apply in respect of the Canada Pension Plan Investment Board unless the lieutenant governor in council of each of at least two thirds of the included provinces, within the meaning of subsection 114(1) of that Act, having in the aggregate not less than two thirds of the population of all of the included provinces, has signified the consent of that province to the amendment made by that section."
+    },
+    {
+      "provision_ref": "sched-schedule",
+      "chapter": "SCHEDULE",
+      "section": "SCHEDULE",
+      "title": "SCHEDULE",
+      "content": "SCHEDULE [Amendment]"
+    }
+  ],
+  "definitions": []
+}

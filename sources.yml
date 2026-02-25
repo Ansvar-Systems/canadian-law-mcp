@@ -11,13 +11,13 @@ sources:
     retrieval_method: "HTML_SCRAPE"
     api_documentation: "https://laws-lois.justice.gc.ca/eng/acts/{act-path}/FullText.html"
     update_frequency: "weekly"
-    last_ingested: "2026-02-19"
+    last_ingested: "2026-02-25"
     license_or_terms:
       type: "Open Government Licence - Canada"
       url: "https://open.canada.ca/en/open-government-licence-canada"
       summary: "Government of Canada open data, free to use and redistribute with attribution to the Crown"
     coverage:
-      scope: "All consolidated federal Acts and regulations including PIPEDA, CASL, Criminal Code (cybercrime provisions), Canada Business Corporations Act, Competition Act, Privacy Act (public sector), Telecommunications Act, Bank Act, and related instruments"
+      scope: "All 956 consolidated federal Acts from the Justice Laws Website A-Z index, including PIPEDA, CASL, Criminal Code, Income Tax Act, Canada Business Corporations Act, Competition Act, Privacy Act, Telecommunications Act, Bank Act, Copyright Act, and all other federal statutes (53,954 provisions, 12,393 definitions)"
       limitations: "Provincial and territorial legislation not included; historical versions may be incomplete for Acts repealed before consolidation; bilingual (EN/FR) — both official languages available"
     languages:
       - "en"
@@ -45,4 +45,4 @@ sources:
 data_freshness:
   automated_checks: true
   check_frequency: "weekly"
-  last_verified: "2026-02-19"
+  last_verified: "2026-02-25"

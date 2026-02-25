@@ -1,0 +1,71 @@
+{
+  "id": "b-9-83",
+  "type": "statute",
+  "title": "Budget Implementation Act, 1999",
+  "title_en": "Budget Implementation Act, 1999",
+  "short_name": "Budget Implementation Act, 1999",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/B-9.83/",
+  "description": "Budget Implementation Act, 1999 (Budget Implementation Act, 1999). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Budget Implementation Act, 1999 ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Canada Health Act",
+      "section": "11",
+      "title": "Short title",
+      "content": "11 [Amendment]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Nunavut Act",
+      "section": "12",
+      "title": "Short title",
+      "content": "12 [Amendment]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Coming into Force",
+      "section": "13",
+      "title": "Short title",
+      "content": "13 (1) Sections 2 to 11 are deemed to have come into force on April 1, 1999. (2) Section 12 is deemed to have come into force on March 31, 1999."
+    },
+    {
+      "provision_ref": "s24.1",
+      "chapter": "PART 4 Administration of Public Moneys",
+      "section": "24.1",
+      "title": "Coming into force",
+      "content": "24.1 Sections 20 to 24 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 20 to 24 in force August 27, 1999, see SI/99-100.]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "DIVISION 3 Yukon First Nations Self-Government Act",
+      "section": "35",
+      "title": "Coming into force",
+      "content": "35 [Amendment]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 6 Canada Child Tax Benefit",
+      "section": "36",
+      "title": "Coming into force",
+      "content": "36 [Amendments]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 7 Goods and Services Tax Credit",
+      "section": "37",
+      "title": "",
+      "content": "37 [Amendment]"
+    }
+  ],
+  "definitions": []
+}

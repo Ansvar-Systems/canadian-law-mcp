@@ -1,0 +1,50 @@
+{
+  "id": "u-2",
+  "type": "statute",
+  "title": "United Nations Act",
+  "title_en": "United Nations Act",
+  "short_name": "United Nations Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/U-2/",
+  "description": "United Nations Act (United Nations Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the United Nations Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Orders and Regulations of the Governor in Council",
+      "section": "2",
+      "title": "Application of Security Council decisions",
+      "content": "2 When, in pursuance of Article 41 of the Charter of the United Nations, set out in the schedule, the Security Council of the United Nations decides on a measure to be employed to give effect to any of its decisions and calls on Canada to apply the measure, the Governor in Council may make such orders and regulations as appear to him to be necessary or expedient for enabling the measure to be effectively applied."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Orders and Regulations of the Governor in Council",
+      "section": "3",
+      "title": "Offence and punishment",
+      "content": "3 (1) Any person who contravenes an order or regulation made under this Act is guilty of an offence and liable (a) on summary conviction, to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both; or (b) on conviction on indictment, to imprisonment for a term of not more than 10 years. (2) Any property dealt with contrary to any order or regulation made under this Act may be seized and detained and is liable to forfeiture at the instance of the Minister of Justice, on proceedings in the Federal Court, or in any superior court, and any such court may make rules governing the procedure on any proceedings taken before the court or a judge thereof under this section."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Orders and Regulations of the Governor in Council",
+      "section": "4",
+      "title": "Tabling in Parliament",
+      "content": "4 (1) Every order and regulation made under this Act shall be laid before Parliament forthwith after it has been made or, if Parliament is not then sitting, forthwith after the commencement of the next ensuing session. (2) If both the Senate and House of Commons within the period of forty days, beginning with the day on which an order or regulation is laid before Parliament pursuant to subsection (1) and excluding any time during which Parliament is dissolved or prorogued or during which both the Senate and House of Commons are adjourned for more than four days, resolve that it be annulled, it ceases to have effect, but without prejudice to its previous operation or anything duly done or suffered thereunder or any offence committed or any punishment incurred."
+    },
+    {
+      "provision_ref": "sched-schedule",
+      "chapter": "SCHEDULE",
+      "section": "SCHEDULE",
+      "title": "SCHEDULE",
+      "content": "SCHEDULE (Section 2) ARTICLE 41 — The Security Council may decide what measures not involving the use of armed force are to be employed to give effect to its decisions, and it may call upon the Members of the United Nations to apply such measures. These may include complete or partial interruption of economic relations and of rail, sea, air, postal, telegraphic, radio, and other means of communication, and the severance of diplomatic relations."
+    }
+  ],
+  "definitions": []
+}

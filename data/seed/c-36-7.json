@@ -1,0 +1,32 @@
+{
+  "id": "c-36-7",
+  "type": "statute",
+  "title": "Constitutional Amendments",
+  "title_en": "Constitutional Amendments",
+  "short_name": "Constitutional Amendments",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/C-36.7/",
+  "description": "An Act respecting constitutional amendments (Constitutional Amendments). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Consent to constitutional amendments",
+      "content": "1 (1) No Minister of the Crown shall propose a motion for a resolution to authorize an amendment to the Constitution of Canada, other than an amendment in respect of which the legislative assembly of a province may exercise a veto under section 41 or 43 of the Constitution Act, 1982 or may express its dissent under subsection 38(3) of that Act, unless the amendment has first been consented to by a majority of the provinces that includes (a) Ontario; (b) Quebec; (c) British Columbia; (d) two or more of the Atlantic provinces that have, according to the then latest general census, combined populations of at least fifty per cent of the population of all the Atlantic provinces; and (e) two or more of the Prairie provinces that have, according to the then latest general census, combined populations of at least fifty per cent of the population of all the Prairie provinces. (2) In this section, Atlantic provinces Atlantic provinces means the provinces of Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador; ( provinces de l’Atlantique ) Prairie provinces Prairie provinces means the provinces of Manitoba, Saskatchewan and Alberta. ( provinces des Prairies ) Previous Version Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Atlantic provinces",
+      "definition": "Atlantic provinces means the provinces of Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador; ( provinces de l’Atlantique )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Prairie provinces",
+      "definition": "Prairie provinces means the provinces of Manitoba, Saskatchewan and Alberta. ( provinces des Prairies )",
+      "source_provision": "s2"
+    }
+  ]
+}

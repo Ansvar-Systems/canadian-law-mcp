@@ -1,0 +1,75 @@
+{
+  "id": "y-0-6",
+  "type": "statute",
+  "title": "York Factory First Nation Flooded Land Act",
+  "title_en": "York Factory First Nation Flooded Land Act",
+  "short_name": "York Factory First Nation Flooded Lan...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/Y-0.6/",
+  "description": "York Factory First Nation Flooded Land Act (York Factory First Nation Flooded Lan...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the York Factory First Nation Flooded Land Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 The definitions in this section apply in this Act. agreement agreement means the agreement concluded between (a) Her Majesty in right of Canada, (b) Her Majesty in right of Manitoba, (c) the Manitoba Hydro-Electric Board, and (d) the York Factory First Nation, pursuant to negotiations relating to the comprehensive implementation of the Flood Agreement. ( accord ) Flood Agreement Flood Agreement means the agreement concerning the flooding of land concluded between (a) Her Majesty in right of Canada, (b) Her Majesty in right of Manitoba, (c) the Manitoba Hydro-Electric Board, and (d) the Northern Flood Committee, Inc. and signed on December 16, 1977. ( Convention )"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Exemptions",
+      "section": "3",
+      "title": "Indian moneys",
+      "content": "3 (1) Amounts paid to the York Factory First Nation pursuant to the agreement, whether before or after the coming into force of this Act, are not Indian moneys within the meaning of subsection 2(1) of the Indian Act . (2) As soon as practicable after the coming into force of this Act, all amounts collected, received or held by Her Majesty in right of Canada for the use or benefit of the York Factory First Nation pursuant to the agreement shall be transferred to the York Factory First Nation in accordance with the agreement."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Exemptions",
+      "section": "4",
+      "title": "Subsection 35(4) of the Indian Act",
+      "content": "4 Subsection 35(4) of the Indian Act does not apply in respect of any amount paid, whether before or after the coming into force of this Act, to the York Factory First Nation pursuant to the agreement."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Exemptions",
+      "section": "5",
+      "title": "Section 36 of the Indian Act",
+      "content": "5 Where land is held or transferred pursuant to the agreement, section 36 of the Indian Act does not apply in respect of that land if the holder or transferee of the land, or any subsequent holder or transferee of the land, is not Her Majesty in right of Canada."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Claims",
+      "section": "6",
+      "title": "Claims",
+      "content": "6 A claim provided for by both the Flood Agreement and the agreement may be exercised by (a) the council of the York Factory First Nation, (b) the York Factory First Nation, (c) any person who is a member of the York Factory First Nation, (d) any group or unincorporated association that is wholly or substantially comprised of members of the York Factory First Nation, (e) any unincorporated association established by the council of the York Factory First Nation, (f) any share capital corporation the shares of which are wholly or substantially owned and controlled by the York Factory First Nation or members of the York Factory First Nation, and (g) any non-share capital corporation the membership of which consists wholly or substantially of the York Factory First Nation or members of the York Factory First Nation only in accordance with the agreement."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Arbitration",
+      "section": "7",
+      "title": "Arbitration",
+      "content": "7 Except as otherwise provided in the agreement, the legislation of Manitoba relating to arbitration applies in respect of any dispute between the parties to the agreement that, under the terms of the agreement, is to be settled by way of arbitration. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agreement",
+      "definition": "agreement means the agreement concluded between",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Flood Agreement",
+      "definition": "Flood Agreement means the agreement concerning the flooding of land concluded between",
+      "source_provision": "s2"
+    }
+  ]
+}

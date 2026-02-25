@@ -1,0 +1,85 @@
+{
+  "id": "b-8-3",
+  "type": "statute",
+  "title": "British Columbia Indian Cut-off Lands Settlement Act",
+  "title_en": "British Columbia Indian Cut-off Lands Settlement Act",
+  "short_name": "British Columbia Indian Cut-off Lands...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/B-8.3/",
+  "description": "British Columbia Indian Cut-off Lands Settlement Act (British Columbia Indian Cut-off Lands...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the British Columbia Indian Cut-off Lands Settlement Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 In this Act, band band has the same meaning as in the Indian Act ; ( bande ) council of the band council of the band has the same meaning as in the Indian Act ; ( conseil ) cut-off lands cut-off lands means land referred to in section 2(a) of the McKenna-McBride Agreement that had before 1916 been set aside for the use and benefit of Indians but that, pursuant to (a) the Indian Affairs Settlement Act , chapter 32 of the Statutes of British Columbia, 1919, (b) the British Columbia Indian Lands Settlement Act , chapter 51 of the Statutes of Canada, 1920, and (c) the report of the Royal Commission on Indian Affairs for the Province of British Columbia of June 30, 1916, as approved by Canada Order in Council 1265 of July 19, 1924 and British Columbia Order in Council 911 of July 26, 1923, ceased to be so set aside, but does not include any lands in the Railway Belt or Peace River Block; ( terres retranchées ) McKenna-McBride Agreement McKenna-McBride Agreement means the agreement signed in Victoria, British Columbia on September 24, 1912 and entitled “Memorandum of an Agreement arrived at between J.A.J. McKenna, Special Commissioner appointed by the Dominion Government to investigate the condition of Indian Affairs in British Columbia, and the Honourable Sir Richard McBride, as Premier of the Province of British Columbia”. ( Convention McKenna-McBride )"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Agreements",
+      "section": "3",
+      "title": "Agreements re cut-off lands settlements",
+      "content": "3 (1) A band, or the council of the band, may enter into an agreement with Her Majesty in right of Canada and Her Majesty in right of British Columbia for the purposes of resolving and extinguishing claims in respect of cut-off lands asserted by the band and the council of the band (a) against Her Majesty in right of British Columbia; or (b) against Her Majesty in right of British Columbia and Her Majesty in right of Canada. (2) Where a band or the council of the band enters into an agreement described in subsection (1), that agreement binds all existing and future members of the band and the council of the band and its successors."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Agreements",
+      "section": "4",
+      "title": "Negotiations not an admission of legal obligation",
+      "content": "4 Negotiations toward an agreement described in subsection 3(1), whether or not those negotiations result in such an agreement, do not constitute an admission by Her Majesty in right of Canada of the existence of any legal obligation of Her Majesty in right of Canada toward the band in question."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Agreements",
+      "section": "5",
+      "title": "Existing agreements approved",
+      "content": "5 Any agreement described in subsection 3(1) executed prior to the day this Act comes into force is hereby approved and declared to have effect as of the date of its execution."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Agreements",
+      "section": "6",
+      "title": "Approval of future agreements",
+      "content": "6 Where an agreement described in subsection 3(1) is executed on or after the day this Act comes into force, the Governor in Council may by order approve such agreement and declare it to have effect as of the date of its execution."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "General",
+      "section": "7",
+      "title": "Other claims not affected",
+      "content": "7 Nothing in this Act affects any claims asserted by a band or the council of the band other than claims in respect of cut-off lands. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "band",
+      "definition": "band has the same meaning as in the Indian Act ; ( bande )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council of the band",
+      "definition": "council of the band has the same meaning as in the Indian Act ; ( conseil )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cut-off lands",
+      "definition": "cut-off lands means land referred to in section 2(a) of the McKenna-McBride Agreement that had before 1916 been set aside for the use and benefit of Indians but that, pursuant to",
+      "source_provision": "s2"
+    },
+    {
+      "term": "McKenna-McBride Agreement",
+      "definition": "McKenna-McBride Agreement means the agreement signed in Victoria, British Columbia on September 24, 1912 and entitled “Memorandum of an Agreement arrived at between J.A.J. McKenna, Special Commissioner appointed by the Dominion Government to investigate the condition of Indian Affairs in British Columbia, and the Honourable Sir Richard McBride, as Premier of the Province of British Columbia”. ( Convention McKenna-McBride )",
+      "source_provision": "s2"
+    }
+  ]
+}

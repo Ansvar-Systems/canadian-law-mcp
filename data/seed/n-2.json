@@ -1,0 +1,40 @@
+{
+  "id": "n-2",
+  "type": "statute",
+  "title": "National Anthem Act",
+  "title_en": "National Anthem Act",
+  "short_name": "National Anthem Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/N-2/",
+  "description": "National Anthem Act (National Anthem Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the National Anthem Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "National anthem",
+      "content": "2 The words and music of the song “O Canada”, as set out in the schedule, are designated as the national anthem of Canada."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Public domain",
+      "content": "3 The words and music of the national anthem of Canada are hereby declared to be in the public domain."
+    },
+    {
+      "provision_ref": "sched-schedule/",
+      "chapter": "SCHEDULE / - National Anthem —",
+      "section": "SCHEDULE /",
+      "title": "National Anthem —",
+      "content": "SCHEDULE / ANNEXE (Section 2 / article 2 ) National Anthem — Hymne national O Canada Previous Version"
+    }
+  ],
+  "definitions": []
+}

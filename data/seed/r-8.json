@@ -1,0 +1,148 @@
+{
+  "id": "r-8",
+  "type": "statute",
+  "title": "Revolving Funds Act",
+  "title_en": "Revolving Funds Act",
+  "short_name": "Revolving Funds Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/R-8/",
+  "description": "Revolving Funds Act (Revolving Funds Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Revolving Funds Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Minister of Agriculture and Agri-Food",
+      "section": "2",
+      "title": "Expenditures out of C.R.F.",
+      "content": "2 (1) The Minister of Agriculture and Agri-Food may make expenditures out of the Consolidated Revenue Fund for the purposes of (a) race track supervision in Canada; (b) reimbursing race associations for certain supervisory services provided by them under regulations made pursuant to section 204 of the Criminal Code ; and (c) research relating to the use of drugs on horses and race surveillance techniques. (2) The Minister may spend, for the purposes mentioned in subsection (1), any revenue received in respect of those purposes and in respect of subsection 204(4) of the Criminal Code . (3) The aggregate of expenditures made under subsection (1) shall not at any time exceed by more than two million dollars the revenues received in respect of the purposes mentioned in subsection (1) and in respect of subsection 204(4) of the Criminal Code ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Minister of Canadian Heritage (Parks Canada Agency)",
+      "section": "3",
+      "title": "Limit on expenditures",
+      "content": "3 [Repealed, 2002, c. 5, Sch. 1 (PCA) vote 111b]"
+    },
+    {
+      "provision_ref": "s3.1",
+      "chapter": "Minister of Canadian Heritage (Parks Canada Agency)",
+      "section": "3.1",
+      "title": "Limit on expenditures",
+      "content": "3.1 [Repealed, 2002, c. 5, Sch. 1 (PCA) vote 112b]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Minister of Citizenship and Immigration",
+      "section": "4",
+      "title": "Expenditures out of C.R.F.",
+      "content": "4 (1) The Minister of Citizenship and Immigration may make expenditures out of the Consolidated Revenue Fund for the purpose of passport and other travel document services in Canada and at posts abroad. (2) The Minister of Citizenship and Immigration may spend, for the purpose mentioned in subsection (1), any revenue received in respect of that purpose. (3) The aggregate of expenditures made under subsection (1) shall not at any time exceed by more than $1.00 the revenues received in respect of the purpose mentioned in subsection (1). Previous Version"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Minister of Public Works and Government Services",
+      "section": "5",
+      "title": "Architectural, Engineering and Realty Services Revolving Fund",
+      "content": "5 (1) The Minister of Public Works and Government Services may make expenditures out of the Consolidated Revenue Fund for the purpose of paragraph 6(e) or (h), section 10, paragraph 15(f) or (g) or section 24 of the Department of Public Works and Government Services Act . (2) The Minister may spend, for a purpose mentioned in subsection (1), any revenue received in respect of that purpose or any other purpose mentioned in that subsection. (3) The aggregate of expenditures made under subsection (1) shall not at any time exceed by more than $150,000,000 the revenues received in respect of the purposes mentioned in that subsection. (4) [Repealed, 2013, c. 4, Sch. 1 (PWGSC) vote 6c] Previous Version"
+    },
+    {
+      "provision_ref": "s5.1",
+      "chapter": "Minister of Public Works and Government Services",
+      "section": "5.1",
+      "title": "Limit on expenditures",
+      "content": "5.1 [Repealed, 2013, c. 4, Sch. 1 (PWGSC) vote 6c] Previous Version"
+    },
+    {
+      "provision_ref": "s5.2",
+      "chapter": "Minister of Public Works and Government Services",
+      "section": "5.2",
+      "title": "Limit on expenditures",
+      "content": "5.2 [Repealed, 2012, c. 3, Sch. 1 (PWGSC) vote 21c] Previous Version"
+    },
+    {
+      "provision_ref": "s5.3",
+      "chapter": "Minister of Public Works and Government Services",
+      "section": "5.3",
+      "title": "",
+      "content": "5.3 [Repealed, 1998, c. 2, Sch. (PWGSC) vote 18b]"
+    },
+    {
+      "provision_ref": "s5.4",
+      "chapter": "Minister of Public Works and Government Services",
+      "section": "5.4",
+      "title": "",
+      "content": "5.4 [Repealed, 2012, c. 3, Sch. 1 (PWGSC) vote 7c] Previous Version"
+    },
+    {
+      "provision_ref": "s5.5",
+      "chapter": "Minister of Public Works and Government Services",
+      "section": "5.5",
+      "title": "Optional Services Revolving Fund",
+      "content": "5.5 (1) The Minister of Public Works and Government Services may make expenditures out of the Consolidated Revenue Fund for the purpose of paragraphs 6(a) and (b) of the Department of Public Works and Government Services Act and for the purpose of section 6 of the Surplus Crown Assets Act . (2) The Minister may spend, for a purpose mentioned in subsection (1), any revenue received in respect of that purpose. (3) The aggregate of expenditures made under subsection (1) shall not at any time exceed by more than $45,000,000 the revenues received in respect of the purposes mentioned in that subsection. Previous Version"
+    },
+    {
+      "provision_ref": "s5.6",
+      "chapter": "Minister of Public Works and Government Services",
+      "section": "5.6",
+      "title": "Services to governments and other bodies",
+      "content": "5.6 Sections 5 to 5.5 and Public Works and Government Services Vote 23d, Appropriation Act No. 4, 1994-95 apply in respect of any thing done by the Minister of Public Works and Government Services pursuant to section 16 of the Department of Public Works and Government Services Act and accordingly the power of that Minister to make expenditures out of the Consolidated Revenue Fund and spend revenues for a purpose mentioned in any of sections 5 to 5.5 includes a power to do so for those purposes mentioned in section 16 of that Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Secretary of State of Canada (National Film Board)",
+      "section": "6",
+      "title": "Expenditures out of C.R.F.",
+      "content": "6 (1) The Secretary of State of Canada may make expenditures out of the Consolidated Revenue Fund for the purpose of the operation of the National Film Board. (2) The Secretary of State of Canada may spend, for the purpose mentioned in subsection (1), any revenue received in respect of that purpose. (3) The aggregate of expenditures made under subsection (1) shall not at any time exceed by more than twenty-five million dollars the revenues received in respect of the purpose mentioned in subsection (1)."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Secretary of State of Canada (Public Service Commission)",
+      "section": "7",
+      "title": "Limit on expenditures",
+      "content": "7 [Repealed, 2003, c. 22, s. 261] Previous Version"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Minister of Supply and Services",
+      "section": "8",
+      "title": "Limit on expenditures",
+      "content": "8 [Repealed, 1992, c. 7, Sch. (SSC) vote 11c]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Minister of Supply and Services",
+      "section": "9",
+      "title": "Limit on expenditures",
+      "content": "9 [Repealed, R.S., 1985, c. 5 (3rd Supp.), s. 1]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Minister of Transport (Airports)",
+      "section": "10",
+      "title": "Limit on expenditures",
+      "content": "10 [Repealed, 1991, c. 19, Sch. (TC) vote 2c]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "General",
+      "section": "11",
+      "title": "Treasury Board",
+      "content": "11 All expenditures made under sections 2 to 10 and all revenues spent under those sections shall be subject to such terms and conditions as the Treasury Board may specify."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "General",
+      "section": "12",
+      "title": "Amendment or repeal",
+      "content": "12 The provisions of this Act may be amended or repealed by an appropriation Act. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": []
+}

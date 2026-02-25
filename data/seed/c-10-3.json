@@ -1,0 +1,61 @@
+{
+  "id": "c-10-3",
+  "type": "statute",
+  "title": "Canada Strategic Infrastructure Fund Act",
+  "title_en": "Canada Strategic Infrastructure Fund Act",
+  "short_name": "Canada Strategic Infrastructure Fund Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/C-10.3/",
+  "description": "Canada Strategic Infrastructure Fund Act (Canada Strategic Infrastructure Fund Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Canada Strategic Infrastructure Fund Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 The definitions in this section apply in this Act. eligible project eligible project means a large-scale project for the construction, renewal or material enhancement of strategic infrastructure that is carried out, or to be carried out, by an eligible recipient. ( travaux admissibles ) Minister Minister means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act. ( ministre ) strategic infrastructure strategic infrastructure means any of the following fixed capital assets that are used or operated for the benefit of the public: (a) highway or rail infrastructure; (b) local transportation infrastructure; (c) tourism or urban development infrastructure; (d) sewage treatment infrastructure; (e) water infrastructure; or (f) infrastructure prescribed by regulation. ( infrastructure stratégique )"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Establishment of program",
+      "content": "3 (1) There is hereby established a program, to be called the Canada Strategic Infrastructure Fund, the object of which is to provide for the payment of contributions to eligible recipients for the carrying out of large-scale strategic infrastructure projects that contribute to economic growth or quality of life in Canada and that advance Canada’s objectives with respect to infrastructure. (2) The Fund shall, where appropriate, promote the use of partnerships between public and private sector bodies. (3) The following are eligible recipients: (a) a province or a municipal or regional government established by or under provincial legislation; (b) a public sector body that is established by or under provincial legislation or by regulation or is wholly owned by a province or a private sector body that is in partnership with a province or a government referred to in paragraph (a), if the body (i) carries out or, in the opinion of the Minister, is capable of carrying out an eligible project in Canada, and (ii) has legal capacity, or is composed of organizations each of which has legal capacity; and (c) a private sector body that (i) carries out or, in the opinion of the Minister, is capable of carrying out an eligible project in Canada, and (ii) has legal capacity, or is composed of organizations each of which has legal capacity."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Contribution agreements",
+      "content": "4 The Minister may enter into an agreement with an eligible recipient to provide for the payment of a contribution for an eligible project under this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Regulations",
+      "content": "5 The Governor in Council may make regulations generally for the carrying out of the purposes and provisions of this Act, including regulations (a) prescribing other fixed capital assets for the purpose of paragraph (f) of the definition “strategic infrastructure” in section 2; (b) defining what constitutes a large-scale project; and (c) establishing additional terms and conditions for the Fund. AMENDMENTS NOT IN FORCE — 2024, c. 15, s. 340 Repeal 340 The Canada Strategic Infrastructure Fund Act , section 47 of chapter 9 of the Statutes of Canada, 2002, is repealed. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "eligible project",
+      "definition": "eligible project means a large-scale project for the construction, renewal or material enhancement of strategic infrastructure that is carried out, or to be carried out, by an eligible recipient. ( travaux admissibles )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purposes of this Act. ( ministre )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "strategic infrastructure",
+      "definition": "strategic infrastructure means any of the following fixed capital assets that are used or operated for the benefit of the public:",
+      "source_provision": "s2"
+    }
+  ]
+}

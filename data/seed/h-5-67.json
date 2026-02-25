@@ -1,0 +1,642 @@
+{
+  "id": "h-5-67",
+  "type": "statute",
+  "title": "Human Pathogens and Toxins Act",
+  "title_en": "Human Pathogens and Toxins Act",
+  "short_name": "Human Pathogens and Toxins Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/H-5.67/",
+  "description": "Human Pathogens and Toxins Act (Human Pathogens and Toxins Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Human Pathogens and Toxins Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Purpose of the Act",
+      "section": "2",
+      "title": "Purpose",
+      "content": "2 The purpose of this Act is to establish a safety and security regime to protect the health and safety of the public against the risks posed by human pathogens and toxins."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Interpretation and Application",
+      "section": "3",
+      "title": "Definitions",
+      "content": "3 (1) The following definitions apply in this Act. controlled activity controlled activity means an activity referred to in subsection 7(1). ( activité réglementée ) conveyance conveyance means a vessel, aircraft, train, motor vehicle, trailer or other means of transportation, including a cargo container. ( véhicule ) disease disease includes intoxication. ( maladie ) human pathogen human pathogen means a micro-organism, nucleic acid or protein that (a) is listed in any of Schedules 2 to 4 or in Part 2 of Schedule 5; or (b) is not listed in any of the Schedules but falls into Risk Group 2, Risk Group 3 or Risk Group 4. ( agent pathogène humain ) licence licence means a licence issued under section 18. ( permis ) Minister Minister means the Minister of Health. ( ministre ) person person means an individual or an organization as defined in section 2 of the Criminal Code . ( personne ) personal information personal information has the same meaning as in section 3 of the Privacy Act . ( renseignements personnels ) possession possession has the same meaning as in subsection 4(3) of the Criminal Code . ( possession ) produce produce , in respect of a human pathogen or toxin, means to create it by any method or process, including (a) by manufacturing, cultivating, developing, reproducing or synthesizing it; or (b) by converting or refining a substance, micro-organism, nucleic acid or protein, or by using any other means of altering its physical or chemical properties. ( production ) release release means any discharge, anywhere, and includes leaking, spraying, depositing, dumping or vaporizing. ( rejet ) Risk Group 2 Risk Group 2 means a category of human pathogens that pose a moderate risk to the health of individuals and a low risk to public health and includes the human pathogens listed in Schedule 2. They are able to cause serious disease in a human but are unlikely to do so. Effective treatment and preventive measures are available and the risk of spread of disease caused by those pathogens is low. ( groupe de risque 2 ) Risk Group 3 Risk Group 3 means a category of human pathogens that pose a high risk to the health of individuals and a low risk to public health and includes the human pathogens listed in Schedule 3. They are likely to cause serious disease in a human. Effective treatment and preventive measures are usually available and the risk of spread of disease caused by those pathogens is low. ( groupe de risque 3 ) Risk Group 4 Risk Group 4 means a category of human pathogens that pose a high risk to the health of individuals and a high risk to public health and includes the human pathogens listed in Schedule 4. They are likely to cause serious disease in a human. Effective treatment and preventive measures are not usually available and the risk of spread of disease caused by those pathogens is high. ( groupe de risque 4 ) security clearance security clearance means a security clearance issued under section 34. ( habilitation de sécurité ) toxin toxin means a substance that is listed in Schedule 1 or in Part 1 of Schedule 5. ( toxine ) (2) For the purposes of this Act, a human pathogen or toxin includes (a) a substance that contains a human pathogen or toxin; and (b) any synthetic form of the human pathogen or toxin."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Interpretation and Application",
+      "section": "4",
+      "title": "Excluded",
+      "content": "4 This Act does not apply to (a) a human pathogen or toxin that is in an environment in which it naturally occurs if it has not been cultivated or intentionally collected or extracted, including a human pathogen or toxin that (i) is in or on a human suffering from a disease caused by that human pathogen or toxin, (ii) has been expelled by a human suffering from a disease caused by that human pathogen or toxin, or (iii) is in or on a cadaver, a body part or other human remains; or (b) a drug in dosage form whose sale is permitted or otherwise authorized under the Food and Drugs Act or a human pathogen or toxin contained in such a drug. (c) [Repealed, 2012, c. 19, s. 752] Previous Version"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Her Majesty",
+      "section": "5",
+      "title": "Act binding on Her Majesty",
+      "content": "5 This Act is binding on Her Majesty in right of Canada or a province."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Obligation",
+      "section": "6",
+      "title": "Reasonable precautions",
+      "content": "6 Every person who knowingly conducts any activity referred to in section 7 involving a human pathogen or toxin shall take all reasonable precautions to protect the health and safety of the public against the risks posed by that activity."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Prohibitions",
+      "section": "7",
+      "title": "Controlled activities",
+      "content": "7 (1) No person shall knowingly conduct any of the following activities unless a licence has been issued by the Minister that authorizes the activity: (a) possessing, handling or using a human pathogen or toxin; (b) producing a human pathogen or toxin; (c) storing a human pathogen or toxin; (d) permitting any person access to a human pathogen or toxin; (e) transferring a human pathogen or toxin; (f) importing or exporting a human pathogen or toxin; (g) releasing or otherwise abandoning a human pathogen or toxin; or (h) disposing of a human pathogen or toxin. (2) Subsection (1) does not apply to (a) any activity to which the Transportation of Dangerous Goods Act, 1992 applies; or (b) the export of human pathogens or toxins authorized under the Export and Import Permits Act ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Prohibitions",
+      "section": "8",
+      "title": "Human pathogens and toxins — Schedule 5",
+      "content": "8 Despite section 7, no person shall conduct any activity referred to in that section in relation to a human pathogen or toxin listed in Schedule 5."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Schedules 1 to 4",
+      "section": "9",
+      "title": "Addition of items — toxins",
+      "content": "9 (1) If the Minister is of the opinion that a substance is produced by, or derived from, a micro-organism and is able to cause disease in a human, the Minister may, by regulation, add it to Schedule 1. (2) If the Minister is of the opinion that a micro-organism, nucleic acid or protein is able to cause disease in a human, the Minister may, by regulation, add it (a) to Schedule 2 if the Minister is of the opinion that it falls into Risk Group 2; (b) to Schedule 3 if the Minister is of the opinion that it falls into Risk Group 3; or (c) to Schedule 4 if the Minister is of the opinion that it falls into Risk Group 4. (3) The Minister may, by regulation, delete (a) a substance from Schedule 1 if the Minister is of the opinion that it is not produced by, or derived from, a micro-organism or is not able to cause disease in a human; or (b) a micro-organism, nucleic acid or protein from any of Schedules 2 to 4 if the Minister is of the opinion that it does not fall into the risk group to which that Schedule relates. (4) The Minister shall consult an advisory committee established under subsection 14(1) of the Public Health Agency of Canada Act before making any regulation under subsection (1), (2) or (3). (5) The advisory committee shall make available to the public the advice given to the Minister."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Schedule 5",
+      "section": "10",
+      "title": "Addition of items",
+      "content": "10 (1) The Governor in Council may, by regulation, on the Minister’s recommendation, (a) add a substance to Part 1 of Schedule 5 if the Governor in Council is of the opinion that (i) it is produced by, or derived from, a micro-organism and is able to cause disease in a human, and (ii) all activities referred to in section 7 should be prohibited in relation to it; (b) add a micro-organism, nucleic acid or protein to Part 2 of Schedule 5 if the Governor in Council is of the opinion that (i) it is able to cause disease in a human, and (ii) all activities referred to in section 7 should be prohibited in relation to it; or (c) delete a substance, micro-organism, nucleic acid or protein from any of Schedules 1 to 4 if the Governor in Council adds it to Schedule 5. (2) The Governor in Council may, by regulation, on the Minister’s recommendation, delete a substance, micro-organism, nucleic acid or protein from Schedule 5 if the Governor in Council is of the opinion that it is in the public interest to allow one or more of the activities referred to in section 7 to be authorized in relation to that substance, micro-organism, nucleic acid or protein. (3) The Minister shall consult an advisory committee established under subsection 14(1) of the Public Health Agency of Canada Act before making any recommendation under subsection (1) or (2). (4) The advisory committee shall make available to the public the advice given to the Minister."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Consequences of Adding to Schedules",
+      "section": "11",
+      "title": "Prohibited possession — Schedules 1 to 4",
+      "content": "11 (1) Within 30 days after the date of publication of a regulation made under subsection 9(1) or (2), every person who, as a result of the regulation, no longer has lawful possession of a human pathogen or toxin shall (a) dispose of it in accordance with the regulations, if any; (b) transfer it to a facility where controlled activities in relation to it are authorized; or (c) obtain from the Minister a licence, or a variation of the conditions of their existing licence, authorizing possession of it. (2) Within 14 days after the date of publication of a regulation made under subsection 10(1), every person who, as a result of the regulation, no longer has lawful possession of a human pathogen or toxin shall dispose of it in accordance with the regulations, if any. (3) No person contravenes subsection 7(1) or section 8 by reason only that they possess a human pathogen or toxin in the circumstances described in subsection (1) or (2) if they transfer or dispose of it in accordance with subsection (1) or (2)."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Obligation to Inform Minister",
+      "section": "12",
+      "title": "Inadvertent release",
+      "content": "12 (1) If a licence holder has reason to believe that a human pathogen or toxin has been released inadvertently from the facility in the course of an activity that is otherwise authorized by the licence, the licence holder shall, without delay, inform the Minister of the release and provide the Minister with the information referred to in subsection (3) that is under the licence holder’s control. (2) If a person is in possession of a human pathogen or toxin in contravention of subsection 7(1) or section 8 as a result of the inadvertent production of that human pathogen or toxin in the course of an activity that is otherwise lawful, the person shall (a) without delay, inform the Minister of the inadvertent production and provide the Minister with the information referred to in subsection (3) that is under the person’s control; and (b) dispose of the inadvertently produced human pathogen or toxin in accordance with the regulations, if any, or, if it is not listed in Schedule 5, transfer it to a facility where controlled activities in relation to that human pathogen or toxin are authorized. (3) The information that is to be provided under subsections (1) and (2) is the following: (a) any information that supports the conclusion that a human pathogen or toxin has been released or produced; (b) the name of the human pathogen or toxin released or produced; (c) the quantity released or produced; (d) the place and time of the release or production; and (e) any other information relating to the release or production that the Minister may require. (4) No person contravenes subsection 7(1) or section 8 by reason only that they possess a human pathogen or toxin in the circumstances described in subsection (2) if they transfer or dispose of it in accordance with that subsection."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Obligation to Inform Minister",
+      "section": "13",
+      "title": "Disease",
+      "content": "13 If a licence holder has reason to believe that an incident involving a human pathogen or toxin that is in their possession has, or may have, caused disease in an individual, the licence holder shall, without delay, inform the Minister of the incident and provide the Minister with the following information that is under the licence holder’s control: (a) a description of the incident; (b) the name of the human pathogen or toxin; and (c) any other information relating to the incident that the Minister may require."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Obligation to Inform Minister",
+      "section": "14",
+      "title": "Missing human pathogen or toxin",
+      "content": "14 If a licence holder has reason to believe that a human pathogen or toxin that was in their possession has been stolen or is otherwise missing, the licence holder shall, without delay, inform the Minister and provide the Minister with any information relating to the incident that is under their control and that the Minister may require. The licence holder shall also take reasonable measures to locate the missing human pathogen or toxin."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Obligation to Inform Minister",
+      "section": "15",
+      "title": "Person conducting activities",
+      "content": "15 If a person conducting activities under the authority of a licence has reason to believe that any of the incidents described in subsection 12(1) or (2) or section 13 or 14 has occurred, the person shall, without delay, inform the licence holder."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Obligation to Inform Minister",
+      "section": "16",
+      "title": "Use of information",
+      "content": "16 No information provided under sections 12 to 15 by a licence holder or a person conducting activities under the authority of a licence may be used or received against that person in any criminal proceedings that are subsequently instituted against them, other than with respect to a contravention of section 17."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Obligation to Inform Minister",
+      "section": "17",
+      "title": "False or misleading information",
+      "content": "17 No person shall knowingly communicate or cause to be communicated to the Minister false or misleading information in relation to a matter under this Act or the regulations."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Licences",
+      "section": "18",
+      "title": "Issuance",
+      "content": "18 (1) The Minister may, in accordance with the regulations, if any, issue a licence that authorizes any controlled activity in any facility if the Minister is of the opinion that the conduct of the controlled activity in the facility poses no undue risk to the health or safety of the public. (2) An application for a licence must be filed with the Minister and made in the form and manner specified by the Minister. (3) If the Minister refuses to issue a licence, the Minister shall notify the applicant in writing of the reasons for the refusal. (4) A licence authorizes the controlled activities that are specified in it and is subject to any conditions that the Minister considers appropriate to protect the health and safety of the public. (5) A licence must also set out (a) the licence holder’s name; (b) the period during which the licence is in effect; (c) a description of the facility in which controlled activities are authorized under it; (d) a description of each part of the facility that is subject to section 33; and (e) the toxins, human pathogens, or the risk groups of the human pathogens, in respect of which controlled activities are authorized under it. (6) The licence holder shall inform all persons conducting the controlled activities authorized by the licence of its conditions. (7) A licence holder and all persons conducting the controlled activities authorized by the licence shall comply with the licence conditions. (8) A licence is not a statutory instrument within the meaning of the Statutory Instruments Act ."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Licences",
+      "section": "19",
+      "title": "Variation of licence conditions",
+      "content": "19 (1) The Minister may, on the Minister’s own initiative or on the application of a licence holder, vary the licence conditions if the Minister is of the opinion that the variation poses no undue risk to the health or safety of the public. (2) The Minister may vary the licence conditions on the Minister’s own initiative only if the Minister first gives the licence holder a reasonable opportunity to make representations. (3) If the Minister varies the licence conditions, the Minister may specify in writing any measures to be taken to protect the health and safety of the public that the variation in conditions may necessitate."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Licences",
+      "section": "20",
+      "title": "Suspension or revocation of licence",
+      "content": "20 (1) The Minister may suspend or revoke a licence if the Minister is of the opinion that a controlled activity authorized by the licence is conducted in a manner that is contrary to this Act or the regulations or poses an undue risk to the health or safety of the public. (2) The Minister may suspend or revoke a licence only if the Minister first gives the licence holder a reasonable opportunity to make representations. (3) If the Minister suspends or revokes a licence, the Minister may specify in writing any measures to be taken to protect the health and safety of the public that the suspension or revocation may necessitate. (4) Subject to the measures specified by the Minister, the licence holder shall, within five days after the day on which the Minister’s decision to suspend or revoke the licence takes effect, (a) dispose of the human pathogen or toxin in accordance with the regulations, if any; or (b) transfer the human pathogen or toxin to a facility where controlled activities in relation to the human pathogen or toxin are authorized."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Licences",
+      "section": "21",
+      "title": "Notice of decision",
+      "content": "21 (1) The Minister shall notify a licence holder by registered mail of any decision made under section 19 or 20. (2) The Minister shall give reasons for the decision in the notice and shall advise the licence holder of their right to request a review of the decision. (3) Subject to subsection 23(2), the Minister’s decision takes effect 31 days after the day on which the notice is received."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Licences",
+      "section": "22",
+      "title": "Serious and imminent danger",
+      "content": "22 (1) If the Minister is of the opinion that there is a serious and imminent danger to the health or safety of the public, the Minister shall notify the licence holder orally of the decision to suspend or revoke their licence. (2) The decision takes effect at the time that the licence holder is notified of it and the licence holder is advised that it is effective immediately. (3) The Minister is not required to give the licence holder an opportunity to make representations in respect of the decision. (4) The Minister shall send the notice referred to in subsection 21(1) within five days after the day on which the licence holder is notified orally of the decision."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Licences",
+      "section": "23",
+      "title": "Review of decision",
+      "content": "23 (1) Within 30 days after the day on which the notice is received, the person whose licence is affected by the decision may request in writing, stating their reasons, that the Minister refer the decision to a committee for review. (2) A request for a review suspends the application of the decision, unless the Minister notified the licence holder orally of the decision under the circumstances described in subsection 22(1). (3) When a request for a review is made, the Minister may specify in writing any measures to be taken to protect the health and safety of the public pending the Minister’s final decision."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Licences",
+      "section": "24",
+      "title": "Implementation of measures",
+      "content": "24 (1) A person whose licence is affected by the decision shall ensure that any measures specified by the Minister under subsection 19(3), 20(3) or 23(3) are implemented. (2) No person contravenes subsection 7(1) or section 8 by reason only that they have implemented those measures. (3) The measures are not statutory instruments within the meaning of the Statutory Instruments Act ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Licences",
+      "section": "25",
+      "title": "Referral of decision to committee",
+      "content": "25 (1) On receipt of a request for a review, the Minister shall, within a reasonable time, refer the decision to which the request relates to a committee that is to consist of three individuals who have expertise in the area of human pathogens or toxins. (2) One of the members of the committee is to be designated by the Minister and another by the person who requests the review. (3) The two members designated under subsection (2) shall designate a third member of the committee, who shall be its chairperson. If they are unable to designate the third member within a reasonable time, the Minister shall make the designation. (4) The members of the committee may be paid for the carrying out of their functions any remuneration that the Governor in Council may determine. (5) The members of the committee are entitled to be paid, in accordance with Treasury Board directives, reasonable travel, living and other expenses incurred in the carrying out of their functions."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Licences",
+      "section": "26",
+      "title": "Factors to be considered",
+      "content": "26 A committee to which a decision is referred shall consider (a) the reasons for the decision; (b) the reasons stated by the person who requested the review; and (c) any representations, information or material submitted to it by the Minister or the person who requested the review."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Licences",
+      "section": "27",
+      "title": "Protection of information",
+      "content": "27 The committee members shall not disclose any information or material submitted to them as part of the review to any person other than the Minister unless the disclosure is authorized by the person to whom the information or material relates or is otherwise authorized or required by law."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Licences",
+      "section": "28",
+      "title": "Committee’s report",
+      "content": "28 Within 60 days after the referral of a decision to a committee, or within any longer period that the Minister may allow, the committee shall report its findings and recommendations to the Minister and to the person who requested the review."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Licences",
+      "section": "29",
+      "title": "Final decision",
+      "content": "29 (1) Within 60 days after receiving a committee’s report, the Minister shall, taking into account its findings and recommendations, (a) reconsider the decision in respect of which the report was made; and (b) send the Minister’s final decision by registered mail to the person who requested the review. (2) The Minister’s final decision takes effect on the day after the day on which it is received."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Licences",
+      "section": "30",
+      "title": "Duty to inform",
+      "content": "30 (1) A person whose licence is suspended or revoked shall, without delay, inform all persons conducting controlled activities authorized by it of its suspension or revocation. (2) A person whose licence is revoked shall return it by registered mail to the Minister as soon as feasible after the Minister’s decision takes effect or, if the decision is reviewed, as soon as feasible after the Minister’s final decision takes effect."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Access to Facility to Which Licence Applies",
+      "section": "31",
+      "title": "List of authorized persons",
+      "content": "31 A licence holder shall establish and maintain a list of all persons authorized by the licence holder to access the facility to which the licence applies, including persons holding a security clearance for that facility and visitors. The licence holder shall provide the Minister with that list if requested to do so."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Access to Facility to Which Licence Applies",
+      "section": "32",
+      "title": "Obligation to inform Minister",
+      "content": "32 If a licence holder decides to prohibit the holder of a security clearance from having access to the facility to which the licence applies, the licence holder shall, without delay, inform the Minister in writing of their decision."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Security Clearances",
+      "section": "33",
+      "title": "Access to facilities",
+      "content": "33 No person shall enter the part of a facility in which controlled activities are authorized in relation to human pathogens that fall into Risk Group 3 or Risk Group 4 and are prescribed by regulation or toxins prescribed by regulation unless (a) they hold a security clearance for that part of the facility; or (b) they are, in accordance with the regulations, if any, accompanied and supervised by a person who holds a security clearance for that part of the facility."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Security Clearances",
+      "section": "34",
+      "title": "Issuance, suspension and revocation",
+      "content": "34 (1) The Minister may, in accordance with the regulations, issue a security clearance to any individual or suspend or revoke a security clearance. The Minister shall notify the individual concerned in writing of the decision. (2) The Minister may, by way of an agreement, authorize any federal department or agency to issue, suspend or revoke security clearances and section 35 applies with any necessary modifications."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Security Clearances",
+      "section": "35",
+      "title": "Reconsideration of decision",
+      "content": "35 (1) If the Minister refuses to issue a security clearance or suspends or revokes a security clearance, the individual concerned may, within 30 days after the day on which the notice is received, request in writing that the Minister reconsider the decision. (2) The request for reconsideration must set out (a) the decision that is the subject of the request; (b) the reasons for the request, including any new information that the individual concerned wishes the Minister to consider; and (c) any information prescribed by regulation. (3) On receipt of a request made in accordance with this section, the Minister shall give the individual concerned a reasonable opportunity to make representations. (4) Within a reasonable time after representations have been made or an opportunity to do so has been given, the Minister shall reconsider the decision, in accordance with the regulations, if any, and confirm or vary it. (5) The Minister shall notify the individual concerned in writing of the decision made following the reconsideration."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Biological Safety Officers",
+      "section": "36",
+      "title": "Designation",
+      "content": "36 (1) An applicant shall, before a licence may be issued, designate an individual as a biological safety officer for the requested licence. The individual designated may also be the applicant. (2) A designation does not have the effect of limiting the obligations of the licence holder or any other person under this Act. (3) An individual may be designated as a biological safety officer only if the individual has the qualifications set out in the regulations. (4) A designation takes effect on the day on which the designated individual provides the Minister with their written consent to the designation or the day on which the individual begins to act as a biological safety officer, whichever is earlier. (5) The biological safety officer may exercise the powers and shall carry out the functions set out in the regulations. (6) If an individual ceases to act as a biological safety officer, the licence holder shall, without delay, designate another individual and inform the Minister of the new designation."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Exemptions",
+      "section": "37",
+      "title": "Non-application",
+      "content": "37 Subsection 7(1) and section 8 do not apply to (a) an inspector or analyst carrying out their functions under this Act; (b) a peace officer carrying out their functions under any federal or provincial Act or a person providing assistance to that peace officer; (c) any person who, in the course of their employment, outside a facility in which controlled activities are authorized, collects a sample for the purpose of laboratory analysis or diagnostic testing; or (d) in exigent circumstances, any person carrying out their functions under any federal or provincial Act."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Information",
+      "section": "38",
+      "title": "Provision of information to Minister",
+      "content": "38 (1) The Minister may order an applicant, a licence holder or a biological safety officer to provide the Minister, in accordance with any conditions that the Minister may specify, with any information that is under that person’s control, including personal information and confidential business information, and that the Minister believes, on reasonable grounds, is relevant to the administration of this Act or the regulations. (2) The information that is to be provided may include information regarding (a) the human pathogens or toxins in the possession of the applicant, licence holder or biological safety officer; (b) the persons having access to the human pathogens or toxins referred to in paragraph (a); (c) the facility in which the controlled activities are authorized or in respect of which an application for a licence has been submitted; and (d) the controlled activities that are authorized by a licence or in respect of which an application for a licence has been submitted. (3) An applicant, a licence holder or a biological safety officer shall provide the Minister with the information, in accordance with any conditions that the Minister may specify. (4) Despite subsections (1) to (3), the Minister of National Defence may refuse to disclose any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Information",
+      "section": "39",
+      "title": "Disclosure by Minister",
+      "content": "39 (1) The Minister may, without the consent of the person to whom the information relates, disclose personal information and confidential business information obtained under this Act to a person from whom the Minister seeks advice, to a department or agency of the government of Canada or a province, to a foreign government or to an international organization if (a) the disclosure is necessary for the administration or enforcement of this Act or the regulations; (b) the Minister has reasonable grounds to believe that the disclosure is necessary to address a serious and imminent danger to the health or safety of the public; or (c) the disclosure is necessary to enable Canada to fulfil its international obligations. (2) Except in the circumstances described in paragraph (1)(b), before disclosing the information to any person other than Her Majesty in right of Canada or an agent of Her Majesty, the Minister must obtain the person’s written agreement that they will maintain the confidentiality of the information unless they are required by law to disclose it."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Administration and Enforcement",
+      "section": "40",
+      "title": "Designation of inspectors",
+      "content": "40 (1) The Minister may designate any individual, or class of individuals, as an inspector for the administration and enforcement of this Act and the regulations and may restrict in any manner that the Minister considers appropriate the powers that an inspector may exercise under this Act. (2) The Minister shall provide an inspector with a certificate of designation and, on entering any place or conveyance under subsection 41(1), the inspector shall produce the certificate to the person in charge of that place or conveyance if requested to do so."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Administration and Enforcement",
+      "section": "41",
+      "title": "Entry by inspectors",
+      "content": "41 (1) Subject to section 42, an inspector may, for the purpose of verifying compliance or preventing non-compliance with this Act or the regulations, enter at any reasonable time any place or conveyance in which the inspector believes on reasonable grounds that an activity to which this Act or the regulations apply is conducted or that there is any material, equipment or document relevant to the administration of this Act or the regulations. (2) An inspector who enters a place or conveyance may, for the purpose referred to in subsection (1), (a) examine the place — including any building — or conveyance and any material or equipment found there; (b) require any person in the place or conveyance to produce, in the manner and form requested by the inspector, any material or equipment found there; (c) seize and detain for any time that may be necessary any material, equipment or document found there, or any conveyance; (d) open and examine any receptacle or package found there; (e) take, or require any person in the place or conveyance to produce, free of charge, a sample of any material found there; (f) direct the owner or the person having possession, care or control of any material, equipment or document found in the place or conveyance — or of the conveyance — to move it or, for any time that may be necessary, not to move it or to restrict its movement; (g) conduct, or require any person in the place or conveyance to conduct, any test or analysis or take any measurement of any material or equipment found there; (h) take photographs or make recordings or sketches; (i) examine and make copies, in whole or in part, of any book, document or other record found there; (j) require any person in the place or conveyance to produce any book, document or other record found there for examination or copying; (k) use or cause to be used any computer system or other device found there to examine information that is contained in or available to the computer system or device; (l) reproduce any information in the form of a printout or other intelligible output for examination or copying; and (m) use or cause to be used any copying equipment. (3) For the purpose of entering the conveyance, the inspector may order the owner or person having possession, care or control of the conveyance to stop it or move it to a place where the inspector can enter it. (4) Despite subsection (2), the Minister of National Defence may refuse to disclose any information the disclosure of which could reasonably be expected to be injurious to the defence or security of Canada or of a state allied or associated with Canada. (5) The owner or person in charge of a place or conveyance that is entered by an inspector who is carrying out their functions and every person in that place or conveyance shall give the inspector all reasonable assistance and provide them with any information that they may reasonably require. (6) No person shall knowingly obstruct or hinder, or make a false or misleading statement either orally or in writing to, an inspector who is carrying out their functions. (7) An inspector who is carrying out their functions and any person accompanying the inspector may enter on and pass through or over private property, and they are not liable for doing so."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Administration and Enforcement",
+      "section": "42",
+      "title": "Warrant to enter dwelling-house",
+      "content": "42 (1) An inspector may not enter a dwelling-house without the occupant’s consent, except under the authority of a warrant issued under subsection (2). (2) On ex parte application, a justice of the peace may issue a warrant authorizing the inspector named in it to enter a dwelling-house, subject to any conditions that may be specified in the warrant, if the justice of the peace is satisfied by information on oath that (a) the dwelling-house is a place referred to in subsection 41(1); (b) entry to the dwelling-house is necessary for a purpose referred to in subsection 41(1); and (c) entry to the dwelling-house has been refused or there are reasonable grounds for believing that entry will be refused. (3) In executing the warrant, the inspector named in it may not use force unless they are accompanied by a peace officer and the use of force is specifically authorized in the warrant. (4) An application for a warrant may be submitted, and the warrant may be issued, by a means of telecommunication and section 487.1 of the Criminal Code applies for those purposes with any necessary modifications. Previous Version"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Administration and Enforcement",
+      "section": "43",
+      "title": "Serious and imminent danger",
+      "content": "43 (1) If, in the course of an inspection, an inspector has reasonable grounds to believe that a controlled activity is conducted in a manner that poses a serious and imminent danger to the health or safety of the public, the inspector may order the licence holder, or any other person in the place or conveyance, to carry out any measure that the inspector considers necessary to reduce or eliminate that danger. (2) A licence holder or any other person who is ordered by an inspector to carry out such a measure shall comply with the order and, in doing so, does not contravene subsection 7(1) or section 8. (3) An inspector who orders a measure to be carried out shall, if appropriate, withdraw the order if they are satisfied that the controlled activity is no longer conducted in a manner that poses a serious and imminent danger to the health or safety of the public. (4) An inspector shall, without delay, refer any decision to make or withdraw an order to the Minister for review. After the review, the Minister may amend, replace or rescind the order if the Minister is of the opinion that it is necessary to do so. (5) The referral of a decision to the Minister for review does not suspend the application of the decision. (6) If a licence holder or any other person who is ordered to carry out a measure fails to comply with the order, the inspector may carry out the measure or require another person to do so. (7) After the measure is carried out, the inspector shall, as soon as feasible, advise the person who failed to comply with the order that the measure was carried out. (8) No person is required to carry out a measure ordered by an inspector if doing so would expose them to a danger, as defined in subsection 122(1) of the Canada Labour Code . (9) A licence holder, or if no licence has been issued in respect of the controlled activity, the person who is responsible for the conduct of the controlled activity, shall bear the cost of carrying out any measure ordered by an inspector."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Administration and Enforcement",
+      "section": "44",
+      "title": "Storage and removal",
+      "content": "44 (1) An inspector may order that a thing seized under this Act be kept or stored in the place where it was seized or be removed to any other appropriate place. (2) Except with the inspector’s authority, no person shall remove, alter or interfere in any way with the seized thing."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Administration and Enforcement",
+      "section": "45",
+      "title": "Return of seized thing",
+      "content": "45 An inspector who seizes a thing under this Act shall release it if they are satisfied that the provisions of this Act and the regulations that apply to that thing have been complied with."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Administration and Enforcement",
+      "section": "46",
+      "title": "Application for restoration",
+      "content": "46 (1) On reasonable notice in writing to the Minister, the owner of a thing seized under this Act, or the person in possession of it at the time of its seizure, may, within 60 days after the day of its seizure, apply to a provincial court judge within whose jurisdiction the seizure was made for an order of restoration. (2) The provincial court judge may order that the seized thing be restored immediately to the applicant if, on hearing the application, the judge is satisfied that (a) the applicant is entitled to possession of it; (b) it does not pose a serious and imminent danger to the health or safety of the public; and (c) it will not be required as evidence in a prosecution for an offence that is subsequently instituted under this Act. (3) If, on hearing an application, the provincial court judge is satisfied that the applicant is entitled to possession of the seized thing and that it does not pose a serious and imminent danger to the health or safety of the public but is not satisfied with respect to paragraph (2)(c), the judge may order that the thing be restored to the applicant (a) on the expiry of 180 days after the day of its seizure if no prosecution for an offence under this Act has been instituted before that day; or (b) on the final conclusion of proceedings under this Act. (4) The provincial court judge may not make an order for the restoration of the seized thing if it has been forfeited by consent under subsection 47(2)."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Administration and Enforcement",
+      "section": "47",
+      "title": "Forfeiture",
+      "content": "47 (1) If no application is made for the restoration of a thing seized under this Act within 60 days after the day of its seizure, or an application has been made but no order of restoration is made after the application has been heard, the seized thing is forfeited to Her Majesty in right of Canada. (2) If an inspector has seized a thing and its owner, or the person in possession of it at the time of its seizure, consents in writing to its forfeiture, the thing is forfeited to Her Majesty in right of Canada. (3) Subject to section 48, the Minister may dispose of a seized thing that is forfeited to Her Majesty in right of Canada in any manner that the Minister directs."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Administration and Enforcement",
+      "section": "48",
+      "title": "Preservation",
+      "content": "48 The Minister shall make reasonable efforts to preserve any thing seized under this Act pending its disposition."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Administration and Enforcement",
+      "section": "49",
+      "title": "Costs",
+      "content": "49 The owner of a thing seized under this Act, or the person in possession of it at the time of its seizure, shall bear any associated seizure, storage, transfer, preservation or disposition costs."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Administration and Enforcement",
+      "section": "50",
+      "title": "Designation of analyst",
+      "content": "50 The Minister may designate any individual, or class of individuals, as an analyst for the administration and enforcement of this Act and the regulations."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Administration and Enforcement",
+      "section": "51",
+      "title": "Analysis and examination",
+      "content": "51 (1) An inspector may submit to an analyst, for analysis or examination, any thing seized or taken by the inspector. (2) An analyst who has made an analysis or examination may issue a certificate or report setting out the results of the analysis or examination."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Administration and Enforcement",
+      "section": "52",
+      "title": "Admissibility",
+      "content": "52 (1) An analyst’s certificate or report is admissible in evidence in any prosecution for an offence under this Act if it (a) appears to be signed by the analyst; (b) states that a thing has been analyzed or examined by the analyst; and (c) states the results of that analysis or examination. In the absence of evidence to the contrary, the certificate or report is proof of the statements contained in it without proof of the signature or official character of the person appearing to have signed it. (2) The party against whom a certificate or report is produced may, with leave of the court, require the analyst’s attendance for the purpose of cross-examination. (3) No certificate or report may be admitted in evidence unless, before the trial, the party intending to produce it has given reasonable notice of that intention, together with a copy of the certificate or report, to the party against whom it is intended to be produced."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Offences and Punishment",
+      "section": "53",
+      "title": "General",
+      "content": "53 Subject to sections 54 to 58, every person who contravenes this Act or the regulations is guilty of an offence and liable, on summary conviction, (a) in the case of a contravention with respect to a human pathogen that falls into Risk Group 2, (i) for a first offence, to a fine of not more than $50,000, and (ii) for a subsequent offence, to a fine of not more than $250,000 or to imprisonment for a term of not more than three months, or to both; and (b) in all other cases, (i) for a first offence, to a fine of not more than $250,000 or to imprisonment for a term of not more than three months, or to both, and (ii) for a subsequent offence, to a fine of not more than $500,000 or to imprisonment for a term of not more than six months, or to both."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Offences and Punishment",
+      "section": "54",
+      "title": "Breach of duty",
+      "content": "54 Every person who contravenes section 6 and, as a result, creates a risk to the health or safety of the public is guilty of an indictable offence and liable to imprisonment for a term of not more than two years."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Offences and Punishment",
+      "section": "55",
+      "title": "Wanton or reckless breach of duty",
+      "content": "55 Every person who contravenes section 6 and who shows wanton or reckless disregard for the health or safety of other persons and, as a result, creates a risk to the health or safety of the public is guilty of an indictable offence and liable to imprisonment for a term of not more than five years."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Offences and Punishment",
+      "section": "56",
+      "title": "Contravention of subsection 7(1) or 18(7)",
+      "content": "56 Every person who contravenes subsection 7(1) or 18(7) with respect to a human pathogen that falls into Risk Group 3 or Risk Group 4 or a toxin is guilty of an offence and liable (a) on conviction on indictment, for a first offence, to a fine of not more than $500,000 or to imprisonment for a term of not more than six months, or to both, and, for a subsequent offence, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than two years, or to both; or (b) on summary conviction, for a first offence, to a fine of not more than $250,000 or to imprisonment for a term of not more than three months, or to both, and, for a subsequent offence, to a fine of not more than $500,000 or to imprisonment for a term of not more than six months, or to both."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Offences and Punishment",
+      "section": "57",
+      "title": "Contravention of section 8 — knowingly",
+      "content": "57 (1) Every person who knowingly contravenes section 8 is guilty of an offence and liable on conviction on indictment to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both. (2) Every person who contravenes section 8 is guilty of an offence and liable (a) on conviction on indictment, for a first offence, to a fine of not more than $500,000 or to imprisonment for a term of not more than six months, or to both, and, for a subsequent offence, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than two years, or to both; or (b) on summary conviction, for a first offence, to a fine of not more than $250,000 or to imprisonment for a term of not more than three months, or to both, and, for a subsequent offence, to a fine of not more than $500,000 or to imprisonment for a term of not more than six months, or to both."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Offences and Punishment",
+      "section": "58",
+      "title": "Intentional release",
+      "content": "58 Every person who intentionally releases or otherwise abandons a human pathogen or toxin in contravention of this Act or the regulations and, as a result, creates a risk to the health or safety of the public is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Offences and Punishment",
+      "section": "59",
+      "title": "Defence",
+      "content": "59 No person who establishes that they exercised all due diligence to prevent the commission of an offence under this Act may be convicted of that offence, except for an offence under (a) section 53, with respect to a contravention of subsection 7(1), section 17 and subsection 41(6); (b) section 55; (c) section 56, with respect to a contravention of subsection 7(1); (d) subsection 57(1); and (e) section 58."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Offences and Punishment",
+      "section": "60",
+      "title": "Place of trial",
+      "content": "60 A prosecution for an offence under this Act may be instituted, heard and determined in the place where (a) the offence was committed or the subject matter of the prosecution arose; (b) the accused was apprehended; or (c) the accused happens to be or is carrying on business."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Offences and Punishment",
+      "section": "61",
+      "title": "Continuing offences",
+      "content": "61 If an offence under this Act is committed or continued on more than one day, the person who committed the offence is liable to be convicted for a separate offence for each day on which it is committed or continued."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Offences and Punishment",
+      "section": "62",
+      "title": "Time limit",
+      "content": "62 (1) Summary conviction proceedings for an offence under this Act may be instituted no later than two years after the day on which the subject matter of the proceedings becomes known to the Minister. (2) A document that appears to be issued by the Minister, certifying the day on which the subject matter of the proceedings became known to the Minister, is admissible in evidence without proof of the signature or official character of the person appearing to have signed it. In the absence of evidence to the contrary, it is proof of the matters asserted in it."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Offences and Punishment",
+      "section": "63",
+      "title": "Directors, officers, etc.",
+      "content": "63 If a person other than an individual commits an offence under this Act, any of the person’s directors, officers, agents or mandataries who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the person has been prosecuted or convicted."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Offences and Punishment",
+      "section": "64",
+      "title": "Offences by employees, agents or mandataries",
+      "content": "64 In a prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by the accused’s employee acting within the scope of their employment, or the accused’s agent or mandatary acting within the scope of their authority, whether or not the employee, agent or mandatary is identified or prosecuted for the offence, unless the accused establishes that (a) the offence was committed without the accused’s knowledge or consent; and (b) the accused exercised all due diligence to prevent its commission."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Debts",
+      "section": "65",
+      "title": "Debts due to Her Majesty",
+      "content": "65 The following constitute debts due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction: (a) an amount that a person is directed to pay under an order made by a court under this Act; (b) the costs incurred in the seizure, storage, transfer, preservation or disposition under this Act of any human pathogen, toxin or other thing; and (c) the costs incurred in the carrying out of a measure under subsection 43(6)."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Regulatory Powers",
+      "section": "66",
+      "title": "Regulations",
+      "content": "66 (1) The Governor in Council may make regulations in relation to human pathogens and toxins, including regulations (a) respecting the conduct of controlled activities, including in relation to (i) containment levels for human pathogens or toxins, (ii) the decontamination of material, equipment, places, conveyances and persons contaminated by human pathogens or toxins, and (iii) the safety and security of controlled activities; (b) respecting licensing, including the conditions that must be met for a licence to be issued, the conditions that must be complied with under a licence, the renewal, suspension and revocation of a licence and the variation of the conditions of an existing licence; (c) respecting facilities in which controlled activities are authorized, including (i) the location, design, construction, layout and upgrading of those facilities, (ii) the material and equipment at those facilities, (iii) heating, ventilation, air conditioning and air handling systems, and (iv) biological safety cabinets; (d) respecting access to facilities in which controlled activities are authorized, including (i) the conditions to be met by persons to obtain access to those facilities, and (ii) the screening of persons accessing those facilities; (e) prescribing the time when a document sent under this Act is to be considered to have been received; (f) specifying the human pathogens and toxins to which section 33 applies; (g) respecting security clearances required under section 33, including (i) the conditions to be met by an applicant for a security clearance, (ii) the issuance of security clearances, as well as their suspension and revocation, and (iii) the reconsideration of a decision to refuse, suspend or revoke a security clearance; (h) respecting the accompaniment and supervision, within the part of a facility described in section 33, of persons who do not hold a security clearance; (i) respecting the qualifications, powers and functions of biological safety officers; (j) respecting the establishment, content and maintenance of inventories of human pathogens and toxins, as well as the submission of reports on those inventories; (k) respecting the preparation, content and maintenance of any documents necessary for the administration of this Act and the regulations, as well as the provision of those documents to the Minister; (l) respecting the communication of information to the Minister that is necessary for the administration of this Act and the regulations; (m) respecting the collection, use and disclosure by the Minister of personal information and confidential business information; (n) exempting, on any conditions that the Governor in Council deems appropriate, any person or class of persons, any activity or any human pathogen from the application of any provision of this Act or the regulations if the Governor in Council is of the opinion that the exemption is in the public interest and poses no undue risk to the health or safety of the public; (o) prescribing any other matter that by this Act is to be prescribed; and (p) prescribing any measure that the Governor in Council may consider necessary for the administration or enforcement of this Act. (1.1) In making regulations, the Governor in Council shall take into account the varying levels of risk posed by human pathogens — determined by whether they fall into Risk Group 2, Risk Group 3 or Risk Group 4 — and those posed by toxins. (2) A regulation may establish classes of persons, facilities, activities, human pathogens and toxins and distinguish among those classes."
+    },
+    {
+      "provision_ref": "s66.1",
+      "chapter": "Regulatory Powers",
+      "section": "66.1",
+      "title": "Distinctions",
+      "content": "66.1 [Repealed, 2019, c. 29, s. 221] Previous Version"
+    },
+    {
+      "provision_ref": "s66.2",
+      "chapter": "Regulatory Powers",
+      "section": "66.2",
+      "title": "Distinctions",
+      "content": "66.2 [Repealed, 2019, c. 29, s. 221] Previous Version"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Regulatory Powers",
+      "section": "67",
+      "title": "Interim orders",
+      "content": "67 (1) The Minister may make an interim order containing any provision that may be contained in a regulation made under section 66 if the Minister is of the opinion that prompt measures are required to address a serious and imminent danger to the health or safety of the public. (2) The interim order has effect from the day on which it is made but ceases to have effect on the earliest of (a) 14 days after the day on which it is made, unless it is approved by the Governor in Council, (b) the day on which it is repealed, (c) the day on which a regulation made under section 66 that has the same effect as the interim order comes into force, and (d) one year after the day on which it is made or any shorter period that it specifies. (3) An interim order is exempt from the application of sections 3 and 9 of the Statutory Instruments Act . (4) For the purpose of any provision of this Act other than this section, any reference to regulations made under this Act is deemed to include interim orders, and a reference to a regulation made under a specified provision of this Act is deemed to include a reference to the portion of an interim order containing any provision that may be contained in a regulation made under the specified provision. (5) A copy of each interim order shall be tabled in each House of Parliament within 15 days after the day on which it is made. (6) In order to comply with subsection (5), the interim order may be sent to the Clerk of the House if the House is not sitting."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Regulatory Powers",
+      "section": "68",
+      "title": "Externally produced documents",
+      "content": "68 (1) A regulation may incorporate by reference documents that are produced by a person or body other than the Minister, including (a) an organization established for the purpose of writing standards, including an organization accredited by the Standards Council of Canada; (b) an industrial or trade organization; or (c) a government. (2) A regulation may incorporate by reference documents that the Minister reproduces or translates from documents that are produced by a person or body other than the Minister (a) with any adaptations of form or reference that would facilitate the incorporation of those documents into the regulation; or (b) in a form that sets out only those parts that apply for the purposes of the regulation. (3) A regulation may incorporate by reference documents that the Minister produces jointly with another government for the purpose of harmonizing the regulation with other laws. (4) A regulation may incorporate by reference technical or explanatory documents that the Minister produces, including (a) specifications, classifications, illustrations, graphs or other information of a technical nature; and (b) test methods, procedures, operational standards, laboratory safety standards or performance standards of a technical nature. (5) A document may be incorporated by reference as amended from time to time. (6) A document that is incorporated by reference in a regulation is not a regulation for the purposes of the Statutory Instruments Act . (7) Subsections (1) to (5) do not limit any authority to make regulations incorporating documents by reference that exists apart from those subsections."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Regulatory Powers",
+      "section": "69",
+      "title": "Defence",
+      "content": "69 If a provision of a regulation incorporates a document by reference, then no person may be convicted of an offence, or subjected to a penalty, for the contravention of the provision unless it is proved that, at the time of the alleged contravention, (a) the document was reasonably accessible to the person; (b) reasonable steps had been taken to ensure that the document was accessible to persons likely to be affected by the regulation; or (c) the document had been published in the Canada Gazette ."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Transitional Provisions",
+      "section": "70",
+      "title": "Activities already commenced",
+      "content": "70 (1) Every person who, on the day on which this section comes into force, is responsible for activities involving human pathogens or toxins shall, in the form and manner specified by the Minister, not later than 90 days after that coming into force, (a) advise the Minister that they are responsible for human pathogens or toxins and inform the Minister of the risk groups to which the human pathogens belong; (b) advise the Minister of the location where the activity is conducted; and (c) designate an individual with the appropriate safety training in the area of human pathogens and toxins or relevant work experience as the contact person for the Minister and advise the Minister of that individual’s name. (2) Every person who is responsible for activities involving human pathogens or toxins and who commences those activities after the day on which this section comes into force but before the day on which subsection 7(1) comes into force shall, in the form and manner specified by the Minister, provide the Minister with the information referred to in subsection (1) not later than 30 days after the day on which the activities commence. (3) Every person who is required to provide the Minister with information under subsection (1) or (2) shall provide the Minister with updated information annually. If a new individual is designated under paragraph (1)(c), the person shall advise the Minister of the designation without delay. (4) Subsection (3) ceases to have effect on the day on which subsection 7(1) comes into force."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Transitional Provisions",
+      "section": "71",
+      "title": "Possession of human pathogens or toxins",
+      "content": "71 (1) Every person who, on the day on which section 8 comes into force, possesses a human pathogen or toxin listed in Schedule 5 shall (a) inform the Minister of the human pathogen or toxin in their possession within 30 days after the day on which that section comes into force; (b) provide the Minister with any information that the Minister may require with respect to it; and (c) dispose of it in accordance with the Minister’s instructions. (2) No person contravenes section 8 by reason only that they possess a human pathogen or toxin in the circumstances described in subsection (1) if they comply with that subsection."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Coming into Force",
+      "section": "72",
+      "title": "Order in council",
+      "content": "72 Section 7, subsections 11(1) and 12(1), sections 13 to 16, 18 to 36, 38 and 56 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 7, subsections 11(1) and 12(1), sections 13 to 16, 18 to 36, 38 and 56 in force December 1, 2015, see SI/2015-14.]"
+    },
+    {
+      "provision_ref": "sched-schedule1",
+      "chapter": "SCHEDULE 1 - Toxins",
+      "section": "SCHEDULE 1",
+      "title": "Toxins",
+      "content": "SCHEDULE 1 (Subsections 3(1), 9(1) and (3) and 10(1)) Toxins Aerolysin Aerolysine Alpha toxin Toxine Alpha Anthrax toxins: Lethal Toxin and Oedema Toxin Toxines du charbon : toxine létale et toxine d’oedème Bordetella pertussis Adenylate cyclase toxin Toxine pertussique d’adénylate cyclase Botulinum neurotoxin Toxine botulique Cholera toxin Toxine du choléra Clostridium botulinum C2 and C3 toxins Toxines C2 et C3 de Clostridium botulinum Clostridium difficile toxins A and B Toxines A et B de Clostridium difficile Clostridium perfringens Epsilon toxin Toxine Epsilon de Clostridium perfringens Dermonecrotic toxin Toxine dermonecrotique Diphtheria toxin Toxine diphthérique Escherichia coli toxins: E. coli Cytotoxic Necrotizing Factor (CNF), Heat-labile E. coli enterotoxin (LT), Heat-stable E. coli enterotoxin (ST), Cytolethal distending toxin (CLDT) and Enteroaggregative Shiga-like toxin 1 (EAST) Toxines Escherichia coli : facteur cytotoxique nécrosant (CNF), entérotoxine labile à la chaleur (LT), entérotoxine stable à la chaleur (ST), entérotoxine cytolétale et distendante (CLDT) et toxine entéroagrégative Shiga-like 1 (EAST) Exfoliative toxin (also called Exfoliatin) Toxine exfoliative Exotoxin A Exotoxine A Hemolysin Hemolysine Listeriolysin O Listeriolysine O Pasteurella multocida toxin Toxine de Pasteurella multocida Perfringolysin O Perfringolysine O Pertussis toxin Toxine pertussique Pneumolysin Pneumolysine Pyrogenic exotoxin Exotoxine pyrogène Shiga-like toxin (verotoxin) Toxine Shiga-like (vérotoxine) Shigatoxin Shigatoxine Staphylococcal enterotoxins Entérotoxine de staphylocoques Staphylococcus aureus Toxic shock syndrome toxin Toxine du syndrome du choc toxique de Staphylococcus aureus Streptolysin O Streptolysine O Tetanolysin Tetanolysine Tetanospasmin (Tetanus toxin) Tetanospasmine (toxine tétanique) SCHEDULE 2 (Subsections 3(1), 9(2) and (3) and 10(1)) Risk Group 2 Human Pathogens Bacteria Actinobacillus ureae Actinomyces israelii Aerococcus urinae Aeromonas hydrophila Aggregatibacter actinomycetemcomitans Bacteroides fragilis Bordetella bronchiseptica Bordetella parapertussis Bordetella pertussis Borrelia burgdorferi Campylobacter jejuni Chlamydia trachomatis Chlamydophila pneumoniae Citrobacter freundii Clostridium botulinum Clostridium perfringens Clostridium tetani Corynebacterium diphtheriae Enterococcus faecium Escherichia coli Fusobacterium necrophorum Haemophilus influenzae Haemophilus parainfluenzae Helicobacter pylori Klebsiella pneumoniae Legionella pneumophila Leptospira interrogans Listeria monocytogenes Moraxella catarrhalis Mycobacterium avium Mycobacterium leprae Mycobacterium smegmatis Mycoplasma genitalium Mycoplasma pneumoniae Neisseria gonorrhoeae Neisseria meningitidis Pasteurella multocida Porphyromonas gingivalis Proteus mirabilis Proteus vulgaris Pseudomonas aeruginosa Rickettsia akari Rickettsia conorii Salmonella enterica Serratia marcescens Shigella dysenteriae Shigella flexneri Shigella sonnei Sphingobacterium faecium Staphylococcus aureus Staphylococcus saprophyticus Streptococcus agalactiae Streptococcus pyogenes Treponema pallidum Ureaplasma urealyticum Vibrio cholerae Yersinia pseudotuberculosis Viruses Alphapapillomavirus Alphapapillomavirus Colorado tick fever virus Virus de la fièvre à tiques du Colorado Cowpox virus Virus cowpox Hepatitis B virus Virus de l’Hépatite B Hepatitis C virus Virus de l’Hépatite C Hepatitis delta virus Virus de l’hépatite delta Hepatitis E virus Virus de l’Hépatite E Hepatovirus A Hépatovirus A Human alphaherpesvirus 1 and 2 (Simplexvirus) Alphaherpèsvirus humain de types 1 et 2 (simplexvirus) Human betaherpesvirus 5 (Cytomegalovirus) Betaherpèsvirus humain de type 5 (cytomégalovirus) Human betaherpesvirus 6A, 6B, and 7 (Roseolovirus) Betaherpèsvirus humain de types 6A, 6B et 7 (roseolovirus) Human gammaherpesvirus 4 (Epstein-Barr virus) Gammaherpèsvirus humain de type 4 (Virus d’Epstein-Barr) Human gammaherpesvirus 8 (Kaposi’s sarcoma-associated herpesvirus) Gammaherpèsvirus humain de type 8 (herpèsvirus associé au sarcome de Kaposi) Human parainfluenza virus 1 to 4 Virus parainfluenza humain de types 1 à 4 Human respiratory syncytial virus Virus respiratoire syncytial humain Measles virus Virus de la rougeole Molluscum contagiosum virus Virus du Molluscum contagiosum Mumps virus Virus ourlien Newcastle disease virus Virus de la maladie de Newcastle Norwalk virus Virus de Norwalk Rhinovirus A to C Rhinovirus de type A à C Rotavirus A Rotavirus A Semliki Forest virus Virus de la forêt Semliki Sendai virus Virus Sendaï Vaccinia virus Virus de la Vaccine Zika virus Virus Zika Fungi Aspergillus fumigatus Candida albicans Cryptococcus neoformans Epidermophyton floccosum Microsporum audouinii Microsporum canis Microsporum ferrugineum Sporothrix schenckii Talaromyces (Penicillium) marneffei Trichophyton concentricum Trichophyton rubrum Trichophyton schoenleinii Trichophyton tonsurans Protozoa Acanthamoeba castellanii Giardia intestinalis Leishmania aethiopica Leishmania braziliensis Leishmania chagasi Leishmania donovani Leishmania guyanensis Leishmania infantum Leishmania panamensis Plasmodium falciparum Toxoplasma gondii Trypanosoma brucei gambiense Trypanosoma brucei rhodiense Trypanosoma cruzi Prions Previous Version"
+    },
+    {
+      "provision_ref": "sched-schedule3",
+      "chapter": "SCHEDULE 3 - Risk Group 3 Human Pathogens",
+      "section": "SCHEDULE 3",
+      "title": "Risk Group 3 Human Pathogens",
+      "content": "SCHEDULE 3 (Subsections 3(1), 9(2) and (3) and 10(1)) Risk Group 3 Human Pathogens Bacteria Bacillus anthracis Brucella abortus Brucella melitensis Burkholderia mallei Burkholderia pseudomallei Chlamydophila psittaci Coxiella burnetii Francisella tularensis Mycobacterium africanum Mycobacterium bovis Mycobacterium microti Mycobacterium tuberculosis Orientia tsutsugamushi Rickettsia japonica Rickettsia prowazekii Rickettsia rickettsii Rickettsia typhi Yersinia pestis Viruses Chikungunya virus Virus Chikungunya Eastern equine encephalitis virus Virus de l’encéphalite équine de l’Est Hantaan orthohantavirus Orthohantavirus Hantaan Human immunodeficiency virus 1 and 2 Virus de l’immunodéficience humaine de types 1 et 2 Japanese encephalitis virus Virus de l’encéphalite japonaise Louping ill virus Virus Louping ill Lymphocytic choriomeningitis mammarenavirus Mammarénavirus de la chorioméningite lymphocytaire Monkeypox virus Virus de l’orthopoxvirose simienne Mucambo virus Virus Mucambo Murray Valley encephalitis virus Virus de l’encéphalite de la Murray Valley Powassan virus Virus Powassan Rabies lyssavirus Lyssavirus rabique Severe acute respiratory syndrome-related coronavirus Coronavirus du syndrome respiratoire aigu sévère St. Louis encephalitis virus Virus de l’encéphalite de Saint-Louis Venezuelan equine encephalitis virus Virus de l’encéphalite équine du Venezuela Western equine encephalitis virus Virus de l’encéphalite équine de l’Ouest West Nile virus Virus du Nil occidental Yellow fever virus Virus de la fièvre jaune Fungi Blastomyces (Ajellomyces) dermatitidis Cladophialophora bantiana Coccidioides immitis Coccidioides posadasii Cryptococcus gattii Histoplasma capsulatum Paracoccidioides brasiliensis Protozoa Prions Bovine spongiform encephalopathy agent Agent de l’encéphalopathie spongiforme bovine Creutzfeldt-Jakob disease agent Agent du syndrome de Creutzfeldt-Jakob Kuru agent Agent du Kuru Variant Creutzfeldt-Jakob disease agent Agent du syndrome de variante du syndrome de Creutzfeldt-Jakob Previous Version"
+    },
+    {
+      "provision_ref": "sched-schedule4",
+      "chapter": "SCHEDULE 4 - Risk Group 4 Human Pathogens",
+      "section": "SCHEDULE 4",
+      "title": "Risk Group 4 Human Pathogens",
+      "content": "SCHEDULE 4 (Subsections 3(1), 9(2) and (3) and 10(1)) Risk Group 4 Human Pathogens Viruses Alkhumra virus Virus Alkhumra Crimean-Congo hemorrhagic fever orthonairovirus Orthonairovirus de la fièvre hémorragique de Crimée-Congo Ebolavirus Virus Ebola Guanarito mammarenavirus Mammarénavirus Guanarito Hendra virus Virus Hendra Junin mammarenavirus Mammarénavirus Junin Kyasanur Forest disease virus Virus de la maladie de la forêt de Kyasanur Lassa mammarenavirus Mammarénavirus de Lassa Macacine alphaherpesvirus 1 Macacine alphaherpèsvirus 1 Machupo mammarenavirus Mammarénavirus Machupo Marburgvirus Virus Marburg Nipah virus Virus Nipah Omsk hemorrhagic fever virus Virus de la fièvre hémorragique d’Omsk Sabia mammarenavirus Mammarénavirus Sabia Tick-borne encephalitis virus Virus de l’encéphalite à tiques Previous Version"
+    },
+    {
+      "provision_ref": "sched-schedule5",
+      "chapter": "SCHEDULE 5 - Prohibited Human Pathogens and Toxins",
+      "section": "SCHEDULE 5",
+      "title": "Prohibited Human Pathogens and Toxins",
+      "content": "SCHEDULE 5 (Subsection 3(1), sections 8 and 10 and subsections 12(2) and 71(1)) Prohibited Human Pathogens and Toxins PART 1 Toxins PART 2 Human Pathogens Variola virus Virus de la variole"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "controlled activity",
+      "definition": "controlled activity means an activity referred to in subsection 7(1). ( activité réglementée )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conveyance",
+      "definition": "conveyance means a vessel, aircraft, train, motor vehicle, trailer or other means of transportation, including a cargo container. ( véhicule )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disease",
+      "definition": "disease includes intoxication. ( maladie )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "human pathogen",
+      "definition": "human pathogen means a micro-organism, nucleic acid or protein that",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "licence means a licence issued under section 18. ( permis )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister means the Minister of Health. ( ministre )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "person means an individual or an organization as defined in section 2 of the Criminal Code . ( personne )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "personal information",
+      "definition": "personal information has the same meaning as in section 3 of the Privacy Act . ( renseignements personnels )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "possession",
+      "definition": "possession has the same meaning as in subsection 4(3) of the Criminal Code . ( possession )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "produce",
+      "definition": "produce , in respect of a human pathogen or toxin, means to create it by any method or process, including",
+      "source_provision": "s2"
+    },
+    {
+      "term": "release",
+      "definition": "release means any discharge, anywhere, and includes leaking, spraying, depositing, dumping or vaporizing. ( rejet )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Risk Group 2",
+      "definition": "Risk Group 2 means a category of human pathogens that pose a moderate risk to the health of individuals and a low risk to public health and includes the human pathogens listed in Schedule 2. They are able to cause serious disease in a human but are unlikely to do so. Effective treatment and preventive measures are available and the risk of spread of disease caused by those pathogens is low. ( groupe de risque 2 )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Risk Group 3",
+      "definition": "Risk Group 3 means a category of human pathogens that pose a high risk to the health of individuals and a low risk to public health and includes the human pathogens listed in Schedule 3. They are likely to cause serious disease in a human. Effective treatment and preventive measures are usually available and the risk of spread of disease caused by those pathogens is low. ( groupe de risque 3 )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Risk Group 4",
+      "definition": "Risk Group 4 means a category of human pathogens that pose a high risk to the health of individuals and a high risk to public health and includes the human pathogens listed in Schedule 4. They are likely to cause serious disease in a human. Effective treatment and preventive measures are not usually available and the risk of spread of disease caused by those pathogens is high. ( groupe de risque 4 )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security clearance",
+      "definition": "security clearance means a security clearance issued under section 34. ( habilitation de sécurité )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "toxin",
+      "definition": "toxin means a substance that is listed in Schedule 1 or in Part 1 of Schedule 5. ( toxine )",
+      "source_provision": "s2"
+    }
+  ]
+}

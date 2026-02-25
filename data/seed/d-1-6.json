@@ -1,0 +1,237 @@
+{
+  "id": "d-1-6",
+  "type": "statute",
+  "title": "Depository Bills and Notes Act",
+  "title_en": "Depository Bills and Notes Act",
+  "short_name": "Depository Bills and Notes Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/D-1.6/",
+  "description": "Depository Bills and Notes Act (Depository Bills and Notes Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Depository Bills and Notes Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 (1) The definitions in this subsection apply in this Act. acceptor acceptor means the person to whom a depository bill is addressed and who signs it. ( accepteur ) clearing house clearing house means a corporation, association, partnership, agency or other entity that carries on in Canada the business of providing its participants with the clearing and settlement of transactions in securities that are deposited with it. ( chambre de compensation ) depository bill depository bill means an order described in section 4. ( lettre de dépôt ) depository note depository note means a promise described in section 5. ( billet de dépôt ) drawer drawer means the person who addresses a depository bill. ( tireur ) endorser endorser means a person who, in the case of a depository bill, signs the depository bill otherwise than as drawer or acceptor, or in the case of a depository note, signs the depository note otherwise than as maker. ( endosseur ) issue issue means the first delivery of a depository bill or note, complete in form, to the person to whom it is payable. ( émission ) maker maker means the person who makes a depository note. ( souscripteur ) participant participant means a person who has entered into a contract of membership with a clearing house. ( établissement participant ) party party means a person who signs a depository bill or note. ( partie ) person person means a natural person, a corporation, a trust, a partnership, a fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province or the government of a foreign country or of any political subdivision of a foreign country. ( personne ) transaction transaction means a transfer, pledge, assignment or hypothecation of a depository bill or note or of an interest in a depository bill or note. ( opération ) (2) For the purposes of this Act, a depository bill or note is deposited with a clearing house if it is accepted for deposit by the clearing house to which it is payable and is in the possession of that clearing house or, subject to the instructions of the clearing house, in the possession of the clearing house’s custodian, or a nominee of either of them. (3) For the purposes of this Act, a depository bill or note is payable to a clearing house if it is made payable to the clearing house or its nominee, originally or by endorsement."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Her Majesty",
+      "section": "3",
+      "title": "Binding on Her Majesty",
+      "content": "3 This Act is binding on Her Majesty in right of Canada or a province."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Depository Bills and Notes",
+      "section": "4",
+      "title": "Depository bill",
+      "content": "4 A depository bill is an unconditional order in writing that is (a) signed by the drawer and addressed to another person, requiring the person to whom it is addressed to pay, at a fixed or determinable future time, a sum certain in money to, or to the order of, a specified person; (b) accepted unconditionally by the signature of the person to whom it is addressed; (c) marked prominently and legibly on its face and within its text, at or before the time of issue, with the words “This is a depository bill subject to the Depository Bills and Notes Act ” or “Lettre de dépôt assujettie à la Loi sur les lettres et billets de dépôt ”; (d) not marked with any words prohibiting negotiation, transfer or assignment of it or of an interest in it; (e) made payable, originally or by endorsement, to a clearing house; and (f) deposited with the clearing house to which it is made payable."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Depository Bills and Notes",
+      "section": "5",
+      "title": "Depository note",
+      "content": "5 A depository note is an unconditional promise in writing that is (a) signed by the maker, promising to pay, at a fixed or determinable future time, a sum certain in money to, or to the order of, a specified person; (b) marked prominently and legibly on its face and within its text, at or before the time of issue, with the words “This is a depository note subject to the Depository Bills and Notes Act ” or “Billet de dépôt assujetti à la Loi sur les lettres et billets de dépôt ”; (c) not marked with any words prohibiting negotiation, transfer or assignment of it or of an interest in it; (d) made payable, originally or by endorsement, to a clearing house; and (e) deposited with the clearing house to which it is made payable."
+    },
+    {
+      "provision_ref": "s5.1",
+      "chapter": "Depository Bills and Notes",
+      "section": "5.1",
+      "title": "Payment from assets of partnership, etc.",
+      "content": "5.1 For the purposes of sections 4 and 5, an order or a promise to pay is not conditional by reason only that it is limited to payment from the assets of a partnership, unincorporated association, trust or estate."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Depository Bills and Notes",
+      "section": "6",
+      "title": "Non-application of Bills of Exchange Act",
+      "content": "6 The Bills of Exchange Act does not apply in respect of depository bills and notes."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Depository Bills and Notes",
+      "section": "7",
+      "title": "Signature presumed valid",
+      "content": "7 In the absence of evidence to the contrary, a signature on a depository bill or note is presumed to be genuine and authorized."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Depository Bills and Notes",
+      "section": "8",
+      "title": "Transactions effected by entries in records of clearing house",
+      "content": "8 (1) A transaction related to a depository bill or note recorded by a clearing house, or related to an interest in such a depository bill or note, may be effected by the making of appropriate entries in the records of the clearing house. (2) The transaction has the same effect as a delivery of a bill of exchange in bearer form under the Bills of Exchange Act . (3) The transaction, including the time it takes effect, is governed by the laws of the jurisdiction agreed to by the clearing house and its participants. (4) A participant in whose favour the transaction is effected is deemed to be in possession of the depository bill or note. If the transaction relates to an interest in a depository bill or note, the participant in whose favour the transaction is effected is deemed to be in possession of a depository bill or note representing the interest."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Depository Bills and Notes",
+      "section": "9",
+      "title": "Fungible bulk of depository bills or notes",
+      "content": "9 (1) Transactions related to like depository bills or notes, or related to interests in like depository bills or notes, may be recorded by a clearing house as part of a fungible bulk and the entries may refer merely to a quantity of like depository bills or notes. (2) When there is more than one transaction in depository bills or notes that are part of a fungible bulk, a clearing house may make entries in respect of those transactions on a net basis. (3) For the purposes of this section, “fungible bulk” means a bulk of depository bills or notes of which any unit is, by usage of trade, the equivalent of any other unit."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Depository Bills and Notes",
+      "section": "10",
+      "title": "Errors in records",
+      "content": "10 Errors in the records of a clearing house do not affect the validity or effect of the entries or the liabilities or obligations of the clearing house to persons adversely affected by the errors."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Liabilities and Actions",
+      "section": "11",
+      "title": "Liability of acceptor",
+      "content": "11 The acceptor of a depository bill is liable to provide the clearing house to which it is payable with funds so that the clearing house can pay, on the depository bill’s due date and in accordance with its terms, the participants who have an interest in the depository bill."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Liabilities and Actions",
+      "section": "12",
+      "title": "Liability of drawer",
+      "content": "12 If a depository bill is dishonoured by the acceptor, the drawer is liable to pay the amount of the depository bill to the clearing house to which it is payable."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Liabilities and Actions",
+      "section": "13",
+      "title": "Liability of endorser of depository bill",
+      "content": "13 If a depository bill is dishonoured by the drawer and acceptor, every endorser is jointly and severally liable to pay the amount of the depository bill to the clearing house to which it is payable."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Liabilities and Actions",
+      "section": "14",
+      "title": "Liability of maker",
+      "content": "14 The maker of a depository note is liable to provide the clearing house to which it is payable with funds so that the clearing house can pay, on the depository note’s due date or dates, the principal amount of the depository note, and the interest payable by its terms, to the participants who have an interest in the depository note."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Liabilities and Actions",
+      "section": "15",
+      "title": "Liability of endorser of depository note",
+      "content": "15 If a depository note is dishonoured by the maker, every endorser is jointly and severally liable to pay the principal amount of the depository note, and the interest payable by its terms, to the clearing house to which it is payable."
+    },
+    {
+      "provision_ref": "s15.1",
+      "chapter": "Liabilities and Actions",
+      "section": "15.1",
+      "title": "Payment from assets of partnership, etc.",
+      "content": "15.1 For the purposes of sections 13, 14 and 15, a depository bill or a depository note whose order or promise to pay is limited to payment from the assets of a partnership, unincorporated association, trust or estate is not dishonoured by its acceptor, drawer or maker if that person provides funds to the clearing house to which it is payable in accordance with the order or promise to pay and section 17."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Liabilities and Actions",
+      "section": "16",
+      "title": "Liability in absence of contract",
+      "content": "16 A party is liable to pay in accordance with sections 11 to 15 whether or not the depository bill or note constitutes a binding contractual obligation."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Liabilities and Actions",
+      "section": "17",
+      "title": "Discharge of liability",
+      "content": "17 A party who is liable to pay in accordance with sections 11 to 15 and who makes final and irrevocable payment of the amounts owing to the clearing house on the depository bill’s or note’s due date or dates is discharged of that liability to pay."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Liabilities and Actions",
+      "section": "18",
+      "title": "Duty of clearing house",
+      "content": "18 (1) A clearing house must enforce the payment of a depository bill or note payable to it and it must do so for the account and benefit and at the expense of each participant who has an interest in the depository bill or note. (2) A clearing house need not enforce the payment of a depository bill or note if its contract of membership with its participants provides that it is not required to do so or that the duty to enforce is conditional on the fulfilment of conditions specified in the contract and those conditions have not been fulfilled. (3) If a clearing house that is required to enforce the payment of a depository bill or note does not do so within a reasonable time, any participant who has an interest in the depository bill or note may bring an action in the name of the clearing house."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Liabilities and Actions",
+      "section": "19",
+      "title": "No beneficial interest",
+      "content": "19 A clearing house has no beneficial interest in a depository bill or note by reason only of the fact that the depository bill or note is payable to it, but nothing in this Act precludes the clearing house from acquiring, in its own right, a depository bill or note or any interest in a depository bill or note."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Liabilities and Actions",
+      "section": "20",
+      "title": "No defences",
+      "content": "20 (1) A clearing house holds a depository bill or note payable to it, and any money received as payment of principal or interest with respect to the depository bill or note, free from any defence that affects the depository bill or note or any defence that affects the liability of any party to it, except a defence that (a) the signature of the party liable to pay it is forged or unauthorized; or (b) the depository bill or note is counterfeit or has been materially altered without the consent of the party liable to pay it. (2) Subsection (1) applies to a participant who brings an action in the name of a clearing house in accordance with subsection 18(3)."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Amendment to Financial Administration Act",
+      "section": "21",
+      "title": "Participants",
+      "content": "21 [Amendment] Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "acceptor",
+      "definition": "acceptor means the person to whom a depository bill is addressed and who signs it. ( accepteur )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearing house",
+      "definition": "clearing house means a corporation, association, partnership, agency or other entity that carries on in Canada the business of providing its participants with the clearing and settlement of transactions in securities that are deposited with it. ( chambre de compensation )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "depository bill",
+      "definition": "depository bill means an order described in section 4. ( lettre de dépôt )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "depository note",
+      "definition": "depository note means a promise described in section 5. ( billet de dépôt )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "drawer",
+      "definition": "drawer means the person who addresses a depository bill. ( tireur )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "endorser",
+      "definition": "endorser means a person who, in the case of a depository bill, signs the depository bill otherwise than as drawer or acceptor, or in the case of a depository note, signs the depository note otherwise than as maker. ( endosseur )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "issue",
+      "definition": "issue means the first delivery of a depository bill or note, complete in form, to the person to whom it is payable. ( émission )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "maker",
+      "definition": "maker means the person who makes a depository note. ( souscripteur )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "participant",
+      "definition": "participant means a person who has entered into a contract of membership with a clearing house. ( établissement participant )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "party",
+      "definition": "party means a person who signs a depository bill or note. ( partie )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "person means a natural person, a corporation, a trust, a partnership, a fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province or the government of a foreign country or of any political subdivision of a foreign country. ( personne )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transaction",
+      "definition": "transaction means a transfer, pledge, assignment or hypothecation of a depository bill or note or of an interest in a depository bill or note. ( opération )",
+      "source_provision": "s2"
+    }
+  ]
+}

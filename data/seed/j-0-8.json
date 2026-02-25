@@ -1,0 +1,5300 @@
+{
+  "id": "j-0-8",
+  "type": "statute",
+  "title": "Jobs, Growth and Long-term Prosperity Act",
+  "title_en": "Jobs, Growth and Long-term Prosperity Act",
+  "short_name": "Jobs, Growth and Long-term Prosperity...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/J-0.8/",
+  "description": "Jobs, Growth and Long-term Prosperity Act (Jobs, Growth and Long-term Prosperity...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Jobs, Growth and Long-term Prosperity Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Income Tax Act",
+      "section": "2",
+      "title": "Short title",
+      "content": "2 [Amendment]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Income Tax Act",
+      "section": "3",
+      "title": "Short title",
+      "content": "3 [Amendment]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Income Tax Act",
+      "section": "4",
+      "title": "Short title",
+      "content": "4 [Amendments]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Income Tax Act",
+      "section": "5",
+      "title": "Short title",
+      "content": "5 [Amendments]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Income Tax Act",
+      "section": "6",
+      "title": "Short title",
+      "content": "6 [Amendments]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Income Tax Act",
+      "section": "7",
+      "title": "Short title",
+      "content": "7 [Amendments]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Income Tax Act",
+      "section": "8",
+      "title": "Short title",
+      "content": "8 [Amendment]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Income Tax Act",
+      "section": "9",
+      "title": "Short title",
+      "content": "9 [Amendment]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Income Tax Act",
+      "section": "10",
+      "title": "Short title",
+      "content": "10 [Amendment]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Income Tax Act",
+      "section": "11",
+      "title": "Short title",
+      "content": "11 [Amendment]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Income Tax Act",
+      "section": "12",
+      "title": "",
+      "content": "12 [Amendments]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Income Tax Act",
+      "section": "13",
+      "title": "",
+      "content": "13 [Amendments]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Income Tax Act",
+      "section": "14",
+      "title": "",
+      "content": "14 [Amendment]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Income Tax Act",
+      "section": "15",
+      "title": "",
+      "content": "15 [Amendments]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Governor General’s Act",
+      "section": "16",
+      "title": "",
+      "content": "16 [Amendment]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Governor General’s Act",
+      "section": "17",
+      "title": "",
+      "content": "17 [Amendments]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Income Tax Regulations",
+      "section": "18",
+      "title": "",
+      "content": "18 [Amendment]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Excise Tax Act",
+      "section": "19",
+      "title": "",
+      "content": "19 [Amendment]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Excise Tax Act",
+      "section": "20",
+      "title": "",
+      "content": "20 [Amendment]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Excise Tax Act",
+      "section": "21",
+      "title": "",
+      "content": "21 [Amendment]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Excise Tax Act",
+      "section": "22",
+      "title": "",
+      "content": "22 [Amendments]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Excise Tax Act",
+      "section": "23",
+      "title": "",
+      "content": "23 [Amendment]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Excise Tax Act",
+      "section": "24",
+      "title": "",
+      "content": "24 [Amendment]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Excise Tax Act",
+      "section": "25",
+      "title": "",
+      "content": "25 [Amendment]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Excise Tax Act",
+      "section": "26",
+      "title": "",
+      "content": "26 [Amendment]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Excise Tax Act",
+      "section": "27",
+      "title": "",
+      "content": "27 [Amendment]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Excise Tax Act",
+      "section": "28",
+      "title": "",
+      "content": "28 [Amendments]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Excise Tax Act",
+      "section": "29",
+      "title": "",
+      "content": "29 [Amendment]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Excise Tax Act",
+      "section": "30",
+      "title": "",
+      "content": "30 [Amendment]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Excise Tax Act",
+      "section": "31",
+      "title": "",
+      "content": "31 [Amendment]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Excise Tax Act",
+      "section": "32",
+      "title": "",
+      "content": "32 [Amendments]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Excise Tax Act",
+      "section": "33",
+      "title": "",
+      "content": "33 [Amendment]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Excise Tax Act",
+      "section": "34",
+      "title": "",
+      "content": "34 [Amendment]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Excise Tax Act",
+      "section": "35",
+      "title": "",
+      "content": "35 [Amendment]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Excise Tax Act",
+      "section": "36",
+      "title": "",
+      "content": "36 [Amendment]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Excise Tax Act",
+      "section": "37",
+      "title": "",
+      "content": "37 [Amendment]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Excise Tax Act",
+      "section": "38",
+      "title": "",
+      "content": "38 [Amendment]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Excise Tax Act",
+      "section": "39",
+      "title": "",
+      "content": "39 [Amendment]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Excise Tax Act",
+      "section": "40",
+      "title": "",
+      "content": "40 [Amendment]"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Excise Tax Act",
+      "section": "41",
+      "title": "",
+      "content": "41 [Amendment]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Excise Tax Act",
+      "section": "42",
+      "title": "",
+      "content": "42 [Amendment]"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Excise Tax Act",
+      "section": "43",
+      "title": "",
+      "content": "43 [Amendment]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Excise Tax Act",
+      "section": "44",
+      "title": "",
+      "content": "44 [Amendment]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "45",
+      "title": "",
+      "content": "45 [Amendment]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Excise Act, 2001",
+      "section": "46",
+      "title": "",
+      "content": "46 [Amendment]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Value of Imported Goods (GST/HST) Regulations",
+      "section": "47",
+      "title": "",
+      "content": "47 [Amendments]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Value of Imported Goods (GST/HST) Regulations",
+      "section": "48",
+      "title": "",
+      "content": "48 [Amendment]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Non-Taxable Imported Goods (GST/HST) Regulations",
+      "section": "49",
+      "title": "",
+      "content": "49 [Amendment]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Non-Taxable Imported Goods (GST/HST) Regulations",
+      "section": "50",
+      "title": "",
+      "content": "50 [Amendment]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "New Harmonized Value-added Tax System Regulations, No. 2",
+      "section": "51",
+      "title": "",
+      "content": "51 [Amendment]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "52",
+      "title": "Enactment",
+      "content": "52 The Canadian Environmental Assessment Act, 2012 , whose Schedules 1 to 3 are set out in the schedule to this Act, is enacted as follows: [See Canadian Environmental Assessment Act, 2012 ] Related Amendments to the Environmental Violations Administrative Monetary Penalties Act"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "53",
+      "title": "Enactment",
+      "content": "53 [Amendments]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "54",
+      "title": "Enactment",
+      "content": "54 [Amendment] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "55",
+      "title": "Enactment",
+      "content": "55 [Amendment]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "56",
+      "title": "Enactment",
+      "content": "56 [Amendment] Export Development Act"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "57",
+      "title": "Enactment",
+      "content": "57 [Amendment] First Nations Land Management Act"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "58",
+      "title": "",
+      "content": "58 [Amendment] Species at Risk Act"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "59",
+      "title": "",
+      "content": "59 [Amendments] Antarctic Environmental Protection Act"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "60",
+      "title": "",
+      "content": "60 [Amendment] First Nations Oil and Gas and Moneys Management Act"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "61",
+      "title": "",
+      "content": "61 [Amendment]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "62",
+      "title": "",
+      "content": "62 [Amendment] First Nations Commercial and Industrial Development Act"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "63",
+      "title": "",
+      "content": "63 [Amendment] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "64",
+      "title": "",
+      "content": "64 [Amendment]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "65",
+      "title": "",
+      "content": "65 [Amendment] Repeal"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "66",
+      "title": "",
+      "content": "66 [Repeal] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "DIVISION 1 Environmental Assessment",
+      "section": "67",
+      "title": "Order in council",
+      "content": "67 Sections 52 to 63 and 66 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 52 to 63 and 66 in force July 6, 2012, see SI/2012-56.]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "68",
+      "title": "Order in council",
+      "content": "68 [Amendment]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "69",
+      "title": "Order in council",
+      "content": "69 [Amendment]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "70",
+      "title": "Order in council",
+      "content": "70 [Amendment]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "71",
+      "title": "Order in council",
+      "content": "71 [Amendments]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "72",
+      "title": "Order in council",
+      "content": "72 [Amendment]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "73",
+      "title": "Order in council",
+      "content": "73 [Amendment]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "74",
+      "title": "Order in council",
+      "content": "74 [Amendment]"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "75",
+      "title": "",
+      "content": "75 [Amendment]"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "76",
+      "title": "",
+      "content": "76 [Amendment]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "77",
+      "title": "",
+      "content": "77 [Amendment]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "78",
+      "title": "",
+      "content": "78 [Amendment]"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "79",
+      "title": "",
+      "content": "79 [Amendment]"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "80",
+      "title": "",
+      "content": "80 [Amendment]"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "81",
+      "title": "",
+      "content": "81 [Amendment]"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "82",
+      "title": "",
+      "content": "82 [Amendment]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "83",
+      "title": "",
+      "content": "83 [Amendment]"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "84",
+      "title": "",
+      "content": "84 [Amendment]"
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "85",
+      "title": "",
+      "content": "85 [Amendments]"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "86",
+      "title": "",
+      "content": "86 [Amendment]"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "87",
+      "title": "",
+      "content": "87 [Amendment]"
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "88",
+      "title": "",
+      "content": "88 [Amendment]"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "89",
+      "title": "",
+      "content": "89 [Amendments]"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "90",
+      "title": "",
+      "content": "90 [Amendment]"
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "91",
+      "title": "",
+      "content": "91 [Amendment]"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "92",
+      "title": "",
+      "content": "92 [Amendments]"
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "93",
+      "title": "",
+      "content": "93 [Amendment]"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "94",
+      "title": "",
+      "content": "94 [Amendments]"
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "95",
+      "title": "",
+      "content": "95 [Amendment]"
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "96",
+      "title": "",
+      "content": "96 [Amendment]"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "97",
+      "title": "",
+      "content": "97 [Amendment]"
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "98",
+      "title": "",
+      "content": "98 [Amendment]"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "99",
+      "title": "",
+      "content": "99 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "100",
+      "title": "",
+      "content": "100 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "101",
+      "title": "",
+      "content": "101 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "102",
+      "title": "",
+      "content": "102 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "103",
+      "title": "",
+      "content": "103 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "104",
+      "title": "",
+      "content": "104 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "105",
+      "title": "",
+      "content": "105 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "106",
+      "title": "",
+      "content": "106 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "107",
+      "title": "",
+      "content": "107 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "108",
+      "title": "",
+      "content": "108 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "109",
+      "title": "",
+      "content": "109 [Transitional Provision] Related and Consequential Amendments Federal Courts Act"
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "110",
+      "title": "",
+      "content": "110 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "111",
+      "title": "",
+      "content": "111 [Amendment] Northern Pipeline Act"
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "112",
+      "title": "",
+      "content": "112 [Amendment]"
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "113",
+      "title": "",
+      "content": "113 [Amendment] An Act to amend the National Energy Board Act and to repeal certain enactments in consequence thereof"
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "114",
+      "title": "",
+      "content": "114 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "DIVISION 2 National Energy Board Act",
+      "section": "115",
+      "title": "Order in council",
+      "content": "115 Footnote * (1) Sections 68 to 85, 89, 90, 92 to 97 and 99 to 114 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 68 to 85, 89, 90, 92 to 97 and 99 to 114 in force July 6, 2012, see SI/2012-57.] Footnote * (2) Sections 86 to 88, 91 and 98 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 86 to 88, 91 and 98 in force July 3, 2013, see SI/2013-69.]"
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "DIVISION 3 Canada Oil and Gas Operations Act",
+      "section": "116",
+      "title": "Order in council",
+      "content": "116 [Amendment]"
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "DIVISION 3 Canada Oil and Gas Operations Act",
+      "section": "117",
+      "title": "Order in council",
+      "content": "117 [Amendment]"
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "DIVISION 3 Canada Oil and Gas Operations Act",
+      "section": "118",
+      "title": "Order in council",
+      "content": "118 [Amendment]"
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "DIVISION 3 Canada Oil and Gas Operations Act",
+      "section": "119",
+      "title": "Order in council",
+      "content": "119 [Amendment]"
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "DIVISION 3 Canada Oil and Gas Operations Act",
+      "section": "120",
+      "title": "Order in council",
+      "content": "120 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "DIVISION 3 Canada Oil and Gas Operations Act",
+      "section": "121",
+      "title": "Order in council",
+      "content": "121 Sections 116 to 119 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 116 to 119 in force July 3, 2013, see SI/2013-69.]"
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "122",
+      "title": "Order in council",
+      "content": "122 [Amendment]"
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "123",
+      "title": "Order in council",
+      "content": "123 [Amendment]"
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "124",
+      "title": "Order in council",
+      "content": "124 [Amendments]"
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "125",
+      "title": "Order in council",
+      "content": "125 [Amendments]"
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "126",
+      "title": "Order in council",
+      "content": "126 [Amendment]"
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "127",
+      "title": "Order in council",
+      "content": "127 [Amendments]"
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "128",
+      "title": "Order in council",
+      "content": "128 [Amendments]"
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "129",
+      "title": "",
+      "content": "129 [Amendments]"
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "130",
+      "title": "",
+      "content": "130 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s131",
+      "chapter": "DIVISION 4 Nuclear Safety and Control Act",
+      "section": "131",
+      "title": "Order in council",
+      "content": "131 Sections 122, 129 and 130 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 122, 129 and 130 in force July 3, 2013, see SI/2013-69.]"
+    },
+    {
+      "provision_ref": "s132",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "132",
+      "title": "Order in council",
+      "content": "132 [Amendment]"
+    },
+    {
+      "provision_ref": "s133",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "133",
+      "title": "Order in council",
+      "content": "133 [Amendments]"
+    },
+    {
+      "provision_ref": "s134",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "134",
+      "title": "Order in council",
+      "content": "134 [Amendment]"
+    },
+    {
+      "provision_ref": "s135",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "135",
+      "title": "Order in council",
+      "content": "135 [Amendment]"
+    },
+    {
+      "provision_ref": "s136",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "136",
+      "title": "Order in council",
+      "content": "136 [Amendment]"
+    },
+    {
+      "provision_ref": "s137",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "137",
+      "title": "Order in council",
+      "content": "137 [Amendment]"
+    },
+    {
+      "provision_ref": "s138",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "138",
+      "title": "Order in council",
+      "content": "138 [Amendment]"
+    },
+    {
+      "provision_ref": "s139",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "139",
+      "title": "",
+      "content": "139 [Amendments]"
+    },
+    {
+      "provision_ref": "s140",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "140",
+      "title": "",
+      "content": "140 [Amendment]"
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "141",
+      "title": "",
+      "content": "141 [Amendment]"
+    },
+    {
+      "provision_ref": "s142",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "142",
+      "title": "",
+      "content": "142 [Amendments]"
+    },
+    {
+      "provision_ref": "s143",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "143",
+      "title": "",
+      "content": "143 [Amendments]"
+    },
+    {
+      "provision_ref": "s144",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "144",
+      "title": "",
+      "content": "144 [Amendments]"
+    },
+    {
+      "provision_ref": "s145",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "145",
+      "title": "",
+      "content": "145 [Amendments]"
+    },
+    {
+      "provision_ref": "s146",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "146",
+      "title": "",
+      "content": "146 [Amendment]"
+    },
+    {
+      "provision_ref": "s147",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "147",
+      "title": "",
+      "content": "147 [Amendments]"
+    },
+    {
+      "provision_ref": "s148",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "148",
+      "title": "",
+      "content": "148 [Amendment]"
+    },
+    {
+      "provision_ref": "s149",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "149",
+      "title": "",
+      "content": "149 [Amendments]"
+    },
+    {
+      "provision_ref": "s150",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "150",
+      "title": "",
+      "content": "150 [Amendment]"
+    },
+    {
+      "provision_ref": "s151",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "151",
+      "title": "",
+      "content": "151 [Amendment]"
+    },
+    {
+      "provision_ref": "s152",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "152",
+      "title": "",
+      "content": "152 [Amendment]"
+    },
+    {
+      "provision_ref": "s153",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "153",
+      "title": "",
+      "content": "153 [Amendment]"
+    },
+    {
+      "provision_ref": "s154",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "154",
+      "title": "",
+      "content": "154 [Amendment]"
+    },
+    {
+      "provision_ref": "s155",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "155",
+      "title": "",
+      "content": "155 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s156",
+      "chapter": "DIVISION 5 Fisheries Act",
+      "section": "156",
+      "title": "Order in council",
+      "content": "156 Section 132, subsections 133(1), (3) and (4), sections 135 to 138, subsection 139(2), sections 140 and 141, subsections 142(2) to (4), 144(2) to (6), 145(2) to (4) and 147(1) to (5), (7), (9) and (10), section 148, subsections 149(2) and (5) and sections 152 and 153 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 132, subsections 133(1), (3) and (4), sections 135 to 138, subsection 139(2), sections 140 and 141, subsections 142(2) to (4), 144(2) to (6), 145(2) to (4) and 147(1) to (5), (7), (9) and (10), section 148, subsections 149(2) and (5) and sections 152 and 153 in force November 25, 2013, see SI/2013-116.]"
+    },
+    {
+      "provision_ref": "s157",
+      "chapter": "DIVISION 6 Canadian Environmental Protection Act, 1999",
+      "section": "157",
+      "title": "Order in council",
+      "content": "157 [Amendments]"
+    },
+    {
+      "provision_ref": "s158",
+      "chapter": "DIVISION 6 Canadian Environmental Protection Act, 1999",
+      "section": "158",
+      "title": "Order in council",
+      "content": "158 [Amendment]"
+    },
+    {
+      "provision_ref": "s159",
+      "chapter": "DIVISION 6 Canadian Environmental Protection Act, 1999",
+      "section": "159",
+      "title": "Order in council",
+      "content": "159 [Amendments]"
+    },
+    {
+      "provision_ref": "s160",
+      "chapter": "DIVISION 6 Canadian Environmental Protection Act, 1999",
+      "section": "160",
+      "title": "",
+      "content": "160 [Amendments]"
+    },
+    {
+      "provision_ref": "s161",
+      "chapter": "DIVISION 6 Canadian Environmental Protection Act, 1999",
+      "section": "161",
+      "title": "",
+      "content": "161 [Amendments] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s162",
+      "chapter": "DIVISION 6 Canadian Environmental Protection Act, 1999",
+      "section": "162",
+      "title": "Order in council",
+      "content": "162 Sections 157 and 158 and subsections 159(2) and (4), 160(1), (3) and (4) and 161(2) and (3) come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 157 and 158 and subsections 159(2) and (4), 160(1), (3) and (4) and 161(2) and (3) in force September 24, 2014, see SI/2014-6.]"
+    },
+    {
+      "provision_ref": "s163",
+      "chapter": "DIVISION 7 Species at Risk Act",
+      "section": "163",
+      "title": "Order in council",
+      "content": "163 [Amendments]"
+    },
+    {
+      "provision_ref": "s164",
+      "chapter": "DIVISION 7 Species at Risk Act",
+      "section": "164",
+      "title": "Order in council",
+      "content": "164 [Amendment]"
+    },
+    {
+      "provision_ref": "s165",
+      "chapter": "DIVISION 7 Species at Risk Act",
+      "section": "165",
+      "title": "Order in council",
+      "content": "165 [Amendment]"
+    },
+    {
+      "provision_ref": "s166",
+      "chapter": "DIVISION 7 Species at Risk Act",
+      "section": "166",
+      "title": "Order in council",
+      "content": "166 [Amendment]"
+    },
+    {
+      "provision_ref": "s167",
+      "chapter": "DIVISION 7 Species at Risk Act",
+      "section": "167",
+      "title": "Order in council",
+      "content": "167 [Amendment]"
+    },
+    {
+      "provision_ref": "s168",
+      "chapter": "DIVISION 7 Species at Risk Act",
+      "section": "168",
+      "title": "Order in council",
+      "content": "168 [Amendments]"
+    },
+    {
+      "provision_ref": "s169",
+      "chapter": "DIVISION 7 Species at Risk Act",
+      "section": "169",
+      "title": "",
+      "content": "169 [Amendment]"
+    },
+    {
+      "provision_ref": "s170",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "170",
+      "title": "",
+      "content": "170 [Amendment]"
+    },
+    {
+      "provision_ref": "s171",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "171",
+      "title": "",
+      "content": "171 [Amendment] Currency Act"
+    },
+    {
+      "provision_ref": "s172",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "172",
+      "title": "",
+      "content": "172 [Amendment]"
+    },
+    {
+      "provision_ref": "s173",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "173",
+      "title": "",
+      "content": "173 [Amendment] Natural Sciences and Engineering Research Council Act"
+    },
+    {
+      "provision_ref": "s174",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "174",
+      "title": "",
+      "content": "174 [Amendment]"
+    },
+    {
+      "provision_ref": "s175",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "175",
+      "title": "",
+      "content": "175 [Amendment] Northern Pipeline Act"
+    },
+    {
+      "provision_ref": "s176",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "176",
+      "title": "",
+      "content": "176 [Amendment]"
+    },
+    {
+      "provision_ref": "s177",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "177",
+      "title": "",
+      "content": "177 [Amendment] Social Sciences and Humanities Research Council Act"
+    },
+    {
+      "provision_ref": "s178",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "178",
+      "title": "",
+      "content": "178 [Amendment]"
+    },
+    {
+      "provision_ref": "s179",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "179",
+      "title": "",
+      "content": "179 [Amendment] Canadian Transportation Accident Investigation and Safety Board Act"
+    },
+    {
+      "provision_ref": "s180",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "180",
+      "title": "",
+      "content": "180 [Amendment] Canadian Polar Commission Act"
+    },
+    {
+      "provision_ref": "s181",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "181",
+      "title": "",
+      "content": "181 [Amendment]"
+    },
+    {
+      "provision_ref": "s182",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "182",
+      "title": "",
+      "content": "182 [Amendment] National Round Table on the Environment and the Economy Act"
+    },
+    {
+      "provision_ref": "s183",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "183",
+      "title": "",
+      "content": "183 [Amendment]"
+    },
+    {
+      "provision_ref": "s184",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "184",
+      "title": "",
+      "content": "184 [Amendment] Yukon Surface Rights Board Act"
+    },
+    {
+      "provision_ref": "s185",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "185",
+      "title": "",
+      "content": "185 [Amendment] Canadian Food Inspection Agency Act"
+    },
+    {
+      "provision_ref": "s186",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "186",
+      "title": "",
+      "content": "186 [Amendment]"
+    },
+    {
+      "provision_ref": "s187",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "187",
+      "title": "",
+      "content": "187 [Amendment]"
+    },
+    {
+      "provision_ref": "s188",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "188",
+      "title": "",
+      "content": "188 [Amendment] Canada Revenue Agency Act"
+    },
+    {
+      "provision_ref": "s189",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "189",
+      "title": "",
+      "content": "189 [Amendment]"
+    },
+    {
+      "provision_ref": "s190",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "190",
+      "title": "",
+      "content": "190 [Amendment] Canadian Institutes of Health Research Act"
+    },
+    {
+      "provision_ref": "s191",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "191",
+      "title": "",
+      "content": "191 [Amendment]"
+    },
+    {
+      "provision_ref": "s192",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "192",
+      "title": "",
+      "content": "192 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s193",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "193",
+      "title": "Canadian Centre for Occupational Health and Safety Act",
+      "content": "193 The obligations under sections 25 and 26 of the Canadian Centre for Occupational Health and Safety Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s194",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "194",
+      "title": "Currency Act",
+      "content": "194 The obligations under subsections 21(2) and 22(2) of the Currency Act , as those subsections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s195",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "195",
+      "title": "Natural Sciences and Engineering Research Council Act",
+      "content": "195 The obligations under sections 17 and 18 of the Natural Sciences and Engineering Research Council Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s196",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "196",
+      "title": "Northern Pipeline Act",
+      "content": "196 The obligations under sections 13 and 14 of the Northern Pipeline Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s197",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "197",
+      "title": "Social Sciences and Humanities Research Council Act",
+      "content": "197 The obligations under sections 19 and 20 of the Social Sciences and Humanities Research Council Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s198",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "198",
+      "title": "Canadian Transportation Accident Investigation and Safety Board Act",
+      "content": "198 The obligation under subsection 13(2) of the Canadian Transportation Accident Investigation and Safety Board Act , as that subsection read immediately before the day on which this Act receives royal assent, continues to apply in respect of the fiscal year beginning on April 1, 2011 but does not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s199",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "199",
+      "title": "Canadian Polar Commission Act",
+      "content": "199 The obligations under sections 20 and 21 of the Canadian Polar Commission Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s200",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "200",
+      "title": "National Round Table on the Environment and the Economy Act",
+      "content": "200 The obligations under sections 22 and 23 of the National Round Table on the Environment and the Economy Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2011 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s201",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "201",
+      "title": "Yukon Surface Rights Board Act",
+      "content": "201 The obligation under subsection 23(5) of the Yukon Surface Rights Board Act , as that subsection read immediately before the day on which this Act receives royal assent, continues to apply in respect of the fiscal year beginning on April 1, 2011 but does not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s202",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "202",
+      "title": "Canadian Food Inspection Agency Act",
+      "content": "202 The obligations under sections 23 and 32 of the Canadian Food Inspection Agency Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2011 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s203",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "203",
+      "title": "Canada Revenue Agency Act",
+      "content": "203 The obligations under sections 87 and 88 of the Canada Revenue Agency Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s204",
+      "chapter": "DIVISION 1 Measures with Respect to the Auditor General of Canada",
+      "section": "204",
+      "title": "Canadian Institutes of Health Research Act",
+      "content": "204 The obligations under sections 31 and 32 of the Canadian Institutes of Health Research Act , as those sections read immediately before the day on which this Act receives royal assent, continue to apply in respect of the fiscal year beginning on April 1, 2012 but do not apply in respect of any subsequent fiscal year."
+    },
+    {
+      "provision_ref": "s205",
+      "chapter": "DIVISION 2 Life Annuity-like Products",
+      "section": "205",
+      "title": "Canadian Institutes of Health Research Act",
+      "content": "205 [Amendment] Bank Act"
+    },
+    {
+      "provision_ref": "s206",
+      "chapter": "DIVISION 2 Life Annuity-like Products",
+      "section": "206",
+      "title": "Canadian Institutes of Health Research Act",
+      "content": "206 [Amendment]"
+    },
+    {
+      "provision_ref": "s207",
+      "chapter": "DIVISION 2 Life Annuity-like Products",
+      "section": "207",
+      "title": "Canadian Institutes of Health Research Act",
+      "content": "207 [Amendment] Cooperative Credit Associations Act"
+    },
+    {
+      "provision_ref": "s208",
+      "chapter": "DIVISION 2 Life Annuity-like Products",
+      "section": "208",
+      "title": "Canadian Institutes of Health Research Act",
+      "content": "208 [Amendment]"
+    },
+    {
+      "provision_ref": "s209",
+      "chapter": "DIVISION 3 PPP Canada Inc.",
+      "section": "209",
+      "title": "Definitions",
+      "content": "209 For the purposes of this Division, appropriate Minister , Crown corporation and department have the same meanings as in section 2 of the Financial Administration Act ."
+    },
+    {
+      "provision_ref": "s209.1",
+      "chapter": "DIVISION 3 PPP Canada Inc.",
+      "section": "209.1",
+      "title": "Acquisition of shares",
+      "content": "209.1 (1) For the purposes of paragraph 90(1)(b) of the Financial Administration Act , the Minister of Infrastructure, Communities and Intergovernmental Affairs may acquire the shares of PPP Canada Inc. (2) The appropriate Minister holds the shares acquired under subsection (1). (3) The appropriate Minister may, with the approval of the Governor in Council, conduct any transaction referred to in any of paragraphs 90(1)(c) to (e) of the Financial Administration Act in respect of PPP Canada Inc. (4) PPP Canada Inc. may, with the approval of the Governor in Council, sell or otherwise dispose of all or substantially all of its assets. (5) Any of the corporations that are part of the group of corporations that consists of PPP Canada Inc. and of all of its wholly-owned subsidiaries may, with the approval of the Governor in Council, sell or otherwise dispose of any of the assets of the corporations, even if the assets to be sold or otherwise disposed of constitute all or substantially all of the total assets of that group."
+    },
+    {
+      "provision_ref": "s210",
+      "chapter": "DIVISION 3 PPP Canada Inc.",
+      "section": "210",
+      "title": "Status of PPP Canada Inc.",
+      "content": "210 Except as provided in this Division, PPP Canada Inc., incorporated under the Canada Business Corporations Act , is not an agent of Her Majesty in right of Canada."
+    },
+    {
+      "provision_ref": "s211",
+      "chapter": "DIVISION 3 PPP Canada Inc.",
+      "section": "211",
+      "title": "Agent for certain activities",
+      "content": "211 PPP Canada Inc. is an agent of Her Majesty in right of Canada in relation to the following activities: (a) assessing public-private partnership opportunities for departments and Crown corporations in accordance with criteria established by the Treasury Board; (b) advising departments and Crown corporations on the implementation of public-private partnership projects; (c) acting as a source of expertise and advice for departments and Crown corporations on public-private partnership issues; and (d) conducting any activity specified in an order made under section 211.1. Previous Version"
+    },
+    {
+      "provision_ref": "s211.1",
+      "chapter": "DIVISION 3 PPP Canada Inc.",
+      "section": "211.1",
+      "title": "Order in council",
+      "content": "211.1 The Governor in Council may, by order, specify any activity in relation to which PPP Canada Inc. is an agent of Her Majesty in right of Canada."
+    },
+    {
+      "provision_ref": "s212",
+      "chapter": "DIVISION 3 PPP Canada Inc.",
+      "section": "212",
+      "title": "Her Majesty not liable",
+      "content": "212 Her Majesty in right of Canada is not liable for any obligation or liability incurred by PPP Canada Inc. in relation to any activity other than an activity referred to in section 211."
+    },
+    {
+      "provision_ref": "s213",
+      "chapter": "DIVISION 3 PPP Canada Inc.",
+      "section": "213",
+      "title": "Her Majesty not liable",
+      "content": "213 [Repealed, 2016, c. 7, s. 236] Previous Version"
+    },
+    {
+      "provision_ref": "s214",
+      "chapter": "DIVISION 4 Territorial Borrowing Limits",
+      "section": "214",
+      "title": "Her Majesty not liable",
+      "content": "214 [Amendments] Nunavut Act"
+    },
+    {
+      "provision_ref": "s215",
+      "chapter": "DIVISION 4 Territorial Borrowing Limits",
+      "section": "215",
+      "title": "Her Majesty not liable",
+      "content": "215 [Amendments] Yukon Act"
+    },
+    {
+      "provision_ref": "s216",
+      "chapter": "DIVISION 4 Territorial Borrowing Limits",
+      "section": "216",
+      "title": "Her Majesty not liable",
+      "content": "216 [Amendments] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s217",
+      "chapter": "DIVISION 4 Territorial Borrowing Limits",
+      "section": "217",
+      "title": "Order in council",
+      "content": "217 This Division comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Division 4 in force March 8, 2013, see SI/2013-25.]"
+    },
+    {
+      "provision_ref": "s218",
+      "chapter": "DIVISION 5 Reporting Requirements",
+      "section": "218",
+      "title": "Order in council",
+      "content": "218 [Amendment]"
+    },
+    {
+      "provision_ref": "s219",
+      "chapter": "DIVISION 5 Reporting Requirements",
+      "section": "219",
+      "title": "Order in council",
+      "content": "219 [Amendments]"
+    },
+    {
+      "provision_ref": "s220",
+      "chapter": "DIVISION 5 Reporting Requirements",
+      "section": "220",
+      "title": "Order in council",
+      "content": "220 [Amendment] Alternative Fuels Act"
+    },
+    {
+      "provision_ref": "s221",
+      "chapter": "DIVISION 5 Reporting Requirements",
+      "section": "221",
+      "title": "Order in council",
+      "content": "221 [Amendment] Public Service Employment Act"
+    },
+    {
+      "provision_ref": "s222",
+      "chapter": "DIVISION 5 Reporting Requirements",
+      "section": "222",
+      "title": "",
+      "content": "222 [Amendment]"
+    },
+    {
+      "provision_ref": "s223",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "223",
+      "title": "",
+      "content": "223 [Amendment]"
+    },
+    {
+      "provision_ref": "s224",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "224",
+      "title": "",
+      "content": "224 [Amendment] Canada Pension Plan"
+    },
+    {
+      "provision_ref": "s225",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "225",
+      "title": "",
+      "content": "225 [Amendment]"
+    },
+    {
+      "provision_ref": "s226",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "226",
+      "title": "",
+      "content": "226 [Amendment]"
+    },
+    {
+      "provision_ref": "s227",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "227",
+      "title": "",
+      "content": "227 [Amendments]"
+    },
+    {
+      "provision_ref": "s228",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "228",
+      "title": "",
+      "content": "228 [Amendment]"
+    },
+    {
+      "provision_ref": "s229",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "229",
+      "title": "",
+      "content": "229 [Amendment]"
+    },
+    {
+      "provision_ref": "s230",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "230",
+      "title": "",
+      "content": "230 [Amendments]"
+    },
+    {
+      "provision_ref": "s231",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "231",
+      "title": "",
+      "content": "231 [Amendment]"
+    },
+    {
+      "provision_ref": "s232",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "232",
+      "title": "",
+      "content": "232 [Amendment]"
+    },
+    {
+      "provision_ref": "s233",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "233",
+      "title": "",
+      "content": "233 [Amendments]"
+    },
+    {
+      "provision_ref": "s234",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "234",
+      "title": "",
+      "content": "234 [Amendments] Old Age Security Act"
+    },
+    {
+      "provision_ref": "s235",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "235",
+      "title": "",
+      "content": "235 [Amendment]"
+    },
+    {
+      "provision_ref": "s236",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "236",
+      "title": "",
+      "content": "236 [Amendments]"
+    },
+    {
+      "provision_ref": "s237",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "237",
+      "title": "",
+      "content": "237 [Amendments]"
+    },
+    {
+      "provision_ref": "s238",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "238",
+      "title": "",
+      "content": "238 [Amendment]"
+    },
+    {
+      "provision_ref": "s239",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "239",
+      "title": "",
+      "content": "239 [Amendment] Employment Insurance Act"
+    },
+    {
+      "provision_ref": "s240",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "240",
+      "title": "",
+      "content": "240 [Amendment]"
+    },
+    {
+      "provision_ref": "s241",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "241",
+      "title": "",
+      "content": "241 [Amendment]"
+    },
+    {
+      "provision_ref": "s242",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "242",
+      "title": "",
+      "content": "242 [Amendment]"
+    },
+    {
+      "provision_ref": "s243",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "243",
+      "title": "",
+      "content": "243 [Amendment]"
+    },
+    {
+      "provision_ref": "s244",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "244",
+      "title": "",
+      "content": "244 [Amendment]"
+    },
+    {
+      "provision_ref": "s245",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "245",
+      "title": "",
+      "content": "245 [Amendment]"
+    },
+    {
+      "provision_ref": "s246",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "246",
+      "title": "",
+      "content": "246 [Amendment]"
+    },
+    {
+      "provision_ref": "s247",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "247",
+      "title": "",
+      "content": "247 [Amendment]"
+    },
+    {
+      "provision_ref": "s248",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "248",
+      "title": "",
+      "content": "248 [Amendment]"
+    },
+    {
+      "provision_ref": "s249",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "249",
+      "title": "",
+      "content": "249 [Amendment]"
+    },
+    {
+      "provision_ref": "s250",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "250",
+      "title": "",
+      "content": "250 [Amendment] Transitional Provisions Interpretation and General"
+    },
+    {
+      "provision_ref": "s251",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "251",
+      "title": "",
+      "content": "251 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s252",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "252",
+      "title": "",
+      "content": "252 [Transitional Provision] Canada Pension Plan"
+    },
+    {
+      "provision_ref": "s253",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "253",
+      "title": "",
+      "content": "253 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s254",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "254",
+      "title": "",
+      "content": "254 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s255",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "255",
+      "title": "",
+      "content": "255 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s256",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "256",
+      "title": "",
+      "content": "256 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s257",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "257",
+      "title": "",
+      "content": "257 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s258",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "258",
+      "title": "",
+      "content": "258 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s259",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "259",
+      "title": "",
+      "content": "259 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s260",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "260",
+      "title": "",
+      "content": "260 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s261",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "261",
+      "title": "",
+      "content": "261 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s262",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "262",
+      "title": "",
+      "content": "262 [Transitional Provision] Employment Insurance Act"
+    },
+    {
+      "provision_ref": "s263",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "263",
+      "title": "",
+      "content": "263 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s264",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "264",
+      "title": "",
+      "content": "264 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s265",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "265",
+      "title": "",
+      "content": "265 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s266",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "266",
+      "title": "",
+      "content": "266 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s267",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "267",
+      "title": "",
+      "content": "267 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s268",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "268",
+      "title": "",
+      "content": "268 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s269",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "269",
+      "title": "",
+      "content": "269 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s270",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "270",
+      "title": "",
+      "content": "270 [Transitional Provision] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s271",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "271",
+      "title": "",
+      "content": "271 [Amendment] Federal Courts Act"
+    },
+    {
+      "provision_ref": "s272",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "272",
+      "title": "",
+      "content": "272 [Amendments] Labour Adjustment Benefits Act"
+    },
+    {
+      "provision_ref": "s273",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "273",
+      "title": "",
+      "content": "273 [Amendments]"
+    },
+    {
+      "provision_ref": "s274",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "274",
+      "title": "",
+      "content": "274 [Amendment]"
+    },
+    {
+      "provision_ref": "s275",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "275",
+      "title": "",
+      "content": "275 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s276",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "276",
+      "title": "",
+      "content": "276 [Amendment] Income Tax Act"
+    },
+    {
+      "provision_ref": "s277",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "277",
+      "title": "",
+      "content": "277 [Amendment]"
+    },
+    {
+      "provision_ref": "s278",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "278",
+      "title": "",
+      "content": "278 [Amendment] Public Sector Compensation Act"
+    },
+    {
+      "provision_ref": "s279",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "279",
+      "title": "",
+      "content": "279 [Amendment]"
+    },
+    {
+      "provision_ref": "s280",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "280",
+      "title": "",
+      "content": "280 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s281",
+      "chapter": "DIVISION 6 Social Security Tribunal and Service Delivery",
+      "section": "281",
+      "title": "April 1, 2013",
+      "content": "281 (1) Sections 225 and 227 to 229, subsection 230(1), sections 231, 232, 235 and 236, subsection 237(1) and sections 240 to 244, 246 to 249 and 279 come into force on April 1, 2013. (2) Sections 271 and 276 come into force on April 1, 2014. (3) Subsections 272(1) and (3) come into force on May 1, 2014."
+    },
+    {
+      "provision_ref": "s282",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "282",
+      "title": "May 1, 2014",
+      "content": "282 [Amendments]"
+    },
+    {
+      "provision_ref": "s283",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "283",
+      "title": "May 1, 2014",
+      "content": "283 [Amendment]"
+    },
+    {
+      "provision_ref": "s284",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "284",
+      "title": "May 1, 2014",
+      "content": "284 [Amendment]"
+    },
+    {
+      "provision_ref": "s285",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "285",
+      "title": "May 1, 2014",
+      "content": "285 [Amendment]"
+    },
+    {
+      "provision_ref": "s286",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "286",
+      "title": "May 1, 2014",
+      "content": "286 [Amendment]"
+    },
+    {
+      "provision_ref": "s287",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "287",
+      "title": "May 1, 2014",
+      "content": "287 [Amendment]"
+    },
+    {
+      "provision_ref": "s288",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "288",
+      "title": "May 1, 2014",
+      "content": "288 [Amendment]"
+    },
+    {
+      "provision_ref": "s289",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "289",
+      "title": "May 1, 2014",
+      "content": "289 [Amendment]"
+    },
+    {
+      "provision_ref": "s290",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "290",
+      "title": "May 1, 2014",
+      "content": "290 [Amendment]"
+    },
+    {
+      "provision_ref": "s291",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "291",
+      "title": "May 1, 2014",
+      "content": "291 [Amendment] Canada Pension Plan"
+    },
+    {
+      "provision_ref": "s292",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "292",
+      "title": "",
+      "content": "292 [Amendment]"
+    },
+    {
+      "provision_ref": "s293",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "293",
+      "title": "",
+      "content": "293 [Amendments]"
+    },
+    {
+      "provision_ref": "s294",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "294",
+      "title": "",
+      "content": "294 [Amendment]"
+    },
+    {
+      "provision_ref": "s295",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "295",
+      "title": "",
+      "content": "295 [Amendment] Old Age Security Act"
+    },
+    {
+      "provision_ref": "s296",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "296",
+      "title": "",
+      "content": "296 [Amendment]"
+    },
+    {
+      "provision_ref": "s297",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "297",
+      "title": "",
+      "content": "297 [Amendment]"
+    },
+    {
+      "provision_ref": "s298",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "298",
+      "title": "",
+      "content": "298 [Amendment]"
+    },
+    {
+      "provision_ref": "s299",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "299",
+      "title": "",
+      "content": "299 [Amendment] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s300",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "300",
+      "title": "",
+      "content": "300 [Amendment]"
+    },
+    {
+      "provision_ref": "s301",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "301",
+      "title": "",
+      "content": "301 [Amendment] Income Tax Act"
+    },
+    {
+      "provision_ref": "s302",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "302",
+      "title": "",
+      "content": "302 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s303",
+      "chapter": "DIVISION 7 Consolidation of Privacy Codes",
+      "section": "303",
+      "title": "Order in council",
+      "content": "303 Sections 282 to 302 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 282 to 302 in force March 1, 2013, see SI/2013-17.]"
+    },
+    {
+      "provision_ref": "s304",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "304",
+      "title": "Order in council",
+      "content": "304 [Amendment] Canada Pension Plan"
+    },
+    {
+      "provision_ref": "s305",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "305",
+      "title": "Order in council",
+      "content": "305 [Amendment]"
+    },
+    {
+      "provision_ref": "s306",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "306",
+      "title": "Order in council",
+      "content": "306 [Amendment] Employment Insurance Act"
+    },
+    {
+      "provision_ref": "s307",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "307",
+      "title": "Order in council",
+      "content": "307 [Amendment]"
+    },
+    {
+      "provision_ref": "s308",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "308",
+      "title": "",
+      "content": "308 [Amendment] Consequential Amendments"
+    },
+    {
+      "provision_ref": "s309",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "309",
+      "title": "",
+      "content": "309 [Repealed before coming into force, 2017, c. 26, s. 54] Previous Version Farm Income Protection Act"
+    },
+    {
+      "provision_ref": "s310",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "310",
+      "title": "",
+      "content": "310 [Amendment] Immigration and Refugee Protection Act"
+    },
+    {
+      "provision_ref": "s311",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "311",
+      "title": "",
+      "content": "311 [Amendment] Wage Earner Protection Program Act"
+    },
+    {
+      "provision_ref": "s312",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "312",
+      "title": "",
+      "content": "312 [Amendment] Coordinating Amendment"
+    },
+    {
+      "provision_ref": "s313",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "313",
+      "title": "",
+      "content": "313 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s314",
+      "chapter": "DIVISION 8 Social Insurance Number Cards",
+      "section": "314",
+      "title": "Order in council",
+      "content": "314 Sections 304 to 312 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 304 to 308 and 310 to 312 in force March 1, 2013, see SI/2013-17.]"
+    },
+    {
+      "provision_ref": "s315",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "315",
+      "title": "Order in council",
+      "content": "315 [Amendment]"
+    },
+    {
+      "provision_ref": "s316",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "316",
+      "title": "Order in council",
+      "content": "316 [Amendment]"
+    },
+    {
+      "provision_ref": "s317",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "317",
+      "title": "Order in council",
+      "content": "317 [Amendment]"
+    },
+    {
+      "provision_ref": "s318",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "318",
+      "title": "Order in council",
+      "content": "318 [Amendment]"
+    },
+    {
+      "provision_ref": "s319",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "319",
+      "title": "Order in council",
+      "content": "319 [Amendment]"
+    },
+    {
+      "provision_ref": "s320",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "320",
+      "title": "Order in council",
+      "content": "320 [Amendment]"
+    },
+    {
+      "provision_ref": "s321",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "321",
+      "title": "",
+      "content": "321 [Amendment]"
+    },
+    {
+      "provision_ref": "s322",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "322",
+      "title": "",
+      "content": "322 [Amendment]"
+    },
+    {
+      "provision_ref": "s323",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "323",
+      "title": "",
+      "content": "323 [Amendment] Canada National Parks Act"
+    },
+    {
+      "provision_ref": "s324",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "324",
+      "title": "",
+      "content": "324 [Amendment] Canada National Marine Conservation Areas Act"
+    },
+    {
+      "provision_ref": "s325",
+      "chapter": "DIVISION 9 Amendments Relating to the Parks Canada Agency",
+      "section": "325",
+      "title": "",
+      "content": "325 [Amendment]"
+    },
+    {
+      "provision_ref": "s326",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "326",
+      "title": "",
+      "content": "326 [Amendment]"
+    },
+    {
+      "provision_ref": "s327",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "327",
+      "title": "",
+      "content": "327 [Amendment]"
+    },
+    {
+      "provision_ref": "s328",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "328",
+      "title": "",
+      "content": "328 [Amendment]"
+    },
+    {
+      "provision_ref": "s329",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "329",
+      "title": "",
+      "content": "329 [Amendment] Bank Act"
+    },
+    {
+      "provision_ref": "s330",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "330",
+      "title": "",
+      "content": "330 [Amendment]"
+    },
+    {
+      "provision_ref": "s331",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "331",
+      "title": "",
+      "content": "331 [Amendment]"
+    },
+    {
+      "provision_ref": "s332",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "332",
+      "title": "",
+      "content": "332 [Amendment]"
+    },
+    {
+      "provision_ref": "s333",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "333",
+      "title": "",
+      "content": "333 [Amendment]"
+    },
+    {
+      "provision_ref": "s334",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "334",
+      "title": "",
+      "content": "334 [Amendment]"
+    },
+    {
+      "provision_ref": "s335",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "335",
+      "title": "",
+      "content": "335 [Amendment]"
+    },
+    {
+      "provision_ref": "s336",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "336",
+      "title": "",
+      "content": "336 [Amendment]"
+    },
+    {
+      "provision_ref": "s337",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "337",
+      "title": "",
+      "content": "337 [Amendment]"
+    },
+    {
+      "provision_ref": "s338",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "338",
+      "title": "",
+      "content": "338 [Amendment] Insurance Companies Act"
+    },
+    {
+      "provision_ref": "s339",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "339",
+      "title": "",
+      "content": "339 [Amendment]"
+    },
+    {
+      "provision_ref": "s340",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "340",
+      "title": "",
+      "content": "340 [Amendment]"
+    },
+    {
+      "provision_ref": "s341",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "341",
+      "title": "",
+      "content": "341 [Amendment]"
+    },
+    {
+      "provision_ref": "s342",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "342",
+      "title": "",
+      "content": "342 [Amendment]"
+    },
+    {
+      "provision_ref": "s343",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "343",
+      "title": "",
+      "content": "343 [Amendment]"
+    },
+    {
+      "provision_ref": "s344",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "344",
+      "title": "",
+      "content": "344 [Amendment]"
+    },
+    {
+      "provision_ref": "s345",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "345",
+      "title": "",
+      "content": "345 [Amendment]"
+    },
+    {
+      "provision_ref": "s346",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "346",
+      "title": "",
+      "content": "346 [Amendment]"
+    },
+    {
+      "provision_ref": "s347",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "347",
+      "title": "",
+      "content": "347 [Amendment] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s348",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "348",
+      "title": "",
+      "content": "348 [Amendment]"
+    },
+    {
+      "provision_ref": "s349",
+      "chapter": "DIVISION 10 Financial Institutions",
+      "section": "349",
+      "title": "",
+      "content": "349 [Amendments]"
+    },
+    {
+      "provision_ref": "s350",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "350",
+      "title": "",
+      "content": "350 [Amendment]"
+    },
+    {
+      "provision_ref": "s351",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "351",
+      "title": "",
+      "content": "351 [Amendment]"
+    },
+    {
+      "provision_ref": "s352",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "352",
+      "title": "",
+      "content": "352 [Amendment]"
+    },
+    {
+      "provision_ref": "s353",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "353",
+      "title": "",
+      "content": "353 [Amendment]"
+    },
+    {
+      "provision_ref": "s354",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "354",
+      "title": "",
+      "content": "354 [Amendment]"
+    },
+    {
+      "provision_ref": "s355",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "355",
+      "title": "",
+      "content": "355 [Amendment]"
+    },
+    {
+      "provision_ref": "s356",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "356",
+      "title": "",
+      "content": "356 [Amendment] Supporting Vulnerable Seniors and Strengthening Canada’s Economy Act"
+    },
+    {
+      "provision_ref": "s357",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "357",
+      "title": "",
+      "content": "357 [Amendment]"
+    },
+    {
+      "provision_ref": "s358",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "358",
+      "title": "",
+      "content": "358 [Amendment]"
+    },
+    {
+      "provision_ref": "s359",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "359",
+      "title": "Coming into force",
+      "content": "359 Despite section 26 of the Supporting Vulnerable Seniors and Strengthening Canada’s Economy Act , sections 22 to 24 of that Act come into force on the day on which this Act receives royal assent. Canada Mortgage and Housing Corporation Act"
+    },
+    {
+      "provision_ref": "s360",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "360",
+      "title": "Coming into force",
+      "content": "360 [Amendment] Trust and Loan Companies Act"
+    },
+    {
+      "provision_ref": "s361",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "361",
+      "title": "Coming into force",
+      "content": "361 [Amendment] Bank Act"
+    },
+    {
+      "provision_ref": "s362",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "362",
+      "title": "Coming into force",
+      "content": "362 [Amendment] Insurance Companies Act"
+    },
+    {
+      "provision_ref": "s363",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "363",
+      "title": "Coming into force",
+      "content": "363 [Amendment] Cooperative Credit Associations Act"
+    },
+    {
+      "provision_ref": "s364",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "364",
+      "title": "Coming into force",
+      "content": "364 [Amendment] Transitional Provision"
+    },
+    {
+      "provision_ref": "s365",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "365",
+      "title": "",
+      "content": "365 [Transitional Provision] Coordinating Amendment"
+    },
+    {
+      "provision_ref": "s366",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "366",
+      "title": "",
+      "content": "366 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s367",
+      "chapter": "DIVISION 11 Canada Mortgage and Housing Corporation",
+      "section": "367",
+      "title": "January 1, 2013 or royal assent",
+      "content": "367 (1) Sections 352 and 354 come into force on the later of January 1, 2013 and the day on which this Act receives royal assent. Footnote * (2) Paragraph 21.52(1)(b) of the National Housing Act , as enacted by section 356, comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Paragraph 21.52(1)(b) of the National Housing Act , as enacted by section 356, in force May 31, 2013, see SI/2013-61.] Footnote * (3) Sections 361 to 364 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 361 to 364 in force July 1, 2013, see SI/2013-61.]"
+    },
+    {
+      "provision_ref": "s368",
+      "chapter": "DIVISION 12 Integrated Cross-border Law Enforcement Operations Act",
+      "section": "368",
+      "title": "Enactment",
+      "content": "368 The Integrated Cross-border Law Enforcement Operations Act is enacted as follows: [See Integrated Cross-border Law Enforcement Operations Act ] Amendments to the Royal Canadian Mounted Police Act"
+    },
+    {
+      "provision_ref": "s369",
+      "chapter": "DIVISION 12 Integrated Cross-border Law Enforcement Operations Act",
+      "section": "369",
+      "title": "Enactment",
+      "content": "369 [Amendment]"
+    },
+    {
+      "provision_ref": "s370",
+      "chapter": "DIVISION 12 Integrated Cross-border Law Enforcement Operations Act",
+      "section": "370",
+      "title": "Enactment",
+      "content": "370 [Amendment] Consequential Amendments Criminal Code"
+    },
+    {
+      "provision_ref": "s371",
+      "chapter": "DIVISION 12 Integrated Cross-border Law Enforcement Operations Act",
+      "section": "371",
+      "title": "Enactment",
+      "content": "371 [Amendment] Customs Act"
+    },
+    {
+      "provision_ref": "s372",
+      "chapter": "DIVISION 12 Integrated Cross-border Law Enforcement Operations Act",
+      "section": "372",
+      "title": "Enactment",
+      "content": "372 [Amendment]"
+    },
+    {
+      "provision_ref": "s373",
+      "chapter": "DIVISION 12 Integrated Cross-border Law Enforcement Operations Act",
+      "section": "373",
+      "title": "Enactment",
+      "content": "373 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s374",
+      "chapter": "DIVISION 12 Integrated Cross-border Law Enforcement Operations Act",
+      "section": "374",
+      "title": "Order in council",
+      "content": "374 This Division comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Division 12 in force August 20, 2012, see SI/2012-68.]"
+    },
+    {
+      "provision_ref": "s375",
+      "chapter": "DIVISION 13 Bretton Woods and Related Agreements Act",
+      "section": "375",
+      "title": "Order in council",
+      "content": "375 [Amendment]"
+    },
+    {
+      "provision_ref": "s376",
+      "chapter": "DIVISION 13 Bretton Woods and Related Agreements Act",
+      "section": "376",
+      "title": "Order in council",
+      "content": "376 [Amendment]"
+    },
+    {
+      "provision_ref": "s377",
+      "chapter": "DIVISION 14 Canada Health Act",
+      "section": "377",
+      "title": "Order in council",
+      "content": "377 [Amendment]"
+    },
+    {
+      "provision_ref": "s378",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "378",
+      "title": "Order in council",
+      "content": "378 [Amendment]"
+    },
+    {
+      "provision_ref": "s379",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "379",
+      "title": "",
+      "content": "379 [Amendment]"
+    },
+    {
+      "provision_ref": "s380",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "380",
+      "title": "",
+      "content": "380 [Amendment]"
+    },
+    {
+      "provision_ref": "s381",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "381",
+      "title": "",
+      "content": "381 [Amendments]"
+    },
+    {
+      "provision_ref": "s382",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "382",
+      "title": "",
+      "content": "382 [Amendment]"
+    },
+    {
+      "provision_ref": "s383",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "383",
+      "title": "",
+      "content": "383 [Amendments]"
+    },
+    {
+      "provision_ref": "s384",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "384",
+      "title": "",
+      "content": "384 [Amendment] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s385",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "385",
+      "title": "",
+      "content": "385 [Amendment] Security of Information Act"
+    },
+    {
+      "provision_ref": "s386",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "386",
+      "title": "",
+      "content": "386 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s387",
+      "chapter": "DIVISION 15 Canadian Security Intelligence Service Act",
+      "section": "387",
+      "title": "",
+      "content": "387 [Amendment]"
+    },
+    {
+      "provision_ref": "s388",
+      "chapter": "DIVISION 16 Currency Act",
+      "section": "388",
+      "title": "",
+      "content": "388 [Amendment]"
+    },
+    {
+      "provision_ref": "s389",
+      "chapter": "DIVISION 16 Currency Act",
+      "section": "389",
+      "title": "",
+      "content": "389 [Amendment]"
+    },
+    {
+      "provision_ref": "s390",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "390",
+      "title": "",
+      "content": "390 [Amendment]"
+    },
+    {
+      "provision_ref": "s391",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "391",
+      "title": "",
+      "content": "391 [Amendment]"
+    },
+    {
+      "provision_ref": "s392",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "392",
+      "title": "",
+      "content": "392 [Amendment]"
+    },
+    {
+      "provision_ref": "s393",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "393",
+      "title": "",
+      "content": "393 [Amendment]"
+    },
+    {
+      "provision_ref": "s394",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "394",
+      "title": "",
+      "content": "394 [Amendment]"
+    },
+    {
+      "provision_ref": "s395",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "395",
+      "title": "",
+      "content": "395 [Amendment]"
+    },
+    {
+      "provision_ref": "s396",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "396",
+      "title": "",
+      "content": "396 [Amendment]"
+    },
+    {
+      "provision_ref": "s397",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "397",
+      "title": "",
+      "content": "397 [Amendment]"
+    },
+    {
+      "provision_ref": "s398",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "398",
+      "title": "",
+      "content": "398 [Amendment]"
+    },
+    {
+      "provision_ref": "s399",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "399",
+      "title": "",
+      "content": "399 [Amendment]"
+    },
+    {
+      "provision_ref": "s400",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "400",
+      "title": "",
+      "content": "400 [Amendment]"
+    },
+    {
+      "provision_ref": "s401",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "401",
+      "title": "",
+      "content": "401 [Amendment]"
+    },
+    {
+      "provision_ref": "s402",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "402",
+      "title": "",
+      "content": "402 [Amendments]"
+    },
+    {
+      "provision_ref": "s403",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "403",
+      "title": "",
+      "content": "403 [Amendment]"
+    },
+    {
+      "provision_ref": "s404",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "404",
+      "title": "",
+      "content": "404 [Amendment]"
+    },
+    {
+      "provision_ref": "s405",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "405",
+      "title": "",
+      "content": "405 [Amendment]"
+    },
+    {
+      "provision_ref": "s406",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "406",
+      "title": "",
+      "content": "406 [Amendment] Consequential Amendments to the Canada Health Act"
+    },
+    {
+      "provision_ref": "s407",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "407",
+      "title": "",
+      "content": "407 [Amendment]"
+    },
+    {
+      "provision_ref": "s408",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "408",
+      "title": "",
+      "content": "408 [Amendment]"
+    },
+    {
+      "provision_ref": "s409",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "409",
+      "title": "",
+      "content": "409 [Amendment]"
+    },
+    {
+      "provision_ref": "s410",
+      "chapter": "DIVISION 17 Federal-Provincial Fiscal Arrangements Act",
+      "section": "410",
+      "title": "",
+      "content": "410 [Amendment]"
+    },
+    {
+      "provision_ref": "s411",
+      "chapter": "DIVISION 18 Fisheries Act",
+      "section": "411",
+      "title": "",
+      "content": "411 [Amendment]"
+    },
+    {
+      "provision_ref": "s412",
+      "chapter": "DIVISION 19 Food and Drugs Act",
+      "section": "412",
+      "title": "",
+      "content": "412 [Amendment]"
+    },
+    {
+      "provision_ref": "s413",
+      "chapter": "DIVISION 19 Food and Drugs Act",
+      "section": "413",
+      "title": "",
+      "content": "413 [Amendment]"
+    },
+    {
+      "provision_ref": "s414",
+      "chapter": "DIVISION 19 Food and Drugs Act",
+      "section": "414",
+      "title": "",
+      "content": "414 [Amendments]"
+    },
+    {
+      "provision_ref": "s415",
+      "chapter": "DIVISION 19 Food and Drugs Act",
+      "section": "415",
+      "title": "",
+      "content": "415 [Amendment]"
+    },
+    {
+      "provision_ref": "s416",
+      "chapter": "DIVISION 19 Food and Drugs Act",
+      "section": "416",
+      "title": "",
+      "content": "416 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s417",
+      "chapter": "DIVISION 19 Food and Drugs Act",
+      "section": "417",
+      "title": "",
+      "content": "417 [Transitional Provisions] Consequential Amendment to the Excise Tax Act"
+    },
+    {
+      "provision_ref": "s418",
+      "chapter": "DIVISION 19 Food and Drugs Act",
+      "section": "418",
+      "title": "",
+      "content": "418 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s419",
+      "chapter": "DIVISION 19 Food and Drugs Act",
+      "section": "419",
+      "title": "Order in council",
+      "content": "419 Sections 412 to 416 and 418 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 412, subsection 414(2) and sections 415 and 416 in force October 25, 2012, see SI/2012-84; section 413 and subsection 414(1) in force June 19, 2013, section 418 in force December 19, 2013, see SI/2013-65.]"
+    },
+    {
+      "provision_ref": "s420",
+      "chapter": "DIVISION 20 Government Employees Compensation Act",
+      "section": "420",
+      "title": "Order in council",
+      "content": "420 [Amendment]"
+    },
+    {
+      "provision_ref": "s421",
+      "chapter": "DIVISION 20 Government Employees Compensation Act",
+      "section": "421",
+      "title": "Order in council",
+      "content": "421 [Amendment]"
+    },
+    {
+      "provision_ref": "s422",
+      "chapter": "DIVISION 20 Government Employees Compensation Act",
+      "section": "422",
+      "title": "Order in council",
+      "content": "422 [Amendment]"
+    },
+    {
+      "provision_ref": "s423",
+      "chapter": "DIVISION 20 Government Employees Compensation Act",
+      "section": "423",
+      "title": "Order in council",
+      "content": "423 [Amendment]"
+    },
+    {
+      "provision_ref": "s424",
+      "chapter": "DIVISION 20 Government Employees Compensation Act",
+      "section": "424",
+      "title": "Order in council",
+      "content": "424 [Amendment] Transitional Provision"
+    },
+    {
+      "provision_ref": "s425",
+      "chapter": "DIVISION 20 Government Employees Compensation Act",
+      "section": "425",
+      "title": "",
+      "content": "425 [Transitional Provision] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s426",
+      "chapter": "DIVISION 20 Government Employees Compensation Act",
+      "section": "426",
+      "title": "Order in council",
+      "content": "426 This Division comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Division 20 in force June 13, 2014, see SI/2014-53.]"
+    },
+    {
+      "provision_ref": "s427",
+      "chapter": "DIVISION 21 International Development Research Centre Act",
+      "section": "427",
+      "title": "Order in council",
+      "content": "427 [Amendment]"
+    },
+    {
+      "provision_ref": "s428",
+      "chapter": "DIVISION 21 International Development Research Centre Act",
+      "section": "428",
+      "title": "Order in council",
+      "content": "428 [Amendment]"
+    },
+    {
+      "provision_ref": "s429",
+      "chapter": "DIVISION 21 International Development Research Centre Act",
+      "section": "429",
+      "title": "Order in council",
+      "content": "429 [Amendments]"
+    },
+    {
+      "provision_ref": "s430",
+      "chapter": "DIVISION 21 International Development Research Centre Act",
+      "section": "430",
+      "title": "Order in council",
+      "content": "430 [Amendments]"
+    },
+    {
+      "provision_ref": "s431",
+      "chapter": "DIVISION 21 International Development Research Centre Act",
+      "section": "431",
+      "title": "Order in council",
+      "content": "431 [Amendment]"
+    },
+    {
+      "provision_ref": "s432",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "432",
+      "title": "",
+      "content": "432 [Repealed before coming into force, 2008, c. 20, s. 3] Previous Version"
+    },
+    {
+      "provision_ref": "s433",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "433",
+      "title": "",
+      "content": "433 [Repealed before coming into force, 2008, c. 20, s. 3] Previous Version"
+    },
+    {
+      "provision_ref": "s434",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "434",
+      "title": "",
+      "content": "434 [Amendment]"
+    },
+    {
+      "provision_ref": "s435",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "435",
+      "title": "",
+      "content": "435 [Amendment]"
+    },
+    {
+      "provision_ref": "s436",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "436",
+      "title": "",
+      "content": "436 [Amendments]"
+    },
+    {
+      "provision_ref": "s437",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "437",
+      "title": "",
+      "content": "437 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s438",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "438",
+      "title": "",
+      "content": "438 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s439",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "439",
+      "title": "",
+      "content": "439 [Transitional Provision] Coming into Force"
+    },
+    {
+      "provision_ref": "s440",
+      "chapter": "DIVISION 22 Canada Labour Code",
+      "section": "440",
+      "title": "Sections 432 and 433",
+      "content": "440 Footnote * (1) Sections 432 and 433 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 432 and 433 repealed before coming into force, see 2008, c. 20, s. 3.] Footnote * (2) Sections 434 to 439 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 434 to 439 in force July 1, 2014, see SI/2013-49.]"
+    },
+    {
+      "provision_ref": "s441",
+      "chapter": "DIVISION 23 Fair Wages and Hours of Labour Act",
+      "section": "441",
+      "title": "Sections 434 to 439",
+      "content": "441 [Repeal] Transitional Provision"
+    },
+    {
+      "provision_ref": "s442",
+      "chapter": "DIVISION 23 Fair Wages and Hours of Labour Act",
+      "section": "442",
+      "title": "Rights and obligations not affected",
+      "content": "442 The repeal of the Fair Wages and Hours of Labour Act does not affect any rights or obligations acquired or incurred under a contract or agreement to which that Act applied. Consequential Amendment to the Campobello-Lubec Bridge Act"
+    },
+    {
+      "provision_ref": "s443",
+      "chapter": "DIVISION 23 Fair Wages and Hours of Labour Act",
+      "section": "443",
+      "title": "Rights and obligations not affected",
+      "content": "443 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s444",
+      "chapter": "DIVISION 23 Fair Wages and Hours of Labour Act",
+      "section": "444",
+      "title": "Order in council",
+      "content": "444 This Division comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Division 23 in force January 1, 2014, see SI/2013-121.]"
+    },
+    {
+      "provision_ref": "s445",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "445",
+      "title": "Order in council",
+      "content": "445 [Amendment]"
+    },
+    {
+      "provision_ref": "s446",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "446",
+      "title": "Order in council",
+      "content": "446 [Amendment]"
+    },
+    {
+      "provision_ref": "s447",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "447",
+      "title": "Order in council",
+      "content": "447 [Amendment]"
+    },
+    {
+      "provision_ref": "s448",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "448",
+      "title": "Order in council",
+      "content": "448 [Amendment]"
+    },
+    {
+      "provision_ref": "s449",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "449",
+      "title": "Order in council",
+      "content": "449 [Amendment]"
+    },
+    {
+      "provision_ref": "s450",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "450",
+      "title": "Order in council",
+      "content": "450 [Amendment]"
+    },
+    {
+      "provision_ref": "s451",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "451",
+      "title": "Order in council",
+      "content": "451 [Amendment]"
+    },
+    {
+      "provision_ref": "s452",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "452",
+      "title": "",
+      "content": "452 [Amendment]"
+    },
+    {
+      "provision_ref": "s453",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "453",
+      "title": "",
+      "content": "453 [Amendment]"
+    },
+    {
+      "provision_ref": "s454",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "454",
+      "title": "",
+      "content": "454 [Amendments]"
+    },
+    {
+      "provision_ref": "s455",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "455",
+      "title": "",
+      "content": "455 [Amendment]"
+    },
+    {
+      "provision_ref": "s456",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "456",
+      "title": "",
+      "content": "456 [Amendment]"
+    },
+    {
+      "provision_ref": "s457",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "457",
+      "title": "",
+      "content": "457 [Amendment]"
+    },
+    {
+      "provision_ref": "s458",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "458",
+      "title": "",
+      "content": "458 [Amendment]"
+    },
+    {
+      "provision_ref": "s459",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "459",
+      "title": "",
+      "content": "459 [Amendments]"
+    },
+    {
+      "provision_ref": "s460",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "460",
+      "title": "",
+      "content": "460 [Amendment]"
+    },
+    {
+      "provision_ref": "s461",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "461",
+      "title": "",
+      "content": "461 [Amendment]"
+    },
+    {
+      "provision_ref": "s462",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "462",
+      "title": "",
+      "content": "462 [Amendment]"
+    },
+    {
+      "provision_ref": "s463",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "463",
+      "title": "",
+      "content": "463 [Amendment]"
+    },
+    {
+      "provision_ref": "s464",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "464",
+      "title": "",
+      "content": "464 [Amendment]"
+    },
+    {
+      "provision_ref": "s465",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "465",
+      "title": "",
+      "content": "465 [Amendment]"
+    },
+    {
+      "provision_ref": "s466",
+      "chapter": "DIVISION 24 Old Age Security Act",
+      "section": "466",
+      "title": "",
+      "content": "466 [Amendment] Coming into Force Footnote * 467 (1) The provisions of this Division, other than sections 445 to 448, 451, 452, 461, 464 and 465, come into force on a day or days to be fixed by order of the Governor in Council. (2) Sections 446, 448 and 451 come into force on July 1, 2013. Return to footnote * [Note: Sections 449, 450 and 453 in force March 1, 2013, see SI/2013-18; section 466 in force April 1, 2014, see SI/2014-31; sections 454 to 458 in force November 27, 2017, see SI/2017-67.]"
+    },
+    {
+      "provision_ref": "s468",
+      "chapter": "DIVISION 25 Salaries Act",
+      "section": "468",
+      "title": "July 1, 2013",
+      "content": "468 [Amendment] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s469",
+      "chapter": "DIVISION 25 Salaries Act",
+      "section": "469",
+      "title": "July 1, 2013",
+      "content": "469 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s470",
+      "chapter": "DIVISION 25 Salaries Act",
+      "section": "470",
+      "title": "July 1, 2013",
+      "content": "470 [Amendment]"
+    },
+    {
+      "provision_ref": "s471",
+      "chapter": "DIVISION 25 Salaries Act",
+      "section": "471",
+      "title": "July 1, 2013",
+      "content": "471 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s472",
+      "chapter": "DIVISION 25 Salaries Act",
+      "section": "472",
+      "title": "",
+      "content": "472 [Amendment]"
+    },
+    {
+      "provision_ref": "s473",
+      "chapter": "DIVISION 26 Seeds Act",
+      "section": "473",
+      "title": "",
+      "content": "473 [Amendments]"
+    },
+    {
+      "provision_ref": "s474",
+      "chapter": "DIVISION 26 Seeds Act",
+      "section": "474",
+      "title": "",
+      "content": "474 [Amendment] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s475",
+      "chapter": "DIVISION 26 Seeds Act",
+      "section": "475",
+      "title": "",
+      "content": "475 [Amendments]"
+    },
+    {
+      "provision_ref": "s476",
+      "chapter": "DIVISION 27 Statutory Instruments Act",
+      "section": "476",
+      "title": "",
+      "content": "476 [Amendment]"
+    },
+    {
+      "provision_ref": "s477",
+      "chapter": "DIVISION 27 Statutory Instruments Act",
+      "section": "477",
+      "title": "",
+      "content": "477 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s478",
+      "chapter": "DIVISION 27 Statutory Instruments Act",
+      "section": "478",
+      "title": "Order in council",
+      "content": "478 This Division comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Division 27 in force April 1, 2014, see SI/2014-17.]"
+    },
+    {
+      "provision_ref": "s479",
+      "chapter": "DIVISION 28 Investment Canada Act",
+      "section": "479",
+      "title": "Order in council",
+      "content": "479 [Amendment]"
+    },
+    {
+      "provision_ref": "s480",
+      "chapter": "DIVISION 28 Investment Canada Act",
+      "section": "480",
+      "title": "Order in council",
+      "content": "480 [Amendments]"
+    },
+    {
+      "provision_ref": "s481",
+      "chapter": "DIVISION 29 Customs Act",
+      "section": "481",
+      "title": "Order in council",
+      "content": "481 [Amendment]"
+    },
+    {
+      "provision_ref": "s482",
+      "chapter": "DIVISION 29 Customs Act",
+      "section": "482",
+      "title": "Order in council",
+      "content": "482 [Amendment]"
+    },
+    {
+      "provision_ref": "s483",
+      "chapter": "DIVISION 30 Pension Benefits Standards Act, 1985",
+      "section": "483",
+      "title": "2010, c. 12, s. 1820(12)",
+      "content": "483 Subsections 39(2) and (3) of the Pension Benefits Standards Act, 1985 are deemed to have come into force on July 27, 2004."
+    },
+    {
+      "provision_ref": "s484",
+      "chapter": "DIVISION 31 Railway Safety Act",
+      "section": "484",
+      "title": "2010, c. 12, s. 1820(12)",
+      "content": "484 [Amendments]"
+    },
+    {
+      "provision_ref": "s485",
+      "chapter": "DIVISION 31 Railway Safety Act",
+      "section": "485",
+      "title": "2010, c. 12, s. 1820(12)",
+      "content": "485 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s486",
+      "chapter": "DIVISION 31 Railway Safety Act",
+      "section": "486",
+      "title": "April 1, 2013",
+      "content": "486 This Division comes into force on April 1, 2013."
+    },
+    {
+      "provision_ref": "s487",
+      "chapter": "DIVISION 32 Canadian International Trade Tribunal Act",
+      "section": "487",
+      "title": "April 1, 2013",
+      "content": "487 [Amendment]"
+    },
+    {
+      "provision_ref": "s488",
+      "chapter": "DIVISION 32 Canadian International Trade Tribunal Act",
+      "section": "488",
+      "title": "April 1, 2013",
+      "content": "488 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s489",
+      "chapter": "DIVISION 32 Canadian International Trade Tribunal Act",
+      "section": "489",
+      "title": "February 1, 2014",
+      "content": "489 This Division comes into force on February 1, 2014."
+    },
+    {
+      "provision_ref": "s490",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "490",
+      "title": "February 1, 2014",
+      "content": "490 [Amendment] Interpretation"
+    },
+    {
+      "provision_ref": "s491",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "491",
+      "title": "Definitions",
+      "content": "491 In this Division, Board , Centre , Chairman , director , Minister and President have the same meanings as in subsection 2(1) of the International Centre for Human Rights and Democratic Development Act . Closing Out of Affairs"
+    },
+    {
+      "provision_ref": "s492",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "492",
+      "title": "Application",
+      "content": "492 Sections 493 to 495 apply despite any provision of the International Centre for Human Rights and Democratic Development Act ."
+    },
+    {
+      "provision_ref": "s493",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "493",
+      "title": "Number of directors",
+      "content": "493 (1) The Board may consist of fewer than 13 directors. (2) The Board is not permitted to appoint directors under subsection 10(2) of the International Centre for Human Rights and Democratic Development Act . (3) Five directors constitute a quorum at any meeting of the Board. (4) Despite the provisions of any contract, agreement or order, no person appointed to hold office as a director, other than the President, has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office by the operation of this Division."
+    },
+    {
+      "provision_ref": "s494",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "494",
+      "title": "Disposal of assets",
+      "content": "494 (1) The Centre is authorized to sell or otherwise dispose of all or substantially all of its assets and do everything necessary for or incidental to closing out its affairs. (2) The Centre must apply any proceeds from the disposal of its assets in satisfaction of its debts and liabilities. (3) The Minister may give directions to the Centre to do anything that in his or her opinion is necessary (a) in respect of the exercise of its powers under subsection 5(1) of the International Centre for Human Rights and Democratic Development Act ; and (b) to sell or otherwise dispose of all or substantially all of its assets, satisfy its debts and liabilities, manage its expenses or otherwise close out its affairs. (4) The Centre must comply with the directions."
+    },
+    {
+      "provision_ref": "s495",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "495",
+      "title": "Transfer of records",
+      "content": "495 The President must transfer to the Department of Foreign Affairs, Trade and Development the following items, including any electronic versions of them: (a) the books of account and other financial records, as well as any information that the Centre collected in order to produce them; and (b) any studies that the Centre has under its control, and any other information that it has collected through research. Previous Version Transitional Provisions"
+    },
+    {
+      "provision_ref": "s496",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "496",
+      "title": "References",
+      "content": "496 Every reference to the Centre in a deed, contract or other document executed by the Centre in its own name is to be read, unless the context otherwise requires, as a reference to Her Majesty in right of Canada."
+    },
+    {
+      "provision_ref": "s497",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "497",
+      "title": "Surplus",
+      "content": "497 (1) Any surplus that remains after the satisfaction of the Centre’s debts and liabilities belongs to Her Majesty in right of Canada. (2) Any of the Centre’s debts and liabilities that remain unsatisfied on the day on which this subsection comes into force become the debts and liabilities of Her Majesty in right of Canada."
+    },
+    {
+      "provision_ref": "s498",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "498",
+      "title": "Commencement of legal proceedings",
+      "content": "498 (1) Any action, suit or other legal proceeding in respect of an obligation or liability incurred by the Centre may be brought against Her Majesty in right of Canada in any court that would have had jurisdiction if the action, suit or other legal proceeding had been brought against the Centre. (2) Any action, suit or other legal proceeding to which the Centre is a party that is pending in a court on the coming into force of this subsection may be continued by or against Her Majesty in right of Canada in the same manner and to the same extent as it could have been continued by or against the Centre."
+    },
+    {
+      "provision_ref": "s499",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "499",
+      "title": "Auditor",
+      "content": "499 After the closing out of the Centre’s affairs, its accounts and financial transactions shall be audited by the Auditor General of Canada, and a report of the audit shall be made to the Minister."
+    },
+    {
+      "provision_ref": "s500",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "500",
+      "title": "Report to Parliament",
+      "content": "500 The Minister shall prepare a report, containing the Centre’s financial statements and the Auditor General’s report, within four months after this section comes into force, and shall cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the report is completed. Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s501",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "501",
+      "title": "Report to Parliament",
+      "content": "501 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s502",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "502",
+      "title": "Report to Parliament",
+      "content": "502 [Amendment] Public Service Superannuation Act"
+    },
+    {
+      "provision_ref": "s503",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "503",
+      "title": "Report to Parliament",
+      "content": "503 [Amendment] Repeal"
+    },
+    {
+      "provision_ref": "s504",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "504",
+      "title": "Report to Parliament",
+      "content": "504 [Repeal] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s505",
+      "chapter": "DIVISION 33 International Centre for Human Rights and Democratic Development Act",
+      "section": "505",
+      "title": "Order in council",
+      "content": "505 Sections 496 to 504 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 496 to 504 in force July 27, 2012, see SI/2012-61.]"
+    },
+    {
+      "provision_ref": "s506",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "506",
+      "title": "Order in council",
+      "content": "506 [Amendment]"
+    },
+    {
+      "provision_ref": "s507",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "507",
+      "title": "Order in council",
+      "content": "507 [Amendment]"
+    },
+    {
+      "provision_ref": "s508",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "508",
+      "title": "Order in council",
+      "content": "508 [Amendment]"
+    },
+    {
+      "provision_ref": "s509",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "509",
+      "title": "Order in council",
+      "content": "509 [Amendment]"
+    },
+    {
+      "provision_ref": "s510",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "510",
+      "title": "Order in council",
+      "content": "510 [Amendment]"
+    },
+    {
+      "provision_ref": "s511",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "511",
+      "title": "Order in council",
+      "content": "511 [Amendments]"
+    },
+    {
+      "provision_ref": "s512",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "512",
+      "title": "Order in council",
+      "content": "512 [Amendments]"
+    },
+    {
+      "provision_ref": "s513",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "513",
+      "title": "",
+      "content": "513 [Amendment]"
+    },
+    {
+      "provision_ref": "s514",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "514",
+      "title": "",
+      "content": "514 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s515",
+      "chapter": "DIVISION 34 Health of Animals Act",
+      "section": "515",
+      "title": "January 1, 2013 or royal assent",
+      "content": "515 This Division comes into force on January 1, 2013 or, if it is later, on the day on which this Act receives royal assent."
+    },
+    {
+      "provision_ref": "s516",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "516",
+      "title": "January 1, 2013 or royal assent",
+      "content": "516 [Amendment]"
+    },
+    {
+      "provision_ref": "s517",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "517",
+      "title": "January 1, 2013 or royal assent",
+      "content": "517 [Amendment]"
+    },
+    {
+      "provision_ref": "s518",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "518",
+      "title": "January 1, 2013 or royal assent",
+      "content": "518 [Amendment]"
+    },
+    {
+      "provision_ref": "s519",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "519",
+      "title": "January 1, 2013 or royal assent",
+      "content": "519 [Amendment]"
+    },
+    {
+      "provision_ref": "s520",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "520",
+      "title": "January 1, 2013 or royal assent",
+      "content": "520 [Amendment]"
+    },
+    {
+      "provision_ref": "s521",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "521",
+      "title": "January 1, 2013 or royal assent",
+      "content": "521 [Amendment]"
+    },
+    {
+      "provision_ref": "s522",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "522",
+      "title": "January 1, 2013 or royal assent",
+      "content": "522 [Amendment] Consequential Amendments to the Financial Administration Act"
+    },
+    {
+      "provision_ref": "s523",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "523",
+      "title": "January 1, 2013 or royal assent",
+      "content": "523 [Amendment]"
+    },
+    {
+      "provision_ref": "s524",
+      "chapter": "DIVISION 35 Canada School of Public Service Act",
+      "section": "524",
+      "title": "",
+      "content": "524 [Amendment]"
+    },
+    {
+      "provision_ref": "s525",
+      "chapter": "DIVISION 36 Bank Act",
+      "section": "525",
+      "title": "",
+      "content": "525 [Amendment]"
+    },
+    {
+      "provision_ref": "s526",
+      "chapter": "DIVISION 37 Corrections and Conditional Release Act",
+      "section": "526",
+      "title": "",
+      "content": "526 [Amendment]"
+    },
+    {
+      "provision_ref": "s527",
+      "chapter": "DIVISION 37 Corrections and Conditional Release Act",
+      "section": "527",
+      "title": "",
+      "content": "527 [Amendment] Transitional Provision"
+    },
+    {
+      "provision_ref": "s528",
+      "chapter": "DIVISION 37 Corrections and Conditional Release Act",
+      "section": "528",
+      "title": "",
+      "content": "528 [Transitional Provision] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s529",
+      "chapter": "DIVISION 37 Corrections and Conditional Release Act",
+      "section": "529",
+      "title": "",
+      "content": "529 [Amendments] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s530",
+      "chapter": "DIVISION 37 Corrections and Conditional Release Act",
+      "section": "530",
+      "title": "Order in council",
+      "content": "530 Sections 526 to 528 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 526 to 528 in force December 1, 2012, see SI/2012-88.]"
+    },
+    {
+      "provision_ref": "s531",
+      "chapter": "DIVISION 38 Coasting Trade Act",
+      "section": "531",
+      "title": "Order in council",
+      "content": "531 [Amendment]"
+    },
+    {
+      "provision_ref": "s532",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "532",
+      "title": "Order in council",
+      "content": "532 [Amendments]"
+    },
+    {
+      "provision_ref": "s533",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "533",
+      "title": "Order in council",
+      "content": "533 [Amendment]"
+    },
+    {
+      "provision_ref": "s534",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "534",
+      "title": "Order in council",
+      "content": "534 [Amendment]"
+    },
+    {
+      "provision_ref": "s535",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "535",
+      "title": "Order in council",
+      "content": "535 [Amendments]"
+    },
+    {
+      "provision_ref": "s536",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "536",
+      "title": "",
+      "content": "536 [Amendments]"
+    },
+    {
+      "provision_ref": "s537",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "537",
+      "title": "",
+      "content": "537 [Amendment]"
+    },
+    {
+      "provision_ref": "s538",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "538",
+      "title": "",
+      "content": "538 [Amendment]"
+    },
+    {
+      "provision_ref": "s539",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "539",
+      "title": "",
+      "content": "539 [Amendment]"
+    },
+    {
+      "provision_ref": "s540",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "540",
+      "title": "",
+      "content": "540 [Amendment]"
+    },
+    {
+      "provision_ref": "s541",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "541",
+      "title": "",
+      "content": "541 [Amendment]"
+    },
+    {
+      "provision_ref": "s542",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "542",
+      "title": "",
+      "content": "542 [Amendments]"
+    },
+    {
+      "provision_ref": "s543",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "543",
+      "title": "",
+      "content": "543 [Amendments]"
+    },
+    {
+      "provision_ref": "s544",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "544",
+      "title": "",
+      "content": "544 [Amendment]"
+    },
+    {
+      "provision_ref": "s545",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "545",
+      "title": "",
+      "content": "545 [Amendments]"
+    },
+    {
+      "provision_ref": "s546",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "546",
+      "title": "",
+      "content": "546 [Amendment]"
+    },
+    {
+      "provision_ref": "s547",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "547",
+      "title": "",
+      "content": "547 [Amendment]"
+    },
+    {
+      "provision_ref": "s548",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "548",
+      "title": "",
+      "content": "548 [Amendment]"
+    },
+    {
+      "provision_ref": "s549",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "549",
+      "title": "",
+      "content": "549 [Amendment]"
+    },
+    {
+      "provision_ref": "s550",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "550",
+      "title": "",
+      "content": "550 [Amendment]"
+    },
+    {
+      "provision_ref": "s551",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "551",
+      "title": "",
+      "content": "551 [Amendments]"
+    },
+    {
+      "provision_ref": "s552",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "552",
+      "title": "",
+      "content": "552 [Amendment]"
+    },
+    {
+      "provision_ref": "s553",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "553",
+      "title": "",
+      "content": "553 [Amendment]"
+    },
+    {
+      "provision_ref": "s554",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "554",
+      "title": "",
+      "content": "554 [Amendment]"
+    },
+    {
+      "provision_ref": "s555",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "555",
+      "title": "",
+      "content": "555 [Amendment]"
+    },
+    {
+      "provision_ref": "s556",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "556",
+      "title": "",
+      "content": "556 [Amendments]"
+    },
+    {
+      "provision_ref": "s557",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "557",
+      "title": "",
+      "content": "557 [Amendments]"
+    },
+    {
+      "provision_ref": "s558",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "558",
+      "title": "",
+      "content": "558 [Amendment]"
+    },
+    {
+      "provision_ref": "s559",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "559",
+      "title": "",
+      "content": "559 [Amendment]"
+    },
+    {
+      "provision_ref": "s560",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "560",
+      "title": "",
+      "content": "560 [Amendment]"
+    },
+    {
+      "provision_ref": "s561",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "561",
+      "title": "",
+      "content": "561 [Amendment]"
+    },
+    {
+      "provision_ref": "s562",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "562",
+      "title": "",
+      "content": "562 [Amendment]"
+    },
+    {
+      "provision_ref": "s563",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "563",
+      "title": "",
+      "content": "563 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s564",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "564",
+      "title": "",
+      "content": "564 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s565",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "565",
+      "title": "",
+      "content": "565 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s566",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "566",
+      "title": "",
+      "content": "566 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s567",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "567",
+      "title": "",
+      "content": "567 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s568",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "568",
+      "title": "",
+      "content": "568 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s569",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "569",
+      "title": "",
+      "content": "569 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s570",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "570",
+      "title": "",
+      "content": "570 [Transitional Provision] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s571",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "571",
+      "title": "",
+      "content": "571 [Amendment] Federal Courts Act"
+    },
+    {
+      "provision_ref": "s572",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "572",
+      "title": "",
+      "content": "572 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s573",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "573",
+      "title": "",
+      "content": "573 [Amendment]"
+    },
+    {
+      "provision_ref": "s574",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "574",
+      "title": "",
+      "content": "574 [Amendment]"
+    },
+    {
+      "provision_ref": "s575",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "575",
+      "title": "",
+      "content": "575 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s576",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "576",
+      "title": "",
+      "content": "576 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s577",
+      "chapter": "DIVISION 39 Status of the Artist Act",
+      "section": "577",
+      "title": "Order in council",
+      "content": "577 This Division comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Division 39 in force April 1, 2013, see SI/2013-37.]"
+    },
+    {
+      "provision_ref": "s578",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "578",
+      "title": "Order in council",
+      "content": "578 [Amendment] Transitional Provisions Definition of Round Table"
+    },
+    {
+      "provision_ref": "s579",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "579",
+      "title": "Order in council",
+      "content": "579 For the purpose of sections 580 to 585, Round Table means the National Round Table on the Environment and the Economy established by section 3 of the National Round Table on the Environment and the Economy Act ."
+    },
+    {
+      "provision_ref": "s580",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "580",
+      "title": "Appointments terminated",
+      "content": "580 (1) Members of the Round Table appointed under subsection 6(1) or (2) of the National Round Table on the Environment and the Economy Act cease to hold office on the coming into force of this subsection. (2) Despite the provisions of any contract, agreement or order, no person appointed to hold office as a member of the Round Table has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office by the operation of this Division."
+    },
+    {
+      "provision_ref": "s581",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "581",
+      "title": "References",
+      "content": "581 Every reference to the Round Table in a deed, contract, agreement or other document executed by the Round Table in its own name is to be read as a reference to Her Majesty in right of Canada, unless the context requires otherwise."
+    },
+    {
+      "provision_ref": "s582",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "582",
+      "title": "Surplus",
+      "content": "582 Any surplus that remains after the satisfaction of the debts and liabilities of the Round Table on the day on which section 593 comes into force belongs to Her Majesty in right of Canada."
+    },
+    {
+      "provision_ref": "s583",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "583",
+      "title": "Unsatisfied debts and liabilities",
+      "content": "583 Any debts and liabilities of the Round Table that remain unsatisfied on the day on which section 593 comes into force become the debts and liabilities of Her Majesty in right of Canada."
+    },
+    {
+      "provision_ref": "s584",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "584",
+      "title": "Commencement of legal proceedings",
+      "content": "584 Any action, suit or other legal proceeding in respect of an obligation or liability incurred by the Round Table may be brought against Her Majesty in right of Canada in any court that would have had jurisdiction if the action, suit or other legal proceeding had been brought against the Round Table."
+    },
+    {
+      "provision_ref": "s585",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "585",
+      "title": "Continuation of legal proceedings",
+      "content": "585 Any action, suit or other legal proceeding to which the Round Table is a party that is pending in any court immediately before the day on which section 593 comes into force may be continued by or against Her Majesty in right of Canada in like manner and to the same extent as it could have been continued by or against the Round Table. Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s586",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "586",
+      "title": "Continuation of legal proceedings",
+      "content": "586 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s587",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "587",
+      "title": "Continuation of legal proceedings",
+      "content": "587 [Amendment]"
+    },
+    {
+      "provision_ref": "s588",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "588",
+      "title": "Continuation of legal proceedings",
+      "content": "588 [Amendment]"
+    },
+    {
+      "provision_ref": "s589",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "589",
+      "title": "Continuation of legal proceedings",
+      "content": "589 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s590",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "590",
+      "title": "Continuation of legal proceedings",
+      "content": "590 [Amendment] Public Service Superannuation Act"
+    },
+    {
+      "provision_ref": "s591",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "591",
+      "title": "",
+      "content": "591 [Amendment] Public Sector Compensation Act"
+    },
+    {
+      "provision_ref": "s592",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "592",
+      "title": "",
+      "content": "592 [Amendment] Repeal"
+    },
+    {
+      "provision_ref": "s593",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "593",
+      "title": "",
+      "content": "593 [Repeal] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s594",
+      "chapter": "DIVISION 40 National Round Table on the Environment and the Economy Act",
+      "section": "594",
+      "title": "Order in council",
+      "content": "594 Sections 579 to 593 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 579 to 593 in force April 1, 2013, see SI/2013-36.]"
+    },
+    {
+      "provision_ref": "s595",
+      "chapter": "DIVISION 41 Telecommunications Act",
+      "section": "595",
+      "title": "Order in council",
+      "content": "595 [Amendments]"
+    },
+    {
+      "provision_ref": "s596",
+      "chapter": "DIVISION 41 Telecommunications Act",
+      "section": "596",
+      "title": "Order in council",
+      "content": "596 [Amendment]"
+    },
+    {
+      "provision_ref": "s597",
+      "chapter": "DIVISION 41 Telecommunications Act",
+      "section": "597",
+      "title": "Order in council",
+      "content": "597 [Amendment]"
+    },
+    {
+      "provision_ref": "s598",
+      "chapter": "DIVISION 41 Telecommunications Act",
+      "section": "598",
+      "title": "Order in council",
+      "content": "598 [Amendment]"
+    },
+    {
+      "provision_ref": "s599",
+      "chapter": "DIVISION 41 Telecommunications Act",
+      "section": "599",
+      "title": "Order in council",
+      "content": "599 [Amendment]"
+    },
+    {
+      "provision_ref": "s600",
+      "chapter": "DIVISION 41 Telecommunications Act",
+      "section": "600",
+      "title": "Order in council",
+      "content": "600 [Amendment] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s601",
+      "chapter": "DIVISION 41 Telecommunications Act",
+      "section": "601",
+      "title": "",
+      "content": "601 [Amendments]"
+    },
+    {
+      "provision_ref": "s602",
+      "chapter": "DIVISION 42 Employment Equity Act",
+      "section": "602",
+      "title": "",
+      "content": "602 [Amendment]"
+    },
+    {
+      "provision_ref": "s603",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "603",
+      "title": "",
+      "content": "603 [Amendments]"
+    },
+    {
+      "provision_ref": "s604",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "604",
+      "title": "",
+      "content": "604 [Amendment]"
+    },
+    {
+      "provision_ref": "s605",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "605",
+      "title": "",
+      "content": "605 [Amendment]"
+    },
+    {
+      "provision_ref": "s606",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "606",
+      "title": "",
+      "content": "606 [Amendment]"
+    },
+    {
+      "provision_ref": "s607",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "607",
+      "title": "",
+      "content": "607 [Amendment]"
+    },
+    {
+      "provision_ref": "s608",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "608",
+      "title": "",
+      "content": "608 [Amendments]"
+    },
+    {
+      "provision_ref": "s609",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "609",
+      "title": "",
+      "content": "609 (1) [Amendment] (2) [Repealed, 2013, c. 40, s. 139] (3) to (5) [Amendments] (6) [Repealed, 2013, c. 40, s. 139] (7) [Amendment] Previous Version"
+    },
+    {
+      "provision_ref": "s610",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "610",
+      "title": "",
+      "content": "610 (1) [Amendment] (2) [Repealed, 2013, c. 40, s. 140] Previous Version"
+    },
+    {
+      "provision_ref": "s611",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "611",
+      "title": "",
+      "content": "611 (1) [Amendment] (2) [Repealed, 2013, c. 40, s. 141] Previous Version"
+    },
+    {
+      "provision_ref": "s612",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "612",
+      "title": "",
+      "content": "612 [Amendments]"
+    },
+    {
+      "provision_ref": "s613",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "613",
+      "title": "",
+      "content": "613 [Amendment]"
+    },
+    {
+      "provision_ref": "s614",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "614",
+      "title": "",
+      "content": "614 [Amendments]"
+    },
+    {
+      "provision_ref": "s615",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "615",
+      "title": "",
+      "content": "615 [Amendments] Transitional Provision"
+    },
+    {
+      "provision_ref": "s616",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "616",
+      "title": "",
+      "content": "616 [Transitional Provision] Consequential Amendments to the Canada Employment Insurance Financing Board Act"
+    },
+    {
+      "provision_ref": "s617",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "617",
+      "title": "",
+      "content": "617 [Amendment]"
+    },
+    {
+      "provision_ref": "s618",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "618",
+      "title": "",
+      "content": "618 [Amendments] Coming into Force"
+    },
+    {
+      "provision_ref": "s619",
+      "chapter": "DIVISION 43 Employment Insurance Act",
+      "section": "619",
+      "title": "April 7, 2013",
+      "content": "619 (1) Section 604 and subsections 608(2) and (3) come into force on April 7, 2013. Footnote * (2) Sections 605 and 607 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 605 and 607 in force January 6, 2013, see SI/2012-98.] (3) [Repealed, 2013, c. 40, s. 142] Previous Version"
+    },
+    {
+      "provision_ref": "s620",
+      "chapter": "DIVISION 44 Customs Tariff",
+      "section": "620",
+      "title": "Order in council",
+      "content": "620 [Amendment]"
+    },
+    {
+      "provision_ref": "s621",
+      "chapter": "DIVISION 44 Customs Tariff",
+      "section": "621",
+      "title": "Order in council",
+      "content": "621 [Amendment]"
+    },
+    {
+      "provision_ref": "s622",
+      "chapter": "DIVISION 44 Customs Tariff",
+      "section": "622",
+      "title": "Order in council",
+      "content": "622 [Amendment]"
+    },
+    {
+      "provision_ref": "s623",
+      "chapter": "DIVISION 44 Customs Tariff",
+      "section": "623",
+      "title": "Order in council",
+      "content": "623 [Amendment]"
+    },
+    {
+      "provision_ref": "s624",
+      "chapter": "DIVISION 44 Customs Tariff",
+      "section": "624",
+      "title": "",
+      "content": "624 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s625",
+      "chapter": "DIVISION 44 Customs Tariff",
+      "section": "625",
+      "title": "March 30, 2012",
+      "content": "625 (1) Sections 620 and 621 are deemed to have come into force on March 30, 2012. (2) Sections 622 to 624 come into force on June 1, 2012."
+    },
+    {
+      "provision_ref": "s626",
+      "chapter": "DIVISION 45 Canada Marine Act",
+      "section": "626",
+      "title": "June 1, 2012",
+      "content": "626 [Amendment]"
+    },
+    {
+      "provision_ref": "s627",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "627",
+      "title": "June 1, 2012",
+      "content": "627 [Amendment]"
+    },
+    {
+      "provision_ref": "s628",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "628",
+      "title": "June 1, 2012",
+      "content": "628 [Amendment]"
+    },
+    {
+      "provision_ref": "s629",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "629",
+      "title": "June 1, 2012",
+      "content": "629 [Amendment]"
+    },
+    {
+      "provision_ref": "s630",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "630",
+      "title": "June 1, 2012",
+      "content": "630 [Amendments]"
+    },
+    {
+      "provision_ref": "s631",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "631",
+      "title": "June 1, 2012",
+      "content": "631 [Amendment]"
+    },
+    {
+      "provision_ref": "s632",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "632",
+      "title": "June 1, 2012",
+      "content": "632 [Amendment]"
+    },
+    {
+      "provision_ref": "s633",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "633",
+      "title": "June 1, 2012",
+      "content": "633 [Amendment]"
+    },
+    {
+      "provision_ref": "s634",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "634",
+      "title": "June 1, 2012",
+      "content": "634 [Amendment]"
+    },
+    {
+      "provision_ref": "s635",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "635",
+      "title": "June 1, 2012",
+      "content": "635 [Amendment]"
+    },
+    {
+      "provision_ref": "s636",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "636",
+      "title": "",
+      "content": "636 [Amendment]"
+    },
+    {
+      "provision_ref": "s637",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "637",
+      "title": "",
+      "content": "637 [Amendment]"
+    },
+    {
+      "provision_ref": "s638",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "638",
+      "title": "",
+      "content": "638 [Amendment]"
+    },
+    {
+      "provision_ref": "s639",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "639",
+      "title": "",
+      "content": "639 [Amendment]"
+    },
+    {
+      "provision_ref": "s640",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "640",
+      "title": "",
+      "content": "640 [Amendment]"
+    },
+    {
+      "provision_ref": "s641",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "641",
+      "title": "",
+      "content": "641 [Amendment]"
+    },
+    {
+      "provision_ref": "s642",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "642",
+      "title": "",
+      "content": "642 [Amendment]"
+    },
+    {
+      "provision_ref": "s643",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "643",
+      "title": "",
+      "content": "643 [Amendment]"
+    },
+    {
+      "provision_ref": "s644",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "644",
+      "title": "",
+      "content": "644 [Amendment]"
+    },
+    {
+      "provision_ref": "s645",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "645",
+      "title": "",
+      "content": "645 [Amendment]"
+    },
+    {
+      "provision_ref": "s646",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "646",
+      "title": "",
+      "content": "646 [Amendment]"
+    },
+    {
+      "provision_ref": "s647",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "647",
+      "title": "",
+      "content": "647 [Amendment]"
+    },
+    {
+      "provision_ref": "s648",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "648",
+      "title": "",
+      "content": "648 [Amendment]"
+    },
+    {
+      "provision_ref": "s649",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "649",
+      "title": "",
+      "content": "649 [Amendment]"
+    },
+    {
+      "provision_ref": "s650",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "650",
+      "title": "",
+      "content": "650 [Amendment]"
+    },
+    {
+      "provision_ref": "s651",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "651",
+      "title": "",
+      "content": "651 [Amendment]"
+    },
+    {
+      "provision_ref": "s652",
+      "chapter": "DIVISION 46 First Nations Land Management Act",
+      "section": "652",
+      "title": "",
+      "content": "652 [Amendments]"
+    },
+    {
+      "provision_ref": "s653",
+      "chapter": "DIVISION 47 Canada Travelling Exhibitions Indemnification Act",
+      "section": "653",
+      "title": "",
+      "content": "653 [Amendment]"
+    },
+    {
+      "provision_ref": "s654",
+      "chapter": "DIVISION 48 Canadian Air Transport Security Authority Act",
+      "section": "654",
+      "title": "",
+      "content": "654 [Amendment]"
+    },
+    {
+      "provision_ref": "s655",
+      "chapter": "DIVISION 48 Canadian Air Transport Security Authority Act",
+      "section": "655",
+      "title": "",
+      "content": "655 [Amendment]"
+    },
+    {
+      "provision_ref": "s656",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "656",
+      "title": "",
+      "content": "656 [Amendment]"
+    },
+    {
+      "provision_ref": "s657",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "657",
+      "title": "",
+      "content": "657 [Amendments]"
+    },
+    {
+      "provision_ref": "s658",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "658",
+      "title": "",
+      "content": "658 [Amendment]"
+    },
+    {
+      "provision_ref": "s659",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "659",
+      "title": "",
+      "content": "659 [Amendments]"
+    },
+    {
+      "provision_ref": "s660",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "660",
+      "title": "",
+      "content": "660 [Amendment]"
+    },
+    {
+      "provision_ref": "s661",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "661",
+      "title": "",
+      "content": "661 [Amendments]"
+    },
+    {
+      "provision_ref": "s662",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "662",
+      "title": "",
+      "content": "662 [Amendment]"
+    },
+    {
+      "provision_ref": "s663",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "663",
+      "title": "",
+      "content": "663 [Amendment]"
+    },
+    {
+      "provision_ref": "s664",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "664",
+      "title": "",
+      "content": "664 [Amendment]"
+    },
+    {
+      "provision_ref": "s665",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "665",
+      "title": "",
+      "content": "665 [Amendment]"
+    },
+    {
+      "provision_ref": "s666",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "666",
+      "title": "",
+      "content": "666 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s667",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "667",
+      "title": "",
+      "content": "667 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s668",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "668",
+      "title": "",
+      "content": "668 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s669",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "669",
+      "title": "",
+      "content": "669 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s670",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "670",
+      "title": "",
+      "content": "670 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s671",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "671",
+      "title": "",
+      "content": "671 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s672",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "672",
+      "title": "",
+      "content": "672 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s673",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "673",
+      "title": "",
+      "content": "673 [Transitional Provision] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s674",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "674",
+      "title": "",
+      "content": "674 [Amendment]"
+    },
+    {
+      "provision_ref": "s675",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "675",
+      "title": "",
+      "content": "675 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s676",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "676",
+      "title": "",
+      "content": "676 [Amendment] Indian Act"
+    },
+    {
+      "provision_ref": "s677",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "677",
+      "title": "",
+      "content": "677 [Amendment]"
+    },
+    {
+      "provision_ref": "s678",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "678",
+      "title": "",
+      "content": "678 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s679",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "679",
+      "title": "",
+      "content": "679 [Amendment] Westbank First Nation Self-Government Act"
+    },
+    {
+      "provision_ref": "s680",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "680",
+      "title": "",
+      "content": "680 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s681",
+      "chapter": "DIVISION 49 First Nations Fiscal and Statistical Management Act",
+      "section": "681",
+      "title": "Order in council",
+      "content": "681 This Division comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Division 49 in force April 1, 2013, see SI/2013-38.]"
+    },
+    {
+      "provision_ref": "s682",
+      "chapter": "DIVISION 50 [Repealed before coming into force, 2017, c. 20, s. 297]",
+      "section": "682",
+      "title": "Order in council",
+      "content": "682 [Repealed before coming into force, 2017, c. 20, s. 297] Previous Version"
+    },
+    {
+      "provision_ref": "s683",
+      "chapter": "DIVISION 50 [Repealed before coming into force, 2017, c. 20, s. 297]",
+      "section": "683",
+      "title": "Order in council",
+      "content": "683 [Repealed before coming into force, 2017, c. 20, s. 297] Previous Version"
+    },
+    {
+      "provision_ref": "s684",
+      "chapter": "DIVISION 50 [Repealed before coming into force, 2017, c. 20, s. 297]",
+      "section": "684",
+      "title": "Order in council",
+      "content": "684 [Repealed, 2017, c. 20, s. 297] Previous Version"
+    },
+    {
+      "provision_ref": "s685",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "685",
+      "title": "",
+      "content": "685 [Repeal] National Council of Welfare"
+    },
+    {
+      "provision_ref": "s686",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "686",
+      "title": "National Council of Welfare",
+      "content": "686 (1) Members of the National Council of Welfare cease to hold office on the coming into force of this subsection. (2) Despite the provisions of any contract, agreement or order, no person appointed to hold office as a member of the National Council of Welfare has any right to claim or receive any compensation, damages, indemnity or other form of relief from Her Majesty in right of Canada or from any employee or agent of Her Majesty for ceasing to hold that office or for the abolition of that office by the operation of this Division. Related Amendment to the Department of Human Resources and Skills Development Act"
+    },
+    {
+      "provision_ref": "s687",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "687",
+      "title": "Former members not entitled to relief",
+      "content": "687 [Amendment] Consequential Amendments Financial Administration Act"
+    },
+    {
+      "provision_ref": "s688",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "688",
+      "title": "Former members not entitled to relief",
+      "content": "688 [Amendment]"
+    },
+    {
+      "provision_ref": "s689",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "689",
+      "title": "Former members not entitled to relief",
+      "content": "689 [Amendment] Salaries Act"
+    },
+    {
+      "provision_ref": "s690",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "690",
+      "title": "Former members not entitled to relief",
+      "content": "690 [Amendment]"
+    },
+    {
+      "provision_ref": "s691",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "691",
+      "title": "Former members not entitled to relief",
+      "content": "691 [Amendment] Income Tax Act"
+    },
+    {
+      "provision_ref": "s692",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "692",
+      "title": "",
+      "content": "692 [Amendment] Public Sector Compensation Act"
+    },
+    {
+      "provision_ref": "s693",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "693",
+      "title": "",
+      "content": "693 [Amendment] Terminology Changes"
+    },
+    {
+      "provision_ref": "s694",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "694",
+      "title": "",
+      "content": "694 [Amendments]"
+    },
+    {
+      "provision_ref": "s695",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "695",
+      "title": "",
+      "content": "695 [Amendments] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s696",
+      "chapter": "DIVISION 51 Repeal of the Department Of Social Development Act",
+      "section": "696",
+      "title": "Order in council",
+      "content": "696 Sections 685 to 695 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 686 in force July 27, 2012, see SI/2012-61; sections 685 and 687 to 695 in force March 1, 2013, see SI/2013-17.]"
+    },
+    {
+      "provision_ref": "s697",
+      "chapter": "DIVISION 52 Wage Earner Protection Program Act",
+      "section": "697",
+      "title": "Order in council",
+      "content": "697 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s698",
+      "chapter": "DIVISION 52 Wage Earner Protection Program Act",
+      "section": "698",
+      "title": "December 15, 2011",
+      "content": "698 This Division is deemed to have come into force on December 15, 2011."
+    },
+    {
+      "provision_ref": "s699",
+      "chapter": "DIVISION 53 Kyoto Protocol Implementation Act",
+      "section": "699",
+      "title": "December 15, 2011",
+      "content": "699 [Repeal]"
+    },
+    {
+      "provision_ref": "s700",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "700",
+      "title": "December 15, 2011",
+      "content": "700 [Amendment]"
+    },
+    {
+      "provision_ref": "s701",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "701",
+      "title": "December 15, 2011",
+      "content": "701 [Amendment]"
+    },
+    {
+      "provision_ref": "s702",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "702",
+      "title": "December 15, 2011",
+      "content": "702 [Amendment]"
+    },
+    {
+      "provision_ref": "s703",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "703",
+      "title": "December 15, 2011",
+      "content": "703 [Amendment]"
+    },
+    {
+      "provision_ref": "s704",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "704",
+      "title": "December 15, 2011",
+      "content": "704 [Amendment]"
+    },
+    {
+      "provision_ref": "s705",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "705",
+      "title": "December 15, 2011",
+      "content": "705 [Amendment]"
+    },
+    {
+      "provision_ref": "s706",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "706",
+      "title": "December 15, 2011",
+      "content": "706 [Amendments]"
+    },
+    {
+      "provision_ref": "s707",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "707",
+      "title": "",
+      "content": "707 [Amendment]"
+    },
+    {
+      "provision_ref": "s708",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "708",
+      "title": "",
+      "content": "708 [Amendment] Amendment to the Budget Implementation Act, 2008"
+    },
+    {
+      "provision_ref": "s709",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "709",
+      "title": "",
+      "content": "709 [Amendment] Coordinating Amendments"
+    },
+    {
+      "provision_ref": "s710",
+      "chapter": "DIVISION 54 Immigration and Refugee Protection Act",
+      "section": "710",
+      "title": "",
+      "content": "710 [Amendments]"
+    },
+    {
+      "provision_ref": "s711",
+      "chapter": "DIVISION 55 Shared Services Canada",
+      "section": "711",
+      "title": "Enactment of Act",
+      "content": "711 The Shared Services Canada Act is enacted as follows: [See Shared Services Canada Act ] Consequential Amendment to the Department of Public Works and Government Services Act"
+    },
+    {
+      "provision_ref": "s712",
+      "chapter": "DIVISION 55 Shared Services Canada",
+      "section": "712",
+      "title": "Enactment of Act",
+      "content": "712 [Amendment]"
+    },
+    {
+      "provision_ref": "s713",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "713",
+      "title": "Enactment of Act",
+      "content": "713 [Amendments]"
+    },
+    {
+      "provision_ref": "s714",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "714",
+      "title": "Enactment of Act",
+      "content": "714 [Amendment]"
+    },
+    {
+      "provision_ref": "s715",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "715",
+      "title": "Enactment of Act",
+      "content": "715 [Amendment]"
+    },
+    {
+      "provision_ref": "s716",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "716",
+      "title": "Enactment of Act",
+      "content": "716 [Amendment]"
+    },
+    {
+      "provision_ref": "s717",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "717",
+      "title": "Enactment of Act",
+      "content": "717 [Amendment]"
+    },
+    {
+      "provision_ref": "s718",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "718",
+      "title": "Enactment of Act",
+      "content": "718 [Amendment]"
+    },
+    {
+      "provision_ref": "s719",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "719",
+      "title": "",
+      "content": "719 [Amendments]"
+    },
+    {
+      "provision_ref": "s720",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "720",
+      "title": "",
+      "content": "720 [Amendment]"
+    },
+    {
+      "provision_ref": "s721",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "721",
+      "title": "",
+      "content": "721 [Amendment]"
+    },
+    {
+      "provision_ref": "s722",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "722",
+      "title": "",
+      "content": "722 [Amendment]"
+    },
+    {
+      "provision_ref": "s723",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "723",
+      "title": "",
+      "content": "723 [Amendment]"
+    },
+    {
+      "provision_ref": "s724",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "724",
+      "title": "",
+      "content": "724 [Amendment]"
+    },
+    {
+      "provision_ref": "s725",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "725",
+      "title": "",
+      "content": "725 [Amendments]"
+    },
+    {
+      "provision_ref": "s726",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "726",
+      "title": "",
+      "content": "726 [Amendment]"
+    },
+    {
+      "provision_ref": "s727",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "727",
+      "title": "",
+      "content": "727 [Amendment]"
+    },
+    {
+      "provision_ref": "s728",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "728",
+      "title": "",
+      "content": "728 [Amendments]"
+    },
+    {
+      "provision_ref": "s729",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "729",
+      "title": "",
+      "content": "729 [Amendment]"
+    },
+    {
+      "provision_ref": "s730",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "730",
+      "title": "",
+      "content": "730 [Amendment]"
+    },
+    {
+      "provision_ref": "s731",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "731",
+      "title": "",
+      "content": "731 [Amendment]"
+    },
+    {
+      "provision_ref": "s732",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "732",
+      "title": "",
+      "content": "732 [Amendment]"
+    },
+    {
+      "provision_ref": "s733",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "733",
+      "title": "",
+      "content": "733 [Amendment]"
+    },
+    {
+      "provision_ref": "s734",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "734",
+      "title": "",
+      "content": "734 [Amendment]"
+    },
+    {
+      "provision_ref": "s735",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "735",
+      "title": "",
+      "content": "735 [Amendment]"
+    },
+    {
+      "provision_ref": "s736",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "736",
+      "title": "",
+      "content": "736 [Amendment]"
+    },
+    {
+      "provision_ref": "s737",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "737",
+      "title": "",
+      "content": "737 [Amendments]"
+    },
+    {
+      "provision_ref": "s738",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "738",
+      "title": "",
+      "content": "738 [Amendment]"
+    },
+    {
+      "provision_ref": "s739",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "739",
+      "title": "",
+      "content": "739 [Amendment] Coming into Force of a Provision of the Assisted Human Reproduction Act"
+    },
+    {
+      "provision_ref": "s740",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "740",
+      "title": "Royal assent",
+      "content": "740 Despite section 78 of the Assisted Human Reproduction Act , section 44 of that Act, as amended by section 725 of this Act, comes into force on the day on which this Act receives royal assent. Transitional Provisions"
+    },
+    {
+      "provision_ref": "s741",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "741",
+      "title": "Royal assent",
+      "content": "741 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s742",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "742",
+      "title": "Royal assent",
+      "content": "742 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s743",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "743",
+      "title": "Royal assent",
+      "content": "743 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s744",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "744",
+      "title": "Royal assent",
+      "content": "744 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s745",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "745",
+      "title": "Royal assent",
+      "content": "745 [Transitional Provision] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s746",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "746",
+      "title": "Royal assent",
+      "content": "746 [Amendment]"
+    },
+    {
+      "provision_ref": "s747",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "747",
+      "title": "Royal assent",
+      "content": "747 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s748",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "748",
+      "title": "",
+      "content": "748 [Amendments] Privacy Act"
+    },
+    {
+      "provision_ref": "s749",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "749",
+      "title": "",
+      "content": "749 [Amendment] Public Service Superannuation Act"
+    },
+    {
+      "provision_ref": "s750",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "750",
+      "title": "",
+      "content": "750 [Amendment] Library and Archives of Canada Act"
+    },
+    {
+      "provision_ref": "s751",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "751",
+      "title": "",
+      "content": "751 [Amendment] Human Pathogens and Toxins Act"
+    },
+    {
+      "provision_ref": "s752",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "752",
+      "title": "",
+      "content": "752 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s753",
+      "chapter": "DIVISION 56 Assisted Human Reproduction Act",
+      "section": "753",
+      "title": "Order in council",
+      "content": "753 Footnote * (1) Sections 715 and 716, or any provision enacted by section 716, come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 715 and 716 in force February 4, 2020, see SI/2019-37.] Footnote * (2) Subsection 713(2) and sections 721 to 723, 726 and 741 to 751 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Subsection 713(2) and sections 721 to 723, 726 and 741 to 751 in force September 30, 2012, see SI/2012-75.]"
+    },
+    {
+      "provision_ref": "sched-schedule",
+      "chapter": "SCHEDULE",
+      "section": "SCHEDULE",
+      "title": "SCHEDULE",
+      "content": "SCHEDULE (Section 52) [See Canadian Environmental Assessment Act, 2012 ]"
+    }
+  ],
+  "definitions": []
+}

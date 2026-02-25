@@ -1,0 +1,4719 @@
+{
+  "id": "j-0-7",
+  "type": "statute",
+  "title": "Jobs and Economic Growth Act",
+  "title_en": "Jobs and Economic Growth Act",
+  "short_name": "Jobs and Economic Growth Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/J-0.7/",
+  "description": "Jobs and Economic Growth Act (Jobs and Economic Growth Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Jobs and Economic Growth Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Income Tax Act",
+      "section": "2",
+      "title": "Short title",
+      "content": "2 [Amendment]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Income Tax Act",
+      "section": "3",
+      "title": "Short title",
+      "content": "3 [Amendment]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Income Tax Act",
+      "section": "4",
+      "title": "Short title",
+      "content": "4 [Amendment]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Income Tax Act",
+      "section": "5",
+      "title": "Short title",
+      "content": "5 [Amendment]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Income Tax Act",
+      "section": "6",
+      "title": "Short title",
+      "content": "6 [Amendment]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Income Tax Act",
+      "section": "7",
+      "title": "Short title",
+      "content": "7 [Amendments]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Income Tax Act",
+      "section": "8",
+      "title": "Short title",
+      "content": "8 [Amendments]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Income Tax Act",
+      "section": "9",
+      "title": "Short title",
+      "content": "9 [Amendment]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Income Tax Act",
+      "section": "10",
+      "title": "Short title",
+      "content": "10 [Amendments]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Income Tax Act",
+      "section": "11",
+      "title": "Short title",
+      "content": "11 [Amendment]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Income Tax Act",
+      "section": "12",
+      "title": "",
+      "content": "12 [Amendment]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Income Tax Act",
+      "section": "13",
+      "title": "",
+      "content": "13 [Amendment]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Income Tax Act",
+      "section": "14",
+      "title": "",
+      "content": "14 [Amendments]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Income Tax Act",
+      "section": "15",
+      "title": "",
+      "content": "15 [Amendment]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Income Tax Act",
+      "section": "16",
+      "title": "",
+      "content": "16 [Amendments]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Income Tax Act",
+      "section": "17",
+      "title": "",
+      "content": "17 [Amendments]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Income Tax Act",
+      "section": "18",
+      "title": "",
+      "content": "18 [Amendment]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Income Tax Act",
+      "section": "19",
+      "title": "",
+      "content": "19 [Amendment]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Income Tax Act",
+      "section": "20",
+      "title": "",
+      "content": "20 [Amendment]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Income Tax Act",
+      "section": "21",
+      "title": "",
+      "content": "21 [Amendments]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Income Tax Act",
+      "section": "22",
+      "title": "",
+      "content": "22 [Amendments]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Income Tax Regulations",
+      "section": "23",
+      "title": "",
+      "content": "23 [Amendment]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Income Tax Regulations",
+      "section": "24",
+      "title": "",
+      "content": "24 [Amendments]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Income Tax Regulations",
+      "section": "25",
+      "title": "",
+      "content": "25 [Amendments]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Canada Disability Savings Act",
+      "section": "26",
+      "title": "",
+      "content": "26 [Amendments]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Canada Disability Savings Act",
+      "section": "27",
+      "title": "",
+      "content": "27 [Amendments]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Canada Disability Savings Act",
+      "section": "28",
+      "title": "",
+      "content": "28 [Amendments]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Canada Disability Savings Regulations",
+      "section": "29",
+      "title": "",
+      "content": "29 [Amendment]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Canada Education Savings Act",
+      "section": "30",
+      "title": "",
+      "content": "30 [Amendments]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Canada Education Savings Act",
+      "section": "31",
+      "title": "",
+      "content": "31 [Amendments]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Canada Education Savings Regulations",
+      "section": "32",
+      "title": "",
+      "content": "32 [Amendments]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Canada Education Savings Regulations",
+      "section": "33",
+      "title": "",
+      "content": "33 [Amendment]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Canada Pension Plan Regulations",
+      "section": "34",
+      "title": "",
+      "content": "34 [Amendment]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Insurable Earnings and Collection of Premiums Regulations",
+      "section": "35",
+      "title": "",
+      "content": "35 [Amendment]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Regulations Excluding Certain Indictable Offences from the Definition of “Designated Offence”",
+      "section": "36",
+      "title": "",
+      "content": "36 [Amendments]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Excise Act",
+      "section": "37",
+      "title": "",
+      "content": "37 [Amendment]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "38",
+      "title": "",
+      "content": "38 [Amendments]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "39",
+      "title": "",
+      "content": "39 [Amendments]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "40",
+      "title": "",
+      "content": "40 [Amendment]"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "41",
+      "title": "",
+      "content": "41 [Amendment]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "42",
+      "title": "",
+      "content": "42 [Amendment]"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "43",
+      "title": "",
+      "content": "43 [Amendment]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "44",
+      "title": "",
+      "content": "44 [Amendment]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "45",
+      "title": "",
+      "content": "45 [Amendment]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "46",
+      "title": "",
+      "content": "46 [Amendment]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "47",
+      "title": "",
+      "content": "47 [Amendments] Customs Act"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "48",
+      "title": "",
+      "content": "48 [Amendment]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "49",
+      "title": "",
+      "content": "49 [Amendment]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "50",
+      "title": "",
+      "content": "50 [Amendment]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "51",
+      "title": "",
+      "content": "51 [Amendment]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "52",
+      "title": "",
+      "content": "52 [Amendment]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "53",
+      "title": "",
+      "content": "53 [Amendment] Application"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Amendments in Respect of the Excise Act, 2001",
+      "section": "54",
+      "title": "",
+      "content": "54 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Excise Tax Act",
+      "section": "55",
+      "title": "",
+      "content": "55 [Amendments]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Excise Tax Act",
+      "section": "56",
+      "title": "",
+      "content": "56 [Amendment]"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Excise Tax Act",
+      "section": "57",
+      "title": "",
+      "content": "57 [Amendment]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Excise Tax Act",
+      "section": "58",
+      "title": "",
+      "content": "58 [Amendment]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Excise Tax Act",
+      "section": "59",
+      "title": "",
+      "content": "59 [Amendment]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Excise Tax Act",
+      "section": "60",
+      "title": "",
+      "content": "60 [Amendment]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Excise Tax Act",
+      "section": "61",
+      "title": "",
+      "content": "61 [Amendments]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Excise Tax Act",
+      "section": "62",
+      "title": "",
+      "content": "62 [Amendment]"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Excise Tax Act",
+      "section": "63",
+      "title": "",
+      "content": "63 [Amendments]"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Excise Tax Act",
+      "section": "64",
+      "title": "",
+      "content": "64 [Amendments]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Excise Tax Act",
+      "section": "65",
+      "title": "",
+      "content": "65 [Amendment]"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Excise Tax Act",
+      "section": "66",
+      "title": "",
+      "content": "66 [Amendment]"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Excise Tax Act",
+      "section": "67",
+      "title": "",
+      "content": "67 [Amendments]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Excise Tax Act",
+      "section": "68",
+      "title": "",
+      "content": "68 [Amendment]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Excise Tax Act",
+      "section": "69",
+      "title": "",
+      "content": "69 [Amendment]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Excise Tax Act",
+      "section": "70",
+      "title": "",
+      "content": "70 [Amendment]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Excise Tax Act",
+      "section": "71",
+      "title": "",
+      "content": "71 [Amendment]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Excise Tax Act",
+      "section": "72",
+      "title": "",
+      "content": "72 [Amendment]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Excise Tax Act",
+      "section": "73",
+      "title": "",
+      "content": "73 [Amendments]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Excise Tax Act",
+      "section": "74",
+      "title": "",
+      "content": "74 [Amendment]"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Excise Tax Act",
+      "section": "75",
+      "title": "",
+      "content": "75 [Amendments]"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Excise Tax Act",
+      "section": "76",
+      "title": "",
+      "content": "76 [Amendment]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Excise Tax Act",
+      "section": "77",
+      "title": "",
+      "content": "77 [Amendment]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Excise Tax Act",
+      "section": "78",
+      "title": "",
+      "content": "78 [Amendment]"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Excise Tax Act",
+      "section": "79",
+      "title": "",
+      "content": "79 [Amendment]"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Excise Tax Act",
+      "section": "80",
+      "title": "",
+      "content": "80 [Amendments]"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Excise Tax Act",
+      "section": "81",
+      "title": "",
+      "content": "81 [Amendment]"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Excise Tax Act",
+      "section": "82",
+      "title": "",
+      "content": "82 [Amendment]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Excise Tax Act",
+      "section": "83",
+      "title": "",
+      "content": "83 [Amendment]"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Excise Tax Act",
+      "section": "84",
+      "title": "",
+      "content": "84 [Amendment]"
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Excise Tax Act",
+      "section": "85",
+      "title": "",
+      "content": "85 [Amendment]"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Excise Tax Act",
+      "section": "86",
+      "title": "",
+      "content": "86 [Amendment]"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Excise Tax Act",
+      "section": "87",
+      "title": "",
+      "content": "87 [Amendment]"
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Excise Tax Act",
+      "section": "88",
+      "title": "",
+      "content": "88 [Amendment]"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Excise Tax Act",
+      "section": "89",
+      "title": "",
+      "content": "89 [Amendment]"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Health Care Services (GST/HST) Regulations",
+      "section": "90",
+      "title": "",
+      "content": "90 [Amendment]"
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Input Tax Credit Allocation Methods (GST/HST) Regulations",
+      "section": "91",
+      "title": "Making",
+      "content": "91 The Input Tax Credit Allocation Methods (GST/HST) Regulations are made as follows: [See Input Tax Credit Allocation Methods (GST/HST) Regulations ] Coming into Force"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Input Tax Credit Allocation Methods (GST/HST) Regulations",
+      "section": "92",
+      "title": "April 1, 2007",
+      "content": "92 The Input Tax Credit Allocation Methods (GST/HST) Regulations , as made by section 91, are deemed to have come into force on April 1, 2007."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Interest Rates (Excise Act, 2001) Regulations",
+      "section": "93",
+      "title": "April 1, 2007",
+      "content": "93 [Amendment]"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Interest Rates (Excise Tax Act) Regulations",
+      "section": "94",
+      "title": "April 1, 2007",
+      "content": "94 [Amendment]"
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Coordinating Amendment",
+      "section": "95",
+      "title": "April 1, 2007",
+      "content": "95 [Amendments]"
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "96",
+      "title": "April 1, 2007",
+      "content": "96 [Amendments]"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Interest Rates (Air Travellers Security Charge Act) Regulations",
+      "section": "97",
+      "title": "April 1, 2007",
+      "content": "97 [Amendment]"
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Amendments to the Act",
+      "section": "98",
+      "title": "",
+      "content": "98 [Amendment]"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Amendments to the Act",
+      "section": "99",
+      "title": "",
+      "content": "99 [Amendment]"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Amendments to the Act",
+      "section": "100",
+      "title": "",
+      "content": "100 [Amendment]"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Amendments to the Act",
+      "section": "101",
+      "title": "",
+      "content": "101 [Amendment]"
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Amendments to the Act",
+      "section": "102",
+      "title": "",
+      "content": "102 [Amendment]"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Coming into Force",
+      "section": "103",
+      "title": "Order in council",
+      "content": "103 (1) This Part, other than section 98, comes into force or is deemed to have come into force on a day to be fixed by order of the Governor in Council, which day may not be earlier than April 15, 2009. (2) Section 98 comes into force, or is deemed to have come into force, on July 1, 2010. Return to footnote * [Note: Sections 99 to 102 in force September 1, 2010, see SI/2010-55.]"
+    },
+    {
+      "provision_ref": "s1645",
+      "chapter": "Coming into Force",
+      "section": "1645",
+      "title": "Deemed coming into force — March 5, 2010",
+      "content": "1645 This Part is deemed to have come into force on March 5, 2010."
+    },
+    {
+      "provision_ref": "s1646",
+      "chapter": "PART 6 Federal-Provincial Fiscal Arrangements Act",
+      "section": "1646",
+      "title": "Deemed coming into force — March 5, 2010",
+      "content": "1646 [Amendment]"
+    },
+    {
+      "provision_ref": "s1647",
+      "chapter": "PART 6 Federal-Provincial Fiscal Arrangements Act",
+      "section": "1647",
+      "title": "Deemed coming into force — March 5, 2010",
+      "content": "1647 [Amendment]"
+    },
+    {
+      "provision_ref": "s1648",
+      "chapter": "PART 6 Federal-Provincial Fiscal Arrangements Act",
+      "section": "1648",
+      "title": "Deemed coming into force — March 5, 2010",
+      "content": "1648 [Amendment]"
+    },
+    {
+      "provision_ref": "s1649",
+      "chapter": "PART 7 Expenditure Restraint Act",
+      "section": "1649",
+      "title": "Deemed coming into force — March 5, 2010",
+      "content": "1649 [Amendment]"
+    },
+    {
+      "provision_ref": "s1650",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1650",
+      "title": "Deemed coming into force — March 5, 2010",
+      "content": "1650 [Amendment]"
+    },
+    {
+      "provision_ref": "s1651",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1651",
+      "title": "Deemed coming into force — March 5, 2010",
+      "content": "1651 [Amendment]"
+    },
+    {
+      "provision_ref": "s1652",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1652",
+      "title": "",
+      "content": "1652 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1653",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1653",
+      "title": "Order in council",
+      "content": "1653 Sections 1650 to 1652 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1650 to 1652 in force March 16, 2012, see SI/2012-14.] Asia-Pacific Foundation of Canada Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1654",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1654",
+      "title": "Order in council",
+      "content": "1654 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1655",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1655",
+      "title": "Order in council",
+      "content": "1655 Section 1654 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1654 in force March 16, 2012, see SI/2012-14.] Assisted Human Reproduction Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1656",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1656",
+      "title": "Order in council",
+      "content": "1656 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1657",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1657",
+      "title": "Order in council",
+      "content": "1657 Section 1656 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1656 in force March 16, 2012, see SI/2012-14.] Budget Implementation Act, 1997 Amendment to the Act (Canada Foundation for Innovation)"
+    },
+    {
+      "provision_ref": "s1658",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1658",
+      "title": "Order in council",
+      "content": "1658 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1659",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1659",
+      "title": "Order in council",
+      "content": "1659 Section 1658 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1658 in force March 16, 2012, see SI/2012-14.] Business Development Bank of Canada Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1660",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1660",
+      "title": "Order in council",
+      "content": "1660 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1661",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1661",
+      "title": "Order in council",
+      "content": "1661 Section 1660 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1660 in force March 16, 2012, see SI/2012-14.] Canada Grain Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1662",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1662",
+      "title": "Order in council",
+      "content": "1662 [Amendment]"
+    },
+    {
+      "provision_ref": "s1663",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1663",
+      "title": "Order in council",
+      "content": "1663 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1664",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1664",
+      "title": "Order in council",
+      "content": "1664 Sections 1662 and 1663 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1662 and 1663 in force March 16, 2012, see SI/2012-14.] Canada Mortgage and Housing Corporation Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1665",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1665",
+      "title": "Order in council",
+      "content": "1665 [Amendment]"
+    },
+    {
+      "provision_ref": "s1666",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1666",
+      "title": "Order in council",
+      "content": "1666 [Amendments] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1667",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1667",
+      "title": "Order in council",
+      "content": "1667 Sections 1665 and 1666 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1665 and 1666 in force March 16, 2012, see SI/2012-14.] Canada Pension Plan Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1668",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1668",
+      "title": "Order in council",
+      "content": "1668 [Amendment]"
+    },
+    {
+      "provision_ref": "s1669",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1669",
+      "title": "Order in council",
+      "content": "1669 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1670",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1670",
+      "title": "Order in council",
+      "content": "1670 Sections 1668 and 1669 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1668 and 1669 in force March 16, 2012, see SI/2012-14.] Canada School of Public Service Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1671",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1671",
+      "title": "Order in council",
+      "content": "1671 [Amendment]"
+    },
+    {
+      "provision_ref": "s1672",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1672",
+      "title": "Order in council",
+      "content": "1672 [Amendment]"
+    },
+    {
+      "provision_ref": "s1673",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1673",
+      "title": "Order in council",
+      "content": "1673 [Amendments] Related Amendment to the Access to Information Act"
+    },
+    {
+      "provision_ref": "s1674",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1674",
+      "title": "Order in council",
+      "content": "1674 [Amendment] Related Amendments to the Financial Administration Act"
+    },
+    {
+      "provision_ref": "s1675",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1675",
+      "title": "Order in council",
+      "content": "1675 [Amendments] Related Amendment to the Official Languages Act"
+    },
+    {
+      "provision_ref": "s1676",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1676",
+      "title": "",
+      "content": "1676 [Amendment] Related Amendment to the Privacy Act"
+    },
+    {
+      "provision_ref": "s1677",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1677",
+      "title": "",
+      "content": "1677 [Amendment] Related Amendments to the Public Servants Disclosure Protection Act"
+    },
+    {
+      "provision_ref": "s1678",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1678",
+      "title": "",
+      "content": "1678 [Amendment]"
+    },
+    {
+      "provision_ref": "s1679",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1679",
+      "title": "",
+      "content": "1679 [Amendment]"
+    },
+    {
+      "provision_ref": "s1680",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1680",
+      "title": "",
+      "content": "1680 [Amendments]"
+    },
+    {
+      "provision_ref": "s1681",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1681",
+      "title": "",
+      "content": "1681 [Amendment]"
+    },
+    {
+      "provision_ref": "s1682",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1682",
+      "title": "",
+      "content": "1682 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1683",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1683",
+      "title": "Order in council",
+      "content": "1683 Sections 1671 to 1682 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1671 to 1682 in force March 16, 2012, see SI/2012-14.] Canadian Centre for Occupational Health and Safety Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1684",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1684",
+      "title": "Order in council",
+      "content": "1684 [Amendment]"
+    },
+    {
+      "provision_ref": "s1685",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1685",
+      "title": "Order in council",
+      "content": "1685 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1686",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1686",
+      "title": "Order in council",
+      "content": "1686 Sections 1684 and 1685 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1684 and 1685 in force March 16, 2012, see SI/2012-14.] Canadian Centre on Substance Abuse Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1687",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1687",
+      "title": "Order in council",
+      "content": "1687 [Amendment]"
+    },
+    {
+      "provision_ref": "s1688",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1688",
+      "title": "Order in council",
+      "content": "1688 [Amendment]"
+    },
+    {
+      "provision_ref": "s1689",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1689",
+      "title": "Order in council",
+      "content": "1689 [Amendment]"
+    },
+    {
+      "provision_ref": "s1690",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1690",
+      "title": "Order in council",
+      "content": "1690 [Amendment]"
+    },
+    {
+      "provision_ref": "s1691",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1691",
+      "title": "Order in council",
+      "content": "1691 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1692",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1692",
+      "title": "Order in council",
+      "content": "1692 Sections 1687 to 1691 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1687 to 1691 in force March 16, 2012, see SI/2012-14.] Canadian Institutes of Health Research Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1693",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1693",
+      "title": "Order in council",
+      "content": "1693 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1694",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1694",
+      "title": "Order in council",
+      "content": "1694 Section 1693 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1693 in force March 16, 2012, see SI/2012-14.] Canadian International Trade Tribunal Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1695",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1695",
+      "title": "Order in council",
+      "content": "1695 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1696",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1696",
+      "title": "Order in council",
+      "content": "1696 Section 1695 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1695 in force March 16, 2012, see SI/2012-14.] Canadian Race Relations Foundation Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1697",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1697",
+      "title": "Order in council",
+      "content": "1697 [Amendment]"
+    },
+    {
+      "provision_ref": "s1698",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1698",
+      "title": "Order in council",
+      "content": "1698 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1699",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1699",
+      "title": "Order in council",
+      "content": "1699 Sections 1697 and 1698 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1697 and 1698 in force March 16, 2012, see SI/2012-14.] Canadian Radio-television and Telecommunications Commission Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1700",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1700",
+      "title": "Order in council",
+      "content": "1700 [Amendment]"
+    },
+    {
+      "provision_ref": "s1701",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1701",
+      "title": "Order in council",
+      "content": "1701 [Amendment]"
+    },
+    {
+      "provision_ref": "s1702",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1702",
+      "title": "Order in council",
+      "content": "1702 [Amendment]"
+    },
+    {
+      "provision_ref": "s1703",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1703",
+      "title": "Order in council",
+      "content": "1703 [Amendments]"
+    },
+    {
+      "provision_ref": "s1704",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1704",
+      "title": "Order in council",
+      "content": "1704 [Amendment]"
+    },
+    {
+      "provision_ref": "s1705",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1705",
+      "title": "Order in council",
+      "content": "1705 [Amendment]"
+    },
+    {
+      "provision_ref": "s1706",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1706",
+      "title": "Order in council",
+      "content": "1706 [Amendment]"
+    },
+    {
+      "provision_ref": "s1707",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1707",
+      "title": "",
+      "content": "1707 [Amendment]"
+    },
+    {
+      "provision_ref": "s1708",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1708",
+      "title": "",
+      "content": "1708 [Amendment]"
+    },
+    {
+      "provision_ref": "s1709",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1709",
+      "title": "",
+      "content": "1709 [Amendment] Consequential Amendment to the Broadcasting Act"
+    },
+    {
+      "provision_ref": "s1710",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1710",
+      "title": "",
+      "content": "1710 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1711",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1711",
+      "title": "Order in council",
+      "content": "1711 Sections 1700 to 1710 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1700 to 1710 in force March 16, 2012, see SI/2012-14.] Canadian Space Agency Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1712",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1712",
+      "title": "Order in council",
+      "content": "1712 [Amendment]"
+    },
+    {
+      "provision_ref": "s1713",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1713",
+      "title": "Order in council",
+      "content": "1713 [Amendment]"
+    },
+    {
+      "provision_ref": "s1714",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1714",
+      "title": "Order in council",
+      "content": "1714 [Amendment]"
+    },
+    {
+      "provision_ref": "s1715",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1715",
+      "title": "Order in council",
+      "content": "1715 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1716",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1716",
+      "title": "Order in council",
+      "content": "1716 Sections 1712 to 1715 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1712 to 1715 in force March 16, 2012, see SI/2012-14.] Canadian Tourism Commission Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1717",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1717",
+      "title": "Order in council",
+      "content": "1717 [Amendment]"
+    },
+    {
+      "provision_ref": "s1718",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1718",
+      "title": "Order in council",
+      "content": "1718 [Amendments]"
+    },
+    {
+      "provision_ref": "s1719",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1719",
+      "title": "Order in council",
+      "content": "1719 [Amendment]"
+    },
+    {
+      "provision_ref": "s1720",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1720",
+      "title": "Order in council",
+      "content": "1720 [Amendment]"
+    },
+    {
+      "provision_ref": "s1721",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1721",
+      "title": "Order in council",
+      "content": "1721 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1722",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1722",
+      "title": "Order in council",
+      "content": "1722 Sections 1717 to 1721 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1717 to 1721 in force March 16, 2012, see SI/2012-14.] Department of Human Resources and Skills Development Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1723",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1723",
+      "title": "Order in council",
+      "content": "1723 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1724",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1724",
+      "title": "Order in council",
+      "content": "1724 Section 1723 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1723 in force March 16, 2012, see SI/2012-14.] Energy Supplies Emergency Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1725",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1725",
+      "title": "Order in council",
+      "content": "1725 [Amendment]"
+    },
+    {
+      "provision_ref": "s1726",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1726",
+      "title": "Order in council",
+      "content": "1726 [Amendment]"
+    },
+    {
+      "provision_ref": "s1727",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1727",
+      "title": "Order in council",
+      "content": "1727 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1728",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1728",
+      "title": "Order in council",
+      "content": "1728 Sections 1725 to 1727 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1725 to 1727 in force March 16, 2012, see SI/2012-14.] Export Development Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1729",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1729",
+      "title": "Order in council",
+      "content": "1729 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1730",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1730",
+      "title": "Order in council",
+      "content": "1730 Section 1729 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1729 in force March 16, 2012, see SI/2012-14.] Farm Products Agencies Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1731",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1731",
+      "title": "Order in council",
+      "content": "1731 [Amendments] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1732",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1732",
+      "title": "Order in council",
+      "content": "1732 Section 1731 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1731 in force March 16, 2012, see SI/2012-14.] First Nations Fiscal and Statistical Management Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1733",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1733",
+      "title": "Order in council",
+      "content": "1733 [Amendment]"
+    },
+    {
+      "provision_ref": "s1734",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1734",
+      "title": "Order in council",
+      "content": "1734 [Amendment]"
+    },
+    {
+      "provision_ref": "s1735",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1735",
+      "title": "Order in council",
+      "content": "1735 [Amendment]"
+    },
+    {
+      "provision_ref": "s1736",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1736",
+      "title": "Order in council",
+      "content": "1736 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1737",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1737",
+      "title": "Order in council",
+      "content": "1737 Sections 1733 to 1736 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1733 to 1736 in force March 16, 2012, see SI/2012-14.] Freshwater Fish Marketing Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1738",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1738",
+      "title": "Order in council",
+      "content": "1738 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1739",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1739",
+      "title": "Order in council",
+      "content": "1739 Section 1738 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1738 in force March 16, 2012, see SI/2012-14.] Historic Sites and Monuments Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1740",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1740",
+      "title": "Order in council",
+      "content": "1740 [Amendments]"
+    },
+    {
+      "provision_ref": "s1741",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1741",
+      "title": "Order in council",
+      "content": "1741 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1742",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1742",
+      "title": "Order in council",
+      "content": "1742 Sections 1740 and 1741 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1740 and 1741 in force March 16, 2012, see SI/2012-14.] International Boundary Commission Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1743",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1743",
+      "title": "Order in council",
+      "content": "1743 [Amendment]"
+    },
+    {
+      "provision_ref": "s1744",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1744",
+      "title": "Order in council",
+      "content": "1744 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1745",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1745",
+      "title": "Order in council",
+      "content": "1745 Sections 1743 and 1744 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1743 and 1744 in force March 16, 2012, see SI/2012-14.] International Development Research Centre Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1746",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1746",
+      "title": "Order in council",
+      "content": "1746 [Amendments]"
+    },
+    {
+      "provision_ref": "s1747",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1747",
+      "title": "Order in council",
+      "content": "1747 [Amendment]"
+    },
+    {
+      "provision_ref": "s1748",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1748",
+      "title": "Order in council",
+      "content": "1748 [Amendment]"
+    },
+    {
+      "provision_ref": "s1749",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1749",
+      "title": "Order in council",
+      "content": "1749 [Amendment]"
+    },
+    {
+      "provision_ref": "s1750",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1750",
+      "title": "Order in council",
+      "content": "1750 [Amendments]"
+    },
+    {
+      "provision_ref": "s1751",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1751",
+      "title": "Order in council",
+      "content": "1751 [Amendment]"
+    },
+    {
+      "provision_ref": "s1752",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1752",
+      "title": "Order in council",
+      "content": "1752 [Amendment]"
+    },
+    {
+      "provision_ref": "s1753",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1753",
+      "title": "",
+      "content": "1753 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1754",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1754",
+      "title": "Order in council",
+      "content": "1754 Sections 1746 to 1753 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1746 to 1753 in force March 16, 2012, see SI/2012-14.] National Defence Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1755",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1755",
+      "title": "Order in council",
+      "content": "1755 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1756",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1756",
+      "title": "Order in council",
+      "content": "1756 Section 1755 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1755 in force March 16, 2012, see SI/2012-14.] National Research Council Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1757",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1757",
+      "title": "Order in council",
+      "content": "1757 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1758",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1758",
+      "title": "Order in council",
+      "content": "1758 Section 1757 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1757 in force March 16, 2012, see SI/2012-14.] National Round Table on the Environment and the Economy Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1759",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1759",
+      "title": "Order in council",
+      "content": "1759 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1760",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1760",
+      "title": "Order in council",
+      "content": "1760 Section 1759 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1759 in force March 16, 2012, see SI/2012-14.] Natural Sciences and Engineering Research Council Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1761",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1761",
+      "title": "Order in council",
+      "content": "1761 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1762",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1762",
+      "title": "Order in council",
+      "content": "1762 Section 1761 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1761 in force March 16, 2012, see SI/2012-14.] Public Sector Pension Investment Board Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1763",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1763",
+      "title": "Order in council",
+      "content": "1763 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1764",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1764",
+      "title": "Order in council",
+      "content": "1764 Section 1763 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1763 in force March 16, 2012, see SI/2012-14.] Roosevelt Campobello International Park Commission Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1765",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1765",
+      "title": "Order in council",
+      "content": "1765 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1766",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1766",
+      "title": "Order in council",
+      "content": "1766 Section 1765 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1765 in force June 15, 2012, see SI/2012-14.] Social Sciences and Humanities Research Council Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1767",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1767",
+      "title": "Order in council",
+      "content": "1767 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1768",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1768",
+      "title": "Order in council",
+      "content": "1768 Section 1767 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1767 in force March 16, 2012, see SI/2012-14.] Standards Council of Canada Act Amendments to the Act"
+    },
+    {
+      "provision_ref": "s1769",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1769",
+      "title": "Order in council",
+      "content": "1769 [Amendment]"
+    },
+    {
+      "provision_ref": "s1770",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1770",
+      "title": "Order in council",
+      "content": "1770 [Amendment]"
+    },
+    {
+      "provision_ref": "s1771",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1771",
+      "title": "Order in council",
+      "content": "1771 [Amendment]"
+    },
+    {
+      "provision_ref": "s1772",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1772",
+      "title": "Order in council",
+      "content": "1772 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1773",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1773",
+      "title": "Order in council",
+      "content": "1773 Sections 1769 to 1772 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1769 to 1772 in force March 16, 2012, see SI/2012-14.] Status of the Artist Act Amendment to the Act"
+    },
+    {
+      "provision_ref": "s1774",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1774",
+      "title": "Order in council",
+      "content": "1774 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1775",
+      "chapter": "DIVISION 1 Amendments Relating to Certain Governor in Council Appointments",
+      "section": "1775",
+      "title": "Order in council",
+      "content": "1775 Section 1774 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1774 in force March 16, 2012, see SI/2012-14.]"
+    },
+    {
+      "provision_ref": "s1776",
+      "chapter": "DIVISION 2 North American Free Trade Agreement Implementation Act",
+      "section": "1776",
+      "title": "Order in council",
+      "content": "1776 [Amendment]"
+    },
+    {
+      "provision_ref": "s1777",
+      "chapter": "DIVISION 2 North American Free Trade Agreement Implementation Act",
+      "section": "1777",
+      "title": "Order in council",
+      "content": "1777 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s1778",
+      "chapter": "DIVISION 2 North American Free Trade Agreement Implementation Act",
+      "section": "1778",
+      "title": "Order in council",
+      "content": "1778 [Transitional Provisions] Consequential Amendments to the Financial Administration Act"
+    },
+    {
+      "provision_ref": "s1779",
+      "chapter": "DIVISION 2 North American Free Trade Agreement Implementation Act",
+      "section": "1779",
+      "title": "Order in council",
+      "content": "1779 [Amendment]"
+    },
+    {
+      "provision_ref": "s1780",
+      "chapter": "DIVISION 2 North American Free Trade Agreement Implementation Act",
+      "section": "1780",
+      "title": "Order in council",
+      "content": "1780 [Amendment]"
+    },
+    {
+      "provision_ref": "s1781",
+      "chapter": "DIVISION 2 North American Free Trade Agreement Implementation Act",
+      "section": "1781",
+      "title": "",
+      "content": "1781 [Amendment] Consequential Amendment to the Special Import Measures Act"
+    },
+    {
+      "provision_ref": "s1782",
+      "chapter": "DIVISION 2 North American Free Trade Agreement Implementation Act",
+      "section": "1782",
+      "title": "",
+      "content": "1782 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1783",
+      "chapter": "DIVISION 2 North American Free Trade Agreement Implementation Act",
+      "section": "1783",
+      "title": "Order in council",
+      "content": "1783 Sections 1776 to 1782 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1776 to 1782 in force August 27, 2010, see SI/2010-72.]"
+    },
+    {
+      "provision_ref": "s1784",
+      "chapter": "DIVISION 3 The Intercolonial and Prince Edward Island Railways Employees’ Provident Fund Act",
+      "section": "1784",
+      "title": "Order in council",
+      "content": "1784 [Repeal] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s1785",
+      "chapter": "DIVISION 3 The Intercolonial and Prince Edward Island Railways Employees’ Provident Fund Act",
+      "section": "1785",
+      "title": "Order in council",
+      "content": "1785 Section 1784 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 1784 in force August 27, 2010, see SI/2010-72.]"
+    },
+    {
+      "provision_ref": "s1786",
+      "chapter": "Amendments to the Act",
+      "section": "1786",
+      "title": "Order in council",
+      "content": "1786 [Amendments]"
+    },
+    {
+      "provision_ref": "s1787",
+      "chapter": "Amendments to the Act",
+      "section": "1787",
+      "title": "Order in council",
+      "content": "1787 [Amendment]"
+    },
+    {
+      "provision_ref": "s1788",
+      "chapter": "Amendments to the Act",
+      "section": "1788",
+      "title": "Order in council",
+      "content": "1788 [Amendments]"
+    },
+    {
+      "provision_ref": "s1789",
+      "chapter": "Amendments to the Act",
+      "section": "1789",
+      "title": "Order in council",
+      "content": "1789 [Amendment]"
+    },
+    {
+      "provision_ref": "s1790",
+      "chapter": "Amendments to the Act",
+      "section": "1790",
+      "title": "Order in council",
+      "content": "1790 [Amendment]"
+    },
+    {
+      "provision_ref": "s1791",
+      "chapter": "Amendments to the Act",
+      "section": "1791",
+      "title": "Order in council",
+      "content": "1791 [Amendments]"
+    },
+    {
+      "provision_ref": "s1792",
+      "chapter": "Amendments to the Act",
+      "section": "1792",
+      "title": "Order in council",
+      "content": "1792 [Amendment]"
+    },
+    {
+      "provision_ref": "s1793",
+      "chapter": "Amendments to the Act",
+      "section": "1793",
+      "title": "",
+      "content": "1793 [Amendments]"
+    },
+    {
+      "provision_ref": "s1794",
+      "chapter": "Amendments to the Act",
+      "section": "1794",
+      "title": "",
+      "content": "1794 [Amendment]"
+    },
+    {
+      "provision_ref": "s1795",
+      "chapter": "Amendments to the Act",
+      "section": "1795",
+      "title": "",
+      "content": "1795 [Amendment]"
+    },
+    {
+      "provision_ref": "s1796",
+      "chapter": "Amendments to the Act",
+      "section": "1796",
+      "title": "",
+      "content": "1796 [Amendments]"
+    },
+    {
+      "provision_ref": "s1797",
+      "chapter": "Amendments to the Act",
+      "section": "1797",
+      "title": "",
+      "content": "1797 [Amendment]"
+    },
+    {
+      "provision_ref": "s1798",
+      "chapter": "Amendments to the Act",
+      "section": "1798",
+      "title": "",
+      "content": "1798 [Amendment]"
+    },
+    {
+      "provision_ref": "s1799",
+      "chapter": "Amendments to the Act",
+      "section": "1799",
+      "title": "",
+      "content": "1799 [Amendment]"
+    },
+    {
+      "provision_ref": "s1800",
+      "chapter": "Amendments to the Act",
+      "section": "1800",
+      "title": "",
+      "content": "1800 [Amendment]"
+    },
+    {
+      "provision_ref": "s1801",
+      "chapter": "Amendments to the Act",
+      "section": "1801",
+      "title": "",
+      "content": "1801 [Amendments]"
+    },
+    {
+      "provision_ref": "s1802",
+      "chapter": "Amendments to the Act",
+      "section": "1802",
+      "title": "",
+      "content": "1802 [Amendment]"
+    },
+    {
+      "provision_ref": "s1803",
+      "chapter": "Amendments to the Act",
+      "section": "1803",
+      "title": "",
+      "content": "1803 [Amendments]"
+    },
+    {
+      "provision_ref": "s1804",
+      "chapter": "Amendments to the Act",
+      "section": "1804",
+      "title": "",
+      "content": "1804 [Amendment]"
+    },
+    {
+      "provision_ref": "s1805",
+      "chapter": "Amendments to the Act",
+      "section": "1805",
+      "title": "",
+      "content": "1805 [Amendment]"
+    },
+    {
+      "provision_ref": "s1806",
+      "chapter": "Amendments to the Act",
+      "section": "1806",
+      "title": "",
+      "content": "1806 [Amendments]"
+    },
+    {
+      "provision_ref": "s1807",
+      "chapter": "Amendments to the Act",
+      "section": "1807",
+      "title": "",
+      "content": "1807 [Amendment]"
+    },
+    {
+      "provision_ref": "s1808",
+      "chapter": "Amendments to the Act",
+      "section": "1808",
+      "title": "",
+      "content": "1808 [Amendment]"
+    },
+    {
+      "provision_ref": "s1809",
+      "chapter": "Amendments to the Act",
+      "section": "1809",
+      "title": "",
+      "content": "1809 [Amendments]"
+    },
+    {
+      "provision_ref": "s1810",
+      "chapter": "Amendments to the Act",
+      "section": "1810",
+      "title": "",
+      "content": "1810 [Amendment]"
+    },
+    {
+      "provision_ref": "s1811",
+      "chapter": "Amendments to the Act",
+      "section": "1811",
+      "title": "",
+      "content": "1811 [Amendments]"
+    },
+    {
+      "provision_ref": "s1812",
+      "chapter": "Amendments to the Act",
+      "section": "1812",
+      "title": "",
+      "content": "1812 [Amendment]"
+    },
+    {
+      "provision_ref": "s1813",
+      "chapter": "Amendments to the Act",
+      "section": "1813",
+      "title": "",
+      "content": "1813 [Amendments]"
+    },
+    {
+      "provision_ref": "s1814",
+      "chapter": "Amendments to the Act",
+      "section": "1814",
+      "title": "",
+      "content": "1814 [Amendment]"
+    },
+    {
+      "provision_ref": "s1815",
+      "chapter": "Amendments to the Act",
+      "section": "1815",
+      "title": "",
+      "content": "1815 [Amendments]"
+    },
+    {
+      "provision_ref": "s1816",
+      "chapter": "Amendments to the Act",
+      "section": "1816",
+      "title": "",
+      "content": "1816 [Amendments]"
+    },
+    {
+      "provision_ref": "s1817",
+      "chapter": "Amendments to the Act",
+      "section": "1817",
+      "title": "",
+      "content": "1817 [Amendment]"
+    },
+    {
+      "provision_ref": "s1818",
+      "chapter": "Amendments to the Act",
+      "section": "1818",
+      "title": "",
+      "content": "1818 [Amendment]"
+    },
+    {
+      "provision_ref": "s1819",
+      "chapter": "Amendments to the Act",
+      "section": "1819",
+      "title": "",
+      "content": "1819 [Amendments]"
+    },
+    {
+      "provision_ref": "s1820",
+      "chapter": "Amendments to the Act",
+      "section": "1820",
+      "title": "",
+      "content": "1820 [Amendments]"
+    },
+    {
+      "provision_ref": "s1821",
+      "chapter": "Amendments to the Act",
+      "section": "1821",
+      "title": "",
+      "content": "1821 [Amendment]"
+    },
+    {
+      "provision_ref": "s1822",
+      "chapter": "Amendments to the Act",
+      "section": "1822",
+      "title": "",
+      "content": "1822 [Amendment]"
+    },
+    {
+      "provision_ref": "s1823",
+      "chapter": "Amendments to the Act",
+      "section": "1823",
+      "title": "",
+      "content": "1823 [Amendment]"
+    },
+    {
+      "provision_ref": "s1824",
+      "chapter": "Amendments to the Act",
+      "section": "1824",
+      "title": "",
+      "content": "1824 [Amendment]"
+    },
+    {
+      "provision_ref": "s1825",
+      "chapter": "Amendments to the Act",
+      "section": "1825",
+      "title": "",
+      "content": "1825 [Amendment]"
+    },
+    {
+      "provision_ref": "s1826",
+      "chapter": "Transitional Provision",
+      "section": "1826",
+      "title": "",
+      "content": "1826 [Repealed before coming into force, 2010, c. 25, s. 198] Previous Version"
+    },
+    {
+      "provision_ref": "s1827",
+      "chapter": "Coming into Force",
+      "section": "1827",
+      "title": "Order in council",
+      "content": "1827 The provisions of this Part — other than sections 1788, 1789, 1792, 1793, 1794, 1796, 1798, 1799, 1801, 1803, 1810 and 1811, subsection 1813(2), section 1814, subsections 1816(1) and (3), section 1819, subsections 1820(2) to (5), (7), (8) and (10) and sections 1821, 1824 and 1825 — come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1788, 1789, 1792, 1793, 1794, 1796, 1798, 1799, 1801, 1803, 1810 and 1811, subsection 1813(2), section 1814, subsections 1816(1) and (3), section 1819, subsections 1820(2) to (5), (7), (8) and (10) and sections 1821, 1824 and 1825 in force on assent July 12, 2010; section 1797 and subsection 1820(12) in force October 31, 2010, see SI/2010-82; sections 1786 and 1790, subsections 1791(1) to (4), sections 1795 and 1812, subsections 1815(2) and (3) and subsections 1816(4) to (7), section 1817 and subsections 1820(1), (9) and (11) in force April 1, 2011, section 1787, subsection 1791(5), sections 1800, 1802 and 1805 to 1809, subsections 1813(1) and 1815(1) and sections 1818, 1822 and 1823 in force July 1, 2011, see SI/2011-21; section 1804 and subsection 1820(6) in force April 1, 2015, see SI/2015-19.]"
+    },
+    {
+      "provision_ref": "s1828",
+      "chapter": "PART 10 Agreement on Social Security Between Canada and the Republic of Poland — Retroactive Coming into Force",
+      "section": "1828",
+      "title": "Coming into force of Agreement",
+      "content": "1828 Despite sections 41 and 42 of the Old Age Security Act , the Agreement on Social Security between Canada and the Republic of Poland, signed on April 2, 2008, is deemed to have come into force in Canada on October 1, 2009."
+    },
+    {
+      "provision_ref": "s1829",
+      "chapter": "PART 10 Agreement on Social Security Between Canada and the Republic of Poland — Retroactive Coming into Force",
+      "section": "1829",
+      "title": "Actions taken",
+      "content": "1829 All actions taken in accordance with the conditions of the Agreement referred to in section 1828 during the period beginning on October 1, 2009 and ending on the day on which section 1828 comes into force, including the exchange of information — with respect to a person — that is obtained under the Old Age Security Act or prepared under that Act from that information between the competent authorities or competent institutions of Canada and the Republic of Poland and the payment of any benefits purporting to have been made under that Act, are deemed to be lawful."
+    },
+    {
+      "provision_ref": "s1830",
+      "chapter": "PART 10 Agreement on Social Security Between Canada and the Republic of Poland — Retroactive Coming into Force",
+      "section": "1830",
+      "title": "Interpretation",
+      "content": "1830 For the purposes of section 1829, competent authority and competent institution have the same meanings as in the Agreement referred to in section 1828."
+    },
+    {
+      "provision_ref": "s1831",
+      "chapter": "PART 11 Export Development Act",
+      "section": "1831",
+      "title": "Interpretation",
+      "content": "1831 [Amendment]"
+    },
+    {
+      "provision_ref": "s1832",
+      "chapter": "PART 11 Export Development Act",
+      "section": "1832",
+      "title": "Interpretation",
+      "content": "1832 [Amendment]"
+    },
+    {
+      "provision_ref": "s1833",
+      "chapter": "PART 11 Export Development Act",
+      "section": "1833",
+      "title": "Interpretation",
+      "content": "1833 [Amendment]"
+    },
+    {
+      "provision_ref": "s1834",
+      "chapter": "Enactment of Payment Card Networks Act",
+      "section": "1834",
+      "title": "Enactment",
+      "content": "1834 The Payment Card Networks Act is enacted as follows: [See Payment Card Networks Act ]"
+    },
+    {
+      "provision_ref": "s1835",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1835",
+      "title": "Enactment",
+      "content": "1835 [Amendment]"
+    },
+    {
+      "provision_ref": "s1836",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1836",
+      "title": "Enactment",
+      "content": "1836 [Amendment]"
+    },
+    {
+      "provision_ref": "s1837",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1837",
+      "title": "Enactment",
+      "content": "1837 [Amendments]"
+    },
+    {
+      "provision_ref": "s1838",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1838",
+      "title": "Enactment",
+      "content": "1838 [Amendment]"
+    },
+    {
+      "provision_ref": "s1839",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1839",
+      "title": "Enactment",
+      "content": "1839 [Amendment]"
+    },
+    {
+      "provision_ref": "s1840",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1840",
+      "title": "Enactment",
+      "content": "1840 [Amendments]"
+    },
+    {
+      "provision_ref": "s1841",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1841",
+      "title": "Enactment",
+      "content": "1841 [Amendment]"
+    },
+    {
+      "provision_ref": "s1842",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1842",
+      "title": "Enactment",
+      "content": "1842 [Amendments]"
+    },
+    {
+      "provision_ref": "s1843",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1843",
+      "title": "Enactment",
+      "content": "1843 [Amendments]"
+    },
+    {
+      "provision_ref": "s1844",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1844",
+      "title": "Enactment",
+      "content": "1844 [Amendment]"
+    },
+    {
+      "provision_ref": "s1845",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1845",
+      "title": "",
+      "content": "1845 [Amendment]"
+    },
+    {
+      "provision_ref": "s1846",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1846",
+      "title": "",
+      "content": "1846 [Amendment]"
+    },
+    {
+      "provision_ref": "s1847",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1847",
+      "title": "",
+      "content": "1847 [Amendment]"
+    },
+    {
+      "provision_ref": "s1848",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1848",
+      "title": "",
+      "content": "1848 [Amendment]"
+    },
+    {
+      "provision_ref": "s1849",
+      "chapter": "Related Amendments to the Financial Consumer Agency of Canada Act",
+      "section": "1849",
+      "title": "",
+      "content": "1849 [Amendment]"
+    },
+    {
+      "provision_ref": "s1850",
+      "chapter": "Coming into Force",
+      "section": "1850",
+      "title": "Order in council",
+      "content": "1850 Sections 6 and 7 of the Payment Card Networks Act , as enacted by section 1834, come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 6 and 7, as enacted by section 1834, not in force.]"
+    },
+    {
+      "provision_ref": "s1851",
+      "chapter": "Amendments to the Act",
+      "section": "1851",
+      "title": "Order in council",
+      "content": "1851 [Amendments]"
+    },
+    {
+      "provision_ref": "s1852",
+      "chapter": "Amendments to the Act",
+      "section": "1852",
+      "title": "Order in council",
+      "content": "1852 [Amendments]"
+    },
+    {
+      "provision_ref": "s1853",
+      "chapter": "Amendments to the Act",
+      "section": "1853",
+      "title": "Order in council",
+      "content": "1853 [Amendment]"
+    },
+    {
+      "provision_ref": "s1854",
+      "chapter": "Amendments to the Act",
+      "section": "1854",
+      "title": "Order in council",
+      "content": "1854 [Amendment]"
+    },
+    {
+      "provision_ref": "s1855",
+      "chapter": "Amendments to the Act",
+      "section": "1855",
+      "title": "Order in council",
+      "content": "1855 [Amendment]"
+    },
+    {
+      "provision_ref": "s1856",
+      "chapter": "Amendments to the Act",
+      "section": "1856",
+      "title": "Order in council",
+      "content": "1856 [Amendment]"
+    },
+    {
+      "provision_ref": "s1857",
+      "chapter": "Amendments to the Act",
+      "section": "1857",
+      "title": "",
+      "content": "1857 [Amendment]"
+    },
+    {
+      "provision_ref": "s1858",
+      "chapter": "Consequential Amendments",
+      "section": "1858",
+      "title": "",
+      "content": "1858 [Amendment] Cooperative Credit Associations Act"
+    },
+    {
+      "provision_ref": "s1859",
+      "chapter": "Consequential Amendments",
+      "section": "1859",
+      "title": "",
+      "content": "1859 [Amendment] Insurance Companies Act"
+    },
+    {
+      "provision_ref": "s1860",
+      "chapter": "Consequential Amendments",
+      "section": "1860",
+      "title": "",
+      "content": "1860 [Amendment] Trust and Loan Companies Act"
+    },
+    {
+      "provision_ref": "s1861",
+      "chapter": "Consequential Amendments",
+      "section": "1861",
+      "title": "",
+      "content": "1861 [Amendment]"
+    },
+    {
+      "provision_ref": "s1862",
+      "chapter": "Amendments to the Act",
+      "section": "1862",
+      "title": "",
+      "content": "1862 [Amendments]"
+    },
+    {
+      "provision_ref": "s1863",
+      "chapter": "Amendments to the Act",
+      "section": "1863",
+      "title": "",
+      "content": "1863 [Amendment]"
+    },
+    {
+      "provision_ref": "s1864",
+      "chapter": "Amendments to the Act",
+      "section": "1864",
+      "title": "",
+      "content": "1864 [Amendment]"
+    },
+    {
+      "provision_ref": "s1865",
+      "chapter": "Amendments to the Act",
+      "section": "1865",
+      "title": "",
+      "content": "1865 [Amendment]"
+    },
+    {
+      "provision_ref": "s1866",
+      "chapter": "Amendments to the Act",
+      "section": "1866",
+      "title": "",
+      "content": "1866 [Amendment]"
+    },
+    {
+      "provision_ref": "s1867",
+      "chapter": "Amendments to the Act",
+      "section": "1867",
+      "title": "",
+      "content": "1867 [Amendment]"
+    },
+    {
+      "provision_ref": "s1868",
+      "chapter": "Amendments to the Act",
+      "section": "1868",
+      "title": "",
+      "content": "1868 [Amendment]"
+    },
+    {
+      "provision_ref": "s1869",
+      "chapter": "Amendments to the Act",
+      "section": "1869",
+      "title": "",
+      "content": "1869 [Amendment]"
+    },
+    {
+      "provision_ref": "s1870",
+      "chapter": "Amendments to the Act",
+      "section": "1870",
+      "title": "",
+      "content": "1870 [Amendments]"
+    },
+    {
+      "provision_ref": "s1871",
+      "chapter": "Amendments to the Act",
+      "section": "1871",
+      "title": "",
+      "content": "1871 [Amendment]"
+    },
+    {
+      "provision_ref": "s1872",
+      "chapter": "Amendments to the Act",
+      "section": "1872",
+      "title": "",
+      "content": "1872 [Amendment]"
+    },
+    {
+      "provision_ref": "s1873",
+      "chapter": "Amendments to the Act",
+      "section": "1873",
+      "title": "",
+      "content": "1873 [Amendment]"
+    },
+    {
+      "provision_ref": "s1874",
+      "chapter": "Amendments to the Act",
+      "section": "1874",
+      "title": "",
+      "content": "1874 [Amendment]"
+    },
+    {
+      "provision_ref": "s1875",
+      "chapter": "Amendments to the Act",
+      "section": "1875",
+      "title": "",
+      "content": "1875 [Amendments]"
+    },
+    {
+      "provision_ref": "s1876",
+      "chapter": "Amendments to the Act",
+      "section": "1876",
+      "title": "",
+      "content": "1876 [Amendment]"
+    },
+    {
+      "provision_ref": "s1877",
+      "chapter": "Amendments to the Act",
+      "section": "1877",
+      "title": "",
+      "content": "1877 [Amendment]"
+    },
+    {
+      "provision_ref": "s1878",
+      "chapter": "Amendments to the Act",
+      "section": "1878",
+      "title": "",
+      "content": "1878 [Amendments]"
+    },
+    {
+      "provision_ref": "s1879",
+      "chapter": "Amendments to the Act",
+      "section": "1879",
+      "title": "",
+      "content": "1879 [Amendment]"
+    },
+    {
+      "provision_ref": "s1880",
+      "chapter": "Amendments to the Act",
+      "section": "1880",
+      "title": "",
+      "content": "1880 [Amendment]"
+    },
+    {
+      "provision_ref": "s1881",
+      "chapter": "Amendments to the Act",
+      "section": "1881",
+      "title": "",
+      "content": "1881 [Amendment]"
+    },
+    {
+      "provision_ref": "s1882",
+      "chapter": "Amendments to the Act",
+      "section": "1882",
+      "title": "",
+      "content": "1882 [Amendment]"
+    },
+    {
+      "provision_ref": "s1883",
+      "chapter": "Consequential Amendment to the Office of the Superintendent of Financial Institutions act",
+      "section": "1883",
+      "title": "",
+      "content": "1883 [Amendment]"
+    },
+    {
+      "provision_ref": "s1884",
+      "chapter": "Coming into Force",
+      "section": "1884",
+      "title": "Royal assent of Economic Action Plan 2014 Act, No. 1",
+      "content": "1884 The provisions of this Part, other than sections 1874 and 1875, are deemed to have come into force immediately before the day on which the Economic Action Plan 2014 Act, No. 1 receives royal assent. Return to footnote * [Note: Sections 1874 and 1875 in force February 14, 2011, see SI/2011-13; Part 14, other than sections 1874 and 1875, in force June 18, 2014.] Previous Version"
+    },
+    {
+      "provision_ref": "s1885",
+      "chapter": "PART 15 Canada Post Corporation Act",
+      "section": "1885",
+      "title": "Royal assent of Economic Action Plan 2014 Act, No. 1",
+      "content": "1885 [Amendment]"
+    },
+    {
+      "provision_ref": "s1886",
+      "chapter": "Amendments to the Act",
+      "section": "1886",
+      "title": "",
+      "content": "1886 [Amendment]"
+    },
+    {
+      "provision_ref": "s1887",
+      "chapter": "Amendments to the Act",
+      "section": "1887",
+      "title": "",
+      "content": "1887 [Amendment]"
+    },
+    {
+      "provision_ref": "s1888",
+      "chapter": "Amendments to the Act",
+      "section": "1888",
+      "title": "",
+      "content": "1888 [Amendment]"
+    },
+    {
+      "provision_ref": "s1889",
+      "chapter": "Amendments to the Act",
+      "section": "1889",
+      "title": "",
+      "content": "1889 [Amendment]"
+    },
+    {
+      "provision_ref": "s1890",
+      "chapter": "Amendments to the Act",
+      "section": "1890",
+      "title": "",
+      "content": "1890 [Amendment]"
+    },
+    {
+      "provision_ref": "s1891",
+      "chapter": "Amendments to the Act",
+      "section": "1891",
+      "title": "",
+      "content": "1891 [Amendment]"
+    },
+    {
+      "provision_ref": "s1892",
+      "chapter": "Amendments to the Act",
+      "section": "1892",
+      "title": "",
+      "content": "1892 [Amendment]"
+    },
+    {
+      "provision_ref": "s1893",
+      "chapter": "Coming into Force",
+      "section": "1893",
+      "title": "Subsection 245(7) of the Budget Implementation Act, 2009",
+      "content": "1893 Sections 1889 and 1890 come into force on the day on which subsection 245(7) of the Budget Implementation Act, 2009 comes into force or, if it is later, on the day on which this Act receives royal assent. Return to footnote * [Note: Sections 1889 and 1890 in force November 1, 2010, see SI/2010-80.]"
+    },
+    {
+      "provision_ref": "s1894",
+      "chapter": "Bank Act",
+      "section": "1894",
+      "title": "Subsection 245(7) of the Budget Implementation Act, 2009",
+      "content": "1894 [Amendments]"
+    },
+    {
+      "provision_ref": "s1895",
+      "chapter": "Bank Act",
+      "section": "1895",
+      "title": "Subsection 245(7) of the Budget Implementation Act, 2009",
+      "content": "1895 [Amendment]"
+    },
+    {
+      "provision_ref": "s1896",
+      "chapter": "Bank Act",
+      "section": "1896",
+      "title": "Subsection 245(7) of the Budget Implementation Act, 2009",
+      "content": "1896 [Amendment]"
+    },
+    {
+      "provision_ref": "s1897",
+      "chapter": "Bank Act",
+      "section": "1897",
+      "title": "Subsection 245(7) of the Budget Implementation Act, 2009",
+      "content": "1897 [Amendments]"
+    },
+    {
+      "provision_ref": "s1898",
+      "chapter": "Bank Act",
+      "section": "1898",
+      "title": "Subsection 245(7) of the Budget Implementation Act, 2009",
+      "content": "1898 [Amendment]"
+    },
+    {
+      "provision_ref": "s1899",
+      "chapter": "Bank Act",
+      "section": "1899",
+      "title": "",
+      "content": "1899 [Amendments]"
+    },
+    {
+      "provision_ref": "s1900",
+      "chapter": "Bank Act",
+      "section": "1900",
+      "title": "",
+      "content": "1900 [Amendment]"
+    },
+    {
+      "provision_ref": "s1901",
+      "chapter": "Bank Act",
+      "section": "1901",
+      "title": "",
+      "content": "1901 [Amendments]"
+    },
+    {
+      "provision_ref": "s1902",
+      "chapter": "Bank Act",
+      "section": "1902",
+      "title": "",
+      "content": "1902 [Amendment]"
+    },
+    {
+      "provision_ref": "s1903",
+      "chapter": "Bank Act",
+      "section": "1903",
+      "title": "",
+      "content": "1903 [Amendment]"
+    },
+    {
+      "provision_ref": "s1904",
+      "chapter": "Bank Act",
+      "section": "1904",
+      "title": "",
+      "content": "1904 [Amendment]"
+    },
+    {
+      "provision_ref": "s1905",
+      "chapter": "Bank Act",
+      "section": "1905",
+      "title": "",
+      "content": "1905 [Amendment]"
+    },
+    {
+      "provision_ref": "s1906",
+      "chapter": "Bank Act",
+      "section": "1906",
+      "title": "",
+      "content": "1906 [Amendment]"
+    },
+    {
+      "provision_ref": "s1907",
+      "chapter": "Bank Act",
+      "section": "1907",
+      "title": "",
+      "content": "1907 [Amendment]"
+    },
+    {
+      "provision_ref": "s1908",
+      "chapter": "Bank Act",
+      "section": "1908",
+      "title": "",
+      "content": "1908 [Amendment]"
+    },
+    {
+      "provision_ref": "s1909",
+      "chapter": "Bank Act",
+      "section": "1909",
+      "title": "",
+      "content": "1909 [Amendment]"
+    },
+    {
+      "provision_ref": "s1910",
+      "chapter": "Bank Act",
+      "section": "1910",
+      "title": "",
+      "content": "1910 [Amendment]"
+    },
+    {
+      "provision_ref": "s1911",
+      "chapter": "Bank Act",
+      "section": "1911",
+      "title": "",
+      "content": "1911 [Amendment]"
+    },
+    {
+      "provision_ref": "s1912",
+      "chapter": "Bank Act",
+      "section": "1912",
+      "title": "",
+      "content": "1912 [Amendment]"
+    },
+    {
+      "provision_ref": "s1913",
+      "chapter": "Bank Act",
+      "section": "1913",
+      "title": "",
+      "content": "1913 [Amendment]"
+    },
+    {
+      "provision_ref": "s1914",
+      "chapter": "Bank Act",
+      "section": "1914",
+      "title": "",
+      "content": "1914 [Amendment]"
+    },
+    {
+      "provision_ref": "s1915",
+      "chapter": "Bank Act",
+      "section": "1915",
+      "title": "",
+      "content": "1915 [Amendment]"
+    },
+    {
+      "provision_ref": "s1916",
+      "chapter": "Bank Act",
+      "section": "1916",
+      "title": "",
+      "content": "1916 [Amendment]"
+    },
+    {
+      "provision_ref": "s1917",
+      "chapter": "Bank Act",
+      "section": "1917",
+      "title": "",
+      "content": "1917 [Amendment]"
+    },
+    {
+      "provision_ref": "s1918",
+      "chapter": "Bank Act",
+      "section": "1918",
+      "title": "",
+      "content": "1918 [Amendment]"
+    },
+    {
+      "provision_ref": "s1919",
+      "chapter": "Bank Act",
+      "section": "1919",
+      "title": "",
+      "content": "1919 [Amendment]"
+    },
+    {
+      "provision_ref": "s1920",
+      "chapter": "Bank Act",
+      "section": "1920",
+      "title": "",
+      "content": "1920 [Amendment]"
+    },
+    {
+      "provision_ref": "s1921",
+      "chapter": "Bank Act",
+      "section": "1921",
+      "title": "",
+      "content": "1921 [Amendment]"
+    },
+    {
+      "provision_ref": "s1922",
+      "chapter": "Bank Act",
+      "section": "1922",
+      "title": "",
+      "content": "1922 [Amendment]"
+    },
+    {
+      "provision_ref": "s1923",
+      "chapter": "Bank Act",
+      "section": "1923",
+      "title": "",
+      "content": "1923 [Amendment]"
+    },
+    {
+      "provision_ref": "s1924",
+      "chapter": "Bank Act",
+      "section": "1924",
+      "title": "",
+      "content": "1924 [Amendment]"
+    },
+    {
+      "provision_ref": "s1925",
+      "chapter": "Bank Act",
+      "section": "1925",
+      "title": "",
+      "content": "1925 [Amendments]"
+    },
+    {
+      "provision_ref": "s1926",
+      "chapter": "Bank Act",
+      "section": "1926",
+      "title": "",
+      "content": "1926 [Amendment]"
+    },
+    {
+      "provision_ref": "s1927",
+      "chapter": "Bank Act",
+      "section": "1927",
+      "title": "",
+      "content": "1927 [Amendment]"
+    },
+    {
+      "provision_ref": "s1928",
+      "chapter": "Bank Act",
+      "section": "1928",
+      "title": "",
+      "content": "1928 [Amendment]"
+    },
+    {
+      "provision_ref": "s1929",
+      "chapter": "Bank Act",
+      "section": "1929",
+      "title": "",
+      "content": "1929 [Amendment]"
+    },
+    {
+      "provision_ref": "s1930",
+      "chapter": "Bank Act",
+      "section": "1930",
+      "title": "",
+      "content": "1930 [Amendment]"
+    },
+    {
+      "provision_ref": "s1931",
+      "chapter": "Bank Act",
+      "section": "1931",
+      "title": "",
+      "content": "1931 [Amendment]"
+    },
+    {
+      "provision_ref": "s1932",
+      "chapter": "Bank Act",
+      "section": "1932",
+      "title": "",
+      "content": "1932 [Amendment]"
+    },
+    {
+      "provision_ref": "s1933",
+      "chapter": "Bank Act",
+      "section": "1933",
+      "title": "",
+      "content": "1933 [Amendment]"
+    },
+    {
+      "provision_ref": "s1934",
+      "chapter": "Bank Act",
+      "section": "1934",
+      "title": "",
+      "content": "1934 [Amendments]"
+    },
+    {
+      "provision_ref": "s1935",
+      "chapter": "Bank Act",
+      "section": "1935",
+      "title": "",
+      "content": "1935 [Amendments]"
+    },
+    {
+      "provision_ref": "s1936",
+      "chapter": "Bank Act",
+      "section": "1936",
+      "title": "",
+      "content": "1936 [Amendment]"
+    },
+    {
+      "provision_ref": "s1937",
+      "chapter": "Bank Act",
+      "section": "1937",
+      "title": "",
+      "content": "1937 [Amendment]"
+    },
+    {
+      "provision_ref": "s1938",
+      "chapter": "Bank Act",
+      "section": "1938",
+      "title": "",
+      "content": "1938 [Amendment]"
+    },
+    {
+      "provision_ref": "s1939",
+      "chapter": "Bank Act",
+      "section": "1939",
+      "title": "",
+      "content": "1939 [Amendment]"
+    },
+    {
+      "provision_ref": "s1940",
+      "chapter": "Bank Act",
+      "section": "1940",
+      "title": "",
+      "content": "1940 [Amendments]"
+    },
+    {
+      "provision_ref": "s1941",
+      "chapter": "Bank Act",
+      "section": "1941",
+      "title": "",
+      "content": "1941 [Amendment]"
+    },
+    {
+      "provision_ref": "s1942",
+      "chapter": "Bank Act",
+      "section": "1942",
+      "title": "",
+      "content": "1942 [Amendments]"
+    },
+    {
+      "provision_ref": "s1943",
+      "chapter": "Bank Act",
+      "section": "1943",
+      "title": "",
+      "content": "1943 [Amendment]"
+    },
+    {
+      "provision_ref": "s1944",
+      "chapter": "Bank Act",
+      "section": "1944",
+      "title": "",
+      "content": "1944 [Amendments]"
+    },
+    {
+      "provision_ref": "s1945",
+      "chapter": "Bank Act",
+      "section": "1945",
+      "title": "",
+      "content": "1945 [Amendment]"
+    },
+    {
+      "provision_ref": "s1946",
+      "chapter": "Bank Act",
+      "section": "1946",
+      "title": "",
+      "content": "1946 [Amendment]"
+    },
+    {
+      "provision_ref": "s1947",
+      "chapter": "Bank Act",
+      "section": "1947",
+      "title": "",
+      "content": "1947 [Amendment]"
+    },
+    {
+      "provision_ref": "s1948",
+      "chapter": "Bank Act",
+      "section": "1948",
+      "title": "",
+      "content": "1948 [Amendment]"
+    },
+    {
+      "provision_ref": "s1949",
+      "chapter": "Bank Act",
+      "section": "1949",
+      "title": "",
+      "content": "1949 [Amendments]"
+    },
+    {
+      "provision_ref": "s1950",
+      "chapter": "Bank Act",
+      "section": "1950",
+      "title": "",
+      "content": "1950 [Amendments]"
+    },
+    {
+      "provision_ref": "s1951",
+      "chapter": "Bank Act",
+      "section": "1951",
+      "title": "",
+      "content": "1951 [Amendment]"
+    },
+    {
+      "provision_ref": "s1952",
+      "chapter": "Bank Act",
+      "section": "1952",
+      "title": "",
+      "content": "1952 [Amendment]"
+    },
+    {
+      "provision_ref": "s1953",
+      "chapter": "Bank Act",
+      "section": "1953",
+      "title": "",
+      "content": "1953 [Amendments]"
+    },
+    {
+      "provision_ref": "s1954",
+      "chapter": "Bank Act",
+      "section": "1954",
+      "title": "",
+      "content": "1954 [Amendment]"
+    },
+    {
+      "provision_ref": "s1955",
+      "chapter": "Bank Act",
+      "section": "1955",
+      "title": "",
+      "content": "1955 [Amendments]"
+    },
+    {
+      "provision_ref": "s1956",
+      "chapter": "Bank Act",
+      "section": "1956",
+      "title": "",
+      "content": "1956 [Amendment]"
+    },
+    {
+      "provision_ref": "s1957",
+      "chapter": "Bank Act",
+      "section": "1957",
+      "title": "",
+      "content": "1957 [Amendment]"
+    },
+    {
+      "provision_ref": "s1958",
+      "chapter": "Bank Act",
+      "section": "1958",
+      "title": "",
+      "content": "1958 [Amendments]"
+    },
+    {
+      "provision_ref": "s1959",
+      "chapter": "Bank Act",
+      "section": "1959",
+      "title": "",
+      "content": "1959 [Amendment]"
+    },
+    {
+      "provision_ref": "s1960",
+      "chapter": "Bank Act",
+      "section": "1960",
+      "title": "",
+      "content": "1960 [Amendment]"
+    },
+    {
+      "provision_ref": "s1961",
+      "chapter": "Bank Act",
+      "section": "1961",
+      "title": "",
+      "content": "1961 [Amendments]"
+    },
+    {
+      "provision_ref": "s1962",
+      "chapter": "Bank Act",
+      "section": "1962",
+      "title": "",
+      "content": "1962 [Amendments]"
+    },
+    {
+      "provision_ref": "s1963",
+      "chapter": "Bank Act",
+      "section": "1963",
+      "title": "",
+      "content": "1963 [Amendments]"
+    },
+    {
+      "provision_ref": "s1964",
+      "chapter": "Bank Act",
+      "section": "1964",
+      "title": "",
+      "content": "1964 [Amendments]"
+    },
+    {
+      "provision_ref": "s1965",
+      "chapter": "Bank Act",
+      "section": "1965",
+      "title": "",
+      "content": "1965 [Amendments]"
+    },
+    {
+      "provision_ref": "s1966",
+      "chapter": "Bank Act",
+      "section": "1966",
+      "title": "",
+      "content": "1966 [Amendment]"
+    },
+    {
+      "provision_ref": "s1967",
+      "chapter": "Bank Act",
+      "section": "1967",
+      "title": "",
+      "content": "1967 [Amendment]"
+    },
+    {
+      "provision_ref": "s1968",
+      "chapter": "Bank Act",
+      "section": "1968",
+      "title": "",
+      "content": "1968 [Amendment]"
+    },
+    {
+      "provision_ref": "s1969",
+      "chapter": "Bank Act",
+      "section": "1969",
+      "title": "",
+      "content": "1969 [Amendment]"
+    },
+    {
+      "provision_ref": "s1970",
+      "chapter": "Bank Act",
+      "section": "1970",
+      "title": "",
+      "content": "1970 [Amendment]"
+    },
+    {
+      "provision_ref": "s1971",
+      "chapter": "Bank Act",
+      "section": "1971",
+      "title": "",
+      "content": "1971 [Amendment]"
+    },
+    {
+      "provision_ref": "s1972",
+      "chapter": "Bank Act",
+      "section": "1972",
+      "title": "",
+      "content": "1972 [Amendments]"
+    },
+    {
+      "provision_ref": "s1973",
+      "chapter": "Bank Act",
+      "section": "1973",
+      "title": "",
+      "content": "1973 [Amendment]"
+    },
+    {
+      "provision_ref": "s1974",
+      "chapter": "Bank Act",
+      "section": "1974",
+      "title": "",
+      "content": "1974 [Amendment]"
+    },
+    {
+      "provision_ref": "s1975",
+      "chapter": "Bank Act",
+      "section": "1975",
+      "title": "",
+      "content": "1975 [Amendments]"
+    },
+    {
+      "provision_ref": "s1976",
+      "chapter": "Bank Act",
+      "section": "1976",
+      "title": "",
+      "content": "1976 [Amendments]"
+    },
+    {
+      "provision_ref": "s1977",
+      "chapter": "Bank Act",
+      "section": "1977",
+      "title": "",
+      "content": "1977 [Amendments]"
+    },
+    {
+      "provision_ref": "s1978",
+      "chapter": "Bank Act",
+      "section": "1978",
+      "title": "",
+      "content": "1978 [Amendment]"
+    },
+    {
+      "provision_ref": "s1979",
+      "chapter": "Bank Act",
+      "section": "1979",
+      "title": "",
+      "content": "1979 [Amendment]"
+    },
+    {
+      "provision_ref": "s1980",
+      "chapter": "Bank Act",
+      "section": "1980",
+      "title": "",
+      "content": "1980 [Amendment]"
+    },
+    {
+      "provision_ref": "s1981",
+      "chapter": "Bank Act",
+      "section": "1981",
+      "title": "",
+      "content": "1981 [Amendment]"
+    },
+    {
+      "provision_ref": "s1982",
+      "chapter": "Bank Act",
+      "section": "1982",
+      "title": "",
+      "content": "1982 [Amendment]"
+    },
+    {
+      "provision_ref": "s1983",
+      "chapter": "Bank Act",
+      "section": "1983",
+      "title": "",
+      "content": "1983 [Amendment]"
+    },
+    {
+      "provision_ref": "s1984",
+      "chapter": "Bank Act",
+      "section": "1984",
+      "title": "",
+      "content": "1984 [Amendment]"
+    },
+    {
+      "provision_ref": "s1985",
+      "chapter": "Bank Act",
+      "section": "1985",
+      "title": "",
+      "content": "1985 [Amendment]"
+    },
+    {
+      "provision_ref": "s1986",
+      "chapter": "Bank Act",
+      "section": "1986",
+      "title": "",
+      "content": "1986 [Amendment]"
+    },
+    {
+      "provision_ref": "s1987",
+      "chapter": "Bank Act",
+      "section": "1987",
+      "title": "",
+      "content": "1987 [Amendment]"
+    },
+    {
+      "provision_ref": "s1988",
+      "chapter": "Bank Act",
+      "section": "1988",
+      "title": "",
+      "content": "1988 [Amendment]"
+    },
+    {
+      "provision_ref": "s1989",
+      "chapter": "Bank Act",
+      "section": "1989",
+      "title": "",
+      "content": "1989 [Amendment]"
+    },
+    {
+      "provision_ref": "s1990",
+      "chapter": "Bank Act",
+      "section": "1990",
+      "title": "",
+      "content": "1990 [Amendment]"
+    },
+    {
+      "provision_ref": "s1991",
+      "chapter": "Bank Act",
+      "section": "1991",
+      "title": "",
+      "content": "1991 [Amendment]"
+    },
+    {
+      "provision_ref": "s1992",
+      "chapter": "Bank Act",
+      "section": "1992",
+      "title": "",
+      "content": "1992 [Amendment]"
+    },
+    {
+      "provision_ref": "s1993",
+      "chapter": "Bank Act",
+      "section": "1993",
+      "title": "",
+      "content": "1993 [Amendments]"
+    },
+    {
+      "provision_ref": "s1994",
+      "chapter": "Bank Act",
+      "section": "1994",
+      "title": "",
+      "content": "1994 [Amendment]"
+    },
+    {
+      "provision_ref": "s1995",
+      "chapter": "Bank Act",
+      "section": "1995",
+      "title": "",
+      "content": "1995 [Amendment]"
+    },
+    {
+      "provision_ref": "s1996",
+      "chapter": "Bank Act",
+      "section": "1996",
+      "title": "",
+      "content": "1996 [Amendment]"
+    },
+    {
+      "provision_ref": "s1997",
+      "chapter": "Bank Act",
+      "section": "1997",
+      "title": "",
+      "content": "1997 [Amendment]"
+    },
+    {
+      "provision_ref": "s1998",
+      "chapter": "Bank Act",
+      "section": "1998",
+      "title": "",
+      "content": "1998 [Amendments]"
+    },
+    {
+      "provision_ref": "s1999",
+      "chapter": "Bank Act",
+      "section": "1999",
+      "title": "",
+      "content": "1999 [Amendment]"
+    },
+    {
+      "provision_ref": "s2000",
+      "chapter": "Bank Act",
+      "section": "2000",
+      "title": "",
+      "content": "2000 [Amendments]"
+    },
+    {
+      "provision_ref": "s2001",
+      "chapter": "Bank Act",
+      "section": "2001",
+      "title": "",
+      "content": "2001 [Amendment]"
+    },
+    {
+      "provision_ref": "s2002",
+      "chapter": "Bank Act",
+      "section": "2002",
+      "title": "",
+      "content": "2002 [Amendments]"
+    },
+    {
+      "provision_ref": "s2003",
+      "chapter": "Bank Act",
+      "section": "2003",
+      "title": "",
+      "content": "2003 [Amendment]"
+    },
+    {
+      "provision_ref": "s2004",
+      "chapter": "Bank Act",
+      "section": "2004",
+      "title": "",
+      "content": "2004 [Amendment]"
+    },
+    {
+      "provision_ref": "s2005",
+      "chapter": "Bank Act",
+      "section": "2005",
+      "title": "",
+      "content": "2005 [Amendments]"
+    },
+    {
+      "provision_ref": "s2006",
+      "chapter": "Bank Act",
+      "section": "2006",
+      "title": "",
+      "content": "2006 [Amendment]"
+    },
+    {
+      "provision_ref": "s2007",
+      "chapter": "Bank Act",
+      "section": "2007",
+      "title": "",
+      "content": "2007 [Amendments]"
+    },
+    {
+      "provision_ref": "s2008",
+      "chapter": "Bank Act",
+      "section": "2008",
+      "title": "",
+      "content": "2008 [Amendments]"
+    },
+    {
+      "provision_ref": "s2009",
+      "chapter": "Bank Act",
+      "section": "2009",
+      "title": "",
+      "content": "2009 [Amendments]"
+    },
+    {
+      "provision_ref": "s2010",
+      "chapter": "Bank Act",
+      "section": "2010",
+      "title": "",
+      "content": "2010 [Amendment]"
+    },
+    {
+      "provision_ref": "s2011",
+      "chapter": "Bank Act",
+      "section": "2011",
+      "title": "",
+      "content": "2011 [Amendment]"
+    },
+    {
+      "provision_ref": "s2012",
+      "chapter": "Bank Act",
+      "section": "2012",
+      "title": "",
+      "content": "2012 [Amendment]"
+    },
+    {
+      "provision_ref": "s2013",
+      "chapter": "Bank Act",
+      "section": "2013",
+      "title": "",
+      "content": "2013 [Amendment]"
+    },
+    {
+      "provision_ref": "s2014",
+      "chapter": "Bank Act",
+      "section": "2014",
+      "title": "",
+      "content": "2014 [Amendment]"
+    },
+    {
+      "provision_ref": "s2015",
+      "chapter": "Bank Act",
+      "section": "2015",
+      "title": "",
+      "content": "2015 [Amendment]"
+    },
+    {
+      "provision_ref": "s2016",
+      "chapter": "Bank Act",
+      "section": "2016",
+      "title": "",
+      "content": "2016 [Amendment]"
+    },
+    {
+      "provision_ref": "s2017",
+      "chapter": "Bank Act",
+      "section": "2017",
+      "title": "",
+      "content": "2017 [Amendments]"
+    },
+    {
+      "provision_ref": "s2018",
+      "chapter": "Bank Act",
+      "section": "2018",
+      "title": "",
+      "content": "2018 [Amendments]"
+    },
+    {
+      "provision_ref": "s2019",
+      "chapter": "Bank Act",
+      "section": "2019",
+      "title": "",
+      "content": "2019 [Amendment]"
+    },
+    {
+      "provision_ref": "s2020",
+      "chapter": "Bank Act",
+      "section": "2020",
+      "title": "",
+      "content": "2020 [Amendment]"
+    },
+    {
+      "provision_ref": "s2021",
+      "chapter": "Bank Act",
+      "section": "2021",
+      "title": "",
+      "content": "2021 [Amendments]"
+    },
+    {
+      "provision_ref": "s2022",
+      "chapter": "Bank Act",
+      "section": "2022",
+      "title": "",
+      "content": "2022 [Amendment]"
+    },
+    {
+      "provision_ref": "s2023",
+      "chapter": "Bank Act",
+      "section": "2023",
+      "title": "",
+      "content": "2023 [Amendment]"
+    },
+    {
+      "provision_ref": "s2024",
+      "chapter": "Bank Act",
+      "section": "2024",
+      "title": "",
+      "content": "2024 [Amendment]"
+    },
+    {
+      "provision_ref": "s2025",
+      "chapter": "Bank Act",
+      "section": "2025",
+      "title": "",
+      "content": "2025 [Amendment]"
+    },
+    {
+      "provision_ref": "s2026",
+      "chapter": "Bank Act",
+      "section": "2026",
+      "title": "",
+      "content": "2026 [Amendment]"
+    },
+    {
+      "provision_ref": "s2027",
+      "chapter": "Bank Act",
+      "section": "2027",
+      "title": "",
+      "content": "2027 [Amendments]"
+    },
+    {
+      "provision_ref": "s2028",
+      "chapter": "Bank Act",
+      "section": "2028",
+      "title": "",
+      "content": "2028 [Amendment]"
+    },
+    {
+      "provision_ref": "s2029",
+      "chapter": "Bank Act",
+      "section": "2029",
+      "title": "",
+      "content": "2029 [Amendment]"
+    },
+    {
+      "provision_ref": "s2030",
+      "chapter": "Bank Act",
+      "section": "2030",
+      "title": "",
+      "content": "2030 [Amendment]"
+    },
+    {
+      "provision_ref": "s2031",
+      "chapter": "Bank Act",
+      "section": "2031",
+      "title": "",
+      "content": "2031 [Amendment]"
+    },
+    {
+      "provision_ref": "s2032",
+      "chapter": "Bank Act",
+      "section": "2032",
+      "title": "",
+      "content": "2032 [Amendment]"
+    },
+    {
+      "provision_ref": "s2033",
+      "chapter": "Bank Act",
+      "section": "2033",
+      "title": "",
+      "content": "2033 [Amendment]"
+    },
+    {
+      "provision_ref": "s2034",
+      "chapter": "Bank Act",
+      "section": "2034",
+      "title": "",
+      "content": "2034 [Amendment]"
+    },
+    {
+      "provision_ref": "s2035",
+      "chapter": "Bank Act",
+      "section": "2035",
+      "title": "",
+      "content": "2035 [Amendments]"
+    },
+    {
+      "provision_ref": "s2036",
+      "chapter": "Bank Act",
+      "section": "2036",
+      "title": "",
+      "content": "2036 [Amendment]"
+    },
+    {
+      "provision_ref": "s2037",
+      "chapter": "Bank Act",
+      "section": "2037",
+      "title": "",
+      "content": "2037 [Amendments]"
+    },
+    {
+      "provision_ref": "s2038",
+      "chapter": "Bank Act",
+      "section": "2038",
+      "title": "",
+      "content": "2038 [Amendment]"
+    },
+    {
+      "provision_ref": "s2039",
+      "chapter": "Bank Act",
+      "section": "2039",
+      "title": "",
+      "content": "2039 [Amendment]"
+    },
+    {
+      "provision_ref": "s2040",
+      "chapter": "Bank Act",
+      "section": "2040",
+      "title": "",
+      "content": "2040 [Amendments]"
+    },
+    {
+      "provision_ref": "s2041",
+      "chapter": "Bank Act",
+      "section": "2041",
+      "title": "",
+      "content": "2041 [Amendments]"
+    },
+    {
+      "provision_ref": "s2042",
+      "chapter": "Bank Act",
+      "section": "2042",
+      "title": "",
+      "content": "2042 [Amendment]"
+    },
+    {
+      "provision_ref": "s2043",
+      "chapter": "Bank Act",
+      "section": "2043",
+      "title": "",
+      "content": "2043 [Amendments]"
+    },
+    {
+      "provision_ref": "s2044",
+      "chapter": "Bank Act",
+      "section": "2044",
+      "title": "",
+      "content": "2044 [Amendments]"
+    },
+    {
+      "provision_ref": "s2045",
+      "chapter": "Bank Act",
+      "section": "2045",
+      "title": "",
+      "content": "2045 [Amendment]"
+    },
+    {
+      "provision_ref": "s2046",
+      "chapter": "Bank Act",
+      "section": "2046",
+      "title": "",
+      "content": "2046 [Amendment]"
+    },
+    {
+      "provision_ref": "s2047",
+      "chapter": "Bank Act",
+      "section": "2047",
+      "title": "",
+      "content": "2047 [Amendments]"
+    },
+    {
+      "provision_ref": "s2048",
+      "chapter": "Bank Act",
+      "section": "2048",
+      "title": "",
+      "content": "2048 [Amendment]"
+    },
+    {
+      "provision_ref": "s2049",
+      "chapter": "Bank Act",
+      "section": "2049",
+      "title": "",
+      "content": "2049 [Amendment]"
+    },
+    {
+      "provision_ref": "s2050",
+      "chapter": "Bank Act",
+      "section": "2050",
+      "title": "",
+      "content": "2050 [Amendments]"
+    },
+    {
+      "provision_ref": "s2051",
+      "chapter": "Bank Act",
+      "section": "2051",
+      "title": "",
+      "content": "2051 [Amendment]"
+    },
+    {
+      "provision_ref": "s2052",
+      "chapter": "Bank Act",
+      "section": "2052",
+      "title": "",
+      "content": "2052 [Amendment]"
+    },
+    {
+      "provision_ref": "s2053",
+      "chapter": "Bank Act",
+      "section": "2053",
+      "title": "",
+      "content": "2053 [Amendment]"
+    },
+    {
+      "provision_ref": "s2054",
+      "chapter": "Bank Act",
+      "section": "2054",
+      "title": "",
+      "content": "2054 [Amendment]"
+    },
+    {
+      "provision_ref": "s2055",
+      "chapter": "Bank Act",
+      "section": "2055",
+      "title": "",
+      "content": "2055 [Amendment]"
+    },
+    {
+      "provision_ref": "s2056",
+      "chapter": "Bank Act",
+      "section": "2056",
+      "title": "",
+      "content": "2056 [Amendment]"
+    },
+    {
+      "provision_ref": "s2057",
+      "chapter": "Bank Act",
+      "section": "2057",
+      "title": "",
+      "content": "2057 [Amendment]"
+    },
+    {
+      "provision_ref": "s2058",
+      "chapter": "Bank Act",
+      "section": "2058",
+      "title": "",
+      "content": "2058 [Amendment]"
+    },
+    {
+      "provision_ref": "s2059",
+      "chapter": "Bank Act",
+      "section": "2059",
+      "title": "",
+      "content": "2059 [Amendment]"
+    },
+    {
+      "provision_ref": "s2060",
+      "chapter": "Bank Act",
+      "section": "2060",
+      "title": "",
+      "content": "2060 [Amendment]"
+    },
+    {
+      "provision_ref": "s2061",
+      "chapter": "Bank Act",
+      "section": "2061",
+      "title": "",
+      "content": "2061 [Amendment]"
+    },
+    {
+      "provision_ref": "s2062",
+      "chapter": "Bank Act",
+      "section": "2062",
+      "title": "",
+      "content": "2062 [Amendment]"
+    },
+    {
+      "provision_ref": "s2063",
+      "chapter": "Bank Act",
+      "section": "2063",
+      "title": "",
+      "content": "2063 [Amendment]"
+    },
+    {
+      "provision_ref": "s2064",
+      "chapter": "Bank Act",
+      "section": "2064",
+      "title": "",
+      "content": "2064 [Amendment]"
+    },
+    {
+      "provision_ref": "s2065",
+      "chapter": "Bank Act",
+      "section": "2065",
+      "title": "",
+      "content": "2065 [Amendment]"
+    },
+    {
+      "provision_ref": "s2066",
+      "chapter": "Bank Act",
+      "section": "2066",
+      "title": "",
+      "content": "2066 [Amendment]"
+    },
+    {
+      "provision_ref": "s2067",
+      "chapter": "Bank Act",
+      "section": "2067",
+      "title": "",
+      "content": "2067 [Amendment]"
+    },
+    {
+      "provision_ref": "s2068",
+      "chapter": "Bank Act",
+      "section": "2068",
+      "title": "",
+      "content": "2068 [Amendments]"
+    },
+    {
+      "provision_ref": "s2069",
+      "chapter": "Bank Act",
+      "section": "2069",
+      "title": "",
+      "content": "2069 [Amendments]"
+    },
+    {
+      "provision_ref": "s2070",
+      "chapter": "Bank Act",
+      "section": "2070",
+      "title": "",
+      "content": "2070 [Amendment]"
+    },
+    {
+      "provision_ref": "s2071",
+      "chapter": "Bank Act",
+      "section": "2071",
+      "title": "",
+      "content": "2071 [Amendments]"
+    },
+    {
+      "provision_ref": "s2072",
+      "chapter": "Bank Act",
+      "section": "2072",
+      "title": "",
+      "content": "2072 [Amendment]"
+    },
+    {
+      "provision_ref": "s2073",
+      "chapter": "Bank Act",
+      "section": "2073",
+      "title": "",
+      "content": "2073 [Amendment]"
+    },
+    {
+      "provision_ref": "s2074",
+      "chapter": "Bank Act",
+      "section": "2074",
+      "title": "",
+      "content": "2074 [Amendment]"
+    },
+    {
+      "provision_ref": "s2075",
+      "chapter": "Bank Act",
+      "section": "2075",
+      "title": "",
+      "content": "2075 [Amendment]"
+    },
+    {
+      "provision_ref": "s2076",
+      "chapter": "Bank Act",
+      "section": "2076",
+      "title": "",
+      "content": "2076 [Amendments]"
+    },
+    {
+      "provision_ref": "s2077",
+      "chapter": "Bank Act",
+      "section": "2077",
+      "title": "",
+      "content": "2077 [Amendment]"
+    },
+    {
+      "provision_ref": "s2078",
+      "chapter": "Bank Act",
+      "section": "2078",
+      "title": "",
+      "content": "2078 [Amendments]"
+    },
+    {
+      "provision_ref": "s2079",
+      "chapter": "Bank Act",
+      "section": "2079",
+      "title": "",
+      "content": "2079 [Amendment]"
+    },
+    {
+      "provision_ref": "s2080",
+      "chapter": "Bank Act",
+      "section": "2080",
+      "title": "",
+      "content": "2080 [Amendment]"
+    },
+    {
+      "provision_ref": "s2081",
+      "chapter": "Bank Act",
+      "section": "2081",
+      "title": "",
+      "content": "2081 [Amendment]"
+    },
+    {
+      "provision_ref": "s2082",
+      "chapter": "Bank Act",
+      "section": "2082",
+      "title": "",
+      "content": "2082 [Amendment]"
+    },
+    {
+      "provision_ref": "s2083",
+      "chapter": "Bank Act",
+      "section": "2083",
+      "title": "",
+      "content": "2083 [Amendment]"
+    },
+    {
+      "provision_ref": "s2084",
+      "chapter": "Bank Act",
+      "section": "2084",
+      "title": "",
+      "content": "2084 [Amendment]"
+    },
+    {
+      "provision_ref": "s2085",
+      "chapter": "Bank Act",
+      "section": "2085",
+      "title": "",
+      "content": "2085 [Amendments]"
+    },
+    {
+      "provision_ref": "s2086",
+      "chapter": "Bank Act",
+      "section": "2086",
+      "title": "",
+      "content": "2086 [Amendment]"
+    },
+    {
+      "provision_ref": "s2087",
+      "chapter": "Bank Act",
+      "section": "2087",
+      "title": "",
+      "content": "2087 [Amendments]"
+    },
+    {
+      "provision_ref": "s2088",
+      "chapter": "Bank Act",
+      "section": "2088",
+      "title": "",
+      "content": "2088 [Amendment]"
+    },
+    {
+      "provision_ref": "s2089",
+      "chapter": "Bank Act",
+      "section": "2089",
+      "title": "",
+      "content": "2089 [Amendments]"
+    },
+    {
+      "provision_ref": "s2090",
+      "chapter": "Bank Act",
+      "section": "2090",
+      "title": "",
+      "content": "2090 [Amendments]"
+    },
+    {
+      "provision_ref": "s2091",
+      "chapter": "Bank Act",
+      "section": "2091",
+      "title": "",
+      "content": "2091 [Amendment]"
+    },
+    {
+      "provision_ref": "s2092",
+      "chapter": "Bank Act",
+      "section": "2092",
+      "title": "",
+      "content": "2092 [Amendment]"
+    },
+    {
+      "provision_ref": "s2093",
+      "chapter": "Bank Act",
+      "section": "2093",
+      "title": "",
+      "content": "2093 [Amendments]"
+    },
+    {
+      "provision_ref": "s2094",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2094",
+      "title": "",
+      "content": "2094 [Amendments]"
+    },
+    {
+      "provision_ref": "s2095",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2095",
+      "title": "",
+      "content": "2095 [Amendment]"
+    },
+    {
+      "provision_ref": "s2096",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2096",
+      "title": "",
+      "content": "2096 [Amendment]"
+    },
+    {
+      "provision_ref": "s2097",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2097",
+      "title": "",
+      "content": "2097 [Amendment]"
+    },
+    {
+      "provision_ref": "s2098",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2098",
+      "title": "",
+      "content": "2098 [Amendment]"
+    },
+    {
+      "provision_ref": "s2099",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2099",
+      "title": "",
+      "content": "2099 [Amendment]"
+    },
+    {
+      "provision_ref": "s2100",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2100",
+      "title": "",
+      "content": "2100 [Amendment]"
+    },
+    {
+      "provision_ref": "s2101",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2101",
+      "title": "",
+      "content": "2101 [Amendment]"
+    },
+    {
+      "provision_ref": "s2102",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2102",
+      "title": "",
+      "content": "2102 [Amendment]"
+    },
+    {
+      "provision_ref": "s2103",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2103",
+      "title": "",
+      "content": "2103 [Amendment]"
+    },
+    {
+      "provision_ref": "s2104",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2104",
+      "title": "",
+      "content": "2104 [Amendment]"
+    },
+    {
+      "provision_ref": "s2105",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2105",
+      "title": "",
+      "content": "2105 [Amendment]"
+    },
+    {
+      "provision_ref": "s2106",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2106",
+      "title": "",
+      "content": "2106 [Amendments]"
+    },
+    {
+      "provision_ref": "s2107",
+      "chapter": "Canada Deposit Insurance Corporation Act",
+      "section": "2107",
+      "title": "",
+      "content": "2107 [Amendments]"
+    },
+    {
+      "provision_ref": "s2108",
+      "chapter": "Income Tax Act",
+      "section": "2108",
+      "title": "",
+      "content": "2108 [Amendment]"
+    },
+    {
+      "provision_ref": "s2109",
+      "chapter": "Income Tax Act",
+      "section": "2109",
+      "title": "",
+      "content": "2109 [Amendments]"
+    },
+    {
+      "provision_ref": "s2110",
+      "chapter": "Related Amendments",
+      "section": "2110",
+      "title": "",
+      "content": "2110 [Amendment]"
+    },
+    {
+      "provision_ref": "s2111",
+      "chapter": "Related Amendments",
+      "section": "2111",
+      "title": "",
+      "content": "2111 [Amendment]"
+    },
+    {
+      "provision_ref": "s2112",
+      "chapter": "Related Amendments",
+      "section": "2112",
+      "title": "",
+      "content": "2112 [Amendment] Canada Cooperatives Act"
+    },
+    {
+      "provision_ref": "s2113",
+      "chapter": "Related Amendments",
+      "section": "2113",
+      "title": "",
+      "content": "2113 [Amendment] Cooperative Credit Associations Act"
+    },
+    {
+      "provision_ref": "s2114",
+      "chapter": "Related Amendments",
+      "section": "2114",
+      "title": "",
+      "content": "2114 [Amendment]"
+    },
+    {
+      "provision_ref": "s2115",
+      "chapter": "Related Amendments",
+      "section": "2115",
+      "title": "",
+      "content": "2115 [Amendments] Financial Consumer Agency of Canada Act"
+    },
+    {
+      "provision_ref": "s2116",
+      "chapter": "Related Amendments",
+      "section": "2116",
+      "title": "",
+      "content": "2116 [Amendment] Insurance Companies Act"
+    },
+    {
+      "provision_ref": "s2117",
+      "chapter": "Related Amendments",
+      "section": "2117",
+      "title": "",
+      "content": "2117 [Amendment]"
+    },
+    {
+      "provision_ref": "s2118",
+      "chapter": "Related Amendments",
+      "section": "2118",
+      "title": "",
+      "content": "2118 [Amendment]"
+    },
+    {
+      "provision_ref": "s2119",
+      "chapter": "Related Amendments",
+      "section": "2119",
+      "title": "",
+      "content": "2119 [Amendment]"
+    },
+    {
+      "provision_ref": "s2120",
+      "chapter": "Related Amendments",
+      "section": "2120",
+      "title": "",
+      "content": "2120 [Amendment]"
+    },
+    {
+      "provision_ref": "s2121",
+      "chapter": "Related Amendments",
+      "section": "2121",
+      "title": "",
+      "content": "2121 [Amendment] Office of the Superintendent of Financial Institutions Act"
+    },
+    {
+      "provision_ref": "s2122",
+      "chapter": "Related Amendments",
+      "section": "2122",
+      "title": "",
+      "content": "2122 [Amendment] Trust and Loan Companies Act"
+    },
+    {
+      "provision_ref": "s2123",
+      "chapter": "Related Amendments",
+      "section": "2123",
+      "title": "",
+      "content": "2123 [Amendment]"
+    },
+    {
+      "provision_ref": "s2124",
+      "chapter": "Related Amendments",
+      "section": "2124",
+      "title": "",
+      "content": "2124 [Amendment]"
+    },
+    {
+      "provision_ref": "s2125",
+      "chapter": "Related Amendments",
+      "section": "2125",
+      "title": "",
+      "content": "2125 [Amendment] Winding-up and Restructuring Act"
+    },
+    {
+      "provision_ref": "s2126",
+      "chapter": "Related Amendments",
+      "section": "2126",
+      "title": "",
+      "content": "2126 [Amendment]"
+    },
+    {
+      "provision_ref": "s2127",
+      "chapter": "Related Amendments",
+      "section": "2127",
+      "title": "",
+      "content": "2127 [Amendment]"
+    },
+    {
+      "provision_ref": "s2128",
+      "chapter": "Related Amendments",
+      "section": "2128",
+      "title": "",
+      "content": "2128 [Amendment]"
+    },
+    {
+      "provision_ref": "s2129",
+      "chapter": "Related Amendments",
+      "section": "2129",
+      "title": "",
+      "content": "2129 [Amendment]"
+    },
+    {
+      "provision_ref": "s2130",
+      "chapter": "Related Amendments",
+      "section": "2130",
+      "title": "",
+      "content": "2130 [Amendment]"
+    },
+    {
+      "provision_ref": "s2131",
+      "chapter": "Related Amendments",
+      "section": "2131",
+      "title": "",
+      "content": "2131 [Amendment]"
+    },
+    {
+      "provision_ref": "s2132",
+      "chapter": "Related Amendments",
+      "section": "2132",
+      "title": "",
+      "content": "2132 [Amendment]"
+    },
+    {
+      "provision_ref": "s2133",
+      "chapter": "Related Amendments",
+      "section": "2133",
+      "title": "",
+      "content": "2133 [Amendments]"
+    },
+    {
+      "provision_ref": "s2134",
+      "chapter": "Related Amendments",
+      "section": "2134",
+      "title": "",
+      "content": "2134 [Amendment]"
+    },
+    {
+      "provision_ref": "s2135",
+      "chapter": "Coordinating Amendments",
+      "section": "2135",
+      "title": "",
+      "content": "2135 [Amendments]"
+    },
+    {
+      "provision_ref": "s2136",
+      "chapter": "Coming into Force",
+      "section": "2136",
+      "title": "Order in council",
+      "content": "2136 The provisions of this Part come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1894 to 2135 in force December 19, 2012, see SI/2012-99.]"
+    },
+    {
+      "provision_ref": "s2137",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2137",
+      "title": "Definitions",
+      "content": "2137 (1) The following definitions apply in this Part. AECL AECL means Atomic Energy of Canada Limited. ( EACL ) assets assets includes (a) in relation to an entity, the securities of another entity held by, on behalf of or in trust for the entity; and (b) intangible property. ( actifs ) Minister Minister means the Minister of Natural Resources. ( ministre ) security security means (a) in relation to a corporation, a share of any class or series of shares or a debt obligation of the corporation, and includes any conversion or exchange privilege, option or other right to acquire a share or debt obligation of the corporation; and (b) in relation to any other entity, any ownership interest in or debt obligation of the entity and includes any conversion or exchange privilege, option or other right to acquire an ownership interest or debt obligation of the entity. ( titre ) (2) In this Part corporation , share and wholly-owned subsidiary have the same meaning as in subsection 83(1) of the Financial Administration Act . (3) Unless a contrary intention appears, words and expressions used in this Part have the same meaning as in the Canada Business Corporations Act . (4) In the event of any inconsistency between this Part and the Canada Business Corporations Act or anything issued, made or established under that Act, this Part prevails to the extent of the inconsistency. (5) Nothing in, or done under the authority of, this Part affects the operation of the Competition Act in respect of the acquisition of any interest in an entity."
+    },
+    {
+      "provision_ref": "s2138",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2138",
+      "title": "Purpose",
+      "content": "2138 The purpose of this Part is to authorize a number of measures for the reorganization and divestiture of all or any part of AECL’s business."
+    },
+    {
+      "provision_ref": "s2139",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2139",
+      "title": "Authority to sell shares, etc.",
+      "content": "2139 (1) The Minister may, with the approval of the Governor in Council and on any terms that the Governor in Council considers appropriate, (a) despite section 11 of the Nuclear Energy Act , sell or otherwise dispose of some or all of the securities of AECL; (b) procure an addition to, or other material change in, the objects or purposes for which AECL is incorporated or the restrictions on the businesses or activities that it may carry on, as set out in its articles; (c) procure the amalgamation of AECL; or (d) procure the dissolution of AECL. (2) The Minister may do anything or cause anything to be done that is necessary for, or incidental to, a measure approved under subsection (1)."
+    },
+    {
+      "provision_ref": "s2140",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2140",
+      "title": "Authority with respect to entities",
+      "content": "2140 (1) The Minister may, with the approval of the Governor in Council and on any terms that the Governor in Council considers appropriate, (a) procure the incorporation of a corporation, securities of which, on incorporation, would be held by, on behalf of or in trust for, Her Majesty in right of Canada and sell or otherwise dispose of some or all of the securities of the corporation; (b) procure the formation of any other entity, securities of which, on formation, would be held by, on behalf of or in trust for, Her Majesty in right of Canada and sell or otherwise dispose of some or all of the securities of the entity; (c) acquire securities of a corporation that, on acquisition, would be held by, on behalf of or in trust for, Her Majesty in right of Canada and sell or otherwise dispose of some or all of the securities of the corporation; and (d) acquire securities of any other entity that, on acquisition, would be held by, on behalf of or in trust for, Her Majesty in right of Canada and sell or otherwise dispose of some or all of the securities of the entity. (2) The Minister may do anything or cause anything to be done that is necessary for, or incidental to, a measure approved under subsection (1). (3) The Governor in Council may, by order, declare that any of the provisions of Part X of the Financial Administration Act do not apply to a corporation referred to in subsection (1)(a)."
+    },
+    {
+      "provision_ref": "s2141",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2141",
+      "title": "Authority",
+      "content": "2141 (1) AECL, a corporation referred to in paragraph 2140(1)(a), any other entity referred to in paragraph 2140(1)(b) or any one of their wholly-owned subsidiaries or wholly-owned entities may, with the approval of the Governor in Council and on any terms that the Governor in Council considers appropriate, (a) sell or otherwise dispose of some or all of its assets; (b) sell or otherwise dispose of some or all of its liabilities; (c) issue securities and sell or otherwise dispose of some or all of those securities; (d) reorganize its capital structure; (e) acquire assets of a corporation or any other entity; (f) procure an addition to, or other material change in, the objects or purposes for which it is incorporated or formed or the restrictions on the businesses or activities that it may carry on, as set out in its articles or constituting documents; (g) procure the incorporation of a corporation, securities of which, on incorporation, would be held by, on behalf of or in trust for, the entity that procures the incorporation; (h) procure the formation of any other entity, securities of which, on formation, would be held by, on behalf of or in trust for, the entity that procures the formation; (i) acquire securities of a corporation or any other entity that, on acquisition, would be held by, on behalf of or in trust for, the entity that acquires the securities; (j) sell or otherwise dispose of some or all of the securities of a corporation or any other entity that are held by, on behalf of or in trust for, the entity that sells or otherwise disposes of the securities; (k) procure its amalgamation or the amalgamation of any of its wholly-owned subsidiaries; (l) procure its dissolution or the dissolution of any of its wholly-owned subsidiaries; or (m) do anything that is necessary for, or incidental to, a measure approved under paragraphs (a) to (l). (2) The Governor in Council may, on the recommendation of the Minister and on any terms that the Governor in Council considers appropriate, direct AECL, a corporation referred to in paragraph 2140(1)(a) or any other entity referred to in paragraph 2140(1)(b) to take, or cause any of its wholly-owned subsidiaries or wholly-owned entities to take, a measure referred to in subsection (1). (3) The Governor in Council may not issue a directive to AECL, a corporation referred to in paragraph 2140(1)(a) or any other entity referred to in paragraph 2140(1)(b) (a) after any of its securities are sold or otherwise disposed of; or (b) with respect to any of its wholly-owned subsidiaries or wholly-owned entities, after the wholly-owned subsidiaries or wholly-owned entities’ securities are sold or otherwise disposed of. (4) The directors of AECL or of the corporation, or persons acting in a similar capacity with respect to the entity, must comply with a directive issued by the Governor in Council. That compliance is in the best interests of AECL, the corporation or the entity, as the case may be, to whom the directive is issued. (5) As soon as is feasible after implementing a directive and completing any actions that are required to be taken in connection with that implementation, AECL, the corporation or the entity must notify the Minister that it has done so."
+    },
+    {
+      "provision_ref": "s2142",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2142",
+      "title": "Non-application of Statutory Instruments Act",
+      "content": "2142 The Statutory Instruments Act does not apply to a directive."
+    },
+    {
+      "provision_ref": "s2143",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2143",
+      "title": "Tabling in Parliament",
+      "content": "2143 (1) The Minister is to cause a copy of a directive to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the directive is issued. (2) However, if the Minister is of the opinion that publishing information contained in the directive would be detrimental to Canada’s interests or the commercial interests of AECL or the corporation or other entity to whom the directive is issued, as the case may be, the Minister is to cause a copy of the directive to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which he or she is notified that the directive has been implemented. (3) The Minister must consult the board of directors of AECL or the corporation, or the person or group of persons acting in a similar capacity for the entity, before forming an opinion whether publishing information contained in the directive would be detrimental."
+    },
+    {
+      "provision_ref": "s2144",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2144",
+      "title": "Application of proceeds of disposition",
+      "content": "2144 AECL or a corporation or other entity referred to in subsection 2141(1) must pay the proceeds from the sale or other disposition of any assets, securities or liabilities under that subsection to the Receiver General."
+    },
+    {
+      "provision_ref": "s2145",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2145",
+      "title": "Financial Administration Act",
+      "content": "2145 Sections 89, 90 and 91 and subsection 99(2) of the Financial Administration Act do not apply to any measure referred to in sections 2139 to 2141."
+    },
+    {
+      "provision_ref": "s2146",
+      "chapter": "Reorganization and Divestiture",
+      "section": "2146",
+      "title": "Appropriation",
+      "content": "2146 On the requisition of the Minister and with the concurrence of the Minister of Finance, there may be paid out of the Consolidated Revenue Fund any amount that is required to carry out a measure referred to in sections 2139 to 2141."
+    },
+    {
+      "provision_ref": "s2147",
+      "chapter": "Canadian Nuclear Laboratories Ltd.",
+      "section": "2147",
+      "title": "Not an agent",
+      "content": "2147 Canadian Nuclear Laboratories Ltd., a corporation incorporated under the Canada Business Corporations Act on May 30, 2014, is not an agent of Her Majesty in right of Canada. Previous Version"
+    },
+    {
+      "provision_ref": "s2148",
+      "chapter": "Canadian Nuclear Laboratories Ltd.",
+      "section": "2148",
+      "title": "Deeming on sale or disposition",
+      "content": "2148 (1) A sale or other disposition by AECL of the securities of Canadian Nuclear Laboratories Ltd. under paragraph 2141(1)(j) is deemed to be a transfer or divestiture of the administration of a service to which subsection 40.1(1) of the Public Service Superannuation Act applies. On the day on which the sale or disposition occurs, (a) every employee of Canadian Nuclear Laboratories Ltd. is deemed to be a contributor to whom that subsection 40.1(1) applies; and (b) Canadian Nuclear Laboratories Ltd. is deemed to be the person, referred to in that subsection 40.1(1), to whom the service is transferred or divested who becomes the employer of the employees. (2) Canadian Nuclear Laboratories Ltd. forms part of the public service for the purposes of the Public Service Superannuation Act , as if the Treasury Board had so directed under paragraph 40.1(2)(a) of that Act, for a period of three years beginning on the day on which the sale or other disposition referred to in subsection (1) takes place. (3) As a condition of remaining part of the public service, Canadian Nuclear Laboratories Ltd. must make monthly payments into the Superannuation Account or the Public Service Pension Fund of the amounts determined in accordance with section 9 of the Public Service Superannuation Regulations . (4) An individual who becomes, or again becomes, an employee of Canadian Nuclear Laboratories Ltd. after the day on which the sale or other disposition referred to in subsection (1) takes place is not required to contribute under section 5 of the Public Service Superannuation Act during the period referred to in subsection (2). (5) For greater certainty, regulations may be made under paragraph 42.1(1)(u) of the Public Service Superannuation Act with respect to the employees who are deemed to be contributors under paragraph (1)(a). Previous Version Public Service Superannuation Act"
+    },
+    {
+      "provision_ref": "s2148.1",
+      "chapter": "Canadian Nuclear Laboratories Ltd.",
+      "section": "2148.1",
+      "title": "For greater certainty",
+      "content": "2148.1 [Amendment]"
+    },
+    {
+      "provision_ref": "s2149",
+      "chapter": "National Energy Board Act",
+      "section": "2149",
+      "title": "For greater certainty",
+      "content": "2149 [Amendment]"
+    },
+    {
+      "provision_ref": "s2150",
+      "chapter": "Nuclear Safety and Control Act",
+      "section": "2150",
+      "title": "For greater certainty",
+      "content": "2150 [Amendments]"
+    },
+    {
+      "provision_ref": "s2151",
+      "chapter": "Nuclear Safety and Control Act",
+      "section": "2151",
+      "title": "For greater certainty",
+      "content": "2151 [Amendments]"
+    },
+    {
+      "provision_ref": "s2152",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2152",
+      "title": "",
+      "content": "2152 [Amendment]"
+    },
+    {
+      "provision_ref": "s2153",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2153",
+      "title": "",
+      "content": "2153 [Amendment]"
+    },
+    {
+      "provision_ref": "s2154",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2154",
+      "title": "",
+      "content": "2154 [Amendment]"
+    },
+    {
+      "provision_ref": "s2155",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2155",
+      "title": "",
+      "content": "2155 [Amendment]"
+    },
+    {
+      "provision_ref": "s2156",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2156",
+      "title": "",
+      "content": "2156 [Amendment]"
+    },
+    {
+      "provision_ref": "s2157",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2157",
+      "title": "",
+      "content": "2157 [Amendments]"
+    },
+    {
+      "provision_ref": "s2158",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2158",
+      "title": "",
+      "content": "2158 [Amendment]"
+    },
+    {
+      "provision_ref": "s2159",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2159",
+      "title": "",
+      "content": "2159 [Amendments]"
+    },
+    {
+      "provision_ref": "s2160",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2160",
+      "title": "",
+      "content": "2160 [Amendment]"
+    },
+    {
+      "provision_ref": "s2161",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2161",
+      "title": "",
+      "content": "2161 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s2162",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2162",
+      "title": "",
+      "content": "2162 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s2163",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "2163",
+      "title": "",
+      "content": "2163 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s2164",
+      "chapter": "Exclusion List Regulations, 2007",
+      "section": "2164",
+      "title": "",
+      "content": "2164 [Amendment]"
+    },
+    {
+      "provision_ref": "s2165",
+      "chapter": "Exclusion List Regulations, 2007",
+      "section": "2165",
+      "title": "",
+      "content": "2165 [Amendment]"
+    },
+    {
+      "provision_ref": "s2166",
+      "chapter": "Exclusion List Regulations, 2007",
+      "section": "2166",
+      "title": "",
+      "content": "2166 [Amendment]"
+    },
+    {
+      "provision_ref": "s2167",
+      "chapter": "Regulations Amending the Exclusion List Regulations, 2007",
+      "section": "2167",
+      "title": "",
+      "content": "2167 [Amendment]"
+    },
+    {
+      "provision_ref": "s2168",
+      "chapter": "Regulations Amending the Exclusion List Regulations, 2007",
+      "section": "2168",
+      "title": "",
+      "content": "2168 [Amendment]"
+    },
+    {
+      "provision_ref": "s2169",
+      "chapter": "Regulations Amending the Exclusion List Regulations, 2007",
+      "section": "2169",
+      "title": "",
+      "content": "2169 [Amendment]"
+    },
+    {
+      "provision_ref": "s2170",
+      "chapter": "Regulations Amending the Exclusion List Regulations, 2007",
+      "section": "2170",
+      "title": "",
+      "content": "2170 [Amendment]"
+    },
+    {
+      "provision_ref": "s2171",
+      "chapter": "Infrastructure Projects Environmental Assessment Adaptation Regulations",
+      "section": "2171",
+      "title": "",
+      "content": "2171 [Repeal]"
+    },
+    {
+      "provision_ref": "s2172",
+      "chapter": "Amendments to the Act",
+      "section": "2172",
+      "title": "",
+      "content": "2172 [Repealed before coming into force, 2017, c. 20, s. 399] Previous Version"
+    },
+    {
+      "provision_ref": "s2173",
+      "chapter": "Amendments to the Act",
+      "section": "2173",
+      "title": "",
+      "content": "2173 [Repealed before coming into force, 2017, c. 20, s. 399] Previous Version"
+    },
+    {
+      "provision_ref": "s2174",
+      "chapter": "Amendments to the Act",
+      "section": "2174",
+      "title": "",
+      "content": "2174 [Repealed before coming into force, 2017, c. 20, s. 399] Previous Version"
+    },
+    {
+      "provision_ref": "s2175",
+      "chapter": "Amendments to the Act",
+      "section": "2175",
+      "title": "",
+      "content": "2175 [Repealed before coming into force, 2017, c. 20, s. 399] Previous Version"
+    },
+    {
+      "provision_ref": "s2176",
+      "chapter": "Amendments to the Act",
+      "section": "2176",
+      "title": "",
+      "content": "2176 [Repealed before coming into force, 2017, c. 20, s. 399] Previous Version"
+    },
+    {
+      "provision_ref": "s2177",
+      "chapter": "Amendments to the Act",
+      "section": "2177",
+      "title": "",
+      "content": "2177 [Repealed before coming into force, 2017, c. 20, s. 399] Previous Version"
+    },
+    {
+      "provision_ref": "s2178",
+      "chapter": "Transitional Provision",
+      "section": "2178",
+      "title": "",
+      "content": "2178 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s2179",
+      "chapter": "Coming into Force",
+      "section": "2179",
+      "title": "Order in council",
+      "content": "2179 Sections 2172 to 2177 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 2172 to 2177 repealed before coming into force, see 2017, c. 20, s. 399.]"
+    },
+    {
+      "provision_ref": "s2180",
+      "chapter": "Canadian Youth Business Foundation",
+      "section": "2180",
+      "title": "Maximum payment of $10,000,000",
+      "content": "2180 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Industry, a sum not exceeding ten million dollars to the Canadian Youth Business Foundation for its use"
+    },
+    {
+      "provision_ref": "s2181",
+      "chapter": "Genome Canada",
+      "section": "2181",
+      "title": "Maximum payment of $75,000,000",
+      "content": "2181 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Industry, a sum not exceeding seventy-five million dollars to Genome Canada for its use."
+    },
+    {
+      "provision_ref": "s2182",
+      "chapter": "Pathways to Education Canada",
+      "section": "2182",
+      "title": "Maximum payment of $20,000,000",
+      "content": "2182 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Human Resources and Skills Development, a sum not exceeding twenty million dollars to Pathways to Education Canada for its use."
+    },
+    {
+      "provision_ref": "s2183",
+      "chapter": "Rick Hansen Foundation",
+      "section": "2183",
+      "title": "Maximum payment of $13,500,000",
+      "content": "2183 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Western Economic Diversification, a sum not exceeding thirteen million, five hundred thousand dollars to the Rick Hansen Foundation for its use."
+    },
+    {
+      "provision_ref": "s2184",
+      "chapter": "PART 23 Telecommunications Act",
+      "section": "2184",
+      "title": "Maximum payment of $13,500,000",
+      "content": "2184 [Amendments]"
+    },
+    {
+      "provision_ref": "s2185",
+      "chapter": "Employment Insurance Act",
+      "section": "2185",
+      "title": "Maximum payment of $13,500,000",
+      "content": "2185 [Amendment]"
+    },
+    {
+      "provision_ref": "s2186",
+      "chapter": "Employment Insurance Act",
+      "section": "2186",
+      "title": "Maximum payment of $13,500,000",
+      "content": "2186 [Amendment]"
+    },
+    {
+      "provision_ref": "s2187",
+      "chapter": "Employment Insurance Act",
+      "section": "2187",
+      "title": "Maximum payment of $13,500,000",
+      "content": "2187 [Amendment]"
+    },
+    {
+      "provision_ref": "s2188",
+      "chapter": "Employment Insurance Act",
+      "section": "2188",
+      "title": "Maximum payment of $13,500,000",
+      "content": "2188 [Amendment]"
+    },
+    {
+      "provision_ref": "s2189",
+      "chapter": "Employment Insurance Act",
+      "section": "2189",
+      "title": "Maximum payment of $13,500,000",
+      "content": "2189 [Amendment]"
+    },
+    {
+      "provision_ref": "s2190",
+      "chapter": "Employment Insurance Act",
+      "section": "2190",
+      "title": "Maximum payment of $13,500,000",
+      "content": "2190 [Amendment]"
+    },
+    {
+      "provision_ref": "s2191",
+      "chapter": "Employment Insurance Act",
+      "section": "2191",
+      "title": "",
+      "content": "2191 [Amendment]"
+    },
+    {
+      "provision_ref": "s2192",
+      "chapter": "Employment Insurance Act",
+      "section": "2192",
+      "title": "",
+      "content": "2192 [Amendment]"
+    },
+    {
+      "provision_ref": "s2193",
+      "chapter": "Employment Insurance Act",
+      "section": "2193",
+      "title": "",
+      "content": "2193 [Amendment]"
+    },
+    {
+      "provision_ref": "s2194",
+      "chapter": "Employment Insurance Act",
+      "section": "2194",
+      "title": "",
+      "content": "2194 [Amendment] Transitional Provisions"
+    },
+    {
+      "provision_ref": "s2195",
+      "chapter": "Employment Insurance Act",
+      "section": "2195",
+      "title": "",
+      "content": "2195 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s2196",
+      "chapter": "Employment Insurance Act",
+      "section": "2196",
+      "title": "",
+      "content": "2196 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s2197",
+      "chapter": "Employment Insurance Act",
+      "section": "2197",
+      "title": "",
+      "content": "2197 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s2198",
+      "chapter": "Employment Insurance Act",
+      "section": "2198",
+      "title": "",
+      "content": "2198 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s2199",
+      "chapter": "Employment Insurance Act",
+      "section": "2199",
+      "title": "",
+      "content": "2199 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s2200",
+      "chapter": "Employment Insurance Act",
+      "section": "2200",
+      "title": "",
+      "content": "2200 [Transitional Provision] Consequential Amendments Department of Human Resources and Skills Development Act"
+    },
+    {
+      "provision_ref": "s2201",
+      "chapter": "Employment Insurance Act",
+      "section": "2201",
+      "title": "",
+      "content": "2201 [Amendment] Employment Insurance Regulations"
+    },
+    {
+      "provision_ref": "s2202",
+      "chapter": "Employment Insurance Act",
+      "section": "2202",
+      "title": "",
+      "content": "2202 [Amendment]"
+    },
+    {
+      "provision_ref": "s2203",
+      "chapter": "Employment Insurance Act",
+      "section": "2203",
+      "title": "",
+      "content": "2203 [Amendment]"
+    },
+    {
+      "provision_ref": "s2204",
+      "chapter": "Budget Implementation Act, 2008",
+      "section": "2204",
+      "title": "",
+      "content": "2204 [Amendments]"
+    },
+    {
+      "provision_ref": "s2205",
+      "chapter": "Budget Implementation Act, 2008",
+      "section": "2205",
+      "title": "",
+      "content": "2205 [Amendment]"
+    },
+    {
+      "provision_ref": "s2206",
+      "chapter": "Budget Implementation Act, 2008",
+      "section": "2206",
+      "title": "",
+      "content": "2206 [Amendment]"
+    },
+    {
+      "provision_ref": "s2207",
+      "chapter": "Canada Employment Insurance Financing Board Act",
+      "section": "2207",
+      "title": "",
+      "content": "2207 [Amendment]"
+    },
+    {
+      "provision_ref": "s2208",
+      "chapter": "Coming into Force",
+      "section": "2208",
+      "title": "January 1, 2009",
+      "content": "2208 (1) Sections 2185 to 2187 and 2190 to 2194 are deemed to have come into force on January 1, 2009. (2) Section 2188 comes into force on the day on which section 127 of the Budget Implementation Act, 2008 comes into force. Return to footnote * [Note: Section 2188 not in force.]"
+    },
+    {
+      "provision_ref": "sched-schedule1",
+      "chapter": "SCHEDULE 1",
+      "section": "SCHEDULE 1",
+      "title": "SCHEDULE 1",
+      "content": "SCHEDULE 1 (Section 1642) [Amendments] SCHEDULE 2 (Section 1644) [Amendments] SCHEDULE 3 (Section 2161) [Amendment]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "AECL",
+      "definition": "AECL means Atomic Energy of Canada Limited. ( EACL )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "assets",
+      "definition": "assets includes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister means the Minister of Natural Resources. ( ministre )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "security",
+      "definition": "security means",
+      "source_provision": "s2"
+    }
+  ]
+}

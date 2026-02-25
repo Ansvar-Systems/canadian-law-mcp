@@ -1,0 +1,324 @@
+{
+  "id": "m-12-01",
+  "type": "statute",
+  "title": "Motor Vehicle Transport Act",
+  "title_en": "Motor Vehicle Transport Act",
+  "short_name": "Motor Vehicle Transport Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/M-12.01/",
+  "description": "Motor Vehicle Transport Act (Motor Vehicle Transport Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Motor Vehicle Transport Act . Previous Version"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 (1) In this Act, extra-provincial bus transport extra-provincial bus transport means the transport of passengers or passengers and goods by means of an extra-provincial bus undertaking; ( transport extra-provincial par autocar ) extra-provincial bus undertaking extra-provincial bus undertaking means a work or undertaking, for the transport of passengers or passengers and goods by bus, that connects a province with any other or others of the provinces or extends beyond the limits of a province; ( entreprise extra-provinciale de transport par autocar ) extra-provincial motor carrier undertaking extra-provincial motor carrier undertaking means an extra-provincial bus undertaking or an extra-provincial truck undertaking; ( entreprise extra-provinciale de transport routier ) extra-provincial truck transport extra-provincial truck transport [Repealed, 2001, c. 13, s. 2] extra-provincial truck undertaking extra-provincial truck undertaking means a work or undertaking, for the transport of goods by motor vehicle other than a bus, that connects a province with any other or others of the provinces or extends beyond the limits of a province; ( entreprise de camionnage extra-provinciale ) law of a province law of a province means a law of a province or municipality that provides for the control or regulation of the operation, in the province or municipality, of local bus undertakings or local truck undertakings; ( loi d’une province ou loi provinciale ) local bus transport local bus transport means the transport of passengers or passengers and goods by means of a local bus undertaking; ( transport local par autocar ) local bus undertaking local bus undertaking means a work or undertaking for the transport of passengers or passengers and goods by bus, not being an extra-provincial bus undertaking; ( entreprise locale de transport par autocar ) local truck transport local truck transport [Repealed, 2001, c. 13, s. 2] local truck undertaking local truck undertaking [Repealed, 2001, c. 13, s. 2] Minister Minister means the Minister of Transport; ( ministre ) prescribed prescribed [Repealed, 2001, c. 13, s. 2] provincial authority provincial authority means a person or body that has, under the law of a province, authority to control or regulate motor carrier undertakings that operate exclusively in the province. ( autorité provinciale ) provincial transport board provincial transport board [Repealed, 2001, c. 13, s. 2] (2) For the purposes of this Act, an extra-provincial bus undertaking or extra-provincial truck undertaking is operated in a province if it is operated into, in, across or out of the province. Previous Version"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Objectives",
+      "section": "3",
+      "title": "Statement of objectives",
+      "content": "3 (1) The objectives of this Act are to ensure that the National Transportation Policy set out in section 5 of the Canada Transportation Act is carried out with respect to extra-provincial motor carrier undertakings, and, more specifically, that (a) the regulatory regime for those undertakings is focused on safety performance assessments based on the National Safety Code for Motor Carriers; and (b) the operating standards that apply to those undertakings are applied consistently across Canada. (2) The Governor in Council may, on the recommendation of the Minister, after consultation by the Minister with the provinces, issue transportation policy statements consistent with the objectives set out in subsection (1). (3) Provincial authorities shall, with respect to extra-provincial motor carrier undertakings, have regard to all transportation policy statements issued under subsection (2). Previous Version"
+    },
+    {
+      "provision_ref": "s3.1",
+      "chapter": "Objectives",
+      "section": "3.1",
+      "title": "Power to conduct research",
+      "content": "3.1 The Minister may conduct any research, studies and evaluations that the Minister considers necessary to carry out the objectives of this Act."
+    },
+    {
+      "provision_ref": "s3.2",
+      "chapter": "Arrangements",
+      "section": "3.2",
+      "title": "Agreements",
+      "content": "3.2 (1) The Minister may, after consultation with the provinces and on the terms and conditions that the Minister may specify, enter into agreements in support of the objectives set out in section 3 with provincial governments or with other persons or bodies. (2) The Minister may, after consultation with the provinces and on the terms and conditions that the Minister may specify, enter into arrangements with foreign states or agencies of those states to promote the objectives of this Act, including the recognition in Canada of documents analogous to safety fitness certificates issued by those states or agencies and the recognition by them of safety fitness certificates."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Operating Licences",
+      "section": "4",
+      "title": "Operation without licence prohibited",
+      "content": "4 Where in any province a licence is, by the law of the province, required for the operation of a local bus undertaking, no person shall operate an extra-provincial bus undertaking in that province except under and in accordance with a licence issued under the authority of this Act. Previous Version"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Operating Licences",
+      "section": "5",
+      "title": "Issue of licence",
+      "content": "5 The provincial authority in each province may, in its discretion, issue a licence to a person to operate an extra-provincial bus undertaking in the province on the like terms and conditions and in the like manner as if the extra-provincial bus undertaking were a local bus undertaking. Previous Version"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Tariffs and Tolls",
+      "section": "6",
+      "title": "Tariffs and tolls",
+      "content": "6 Where in any province tariffs and tolls for local bus transport are determined or regulated by the provincial authority, the authority may, in its discretion, determine or regulate the tariffs and tolls for extra-provincial bus transport on the like terms and conditions and in the like manner as if the extra-provincial bus transport were local bus transport. Previous Version"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Extra-Provincial Motor Carrier Safety",
+      "section": "7",
+      "title": "Operation without safety fitness certificate prohibited",
+      "content": "7 (1) Subject to the regulations, no person or body shall operate an extra-provincial motor carrier undertaking except under a safety fitness certificate issued by a provincial authority under this Act or an analogous document prescribed by the regulations. (2) A safety fitness certificate need not be in any particular form. (3) Laws of a province respecting the safety of motor carrier undertakings apply to an extra-provincial motor carrier undertaking to the extent that those laws are not inconsistent with this Act. Previous Version"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Extra-Provincial Motor Carrier Safety",
+      "section": "8",
+      "title": "Issuance of safety fitness certificate",
+      "content": "8 (1) The provincial authority in each province may, subject to the regulations, issue a safety fitness certificate to a person or body to operate an extra-provincial motor carrier undertaking, and may revoke any certificate so issued. (2) A safety fitness certificate issued under subsection (1) is valid throughout Canada. (3) The following rules apply to the review of decisions with respect to the issuance or revocation of safety fitness certificates in a province by a provincial authority: (a) any rules with respect to the right of review, and any proceedings governing reviews, applicable in that province in respect of such decisions; and (b) in the absence of rules or procedures established under paragraph (a), the rules with respect to the right of review, and the procedures governing reviews, of decisions with respect to the issuance and revocation of licences of motor carrier undertakings in that province. Previous Version"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Extra-Provincial Motor Carrier Safety",
+      "section": "9",
+      "title": "Withdrawal of power to issue safety fitness certificates",
+      "content": "9 (1) If the Minister is satisfied after consultation with the provinces that the provincial authority in a province is not issuing safety fitness certificates in accordance with this Act, the Minister may, by order, withdraw its power to issue such certificates. (2) An order made under subsection (1) takes effect on the date of its publication in the Canada Gazette . (3) An extra-provincial motor carrier undertaking that holds a safety fitness certificate issued by a provincial authority whose power to issue certificates under this section has been withdrawn shall, not later than sixty days after publication of an order made under subsection (1), file a declaration with another provincial authority that the undertaking is subject to supervision by it. Previous Version"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Extra-Provincial Motor Carrier Safety",
+      "section": "10",
+      "title": "Reinstatement",
+      "content": "10 If the Minister is satisfied that a provincial authority referred to in subsection 9(3) has remedied its default and established a plan to ensure that the default does not recur, the Minister shall, by order, revoke the order made under subsection 9(1). Previous Version 11. to 15 [Repealed, 1996, c. 17, s. 19]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Exemptions",
+      "section": "16",
+      "title": "Exemptions",
+      "content": "16 (1) The Minister may, after consultation with the provinces that would be affected by a proposed exemption, exempt from the application of any provision of this Act or the regulations, either generally or for a limited period or in respect of a limited area, any person, the whole or any part of any extra-provincial motor carrier undertaking or any class of those undertakings, if in the opinion of the Minister the exemption is in the public interest and is not likely to affect motor carrier safety. (2) An exemption under subsection (1) is subject to any terms or conditions that the Minister may specify in it. Previous Version"
+    },
+    {
+      "provision_ref": "s16.1",
+      "chapter": "Regulations",
+      "section": "16.1",
+      "title": "Regulations",
+      "content": "16.1 (1) The Governor in Council may, on the recommendation of the Minister made after consultation by the Minister with the provinces that would be affected by the proposed regulation, make regulations for the attainment of the objectives of this Act and, in particular, regulations (a) prescribing classes of extra-provincial motor carrier undertakings for the purposes of this Act, or any or all regulations under this Act; (b) respecting the criteria according to which provincial authorities may issue safety fitness certificates under section 8; (c) prescribing analogous documents for the purpose of subsection 7(1); (d) respecting the safe operation of extra-provincial motor carrier undertakings including regulations respecting audit, inspection, entry on premises and the provision of information; (e) prescribing the criteria relating to the fitness of an extra-provincial motor carrier undertaking to hold a safety fitness certificate issued under section 8; (f) prescribing the type, amount and conditions of insurance and bonding coverage required to be held by an extra-provincial motor carrier undertaking; (g) prescribing the information that applicants, extra-provincial motor carrier undertakings and provincial authorities must provide to the Minister, to other provincial authorities or to foreign states or agencies of those states; (h) prescribing the conditions of carriage and the limitations of liability that apply with respect to extra-provincial motor carrier undertakings; and (i) restricting or otherwise governing the release of pollutants into the environment from the operation of vehicles operated by extra-provincial motor carrier undertakings. (2) A regulation made under subsection (1) may incorporate by reference all or any portion of another document, as amended from time to time, including (a) a standard relating to the safe operation of a motor carrier undertaking; and (b) the law of a province relating to motor vehicle undertakings."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Foreign Carriers",
+      "section": "17",
+      "title": "Unfair practices",
+      "content": "17 (1) If the Minister is of the opinion that a government in a foreign state has engaged in unfair, discriminatory or restrictive practices with regard to Canadian extra-provincial motor carrier undertakings that operate in that state or between that state and Canada, the Minister shall, with the concurrence of the Minister of Foreign Affairs, seek elimination of those practices through consultations with that state. (2) If the consultations referred to in subsection (1) fail to result in the elimination of the practices referred to in that subsection, the Governor in Council may, on the recommendation of the Minister and the Minister of Foreign Affairs made after consultation by the Minister with the provinces that would be affected by the proposed order, notwithstanding anything in this Act or any other Act of Parliament, by order, subject to any conditions that may be specified in the order, (a) prohibit or restrict the issuance of a safety fitness certificate under the authority of this Act to any foreign carrier, all foreign carriers or any class of foreign carrier; (b) direct any provincial authority to suspend a safety fitness certificate issued under the authority of this Act to any foreign carrier, all foreign carriers or any class of foreign carrier; and (c) direct any provincial authority to reinstate a safety fitness certificate suspended in accordance with a direction issued under paragraph (b). (3) A provincial authority to which an order applies shall comply with it. Previous Version"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Offence and Punishment",
+      "section": "18",
+      "title": "Offence",
+      "content": "18 (1) Every person who contravenes or fails to comply with any provision of this Act or any regulation or order made under this Act is guilty of an offence punishable on summary conviction. (2) Any proceedings in respect of an offence under this Act may be commenced at any time within, but not later than, twelve months after the time when the subject-matter of the proceedings arose."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Offence and Punishment",
+      "section": "19",
+      "title": "Punishment re individuals",
+      "content": "19 (1) An individual who is convicted of an offence under this Act is liable to a fine not exceeding five thousand dollars. (2) A corporation that is convicted of an offence under this Act is liable to a fine not exceeding twenty-five thousand dollars."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Offence and Punishment",
+      "section": "20",
+      "title": "Officers, etc., of corporations",
+      "content": "20 Where a corporation commits an offence under this Act, every person who at the time of the commission of the offence was a director or officer of the corporation is guilty of the like offence unless the act or omission constituting the offence took place without the person’s knowledge or consent or the person exercised all due diligence to prevent the commission of the offence."
+    },
+    {
+      "provision_ref": "s20.1",
+      "chapter": "Offence and Punishment",
+      "section": "20.1",
+      "title": "Venue",
+      "content": "20.1 A prosecution under this Act may be instituted, tried and determined by a court in any territorial jurisdiction in which the accused carries on business, regardless of where the subject-matter of the prosecution arose."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Offence and Punishment",
+      "section": "21",
+      "title": "Disposition of fines",
+      "content": "21 A fine imposed under section 19 shall be paid over by the provincial court judge or officer receiving it to the treasurer of the province in which it was imposed."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Offence and Punishment",
+      "section": "22",
+      "title": "Proof of documents",
+      "content": "22 In any proceedings for an offence under this Act, any document purporting to be certified by a provincial authority to be a true copy of any order or direction made by it is, without proof of the signature or of the official character of the person appearing to have signed the document, evidence of the original document of which it purports to be a copy. Previous Version"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Transitional Provisions",
+      "section": "23",
+      "title": "Deeming",
+      "content": "23 If an extra-provincial motor carrier undertaking is, on the day immediately before the coming into force of this section, authorized to operate within a province, the undertaking is deemed to hold a safety fitness certificate issued under section 8. Previous Version"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Transitional Provisions",
+      "section": "24",
+      "title": "Pending applications",
+      "content": "24 (1) An application for a licence made under section 8, as that section read before the coming into force of this section, and pending on the day immediately before that coming into force, is deemed to have been made under section 8 of this Act. (2) Every application for a licence made under section 5 with respect to bus transport that is pending on the day immediately before the coming into force of this section, is deemed to be an application made under sections 5 and 8. Previous Version"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Annual Report",
+      "section": "25",
+      "title": "Report to Parliament",
+      "content": "25 (1) The Minister shall prepare an annual report and cause a copy of it to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister completes it. (2) The annual report of the Minister shall contain the following in respect of the year: (a) the available statistical information respecting trends of highway accidents in Canada involving motor vehicles operated by extra-provincial bus undertakings and extra-provincial truck undertakings reported separately for bus undertakings and truck undertakings; and (b) a progress report on the implementation of rules and standards respecting the safe operation of extra-provincial bus undertakings and of extra-provincial truck undertakings. Previous Version"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Review of Provisions",
+      "section": "26",
+      "title": "Review",
+      "content": "26 (1) The Minister shall, after the expiry of four years after the coming into force of this section and before the expiry of five years after that coming into force, undertake and complete a comprehensive review of the operation and effect of the amendments to this Act contained in An Act to amend the Motor Vehicle Transport Act, 1987 and to make consequential amendments to other Acts and shall, without delay, prepare a report with respect to that review. (2) The Minister shall make the report available to the Council of Ministers Responsible for Transportation and Highway Safety at the next meeting of the council after its completion. (3) The Minister shall cause a copy of the report to be laid before each House of Parliament during the first thirty sitting days of that House following its completion. Previous Version"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Review of Provisions",
+      "section": "27",
+      "title": "Tabling of report",
+      "content": "27 [Repealed, 2001, c. 13, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Review of Provisions",
+      "section": "28",
+      "title": "Tabling of report",
+      "content": "28 [Repealed, 2001, c. 13, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Review of Provisions",
+      "section": "29",
+      "title": "Tabling of report",
+      "content": "29 [Repealed, 2001, c. 13, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Review of Provisions",
+      "section": "30",
+      "title": "Tabling of report",
+      "content": "30 [Repealed, 2001, c. 13, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Review of Provisions",
+      "section": "31",
+      "title": "",
+      "content": "31 [Repealed, 2001, c. 13, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Review of Provisions",
+      "section": "32",
+      "title": "",
+      "content": "32 [Repealed, 2001, c. 13, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Review of Provisions",
+      "section": "33",
+      "title": "",
+      "content": "33 [Repealed, 2001, c. 13, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Review of Provisions",
+      "section": "34",
+      "title": "",
+      "content": "34 [Repealed, 2001, c. 13, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Review of Provisions",
+      "section": "35",
+      "title": "",
+      "content": "35 [Repealed, 2001, c. 13, s. 9] Previous Version Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "extra-provincial bus transport",
+      "definition": "extra-provincial bus transport means the transport of passengers or passengers and goods by means of an extra-provincial bus undertaking; ( transport extra-provincial par autocar )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extra-provincial bus undertaking",
+      "definition": "extra-provincial bus undertaking means a work or undertaking, for the transport of passengers or passengers and goods by bus, that connects a province with any other or others of the provinces or extends beyond the limits of a province; ( entreprise extra-provinciale de transport par autocar )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extra-provincial motor carrier undertaking",
+      "definition": "extra-provincial motor carrier undertaking means an extra-provincial bus undertaking or an extra-provincial truck undertaking; ( entreprise extra-provinciale de transport routier )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extra-provincial truck transport",
+      "definition": "extra-provincial truck transport [Repealed, 2001, c. 13, s. 2]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extra-provincial truck undertaking",
+      "definition": "extra-provincial truck undertaking means a work or undertaking, for the transport of goods by motor vehicle other than a bus, that connects a province with any other or others of the provinces or extends beyond the limits of a province; ( entreprise de camionnage extra-provinciale )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law of a province",
+      "definition": "law of a province means a law of a province or municipality that provides for the control or regulation of the operation, in the province or municipality, of local bus undertakings or local truck undertakings; ( loi d’une province ou loi provinciale )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local bus transport",
+      "definition": "local bus transport means the transport of passengers or passengers and goods by means of a local bus undertaking; ( transport local par autocar )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local bus undertaking",
+      "definition": "local bus undertaking means a work or undertaking for the transport of passengers or passengers and goods by bus, not being an extra-provincial bus undertaking; ( entreprise locale de transport par autocar )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local truck transport",
+      "definition": "local truck transport [Repealed, 2001, c. 13, s. 2]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local truck undertaking",
+      "definition": "local truck undertaking [Repealed, 2001, c. 13, s. 2]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister means the Minister of Transport; ( ministre )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed [Repealed, 2001, c. 13, s. 2]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "provincial authority",
+      "definition": "provincial authority means a person or body that has, under the law of a province, authority to control or regulate motor carrier undertakings that operate exclusively in the province. ( autorité provinciale )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "provincial transport board",
+      "definition": "provincial transport board [Repealed, 2001, c. 13, s. 2]",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "b-5",
+  "type": "statute",
+  "title": "Bills of Lading Act",
+  "title_en": "Bills of Lading Act",
+  "short_name": "Bills of Lading Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/B-5/",
+  "description": "Bills of Lading Act (Bills of Lading Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Bills of Lading Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Right of consignee or endorsee",
+      "content": "2 Every consignee of goods named in a bill of lading, and every endorsee of a bill of lading to whom the property in the goods therein mentioned passes on or by reason of the consignment or endorsement, has and is vested with all rights of action and is subject to all liabilities in respect of those goods as if the contract contained in the bill of lading had been made with himself."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Rights preserved",
+      "content": "3 Nothing in this Act prejudices or affects (a) any right of stoppage in transit; (b) any right of an unpaid vendor under the Civil Code of the Province of Quebec; (c) any right to claim freight against the original shipper or owner; or (d) any liability of the consignee or endorsee by reason or in consequence of his being the consignee or endorsee, or of his receipt of the goods by reason or in consequence of the consignment or endorsement."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Evidence by bill of lading",
+      "content": "4 Every bill of lading in the hands of a consignee or endorsee for valuable consideration, representing goods to have been shipped on board a vessel or train, is conclusive evidence of the shipment as against the master or other person signing the bill of lading, notwithstanding that the goods or some part thereof may not have been shipped, unless the holder of the bill of lading has actual notice, at the time of receiving it, that the goods had not in fact been laden on board, or unless the bill of lading has a stipulation to the contrary, but the master or other person so signing may exonerate himself in respect of such misrepresentation by showing that it was caused without any default on his part, and wholly by the fault of the shipper or of the holder, or of some person under whom the holder claims. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "w-5",
+  "type": "statute",
+  "title": "Weather Modification Information Act",
+  "title_en": "Weather Modification Information Act",
+  "short_name": "Weather Modification Information Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/W-5/",
+  "description": "Weather Modification Information Act (Weather Modification Information Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Weather Modification Information Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 In this Act, Administrator Administrator means such member of the public service as may be designated by the Governor in Council; ( directeur ) weather modification activity weather modification activity includes any action designed or intended to produce, by physical or chemical means, changes in the composition or dynamics of the atmosphere for the purpose of increasing, decreasing or redistributing precipitation, decreasing or suppressing hail or lightning or dissipating fog or cloud. ( essais de modification du temps ) Previous Version"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Information",
+      "section": "3",
+      "title": "Administrator to be informed",
+      "content": "3 (1) Where any person proposes to engage in weather modification activities in Canada, that person shall, in such form and manner as may be prescribed, submit to the Administrator such information as may be prescribed respecting that person and the weather modification activities in which it is proposed to engage. (2) Before commencing any weather modification activity, the person proposing to carry out the activity shall inform the Administrator in writing of (a) the date and time when and the place where the activity is to be carried out; (b) the names and addresses of the persons by and for whom the activity is to be carried out; (c) the purpose of the activity; (d) the equipment, materials and method to be used; and (e) the geographic area that may be affected."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Records and Reports",
+      "section": "4",
+      "title": "Requirement to maintain daily records and submit report",
+      "content": "4 (1) Every person who carries out any weather modification activity shall, in such form and manner as may be prescribed, (a) maintain a daily record of the activity, in which shall be included detailed information relating to (i) the location and operation of any equipment used, (ii) any meteorological observations made in the geographic area affected or intended to be affected by the activity, and (iii) the chemical nature, physical properties and quantities of any substances emitted into the atmosphere for the purposes of weather modification; and (b) within fifteen days from the end of the month in which the activity was carried out, submit to the Administrator a report specifying (i) the date when the activity was carried out, (ii) the nature and scope of the activity, (iii) any meteorological observations that were made, and (iv) such other information and observations relevant to the activity as may be specified by the Administrator or an authorized representative of the Administrator. (2) Any person who has custody of a record referred to in paragraph (1)(a) shall, at such reasonable times as may be specified by the Administrator or an authorized representative of the Administrator, make that record available for inspection by the Administrator or the representative."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Disclosure",
+      "section": "5",
+      "title": "Disclosure of information",
+      "content": "5 Any information obtained by the Administrator or an authorized representative of the Administrator pursuant to this Act may be made public or made available on request to any member of the public."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Regulations",
+      "section": "6",
+      "title": "Regulations",
+      "content": "6 The Governor in Council may make regulations prescribing any matter or thing that by this Act may be prescribed."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Offence and Punishment",
+      "section": "7",
+      "title": "Offence and punishment",
+      "content": "7 (1) Any person who fails to comply with any provision of this Act is guilty of an offence and liable on summary conviction to a fine not exceeding one thousand dollars or to imprisonment for a term not exceeding six months or to both. (2) Where any corporation commits an offence under this Act, any officer, director or agent of the corporation who directed, authorized, assented to or acquiesced in the commission of the offence is a party to and guilty of the offence and is liable on summary conviction to the punishment provided by subsection (1) whether or not the corporation has been prosecuted or convicted. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Administrator",
+      "definition": "Administrator means such member of the public service as may be designated by the Governor in Council; ( directeur )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "weather modification activity",
+      "definition": "weather modification activity includes any action designed or intended to produce, by physical or chemical means, changes in the composition or dynamics of the atmosphere for the purpose of increasing, decreasing or redistributing precipitation, decreasing or suppressing hail or lightning or dissipating fog or cloud. ( essais de modification du temps )",
+      "source_provision": "s2"
+    }
+  ]
+}

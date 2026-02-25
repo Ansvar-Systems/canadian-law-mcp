@@ -1,0 +1,813 @@
+{
+  "id": "t-11-3",
+  "type": "statute",
+  "title": "Tlicho Land Claims and Self-Government Act",
+  "title_en": "Tlicho Land Claims and Self-Government Act",
+  "short_name": "Tlicho Land Claims and Self-Governmen...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/T-11.3/",
+  "description": "Tlicho Land Claims and Self-Government Act (Tlicho Land Claims and Self-Governmen...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Tlicho Land Claims and Self-Government Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 The following definitions apply in this Act. Agreement Agreement means the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003, including any amendments made to it from time to time. ( Accord ) Tax Treatment Agreement Tax Treatment Agreement means the Tlicho Tax Treatment Agreement among the Government of Canada, the Government of the Northwest Territories and the Tlicho First Nation, signed on behalf of the Government of Canada on February 6, 2003, on behalf of the Government of the Northwest Territories on February 27, 2003 and on behalf of the Tlicho First Nation on March 3, 2003, including any amendments made to it from time to time. ( accord sur le traitement fiscal ) Tlicho Government Tlicho Government means the government of the Tlicho First Nation established in accord­ance with chapter 7 of the Agreement. ( gouvernement tlicho ) Tlicho law Tlicho law means a law enacted by the Tlicho Government. ( loi tlicho )"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Agreement",
+      "section": "3",
+      "title": "Agreement given effect",
+      "content": "3 (1) The Agreement is approved, given effect and declared valid and has the force of law. (2) For greater certainty, any person or body may exercise the powers, rights, privileges and benefits conferred on the person or body by the Agreement and shall perform the duties, and is subject to the liabilities, imposed on the person or body by the Agreement. (3) For greater certainty, the Agreement is binding on, and may be relied on by, all persons and bodies."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Agreement",
+      "section": "4",
+      "title": "Publication of Agreement and amendments",
+      "content": "4 The Minister of Indian Affairs and Northern Development shall cause a copy of the Agreement and of any amendments made to it to be deposited in (a) the Library of Parliament; (b) the library of the Legislative Assembly of the Northwest Territories; (c) the main office of the Tlicho Government; (d) the library of the Department of Indian Affairs and Northern Development that is situated in the National Capital Region; (e) the office of the Registrar of Land Titles for the Northwest Territories; (f) the regional office of the Department of Indian Affairs and Northern Development that is situated in the Northwest Territories; and (g) any other places that that Minister considers necessary."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Other Laws",
+      "section": "5",
+      "title": "Conflict with Agreement or this Act",
+      "content": "5 (1) In the event of an inconsistency or conflict between the Agreement or this Act, or any regulations made under this Act, and the provisions of any other Act of Parliament, any law of the Legislature of the Northwest Territories, any regulations made under any of those other Acts or laws, or any Tlicho law, then the Agreement or this Act, or regulations made under this Act, as the case may be, prevail to the extent of the inconsistency or conflict. (2) In the event of an inconsistency or conflict between the Agreement and the provisions of this Act or any regulations made under this Act, the Agreement prevails to the extent of the inconsistency or conflict. Previous Version"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Appropriation",
+      "section": "6",
+      "title": "Payments out of C.R.F.",
+      "content": "6 There shall be paid out of the Consolidated Revenue Fund any sums that are required to meet the monetary obligations of Canada under chapters 9, 18 and 24 to 26 of the Agreement."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Taxation",
+      "section": "7",
+      "title": "Tax Treatment Agreement given effect",
+      "content": "7 (1) The Tax Treatment Agreement is approved, given effect and declared valid and has the force of law during the period that it is in effect. (2) The Tax Treatment Agreement does not form part of the Agreement and is not a treaty or a land claims agreement within the meaning of section 35 of the Constitution Act, 1982 ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Wekeezhii Renewable Resources Board",
+      "section": "8",
+      "title": "Legal capacity",
+      "content": "8 For the purposes of carrying out its objectives, the Wekeezhii Renewable Resources Board established by chapter 12 of the Agreement has the capacity, rights, powers and privileges of a natural person."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "General",
+      "section": "9",
+      "title": "Judicial notice of Agreements",
+      "content": "9 (1) Judicial notice shall be taken of the Agreement and the Tax Treatment Agreement. (2) The Agreement and the Tax Treatment Agreement shall be published by the Queen’s Printer. (3) A copy of the Agreement or the Tax Treatment Agreement published by the Queen’s Printer is evidence of that Agreement, and a copy purporting to be published by the Queen’s Printer is deemed to be so published, unless the contrary is shown."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "General",
+      "section": "10",
+      "title": "Judicial notice of Tlicho laws",
+      "content": "10 (1) Judicial notice shall be taken of Tlicho laws. (2) A copy of a Tlicho law purporting to be deposited in the public registry of Tlicho laws referred to in chapter 7 of the Agreement is evidence of that law and of its contents, unless the contrary is shown."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "General",
+      "section": "11",
+      "title": "Statutory Instruments Act",
+      "content": "11 For greater certainty, Tlicho laws are not statutory instruments within the meaning of the Statutory Instruments Act ."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "General",
+      "section": "12",
+      "title": "Orders and regulations",
+      "content": "12 The Governor in Council may make any orders and regulations that are necessary for the purpose of carrying out the Agreement or the Tax Treatment Agreement."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "General",
+      "section": "13",
+      "title": "Eligibility Committee",
+      "content": "13 Despite having been established before the effective date of the Agreement, the Eligibility Committee referred to in chapter 3 of the Agreement is deemed to have been validly established under the Agreement and to have had, since it was established, the jurisdiction, powers and authority provided by the Agreement."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "General",
+      "section": "14",
+      "title": "Notice of issues arising",
+      "content": "14 (1) If, in any judicial or administrative proceeding, an issue arises in respect of (a) the interpretation, validity or applicability of the Agreement, or (b) the validity or applicability of this Act, the law of the Legislature of the Northwest Territories entitled the Tlicho Land Claims and Self-Government Agreement Act or any Tlicho law, the issue shall not be decided until the party raising the issue has served notice on the Attorney General of Canada, the Attorney General of the Northwest Territories and the Tlicho Government. (2) The notice must (a) describe the judicial or administrative proceeding in which the issue arises; (b) state whether the issue arises in respect of the matters referred to in paragraph (1)(a) or (b) or both; (c) state the day on which the issue is to be argued; (d) give particulars necessary to show the point to be argued; and (e) be served at least 14 days before the day of argument, unless the court or tribunal authorizes a shorter period. (3) In any judicial or administrative proceeding to which subsection (1) applies, the Attorney General of Canada, the Attorney General of the Northwest Territories and the Tlicho Government may appear and participate in the proceeding as parties with the same rights as any other party. (4) For greater certainty, subsections (2) and (3) do not require that an oral hearing be held if one is not otherwise required. Previous Version"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "15",
+      "title": "Saving",
+      "content": "15 [Amendments]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "16",
+      "title": "Saving",
+      "content": "16 [Amendment]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "17",
+      "title": "Saving",
+      "content": "17 [Amendment]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "18",
+      "title": "Saving",
+      "content": "18 [Amendment]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "19",
+      "title": "Saving",
+      "content": "19 [Amendments]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "20",
+      "title": "Saving",
+      "content": "20 [Amendment]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "21",
+      "title": "Saving",
+      "content": "21 [Amendment]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "22",
+      "title": "Saving",
+      "content": "22 [Amendment]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "23",
+      "title": "Saving",
+      "content": "23 [Amendment]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "24",
+      "title": "",
+      "content": "24 [Amendment]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "25",
+      "title": "",
+      "content": "25 [Amendment]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "26",
+      "title": "",
+      "content": "26 [Amendment]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "27",
+      "title": "",
+      "content": "27 [Amendments]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "28",
+      "title": "",
+      "content": "28 [Amendment]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "29",
+      "title": "",
+      "content": "29 [Amendments]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "30",
+      "title": "",
+      "content": "30 [Amendments]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "31",
+      "title": "",
+      "content": "31 [Amendment]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "32",
+      "title": "",
+      "content": "32 [Amendment]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "33",
+      "title": "",
+      "content": "33 [Amendment]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "34",
+      "title": "",
+      "content": "34 [Amendments]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "35",
+      "title": "",
+      "content": "35 [Amendment]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "36",
+      "title": "",
+      "content": "36 [Amendment]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "37",
+      "title": "",
+      "content": "37 [Amendments]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "38",
+      "title": "",
+      "content": "38 [Amendment]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "39",
+      "title": "",
+      "content": "39 [Amendment]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "40",
+      "title": "",
+      "content": "40 [Amendment]"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "41",
+      "title": "",
+      "content": "41 [Amendment]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "42",
+      "title": "",
+      "content": "42 [Amendment]"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "43",
+      "title": "",
+      "content": "43 [Amendments]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "44",
+      "title": "",
+      "content": "44 [Amendment]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "45",
+      "title": "",
+      "content": "45 [Amendments]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "46",
+      "title": "",
+      "content": "46 [Amendment]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "47",
+      "title": "",
+      "content": "47 [Amendment]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "48",
+      "title": "",
+      "content": "48 [Amendment]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "49",
+      "title": "",
+      "content": "49 [Amendment]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "50",
+      "title": "",
+      "content": "50 [Amendment]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "51",
+      "title": "",
+      "content": "51 [Amendment]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "52",
+      "title": "",
+      "content": "52 [Amendment]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "53",
+      "title": "",
+      "content": "53 [Amendments]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "54",
+      "title": "",
+      "content": "54 [Amendment]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "55",
+      "title": "",
+      "content": "55 [Amendment]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "56",
+      "title": "",
+      "content": "56 [Amendment]"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "57",
+      "title": "",
+      "content": "57 [Amendment]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "58",
+      "title": "",
+      "content": "58 [Amendment]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "59",
+      "title": "",
+      "content": "59 [Amendments]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "60",
+      "title": "",
+      "content": "60 [Amendment]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "61",
+      "title": "",
+      "content": "61 [Amendment]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "62",
+      "title": "",
+      "content": "62 [Amendment]"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "63",
+      "title": "",
+      "content": "63 [Amendment]"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "64",
+      "title": "",
+      "content": "64 [Amendment]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "65",
+      "title": "",
+      "content": "65 [Amendments]"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "66",
+      "title": "",
+      "content": "66 [Amendments]"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "67",
+      "title": "",
+      "content": "67 [Amendment]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "68",
+      "title": "",
+      "content": "68 [Amendment]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "69",
+      "title": "",
+      "content": "69 [Amendment]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "70",
+      "title": "",
+      "content": "70 [Amendments]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "71",
+      "title": "",
+      "content": "71 [Amendment]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "72",
+      "title": "",
+      "content": "72 [Amendment]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "73",
+      "title": "",
+      "content": "73 [Amendment]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "74",
+      "title": "",
+      "content": "74 [Amendment]"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "75",
+      "title": "",
+      "content": "75 [Amendments]"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "76",
+      "title": "",
+      "content": "76 [Amendments]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "77",
+      "title": "",
+      "content": "77 [Amendment]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "78",
+      "title": "",
+      "content": "78 [Amendments]"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "79",
+      "title": "",
+      "content": "79 [Amendment]"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "80",
+      "title": "",
+      "content": "80 [Amendments]"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "81",
+      "title": "",
+      "content": "81 [Amendment]"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "82",
+      "title": "",
+      "content": "82 [Amendment]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "83",
+      "title": "",
+      "content": "83 [Amendment]"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "84",
+      "title": "",
+      "content": "84 [Amendments]"
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "85",
+      "title": "",
+      "content": "85 [Amendment]"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "86",
+      "title": "",
+      "content": "86 [Amendment]"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "87",
+      "title": "",
+      "content": "87 [Amendment]"
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "88",
+      "title": "",
+      "content": "88 [Amendment]"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "89",
+      "title": "",
+      "content": "89 [Amendments]"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "90",
+      "title": "",
+      "content": "90 [Amendments]"
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "91",
+      "title": "",
+      "content": "91 [Amendment]"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "92",
+      "title": "",
+      "content": "92 [Amendment]"
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "93",
+      "title": "",
+      "content": "93 [Amendments]"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Amendments to the Mackenzie Valley Resource Management Act",
+      "section": "94",
+      "title": "",
+      "content": "94 [Amendments]"
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Transitional Provisions",
+      "section": "95",
+      "title": "",
+      "content": "95 [Repealed, 2019, c. 19, s. 81] Previous Version"
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Transitional Provisions",
+      "section": "96",
+      "title": "Validity of ordinances of the Northwest Territories",
+      "content": "96 The following ordinances of the Northwest Territories are deemed for all purposes to have been validly made if they were made before the coming into force of this Act and would have been validly made if they had been made after that coming into force, and everything done under any of those ordinances before that coming into force has the effect that it would otherwise have if the ordinance had been validly made after that coming into force: (a) the ordinance of the Northwest Territories entitled the Tlicho Land Claims and Self-Government Agreement Act ; (b) an ordinance that establishes community governments as required by chapter 8 of the Agreement; and (c) an ordinance that establishes a community services agency as required by the first intergovernmental services agreement referred to in 7.10 of chapter 7 of the Agreement."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Access to Information Act",
+      "section": "97",
+      "title": "Validity of ordinances of the Northwest Territories",
+      "content": "97 [Amendment]"
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Canada Lands Surveys Act",
+      "section": "98",
+      "title": "Validity of ordinances of the Northwest Territories",
+      "content": "98 [Amendment]"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Canadian Environmental Assessment Act",
+      "section": "99",
+      "title": "",
+      "content": "99 [Amendment]"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Lobbyists Registration Act [Repealed, 2005, c. 1, s. 110]",
+      "section": "100",
+      "title": "",
+      "content": "100 [Repealed, 2005, c. 1, s. 110] Previous Version"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Northwest Territories Act",
+      "section": "101",
+      "title": "",
+      "content": "101 [Amendment]"
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Northwest Territories Act",
+      "section": "102",
+      "title": "",
+      "content": "102 [Amendment]"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Northwest Territories Waters Act",
+      "section": "103",
+      "title": "",
+      "content": "103 [Amendment]"
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Northwest Territories Waters Act",
+      "section": "104",
+      "title": "",
+      "content": "104 [Amendment]"
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Payments in Lieu of Taxes Act",
+      "section": "105",
+      "title": "",
+      "content": "105 [Amendment]"
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Privacy Act",
+      "section": "106",
+      "title": "",
+      "content": "106 [Amendment]"
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Access to Information Act",
+      "section": "107",
+      "title": "",
+      "content": "107 [Amendment]"
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Lobbyists Registration Act",
+      "section": "108",
+      "title": "",
+      "content": "108 [Amendment]"
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Privacy Act",
+      "section": "109",
+      "title": "",
+      "content": "109 [Amendment]"
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Other Amendments",
+      "section": "110",
+      "title": "",
+      "content": "110 [Amendments]"
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Coming into Force",
+      "section": "111",
+      "title": "Order in council",
+      "content": "111 This Act, other than sections 107 to 110, comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 107 to 110 in force on assent February 15, 2005; Act, other than sections 107 to 110, in force August 4, 2005, see SI/2005-54.] RELATED PROVISIONS — 2019, c. 29, par. 371(2)(e) Other references to Department of Indian Affairs and Northern Development (2) Unless the context requires otherwise, every reference to the “Department of Indian Affairs and Northern Development” is, with any grammatical adaptations, to be read as a reference to the “Department of Crown-Indigenous Relations and Northern Affairs” in the following provisions: (e) paragraphs 4(d) and (f) of the Tlicho Land Claims and Self-Government Act ; and — 2019, c. 29, par. 373(2)(f) Other references to Minister of Indian Affairs and Northern Development (2) Unless the context requires otherwise, every reference to the “Minister of Indian Affairs and Northern Development” is, with any grammatical adaptations, to be read as a reference to the “Minister of Crown-Indigenous Relations” in the following provisions: (f) the portion of section 4 of the Tlicho Land Claims and Self-Government Act before paragraph (a); and Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "Agreement means the Land Claims and Self-Government Agreement among the Tlicho, the Government of the Northwest Territories and the Government of Canada, signed on August 25, 2003, including any amendments made to it from time to time. ( Accord )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tax Treatment Agreement",
+      "definition": "Tax Treatment Agreement means the Tlicho Tax Treatment Agreement among the Government of Canada, the Government of the Northwest Territories and the Tlicho First Nation, signed on behalf of the Government of Canada on February 6, 2003, on behalf of the Government of the Northwest Territories on February 27, 2003 and on behalf of the Tlicho First Nation on March 3, 2003, including any amendments made to it from time to time. ( accord sur le traitement fiscal )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tlicho Government",
+      "definition": "Tlicho Government means the government of the Tlicho First Nation established in accord­ance with chapter 7 of the Agreement. ( gouvernement tlicho )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Tlicho law",
+      "definition": "Tlicho law means a law enacted by the Tlicho Government. ( loi tlicho )",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "c-6-1",
+  "type": "statute",
+  "title": "Canada Health Care, Early Childhood Development and Other Social Services Funding Act",
+  "title_en": "Canada Health Care, Early Childhood Development and Other Social Services Funding Act",
+  "short_name": "Canada Health Care, Early Childhood D...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/C-6.1/",
+  "description": "Canada Health Care, Early Childhood Development and Other Social Services Funding Act (Canada Health Care, Early Childhood D...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Canada Health Care, Early Childhood Development and Other Social Services Funding Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Medical Equipment Trust",
+      "section": "2",
+      "title": "Payment into trust",
+      "content": "2 (1) The Minister of Finance may make a direct payment of $1 billion for the fiscal year beginning on April 1, 2000 to a trust established to provide funding to the provinces for the purpose of the Government of Canada’s contribution towards the purchase of modern medical diagnostic and treatment equipment and the costs directly associated with the installation of that equipment. (2) The amount of funds that may be provided to a province and the release of those funds shall be determined in accordance with the terms of the trust indenture establishing the trust, taking into account the population of that province."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Funding for Health Information and Communications Technologies",
+      "section": "3",
+      "title": "Payment to corporation",
+      "content": "3 The Minister of Finance may make a direct payment of $500 million for the fiscal year beginning on April 1, 2000 to a corporation, to be named by order of the Governor in Council on the recommendation of the Minister of Health, for the purpose of defining standards governing shared data to ensure the compatibility of health information networks."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Payment Out of Consolidated Revenue Fund",
+      "section": "4",
+      "title": "Payment out of C.R.F.",
+      "content": "4 The amounts authorized to be paid by sections 2 and 3 shall be paid out of the Consolidated Revenue Fund."
+    }
+  ],
+  "definitions": []
+}

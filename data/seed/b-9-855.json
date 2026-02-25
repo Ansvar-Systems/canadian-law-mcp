@@ -1,0 +1,1569 @@
+{
+  "id": "b-9-855",
+  "type": "statute",
+  "title": "Budget Implementation Act, 2006",
+  "title_en": "Budget Implementation Act, 2006",
+  "short_name": "Budget Implementation Act, 2006",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/B-9.855/",
+  "description": "Budget Implementation Act, 2006 (Budget Implementation Act, 2006). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Budget Implementation Act, 2006 ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "2",
+      "title": "Short title",
+      "content": "2 [Amendments]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "3",
+      "title": "Short title",
+      "content": "3 [Amendment]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "4",
+      "title": "Short title",
+      "content": "4 [Amendment]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "5",
+      "title": "Short title",
+      "content": "5 [Amendments]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "6",
+      "title": "Short title",
+      "content": "6 [Amendment]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "7",
+      "title": "Short title",
+      "content": "7 [Amendment]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "8",
+      "title": "Short title",
+      "content": "8 [Amendments]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "9",
+      "title": "Short title",
+      "content": "9 [Amendment]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "10",
+      "title": "Short title",
+      "content": "10 [Amendments]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "11",
+      "title": "Short title",
+      "content": "11 [Amendments]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "12",
+      "title": "",
+      "content": "12 [Amendment]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "13",
+      "title": "",
+      "content": "13 [Amendment]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "14",
+      "title": "",
+      "content": "14 [Amendment]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "15",
+      "title": "",
+      "content": "15 [Amendments]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "16",
+      "title": "",
+      "content": "16 [Amendment]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "17",
+      "title": "",
+      "content": "17 [Amendment]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "18",
+      "title": "",
+      "content": "18 [Amendment]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "19",
+      "title": "",
+      "content": "19 [Amendment]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "20",
+      "title": "",
+      "content": "20 [Amendment]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "21",
+      "title": "",
+      "content": "21 [Amendment]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "22",
+      "title": "",
+      "content": "22 [Amendments]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "23",
+      "title": "",
+      "content": "23 [Amendments]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "24",
+      "title": "",
+      "content": "24 [Amendments]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "25",
+      "title": "",
+      "content": "25 [Amendments]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "26",
+      "title": "",
+      "content": "26 [Amendments]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "27",
+      "title": "",
+      "content": "27 [Amendment]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "28",
+      "title": "",
+      "content": "28 [Amendments]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "29",
+      "title": "",
+      "content": "29 [Amendment]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "30",
+      "title": "",
+      "content": "30 [Amendments]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "31",
+      "title": "",
+      "content": "31 [Amendment]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Amendments Relating to the GST/HST",
+      "section": "32",
+      "title": "",
+      "content": "32 [Amendment]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Related Amendments",
+      "section": "33",
+      "title": "",
+      "content": "33 [Amendments] Amendments Relating to the Taxation of Tobacco Products Excise Act, 2001"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Related Amendments",
+      "section": "34",
+      "title": "",
+      "content": "34 [Amendment]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Related Amendments",
+      "section": "35",
+      "title": "",
+      "content": "35 [Amendments]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Related Amendments",
+      "section": "36",
+      "title": "",
+      "content": "36 [Amendment]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Related Amendments",
+      "section": "37",
+      "title": "",
+      "content": "37 [Amendment]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Related Amendments",
+      "section": "38",
+      "title": "",
+      "content": "38 [Amendment]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Related Amendments",
+      "section": "39",
+      "title": "",
+      "content": "39 [Amendment]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Related Amendments",
+      "section": "40",
+      "title": "",
+      "content": "40 [Amendment]"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Related Amendments",
+      "section": "41",
+      "title": "",
+      "content": "41 [Amendments] Application"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Related Amendments",
+      "section": "42",
+      "title": "",
+      "content": "42 For the purposes of applying the provisions of the Customs Act that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though sections 37 to 41 had come into force on July 1, 2006. Amendments Relating to Alcohol Products Excise Act"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Related Amendments",
+      "section": "43",
+      "title": "",
+      "content": "43 [Amendment] Excise Act, 2001"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Related Amendments",
+      "section": "44",
+      "title": "",
+      "content": "44 [Amendments]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Related Amendments",
+      "section": "45",
+      "title": "",
+      "content": "45 [Amendments]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Related Amendments",
+      "section": "46",
+      "title": "",
+      "content": "46 [Amendment]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Related Amendments",
+      "section": "47",
+      "title": "",
+      "content": "47 [Amendment]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Related Amendments",
+      "section": "48",
+      "title": "",
+      "content": "48 [Amendment]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Related Amendments",
+      "section": "49",
+      "title": "",
+      "content": "49 [Amendment] Application"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Related Amendments",
+      "section": "50",
+      "title": "",
+      "content": "50 For the purposes of applying the provisions of the Customs Act and the Excise Act that provide for the payment of, or the liability to pay, interest in respect of any amount, the amount shall be determined and interest shall be computed on it as though sections 43, 48 and 49 had come into force on July 1, 2006."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "51",
+      "title": "",
+      "content": "51 [Amendments]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "52",
+      "title": "",
+      "content": "52 [Amendment]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "53",
+      "title": "",
+      "content": "53 [Amendments]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "54",
+      "title": "",
+      "content": "54 [Amendment]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "55",
+      "title": "",
+      "content": "55 [Amendment]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "56",
+      "title": "",
+      "content": "56 [Amendment]"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "57",
+      "title": "",
+      "content": "57 [Amendments]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "58",
+      "title": "",
+      "content": "58 [Amendments]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "59",
+      "title": "",
+      "content": "59 [Amendment]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "60",
+      "title": "",
+      "content": "60 [Amendments]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "61",
+      "title": "",
+      "content": "61 [Amendment]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "62",
+      "title": "",
+      "content": "62 [Amendments]"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "63",
+      "title": "",
+      "content": "63 [Amendments]"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "64",
+      "title": "",
+      "content": "64 [Amendments]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "65",
+      "title": "",
+      "content": "65 [Amendments]"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "66",
+      "title": "",
+      "content": "66 [Amendments]"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "67",
+      "title": "",
+      "content": "67 [Amendment]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "68",
+      "title": "",
+      "content": "68 [Amendment]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "69",
+      "title": "",
+      "content": "69 [Amendment]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "70",
+      "title": "",
+      "content": "70 [Amendments]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "71",
+      "title": "",
+      "content": "71 [Amendments]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "72",
+      "title": "",
+      "content": "72 [Amendments]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "73",
+      "title": "",
+      "content": "73 [Amendments]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "74",
+      "title": "",
+      "content": "74 [Amendments]"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "75",
+      "title": "",
+      "content": "75 [Amendments]"
+    },
+    {
+      "provision_ref": "s75.1",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "75.1",
+      "title": "",
+      "content": "75.1 [Amendment]"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "76",
+      "title": "",
+      "content": "76 [Amendment]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "77",
+      "title": "",
+      "content": "77 [Amendment]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "78",
+      "title": "",
+      "content": "78 [Amendment]"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "79",
+      "title": "",
+      "content": "79 [Amendments]"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "80",
+      "title": "",
+      "content": "80 [Amendment]"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "81",
+      "title": "",
+      "content": "81 [Amendment]"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "82",
+      "title": "",
+      "content": "82 [Amendment]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "83",
+      "title": "",
+      "content": "83 [Amendment]"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "84",
+      "title": "",
+      "content": "84 [Amendment]"
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "85",
+      "title": "",
+      "content": "85 [Amendment]"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "86",
+      "title": "",
+      "content": "86 [Amendments]"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "87",
+      "title": "",
+      "content": "87 [Amendment]"
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "PART 2 Amendments to the Income Tax Act",
+      "section": "88",
+      "title": "",
+      "content": "88 [Amendment]"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Excise Tax Act",
+      "section": "89",
+      "title": "",
+      "content": "89 [Amendment]"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Budget Implementation Act, 2005",
+      "section": "90",
+      "title": "",
+      "content": "90 [Amendment]"
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "First Nations Goods and Services Tax Act",
+      "section": "91",
+      "title": "",
+      "content": "91 [Amendment]"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "First Nations Goods and Services Tax Act",
+      "section": "92",
+      "title": "",
+      "content": "92 [Amendments]"
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "First Nations Goods and Services Tax Act",
+      "section": "93",
+      "title": "",
+      "content": "93 [Amendment]"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "First Nations Goods and Services Tax Act",
+      "section": "94",
+      "title": "",
+      "content": "94 [Amendments]"
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "First Nations Goods and Services Tax Act",
+      "section": "95",
+      "title": "",
+      "content": "95 [Amendment]"
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "First Nations Goods and Services Tax Act",
+      "section": "96",
+      "title": "",
+      "content": "96 [Amendment]"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "First Nations Goods and Services Tax Act",
+      "section": "97",
+      "title": "",
+      "content": "97 [Amendment]"
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Yukon First Nations Self-Government Act",
+      "section": "98",
+      "title": "",
+      "content": "98 [Amendment]"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "99",
+      "title": "",
+      "content": "99 [Amendment]"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "100",
+      "title": "",
+      "content": "100 [Amendment]"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "101",
+      "title": "",
+      "content": "101 [Amendments]"
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "102",
+      "title": "",
+      "content": "102 [Amendment]"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "103",
+      "title": "",
+      "content": "103 [Amendment]"
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "104",
+      "title": "",
+      "content": "104 [Amendment]"
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "105",
+      "title": "",
+      "content": "105 [Amendment]"
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "106",
+      "title": "",
+      "content": "106 [Amendment]"
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "107",
+      "title": "",
+      "content": "107 [Amendment]"
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "108",
+      "title": "",
+      "content": "108 [Amendment]"
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "109",
+      "title": "",
+      "content": "109 [Amendment]"
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "110",
+      "title": "",
+      "content": "110 [Amendment]"
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "111",
+      "title": "",
+      "content": "111 [Amendment]"
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Air Travellers Security Charge Act",
+      "section": "112",
+      "title": "",
+      "content": "112 [Amendment]"
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Excise Act, 2001",
+      "section": "113",
+      "title": "",
+      "content": "113 [Amendment]"
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Excise Act, 2001",
+      "section": "114",
+      "title": "",
+      "content": "114 [Amendment]"
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Excise Act, 2001",
+      "section": "115",
+      "title": "",
+      "content": "115 [Amendment]"
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Excise Act, 2001",
+      "section": "116",
+      "title": "",
+      "content": "116 [Amendment]"
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Excise Act, 2001",
+      "section": "117",
+      "title": "",
+      "content": "117 [Amendments]"
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Excise Act, 2001",
+      "section": "118",
+      "title": "",
+      "content": "118 [Amendment]"
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Excise Act, 2001",
+      "section": "119",
+      "title": "",
+      "content": "119 [Amendment]"
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Excise Act, 2001",
+      "section": "120",
+      "title": "",
+      "content": "120 [Amendment]"
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Excise Act, 2001",
+      "section": "121",
+      "title": "",
+      "content": "121 [Amendment]"
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Excise Act, 2001",
+      "section": "122",
+      "title": "",
+      "content": "122 [Amendment]"
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Excise Act, 2001",
+      "section": "123",
+      "title": "",
+      "content": "123 [Amendment]"
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "Excise Tax Act",
+      "section": "124",
+      "title": "",
+      "content": "124 [Amendment]"
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "Excise Tax Act",
+      "section": "125",
+      "title": "",
+      "content": "125 [Amendment]"
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "Excise Tax Act",
+      "section": "126",
+      "title": "",
+      "content": "126 [Amendment]"
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "Excise Tax Act",
+      "section": "127",
+      "title": "",
+      "content": "127 [Amendment]"
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "Excise Tax Act",
+      "section": "128",
+      "title": "",
+      "content": "128 [Amendment]"
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "Excise Tax Act",
+      "section": "129",
+      "title": "",
+      "content": "129 [Amendment]"
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "Excise Tax Act",
+      "section": "130",
+      "title": "",
+      "content": "130 [Amendment]"
+    },
+    {
+      "provision_ref": "s131",
+      "chapter": "Excise Tax Act",
+      "section": "131",
+      "title": "",
+      "content": "131 [Amendment]"
+    },
+    {
+      "provision_ref": "s132",
+      "chapter": "Excise Tax Act",
+      "section": "132",
+      "title": "",
+      "content": "132 [Amendment]"
+    },
+    {
+      "provision_ref": "s133",
+      "chapter": "Excise Tax Act",
+      "section": "133",
+      "title": "",
+      "content": "133 [Amendments]"
+    },
+    {
+      "provision_ref": "s133.1",
+      "chapter": "Excise Tax Act",
+      "section": "133.1",
+      "title": "",
+      "content": "133.1 [Amendment]"
+    },
+    {
+      "provision_ref": "s134",
+      "chapter": "Excise Tax Act",
+      "section": "134",
+      "title": "",
+      "content": "134 [Amendment]"
+    },
+    {
+      "provision_ref": "s135",
+      "chapter": "Excise Tax Act",
+      "section": "135",
+      "title": "",
+      "content": "135 [Amendment]"
+    },
+    {
+      "provision_ref": "s136",
+      "chapter": "Excise Tax Act",
+      "section": "136",
+      "title": "",
+      "content": "136 [Amendment]"
+    },
+    {
+      "provision_ref": "s137",
+      "chapter": "Excise Tax Act",
+      "section": "137",
+      "title": "",
+      "content": "137 [Amendment]"
+    },
+    {
+      "provision_ref": "s138",
+      "chapter": "Excise Tax Act",
+      "section": "138",
+      "title": "",
+      "content": "138 [Amendment]"
+    },
+    {
+      "provision_ref": "s139",
+      "chapter": "Excise Tax Act",
+      "section": "139",
+      "title": "",
+      "content": "139 [Amendments]"
+    },
+    {
+      "provision_ref": "s140",
+      "chapter": "Excise Tax Act",
+      "section": "140",
+      "title": "",
+      "content": "140 [Amendments]"
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "Excise Tax Act",
+      "section": "141",
+      "title": "",
+      "content": "141 [Amendment]"
+    },
+    {
+      "provision_ref": "s142",
+      "chapter": "Excise Tax Act",
+      "section": "142",
+      "title": "",
+      "content": "142 [Amendments]"
+    },
+    {
+      "provision_ref": "s143",
+      "chapter": "Excise Tax Act",
+      "section": "143",
+      "title": "",
+      "content": "143 [Amendments]"
+    },
+    {
+      "provision_ref": "s144",
+      "chapter": "Excise Tax Act",
+      "section": "144",
+      "title": "",
+      "content": "144 [Amendment]"
+    },
+    {
+      "provision_ref": "s145",
+      "chapter": "Excise Tax Act",
+      "section": "145",
+      "title": "",
+      "content": "145 [Amendment]"
+    },
+    {
+      "provision_ref": "s146",
+      "chapter": "Excise Tax Act",
+      "section": "146",
+      "title": "",
+      "content": "146 [Amendments]"
+    },
+    {
+      "provision_ref": "s147",
+      "chapter": "Excise Tax Act",
+      "section": "147",
+      "title": "",
+      "content": "147 [Amendment]"
+    },
+    {
+      "provision_ref": "s148",
+      "chapter": "Excise Tax Act",
+      "section": "148",
+      "title": "",
+      "content": "148 [Amendment]"
+    },
+    {
+      "provision_ref": "s149",
+      "chapter": "Excise Tax Act",
+      "section": "149",
+      "title": "",
+      "content": "149 [Amendment]"
+    },
+    {
+      "provision_ref": "s150",
+      "chapter": "Excise Tax Act",
+      "section": "150",
+      "title": "",
+      "content": "150 [Amendment]"
+    },
+    {
+      "provision_ref": "s151",
+      "chapter": "Excise Tax Act",
+      "section": "151",
+      "title": "",
+      "content": "151 [Amendments]"
+    },
+    {
+      "provision_ref": "s152",
+      "chapter": "Excise Tax Act",
+      "section": "152",
+      "title": "",
+      "content": "152 [Amendments]"
+    },
+    {
+      "provision_ref": "s153",
+      "chapter": "Excise Tax Act",
+      "section": "153",
+      "title": "",
+      "content": "153 [Amendment]"
+    },
+    {
+      "provision_ref": "s154",
+      "chapter": "Excise Tax Act",
+      "section": "154",
+      "title": "",
+      "content": "154 [Amendment]"
+    },
+    {
+      "provision_ref": "s155",
+      "chapter": "Excise Tax Act",
+      "section": "155",
+      "title": "",
+      "content": "155 [Amendment]"
+    },
+    {
+      "provision_ref": "s156",
+      "chapter": "Excise Tax Act",
+      "section": "156",
+      "title": "",
+      "content": "156 [Amendment]"
+    },
+    {
+      "provision_ref": "s157",
+      "chapter": "Excise Tax Act",
+      "section": "157",
+      "title": "",
+      "content": "157 [Amendment]"
+    },
+    {
+      "provision_ref": "s158",
+      "chapter": "Excise Tax Act",
+      "section": "158",
+      "title": "",
+      "content": "158 [Amendment]"
+    },
+    {
+      "provision_ref": "s159",
+      "chapter": "Excise Tax Act",
+      "section": "159",
+      "title": "",
+      "content": "159 [Amendment]"
+    },
+    {
+      "provision_ref": "s160",
+      "chapter": "Excise Tax Act",
+      "section": "160",
+      "title": "",
+      "content": "160 [Amendment]"
+    },
+    {
+      "provision_ref": "s161",
+      "chapter": "Income Tax Act",
+      "section": "161",
+      "title": "",
+      "content": "161 [Amendment]"
+    },
+    {
+      "provision_ref": "s162",
+      "chapter": "Income Tax Act",
+      "section": "162",
+      "title": "",
+      "content": "162 [Amendment]"
+    },
+    {
+      "provision_ref": "s163",
+      "chapter": "Income Tax Act",
+      "section": "163",
+      "title": "",
+      "content": "163 [Amendment]"
+    },
+    {
+      "provision_ref": "s164",
+      "chapter": "Income Tax Act",
+      "section": "164",
+      "title": "",
+      "content": "164 [Amendments]"
+    },
+    {
+      "provision_ref": "s165",
+      "chapter": "Income Tax Act",
+      "section": "165",
+      "title": "",
+      "content": "165 [Amendment]"
+    },
+    {
+      "provision_ref": "s166",
+      "chapter": "Income Tax Act",
+      "section": "166",
+      "title": "",
+      "content": "166 [Amendment]"
+    },
+    {
+      "provision_ref": "s167",
+      "chapter": "Conditional Amendment",
+      "section": "167",
+      "title": "",
+      "content": "167 [Amendment]"
+    },
+    {
+      "provision_ref": "s168",
+      "chapter": "Enactment of Act",
+      "section": "168",
+      "title": "Enactment of Act",
+      "content": "168 The Universal Child Care Benefit Act is enacted as follows: [See Universal Child Care Benefit Act ]"
+    },
+    {
+      "provision_ref": "s169",
+      "chapter": "Consequential And Related Amendments",
+      "section": "169",
+      "title": "Enactment of Act",
+      "content": "169 [Amendment]"
+    },
+    {
+      "provision_ref": "s170",
+      "chapter": "Consequential And Related Amendments",
+      "section": "170",
+      "title": "Enactment of Act",
+      "content": "170 [Amendment]"
+    },
+    {
+      "provision_ref": "s171",
+      "chapter": "Consequential And Related Amendments",
+      "section": "171",
+      "title": "Enactment of Act",
+      "content": "171 [Amendment] Employment Insurance Act"
+    },
+    {
+      "provision_ref": "s172",
+      "chapter": "Consequential And Related Amendments",
+      "section": "172",
+      "title": "Enactment of Act",
+      "content": "172 [Amendment] Income Tax Act"
+    },
+    {
+      "provision_ref": "s173",
+      "chapter": "Consequential And Related Amendments",
+      "section": "173",
+      "title": "Enactment of Act",
+      "content": "173 [Amendment]"
+    },
+    {
+      "provision_ref": "s174",
+      "chapter": "Consequential And Related Amendments",
+      "section": "174",
+      "title": "Enactment of Act",
+      "content": "174 [Amendment]"
+    },
+    {
+      "provision_ref": "s175",
+      "chapter": "Consequential And Related Amendments",
+      "section": "175",
+      "title": "Enactment of Act",
+      "content": "175 [Amendment]"
+    },
+    {
+      "provision_ref": "s176",
+      "chapter": "Consequential And Related Amendments",
+      "section": "176",
+      "title": "Enactment of Act",
+      "content": "176 [Amendment]"
+    },
+    {
+      "provision_ref": "s177",
+      "chapter": "Consequential And Related Amendments",
+      "section": "177",
+      "title": "",
+      "content": "177 [Amendment]"
+    },
+    {
+      "provision_ref": "s178",
+      "chapter": "Consequential And Related Amendments",
+      "section": "178",
+      "title": "",
+      "content": "178 [Amendment]"
+    },
+    {
+      "provision_ref": "s179",
+      "chapter": "Consequential And Related Amendments",
+      "section": "179",
+      "title": "",
+      "content": "179 [Amendment] Old Age Security Act"
+    },
+    {
+      "provision_ref": "s180",
+      "chapter": "Consequential And Related Amendments",
+      "section": "180",
+      "title": "",
+      "content": "180 [Amendment]"
+    },
+    {
+      "provision_ref": "s181",
+      "chapter": "Coming Into Force",
+      "section": "181",
+      "title": "Coming into force",
+      "content": "181 This Part, other than sections 173 to 179, comes into force, or is deemed to have come into force, on July 1, 2006. Return to footnote * [Note: Sections 173 to 179 in force on assent June 22, 2006.]"
+    },
+    {
+      "provision_ref": "s182",
+      "chapter": "PART 7 Amendments to the Federal-Provincial Fiscal Arrangements Act",
+      "section": "182",
+      "title": "Coming into force",
+      "content": "182 [Amendment]"
+    },
+    {
+      "provision_ref": "s183",
+      "chapter": "PART 7 Amendments to the Federal-Provincial Fiscal Arrangements Act",
+      "section": "183",
+      "title": "Coming into force",
+      "content": "183 [Amendments]"
+    },
+    {
+      "provision_ref": "s184",
+      "chapter": "PART 7 Amendments to the Federal-Provincial Fiscal Arrangements Act",
+      "section": "184",
+      "title": "Coming into force",
+      "content": "184 [Amendment]"
+    },
+    {
+      "provision_ref": "s185",
+      "chapter": "PART 7 Amendments to the Federal-Provincial Fiscal Arrangements Act",
+      "section": "185",
+      "title": "Coming into force",
+      "content": "185 [Amendment]"
+    },
+    {
+      "provision_ref": "s186",
+      "chapter": "PART 7 Amendments to the Federal-Provincial Fiscal Arrangements Act",
+      "section": "186",
+      "title": "Coming into force",
+      "content": "186 [Amendments]"
+    },
+    {
+      "provision_ref": "s187",
+      "chapter": "PART 7 Amendments to the Federal-Provincial Fiscal Arrangements Act",
+      "section": "187",
+      "title": "Coming into force",
+      "content": "187 [Amendment]"
+    },
+    {
+      "provision_ref": "s188",
+      "chapter": "PART 7 Amendments to the Federal-Provincial Fiscal Arrangements Act",
+      "section": "188",
+      "title": "Coming into force",
+      "content": "188 [Amendment]"
+    },
+    {
+      "provision_ref": "s189",
+      "chapter": "PART 7 Amendments to the Federal-Provincial Fiscal Arrangements Act",
+      "section": "189",
+      "title": "Coming into force",
+      "content": "189 [Amendment]"
+    },
+    {
+      "provision_ref": "s190",
+      "chapter": "PART 8 Payments to Provinces and Territories",
+      "section": "190",
+      "title": "Payment of $650,000,000",
+      "content": "190 (1) From and out of the Consolidated Revenue Fund, there may, on the requisition of the Minister of Human Resources and Skills Development, be paid to the provinces a payment in the amount of $650,000,000 for the fiscal year beginning on April 1, 2006, in respect of early learning and child care. (2) The payment referred to in subsection (1) shall be allocated to the provinces as follows: (a) to Ontario, $252,933,933.35; (b) to Quebec, $152,740,663.90; (c) to Nova Scotia, $18,743,350.65; (d) to New Brunswick, $15,028,068.42; (e) to Manitoba, $23,683,368.44; (f) to British Columbia, $85,920,064.72; (g) to Prince Edward Island, $2,762,632.45; (h) to Saskatchewan, $19,863,918.85; (i) to Alberta, $65,973,415.33; (j) to Newfoundland and Labrador, $10,266,477.67; (k) to Yukon, $619,370.20; (l) to the Northwest Territories, $862,067.75; and (m) to Nunavut, $602,668.27."
+    },
+    {
+      "provision_ref": "s191",
+      "chapter": "PART 8 Payments to Provinces and Territories",
+      "section": "191",
+      "title": "Payment to territories",
+      "content": "191 From and out of the Consolidated Revenue Fund, there may, on the requisition of the Minister of Finance, be paid to the territories the following payments for the fiscal year beginning on April 1, 2006: (a) to Yukon, $10,900,000; (b) to the Northwest Territories, $18,000,000; and (c) to Nunavut, $17,500,000."
+    },
+    {
+      "provision_ref": "s192",
+      "chapter": "PART 9 [Repealed, 2011, c. 15, s. 21]",
+      "section": "192",
+      "title": "Payment to territories",
+      "content": "192 [Repealed, 2011, c. 15, s. 21] Previous Version"
+    },
+    {
+      "provision_ref": "s193",
+      "chapter": "PART 9 [Repealed, 2011, c. 15, s. 21]",
+      "section": "193",
+      "title": "Payment to territories",
+      "content": "193 [Repealed, 2011, c. 15, s. 21] Previous Version"
+    },
+    {
+      "provision_ref": "s194",
+      "chapter": "PART 9 [Repealed, 2011, c. 15, s. 21]",
+      "section": "194",
+      "title": "Payment to territories",
+      "content": "194 [Repealed, 2011, c. 15, s. 21] Previous Version"
+    },
+    {
+      "provision_ref": "s195",
+      "chapter": "PART 9 [Repealed, 2011, c. 15, s. 21]",
+      "section": "195",
+      "title": "",
+      "content": "195 [Repealed, 2011, c. 15, s. 21] Previous Version"
+    },
+    {
+      "provision_ref": "s196",
+      "chapter": "PART 9 [Repealed, 2011, c. 15, s. 21]",
+      "section": "196",
+      "title": "",
+      "content": "196 [Repealed, 2006, c. 4, s. 198]"
+    },
+    {
+      "provision_ref": "s197",
+      "chapter": "PART 9 [Repealed, 2011, c. 15, s. 21]",
+      "section": "197",
+      "title": "",
+      "content": "197 [Repealed, 2011, c. 15, s. 21] Previous Version"
+    },
+    {
+      "provision_ref": "s198",
+      "chapter": "PART 9 [Repealed, 2011, c. 15, s. 21]",
+      "section": "198",
+      "title": "",
+      "content": "198 [Repealed, 2011, c. 15, s. 21] Previous Version"
+    },
+    {
+      "provision_ref": "s199",
+      "chapter": "Bank Act",
+      "section": "199",
+      "title": "",
+      "content": "199 [Amendment]"
+    },
+    {
+      "provision_ref": "s199.1",
+      "chapter": "Bank Act",
+      "section": "199.1",
+      "title": "",
+      "content": "199.1 [Amendment]"
+    },
+    {
+      "provision_ref": "s200",
+      "chapter": "Cooperative Credit Associations Act",
+      "section": "200",
+      "title": "",
+      "content": "200 [Amendment]"
+    },
+    {
+      "provision_ref": "s201",
+      "chapter": "Insurance Companies Act",
+      "section": "201",
+      "title": "",
+      "content": "201 [Amendment]"
+    },
+    {
+      "provision_ref": "s201.1",
+      "chapter": "Insurance Companies Act",
+      "section": "201.1",
+      "title": "",
+      "content": "201.1 [Amendment]"
+    },
+    {
+      "provision_ref": "s202",
+      "chapter": "Trust and Loan Companies Act",
+      "section": "202",
+      "title": "",
+      "content": "202 [Amendment]"
+    },
+    {
+      "provision_ref": "s203",
+      "chapter": "Canadian Forces Superannuation Act",
+      "section": "203",
+      "title": "",
+      "content": "203 [Amendment]"
+    },
+    {
+      "provision_ref": "s204",
+      "chapter": "Public Service Superannuation Act",
+      "section": "204",
+      "title": "",
+      "content": "204 [Amendment]"
+    },
+    {
+      "provision_ref": "s205",
+      "chapter": "Public Service Superannuation Act",
+      "section": "205",
+      "title": "",
+      "content": "205 [Amendment]"
+    },
+    {
+      "provision_ref": "s206",
+      "chapter": "Royal Canadian Mounted Police Superannuation Act",
+      "section": "206",
+      "title": "",
+      "content": "206 [Amendment]"
+    },
+    {
+      "provision_ref": "s207",
+      "chapter": "Coming into Force",
+      "section": "207",
+      "title": "Coming into force",
+      "content": "207 This Part comes into force on January 1, 2008."
+    },
+    {
+      "provision_ref": "s208",
+      "chapter": "Enactment of Act",
+      "section": "208",
+      "title": "Enactment of Act",
+      "content": "208 The Mackenzie Gas Project Impacts Act , whose text is as follows and whose schedule is set out in Schedule 2 to this Act, is hereby enacted: [See Mackenzie Gas Project Impacts Act ]"
+    },
+    {
+      "provision_ref": "s209",
+      "chapter": "Payments",
+      "section": "209",
+      "title": "Enactment of Act",
+      "content": "209 [Repealed, 2013, c. 40, s. 286] Previous Version"
+    },
+    {
+      "provision_ref": "s210",
+      "chapter": "Consequential Amendments",
+      "section": "210",
+      "title": "Enactment of Act",
+      "content": "210 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s211",
+      "chapter": "Consequential Amendments",
+      "section": "211",
+      "title": "Enactment of Act",
+      "content": "211 [Amendment] Privacy Act"
+    },
+    {
+      "provision_ref": "s212",
+      "chapter": "Consequential Amendments",
+      "section": "212",
+      "title": "Enactment of Act",
+      "content": "212 [Amendment]"
+    },
+    {
+      "provision_ref": "s213",
+      "chapter": "Coming Into Force",
+      "section": "213",
+      "title": "Order in Council",
+      "content": "213 Sections 208 to 212 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 208 to 212 in force November 10, 2006, see SI/2006-132.]"
+    },
+    {
+      "provision_ref": "s214",
+      "chapter": "European Bank for Reconstruction and Development Agreement Act",
+      "section": "214",
+      "title": "Order in Council",
+      "content": "214 [Amendment]"
+    },
+    {
+      "provision_ref": "s215",
+      "chapter": "European Bank for Reconstruction and Development Agreement Act",
+      "section": "215",
+      "title": "Order in Council",
+      "content": "215 [Amendment]"
+    },
+    {
+      "provision_ref": "s216",
+      "chapter": "Freshwater Fish Marketing Act",
+      "section": "216",
+      "title": "Order in Council",
+      "content": "216 [Amendment]"
+    },
+    {
+      "provision_ref": "s217",
+      "chapter": "Public Sector Pension Investment Board Act",
+      "section": "217",
+      "title": "Order in Council",
+      "content": "217 [Amendment]"
+    },
+    {
+      "provision_ref": "sched-schedule1",
+      "chapter": "SCHEDULE 1",
+      "section": "SCHEDULE 1",
+      "title": "SCHEDULE 1",
+      "content": "SCHEDULE 1 [Amendment] SCHEDULE 2 (Section 208) [See Mackenzie Gas Project Impacts Act ]"
+    }
+  ],
+  "definitions": []
+}

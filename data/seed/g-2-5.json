@@ -1,0 +1,108 @@
+{
+  "id": "g-2-5",
+  "type": "statute",
+  "title": "Genetic Non-Discrimination Act",
+  "title_en": "Genetic Non-Discrimination Act",
+  "short_name": "Genetic Non-Discrimination Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/G-2.5/",
+  "description": "Genetic Non-Discrimination Act (Genetic Non-Discrimination Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Genetic Non-Discrimination Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 The following definitions apply in this Act. disclose disclose includes to authorize disclosure. ( communiquer ) genetic test genetic test means a test that analyzes DNA, RNA or chromosomes for purposes such as the prediction of disease or vertical transmission risks, or monitoring, diagnosis or prognosis. ( test génétique ) health care practitioner health care practitioner means a person lawfully entitled under the law of a province to provide health services in the place in which the services are provided by that person. ( professionnel de la santé )"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Prohibitions",
+      "section": "3",
+      "title": "Genetic test",
+      "content": "3 (1) It is prohibited for any person to require an individual to undergo a genetic test as a condition of (a) providing goods or services to that individual; (b) entering into or continuing a contract or agreement with that individual; or (c) offering or continuing specific terms or conditions in a contract or agreement with that individual. (2) It is prohibited for any person to refuse to engage in an activity described in any of paragraphs (1)(a) to (c) in respect of an individual on the grounds that the individual has refused to undergo a genetic test."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Prohibitions",
+      "section": "4",
+      "title": "Disclosure of results",
+      "content": "4 (1) It is prohibited for any person to require an individual to disclose the results of a genetic test as a condition of engaging in an activity described in any of paragraphs 3(1)(a) to (c). (2) It is prohibited for any person to refuse to engage in an activity described in any of paragraphs 3(1)(a) to (c) in respect of an individual on the grounds that the individual has refused to disclose the results of a genetic test."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Prohibitions",
+      "section": "5",
+      "title": "Written consent",
+      "content": "5 It is prohibited for any person who is engaged in an activity described in any of paragraphs 3(1)(a) to (c) in respect of an individual to collect, use or disclose the results of a genetic test of the individual without the individual’s written consent."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Prohibitions",
+      "section": "6",
+      "title": "Exceptions: health care practitioners and researchers",
+      "content": "6 Sections 3 to 5 do not apply to (a) a physician, a pharmacist or any other health care practitioner in respect of an individual to whom they are providing health services; or (b) a person who is conducting medical, pharmaceutical or scientific research in respect of an individual who is a participant in the research."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Offences and Punishment",
+      "section": "7",
+      "title": "Contravention of sections 3 to 5",
+      "content": "7 Every person who contravenes any of sections 3 to 5 is guilty of an offence and is liable (a) on conviction on indictment, to a fine not exceeding $1,000,000 or to imprisonment for a term not exceeding five years, or to both; or (b) on summary conviction, to a fine not exceeding $300,000 or to imprisonment for a term not exceeding twelve months, or to both."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Canada Labour Code",
+      "section": "8",
+      "title": "Contravention of sections 3 to 5",
+      "content": "8 [Amendment]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Canadian Human Rights Act",
+      "section": "9",
+      "title": "Contravention of sections 3 to 5",
+      "content": "9 [Amendment]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Canadian Human Rights Act",
+      "section": "10",
+      "title": "Contravention of sections 3 to 5",
+      "content": "10 [Amendments]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Coordinating Amendments",
+      "section": "11",
+      "title": "Contravention of sections 3 to 5",
+      "content": "11 [Amendments] Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "disclose",
+      "definition": "disclose includes to authorize disclosure. ( communiquer )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "genetic test",
+      "definition": "genetic test means a test that analyzes DNA, RNA or chromosomes for purposes such as the prediction of disease or vertical transmission risks, or monitoring, diagnosis or prognosis. ( test génétique )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "health care practitioner",
+      "definition": "health care practitioner means a person lawfully entitled under the law of a province to provide health services in the place in which the services are provided by that person. ( professionnel de la santé )",
+      "source_provision": "s2"
+    }
+  ]
+}

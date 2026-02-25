@@ -1,0 +1,472 @@
+{
+  "id": "f-11-1",
+  "type": "statute",
+  "title": "Financial Consumer Agency of Canada Act",
+  "title_en": "Financial Consumer Agency of Canada Act",
+  "short_name": "Financial Consumer Agency of Canada Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/F-11.1/",
+  "description": "Financial Consumer Agency of Canada Act (Financial Consumer Agency of Canada Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Financial Consumer Agency of Canada Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 The following definitions apply in this section and in sections 3 to 34. Agency Agency means the Financial Consumer Agency of Canada established under section 3. ( Agence ) bank holding company bank holding company means a bank holding company as defined in section 2 of the Bank Act ; ( société de portefeuille bancaire ) Commissioner Commissioner means the Commissioner of the Agency appointed under section 4. ( commissaire ) consumer provision consumer provision means (a) paragraph 157(2)(e), sections 195.1, 273.1, 627.02 to 627.998 and 979.1 to 979.4 of the Bank Act together with any regulations made under or for the purposes of those provisions; (a.1) sections 992 to 1003 of the Bank Act as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (a); (b) paragraphs 167(2)(f) and (g), subsection 382.2(3) and sections 385.05 to 385.28 of the Cooperative Credit Associations Act together with any regulations made under or for the purposes of those provisions; (b.1) sections 487.01 to 487.12 of the Cooperative Credit Associations Act as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (b); (c) paragraphs 165(2)(f) and (g), subsection 469.1(3), sections 479 to 489.3, subsection 542.061(3) and sections 598 to 607.2 of the Insurance Companies Act together with any regulations made under or for the purposes of those provisions; (c.1) sections 1034 to 1045 of the Insurance Companies Act as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (c); (d) paragraphs 161(2)(e) and (f), subsection 418.1(3) and sections 425.1 to 444.3 of the Trust and Loan Companies Act together with any regulations made under or for the purposes of those provisions; (d.1) sections 539.01 to 539.12 of the Trust and Loan Companies Act as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (d); and (e) subsection 469.1(3) as set out in paragraph 17(1)(f) of the Green Shield Canada Act and the provisions referred to in paragraph 17(1)(f.1) of that Act as they apply to Green Shield Canada in accordance with section 17 of that Act together with any regulations made under or for the purposes of those provisions. ( disposition visant les consommateurs ) Deputy Commissioner Deputy Commissioner means a Deputy Commissioner appointed under section 8. ( commissaire adjoint ) external complaints body external complaints body has the same meaning as in section 2 of the Bank Act . ( organisme externe de traitement des plaintes ) financial institution financial institution means (a) a bank as defined in section 2 of the Bank Act ; (b) an authorized foreign bank as defined in section 2 of the Bank Act ; (c) a company to which the Trust and Loan Companies Act applies; (d) a retail association as defined in section 2 of the Cooperative Credit Associations Act ; (e) a company or foreign company to which the Insurance Companies Act applies; and (f) Green Shield Canada. ( institution financière ) Financial Literacy Leader Financial Literacy Leader [Repealed, 2018, c. 27, s. 336] governing statute governing statute means (a) in relation to a bank or authorized foreign bank as defined in the Bank Act , that Act; (b) in relation to a retail association to which the Cooperative Credit Associations Act applies, that Act; (c) in relation to a company or foreign company to which the Insurance Companies Act applies, that Act; (d) in relation to a company to which the Trust and Loan Companies Act applies, that Act; and (e) in relation to Green Shield Canada, the Green Shield Canada Act . ( loi d’application ) insurance holding company insurance holding company means an insurance holding company as defined in subsection 2(1) of the Insurance Companies Act . ( société de portefeuille d’assurances ) Minister Minister means the Minister of Finance. ( ministre ) participating entity participating entity means a participating entity under the Consumer-Driven Banking Act . ( entité participante ) payment card network operator payment card network operator means an entity, as defined in section 3 of the Payment Card Networks Act , that operates or manages a payment card network, as defined in that section, including by establishing standards and procedures for the acceptance, transmission or processing of payment transactions and by facilitating the electronic transfer of information and funds. ( exploitant de réseau de cartes de paiement ) penalty penalty means an administrative monetary penalty. ( pénalité ) prescribed prescribed means prescribed by regulation. ( Version anglaise seulement ) Senior Deputy Commissioner Senior Deputy Commissioner means the Senior Deputy Commissioner for Consumer-Driven Banking appointed under subsection 7.2(1). ( commissaire adjoint principal ) technical standards body technical standards body means the technical standards body designated under subsection 8(1) of the Consumer-Driven Banking Act . ( organisme de normalisation technique ) Previous Version"
+    },
+    {
+      "provision_ref": "s2.1",
+      "chapter": "Purpose of Act",
+      "section": "2.1",
+      "title": "Supervision and protection",
+      "content": "2.1 The purpose of this Act is to ensure that financial institutions, the external complaints body, payment card network operators, participating entities and the technical standards body are supervised by an agency of the Government of Canada so as to contribute to the protection of consumers of financial products and services and the public and to the safety and security of consumer-driven banking, including by strengthening the financial literacy of Canadians. Previous Version"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Establishment of Agency",
+      "section": "3",
+      "title": "Establishment",
+      "content": "3 (1) There is hereby established an agency of the Government of Canada called the Financial Consumer Agency of Canada over which the Minister shall preside and for which the Minister shall be responsible. (2) The objects of the Agency are to (a) supervise financial institutions and the external complaints body to determine whether they are in compliance with (i) the consumer provisions applicable to them, and (ii) the terms and conditions or undertakings with respect to the protection of customers of financial institutions that the Minister imposes or requires, as the case may be, under an Act listed in Schedule 1 and the directions that the Minister imposes under this Act; (b) strive to protect the rights and interests of consumers of financial products and services and the public, taking into account the need of financial institutions to efficiently manage their business operations; (b.1) [Repealed, 2018, c. 27, s. 338] (c) promote the adoption by financial institutions of policies and procedures designed to implement provisions, terms and conditions, undertakings or directions referred to in paragraph (a) — as well as voluntary codes of conduct that are adopted by financial institutions, and any public commitments made by them, that are designed to protect the rights and interests of their customers — and monitor the implementation of those voluntary codes and public commitments; (c.1) promote the adoption by the external complaints body of policies and procedures designed to implement the provisions, terms and conditions, undertakings or directions referred to in paragraph (a); (c.2) monitor and evaluate trends and emerging issues that may have an impact on consumers of financial products and services, and make information on those trends and issues public; (d) strengthen the financial literacy of Canadians and promote consumer awareness about the obligations of financial institutions and the external complaints body under the consumer provisions applicable to them and about all matters connected with the protection of consumers of financial products and services; and (e) foster, in co-operation with any department, agency or agent corporation of the Government of Canada or of a province, financial institutions and consumer and other organizations, an understanding of financial services and issues relating to financial services. (f) [Repealed, 2018, c. 27, s. 338] (g) [Repealed, 2018, c. 27, s. 338] (3) The objects of the Agency are also to (a) supervise payment card network operators to determine whether they are in compliance with the provisions of the Payment Card Networks Act and its regulations; (b) promote the adoption by payment card network operators of policies and procedures designed to implement the provisions of the Payment Card Networks Act and its regulations; (c) monitor the implementation of voluntary codes of conduct that have been adopted by payment card network operators and that are publicly available, and to monitor any public commitments made by them regarding their commercial practices in relation to payment card networks; and (d) promote public awareness about the obligations of payment card network operators under a voluntary code of conduct or under the Payment Card Networks Act . (4) The objects of the Agency in relation to consumer-driven banking are to (a) supervise the participating entities, the external complaints body and the technical standards body to determine whether they are in compliance with (i) the provisions of the Consumer-Driven Banking Act that are applicable to them, and (ii) any terms and conditions or undertakings with respect to consumer-driven banking that the Minister imposes or requires, as the case may be, under an Act listed in Schedule 1 and the directions that the Minister imposes under this Act; (b) monitor and evaluate trends and emerging issues that may have an impact on consumers of consumer-driven banking, including the trends and issues in respect of products, services and market developments, and make information on those trends and issues public; (c) foster — in co-operation with any department, agency or agent corporation of the Government of Canada or of a province, financial institutions and consumer and other organizations — participation in consumer-driven banking; and (d) foster an understanding of consumer-driven banking and related issues among consumers. Previous Version"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Commissioner of Agency",
+      "section": "4",
+      "title": "Appointment of Commissioner",
+      "content": "4 (1) The Governor in Council shall appoint an officer to be called the Commissioner of the Financial Consumer Agency of Canada. The Commissioner has the rank and all the powers of a deputy head of a department. (2) The Commissioner holds office during good behaviour for a term of not more than five years, but may be removed for cause by the Governor in Council. (3) The Commissioner, on the expiration of any term of office, is eligible to be re-appointed for a further term of office. (4) In the event of the absence or incapacity of the Commissioner, or if the office of Commissioner is vacant, the Minister may appoint a qualified person to exercise the powers and perform the duties and functions of the Commissioner, but no person may be so appointed for a term of more than 90 days without the approval of the Governor in Council. (5) The Commissioner shall be paid the remuneration fixed by the Governor in Council. (6) The Commissioner and any person appointed under subsection (4) are entitled to be paid reasonable travel and living expenses incurred in the course of performing their duties while absent from their ordinary place of work. (7) The Commissioner and any person appointed under subsection (4) are deemed to be employed in the public service for the purposes of the Public Service Superannuation Act and to be employed in the federal public administration for the purposes of the Government Employees Compensation Act and any regulations made under section 9 of the Aeronautics Act . Previous Version"
+    },
+    {
+      "provision_ref": "s4.1",
+      "chapter": "Commissioner of Agency",
+      "section": "4.1",
+      "title": "Deemed employment",
+      "content": "4.1 [Repealed, 2018, c. 27, s. 340] Previous Version"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Powers, Duties and Functions of Commissioner",
+      "section": "5",
+      "title": "Powers, duties and functions of the Commissioner",
+      "content": "5 (1) The Commissioner has the powers, duties and functions assigned to the Commissioner by this Act and by the Acts listed in Schedule 1 and shall examine and inquire into, and report to the Minister from time to time on, all matters connected with the administration of this Act and of the consumer provisions of those other Acts. (1.1) The Commissioner shall also examine and inquire into, and report to the Minister from time to time on, all matters connected with the administration of the Payment Card Networks Act and its regulations. (2) The Commissioner may collect any personal information that he or she considers necessary in furtherance of the objects described in subsection 3(2). (2.1) The Commissioner may also collect any personal information that he or she considers necessary in furtherance of the objects described in subsection 3(3). (3) The Commissioner, if a financial institution has adopted a voluntary code of conduct referred to in paragraph 3(2)(c) or made a commitment designed to protect the interests of its customers, may make or cause to be made any review that he or she considers necessary to monitor compliance with the code or the commitment, as the case may be. (3.1) If a payment card network operator has adopted a voluntary code of conduct or made a public commitment referred to in paragraph 3(3)(c), the Commissioner may make or cause to be made any review that he or she considers necessary to monitor compliance with the code or the commitment, as the case may be. (4) When acting under subsection (3), the Commissioner shall have due regard for the role of any department, agency or agent corporation of the Government of Canada or of a province or any organization that has a role in monitoring compliance by financial institutions with voluntary codes of conduct or commitments. (5) The Commissioner may carry on any activity that he or she considers necessary in furtherance of the objects described in subsection 3(2). (6) The Commissioner may also carry on any activity that he or she considers necessary in furtherance of the objects described in subsection 3(3). Previous Version"
+    },
+    {
+      "provision_ref": "s5.01",
+      "chapter": "Powers, Duties and Functions of Commissioner",
+      "section": "5.01",
+      "title": "Business plan",
+      "content": "5.01 (1) At least 30 days before the end of each fiscal year, the Commissioner shall submit a business plan to the Minister for approval. (2) The business plan shall include a statement, for at least the following financial year, of the Agency’s objectives, the strategies that it intends to use to achieve those objectives and its operating and capital budgets. Previous Version"
+    },
+    {
+      "provision_ref": "s5.1",
+      "chapter": "Powers, Duties and Functions of Commissioner",
+      "section": "5.1",
+      "title": "Minister’s direction",
+      "content": "5.1 (1) The Minister may give a written direction to the Agency if the Minister is of the opinion that it can strengthen consumer protection and the public’s confidence in that protection, foster safe and secure consumer-driven banking or enhance the financial literacy of Canadians. (2) After implementing the direction, the Commissioner shall notify the Minister without delay that the direction has been implemented. (3) Compliance by the Agency with a direction is deemed to be in its best interests. (4) The Statutory Instruments Act does not apply to a direction given under subsection (1). (5) The Minister shall cause a notice to be published in the Canada Gazette that a direction was given under subsection (1) as soon as is feasible after the direction is implemented. Previous Version"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Powers, Duties and Functions of Commissioner",
+      "section": "6",
+      "title": "Duties and functions generally",
+      "content": "6 (1) The Commissioner shall engage exclusively in the duties and functions of the Commissioner under section 5 and as deputy head of the Agency. (2) Despite subsection (1), the Commissioner may hold any other office under Her Majesty or perform any other duties for Her Majesty, but not for reward. Previous Version"
+    },
+    {
+      "provision_ref": "s6.1",
+      "chapter": "Powers, Duties and Functions of Commissioner",
+      "section": "6.1",
+      "title": "Other duties",
+      "content": "6.1 [Repealed, 2018, c. 27, s. 343] Previous Version"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Agreements",
+      "section": "7",
+      "title": "Agreements",
+      "content": "7 The Agency, in order to carry out its objects, may enter into an agreement or arrangement with a department or agency of the Government of Canada or of a province or with any other person or body in the name of Her Majesty in right of Canada or in its own name. An agreement or arrangement with a department or agency of a province must be made with the approval of the Governor in Council."
+    },
+    {
+      "provision_ref": "s7.1",
+      "chapter": "Agreements",
+      "section": "7.1",
+      "title": "Agreements — payment card network operators",
+      "content": "7.1 In order to carry out the objects described in paragraph 3(3)(c), the Agency, in the name of Her Majesty in right of Canada or in its own name, may enter into an agreement with a payment card network operator, including an agreement respecting the provision of information or the payment of fees."
+    },
+    {
+      "provision_ref": "s7.2",
+      "chapter": "Senior Deputy Commissioner",
+      "section": "7.2",
+      "title": "Appointment",
+      "content": "7.2 (1) The Commissioner must, with the Minister’s concurrence, appoint an officer to be called the Senior Deputy Commissioner for Consumer-Driven Banking who is to act under the instructions of the Commissioner and who is responsible for consumer-driven banking matters. (2) In the event of the absence or incapacity of the Senior Deputy Commissioner, or if the office of Senior Deputy Commissioner is vacant, the Commissioner may appoint a qualified person to exercise the powers and perform the duties and functions of the Senior Deputy Commissioner for a term of 90 days that may not be extended without the Minister’s approval."
+    },
+    {
+      "provision_ref": "s7.3",
+      "chapter": "Senior Deputy Commissioner",
+      "section": "7.3",
+      "title": "Role",
+      "content": "7.3 (1) Subject to the supervision referred to in paragraph 4(2)(a.1) of the Office of the Superintendent of Financial Institutions Act , the Senior Deputy Commissioner is responsible for the supervision of consumer-driven banking. (2) The Senior Deputy Commissioner may exercise the powers, and must perform the duties and functions, that relate to consumer-driven banking and that are conferred on them under this Act or any other Act of Parliament. (3) The Senior Deputy Commissioner may collect any personal information that the Senior Deputy Commissioner considers necessary in furtherance of the objects described in subsection 3(4)."
+    },
+    {
+      "provision_ref": "s7.4",
+      "chapter": "Senior Deputy Commissioner",
+      "section": "7.4",
+      "title": "Publication of information",
+      "content": "7.4 The Senior Deputy Commissioner must publish, in the prescribed time and manner, the prescribed information respecting consumer-driven banking."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Deputy Commissioners",
+      "section": "8",
+      "title": "Appointment of Deputy Commissioner",
+      "content": "8 The Commissioner may appoint one or more officers each to be called a Deputy Commissioner of the Financial Consumer Agency of Canada who shall act under the instructions of the Commissioner."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Exercise of Powers, Duties and Functions",
+      "section": "9",
+      "title": "Exercise by personnel",
+      "content": "9 Except as otherwise provided by the Commissioner and subject to any terms and conditions that may be specified by the Commissioner, a person who is an officer or employee of the Agency may exercise any of the powers and perform any of the duties and functions of the Commissioner under this Act if the person is appointed to serve in the Agency in a capacity appropriate to the exercise of the power or performance of the duty or function."
+    },
+    {
+      "provision_ref": "s9.1",
+      "chapter": "Exercise of Powers, Duties and Functions",
+      "section": "9.1",
+      "title": "Exercise by personnel — Senior Deputy Commissioner",
+      "content": "9.1 Except as otherwise provided by the Senior Deputy Commissioner and subject to any terms and conditions that they may specify, a person who is an employee of the Agency — other than a Deputy Commissioner — may exercise any of the powers and perform any of the duties and functions of the Senior Deputy Commissioner under this Act if the person is appointed to serve in the Agency in a capacity appropriate to the exercise of the power or performance of the duty or function."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Staff of Agency",
+      "section": "10",
+      "title": "Employees",
+      "content": "10 The employees that are necessary to enable the Commissioner and the Senior Deputy Commissioner to perform their duties are to be appointed in accordance with the Public Service Employment Act . Previous Version"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Staff of Agency",
+      "section": "11",
+      "title": "Responsibility for human resources management",
+      "content": "11 (1) In respect of persons appointed under sections 7.2, 8 and 10, the Commissioner is authorized to exercise the powers and perform the functions of the Treasury Board that relate to human resources management within the meaning of paragraphs 7(1)(b) and (e) and section 11.1 of the Financial Administration Act , and those of deputy heads under subsection 12(2) of that Act, as that subsection reads without regard to any terms and conditions that the Governor in Council may direct, including the determination of terms and conditions of employment and the responsibility for employer and employee relations. (2) The Commissioner may authorize any person employed in the federal public administration to exercise and perform, in any manner and subject to any terms and conditions that the Commissioner directs, any of the powers and functions of the Commissioner in relation to human resources management in the public service and may, from time to time as the Commissioner sees fit, revise or rescind and reinstate the authority so granted. (3) Any person authorized under subsection (2) to exercise and perform any of the powers and functions of the Commissioner may, subject to and in accordance with the authorization, authorize one or more persons under their jurisdiction or any other person to exercise or perform any such power or function. Previous Version"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Staff of Agency",
+      "section": "12",
+      "title": "Official Languages Act",
+      "content": "12 For greater certainty, the Official Languages Act applies to the Agency."
+    },
+    {
+      "provision_ref": "s12.1",
+      "chapter": "Advisory and Other Committees",
+      "section": "12.1",
+      "title": "Advisory and other committees",
+      "content": "12.1 (1) The Commissioner may, on the advice of the Senior Deputy Commissioner, establish advisory and other committees to advise or assist the Senior Deputy Commissioner on matters relating to consumer-driven banking and provide for their membership, duties, functions and operation. (2) Members of a committee may be paid for their services the remuneration and expenses that the Commissioner may determine, in accordance with any applicable Treasury Board directives."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Appropriation",
+      "section": "13",
+      "title": "Expenditures out of C.R.F.",
+      "content": "13 (1) Subject to subsection (2), the Minister may, in any fiscal year on terms and conditions — including the rate of interest, if any — that are determined by the Minister, advance amounts out of the Consolidated Revenue Fund to the Agency to permit it to defray its costs of operation. (2) In carrying out its responsibilities, the Agency may spend assessments and other revenues received through the conduct of its operations in the fiscal year in which they are received or, unless an appropriation Act provides otherwise, in the next fiscal year. The amount of those assessments or other revenues shall be paid out of the Consolidated Revenue Fund. (3) If the Agency carries on any activity in furtherance of an object described in paragraph 3(2)(d) or (e) or subsection 3(4) on the Minister’s recommendation, the Minister may on terms and conditions approved by the Treasury Board, in any fiscal year, make a payment out of the Consolidated Revenue Fund to the Agency for the purposes of the activity. Previous Version"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Conflict of Interest",
+      "section": "14",
+      "title": "Ownership",
+      "content": "14 (1) The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2) or a Deputy Commissioner must not hold, directly or indirectly, any interest or right in any shares of any financial institution, any bank holding company, any insurance holding company, the external complaints body or any other body corporate, however created, carrying on any business in Canada that is substantially similar to any business carried on by any financial institution or the external complaints body. (2) The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2) or a Deputy Commissioner must not (a) directly or indirectly hold any interest or right in membership shares of a federal credit union, within the meaning of section 2 of the Bank Act , in excess of the minimum number of membership shares of the federal credit union that is required for membership; or (b) exercise any right he or she has as a member of such a federal credit union, except any right that he or she has as a customer of the federal credit union. Previous Version"
+    },
+    {
+      "provision_ref": "s14.1",
+      "chapter": "Conflict of Interest",
+      "section": "14.1",
+      "title": "Ownership — payment card network operators",
+      "content": "14.1 The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2) or a Deputy Commissioner must not hold, directly or indirectly, any interest or right in any shares of a payment card network operator. Previous Version"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Conflict of Interest",
+      "section": "15",
+      "title": "Ownership — participating entities, etc.",
+      "content": "15 The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2) or a Deputy Commissioner must not hold, directly or indirectly, any interest or right in any shares of a participating entity or the technical standards body. Previous Version"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Conflict of Interest",
+      "section": "16",
+      "title": "No grant or gratuity to be made",
+      "content": "16 (1) The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2), a Deputy Commissioner and any person appointed under section 10 must not accept or receive, directly or indirectly, any grant or gratuity from a financial institution, a bank holding company, an insurance holding company or the external complaints body or from a director, officer or employee of any of them and a financial institution, a bank holding company, an insurance holding company and the external complaints body, and any director, officer or employee of any of them, must not make or give any such grant or gratuity. (1.1) The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2), a Deputy Commissioner and any person appointed under section 10 must not accept or receive, directly or indirectly, any grant or gratuity from a payment card network operator or any of its directors, officers or employees, and a payment card network operator or any of its directors, officers or employees must not make or give any such grant or gratuity. (1.2) The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2), a Deputy Commissioner and any person appointed under section 10 must not accept or receive, directly or indirectly, any grant or gratuity from a participating entity or the technical standards body, or any of their directors, officers or employees, and a participating entity or the technical standards body, or any of their directors, officers or employees, must not make or give any such grant or gratuity. (2) Every person, financial institution, bank holding company, insurance holding company, payment card network operator, participating entity or technical standards body that contravenes subsection (1), (1.1) or (1.2) is guilty of an offence and liable (a) on summary conviction, to a fine of not more than $2000 or to imprisonment for a term of not more than six months or to both; or (b) on conviction on indictment, to a fine of not more than $10,000 or to imprisonment for a term of not more than five years or to both. Previous Version"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Confidentiality",
+      "section": "17",
+      "title": "Confidential information",
+      "content": "17 (1) Subject to subsection (2) and except as otherwise provided in this Act, information regarding the business or affairs of a financial institution or of the external complaints body or regarding persons dealing with a financial institution or with the external complaints body that is obtained by the Commissioner or by any person acting under the Commissioner’s direction, in the course of the exercise or performance of powers, duties and functions referred to in subsections 5(1) and (2) and 5.1(2), and any information prepared from that information, is confidential and shall be treated accordingly. (2) If the Commissioner is satisfied that the information will be treated as confidential by the agency, body or person to whom it is disclosed, subsection (1) does not prevent the Commissioner from disclosing it (a) to any government agency or body that regulates or supervises financial institutions, for purposes related to that regulation or supervision; (b) to any other agency or body that regulates or supervises financial institutions, for purposes related to that regulation or supervision; (c) to the Canada Deposit Insurance Corporation or any compensation association designated by order of the Minister pursuant to subsection 449(1) or 591(1) of the Insurance Companies Act , for purposes related to its operation; and (d) to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Governor of the Bank of Canada or any officer of the Bank of Canada authorized in writing by the Governor of the Bank of Canada, for the purposes of policy analysis related to the regulation of financial institutions. (3) Subject to subsection (4) and except as otherwise provided in this Act, information regarding the business or affairs of a payment card network operator, or regarding persons dealing with one, that is obtained by the Commissioner or by a person acting under the direction of the Commissioner, in the course of the exercise or performance of powers, duties and functions under subsection 5(1.1) or (2.1), and any information prepared from that information, is confidential and shall be treated accordingly. (4) If the Commissioner is satisfied that the information will be treated as confidential by the person to whom it is disclosed, the Commissioner may disclose it to (a) the Deputy Minister of Finance, or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance, for the purpose of policy analysis related to the regulation of payment card network operators; or (b) the Governor of the Bank of Canada, or any officer of the Bank of Canada authorized in writing by the Governor of the Bank of Canada, for the purpose of carrying out the Bank of Canada’s objects under the Retail Payment Activities Act or, in relation to a provision of that Act that is not in force, for the purpose of planning to carry out those objects. (5) Subject to subsection (6) and except as otherwise provided in this Act, information regarding the business or affairs of a participating entity, the external complaints body or the technical standards body, or regarding persons dealing with a participating entity, the external complaints body or the technical standards body, that is obtained by the Senior Deputy Commissioner or by a person acting under the direction of the Senior Deputy Commissioner, in the course of the exercise or performance of powers, duties and functions under section 7.3, and any information prepared from that information, is confidential and must be treated accordingly. (6) If the Senior Deputy Commissioner is satisfied that the information will be treated as confidential by the agency, body or person to whom it is disclosed, subsection (5) does not prevent the Senior Deputy Commissioner from disclosing it (a) to any government agency or body that regulates or supervises financial institutions or participating entities, for purposes related to that regulation or supervision; (b) to any other agency or body that regulates or supervises financial institutions or participating entities, for purposes related to that regulation or supervision; (c) to the Governor of the Bank of Canada or any officer of the Bank of Canada authorized in writing by the Governor of the Bank of Canada, for purposes related to the regulation or supervision of participating entities; and (d) to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance, for the purposes of policy analysis related to the regulation of financial institutions or participating entities. Previous Version"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Assessments",
+      "section": "18",
+      "title": "Commissioner to ascertain expenses",
+      "content": "18 (1) The Commissioner shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of this Act and the consumer provisions — excluding the expenses incurred in connection with the objects described in subsection 3(3) — and the amounts of any prescribed categories of those expenses in relation to any prescribed group of financial institutions and the external complaints body. (1.1) After the publication of a notice under subsection 5.1(5), the Commissioner shall ascertain the amount of expenses that the Agency incurred in complying with the direction. (2) The amounts ascertained under subsections (1) and (1.1) are final and conclusive for the purposes of this section. (3) As soon as possible after ascertaining the amounts under subsections (1) and (1.1), the Commissioner shall assess a portion of the total amount of expenses against each financial institution and the external complaints body to the extent and in the manner that the Governor in Council may, by regulation, prescribe. (3.1) No assessment is to be made in respect of (a) a company to which the Insurance Companies Act applies that was exempt from the application of paragraphs 165(2)(f) and (g) and sections 479 to 489.2 of that Act during the entire fiscal year to which the assessment relates; or (b) a foreign company to which that Act applies that was exempt from the application of sections 598 to 607.1 of that Act during the entire fiscal year to which the assessment relates. (4) The Commissioner may, during each fiscal year, prepare an interim assessment against any financial institution or the external complaints body. (4.1) The Commissioner may, during a fiscal year, impose an assessment against any financial institution to cover some or all of the expenses related to initiatives to strengthen the financial literacy of Canadians. (5) Every assessment and interim assessment is final and conclusive and binding on the financial institution against which it is made or the external complaints body, as the case may be. (5.1) The Commissioner shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year in connection with the objects described in paragraphs 3(3)(a), (b) and (d). (5.2) The amount ascertained under subsection (5.1) is final and conclusive for the purposes of this section. (5.3) As soon as possible after ascertaining the amount under subsection (5.1), the Commissioner shall assess a portion of the total amount of expenses against each payment card network operator to the extent and in the manner that may be prescribed. (5.4) The Commissioner may, during each fiscal year, prepare an interim assessment against any payment card network operator. (5.5) Every assessment and interim assessment is final and conclusive and binding on the payment card network operator against which it is made. (6) Every assessment and interim assessment constitutes a debt due to Her Majesty, is immediately payable and may be recovered as a debt in any court of competent jurisdiction. (7) Interest may be charged on the unpaid amount of an assessment or interim assessment at a rate equal to the rate prescribed under the Income Tax Act for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act in effect from time to time plus 2%. Previous Version"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Violations",
+      "section": "19",
+      "title": "Regulations",
+      "content": "19 (1) The Governor in Council may make regulations (a) designating, as a violation that may be proceeded with under sections 20 to 31, the contravention of a specified consumer provision, or the non-compliance with (i) a compliance agreement entered into under an Act listed in Schedule 1, and (ii) terms and conditions, undertakings or directions referred to in subparagraph 3(2)(a)(ii). (a.1) designating, as a violation that may be proceeded with under sections 20 to 31, the contravention of a specified provision of the Payment Card Networks Act or its regulations; (a.2) designating, as a violation that may be proceeded with under sections 20 to 31, the non-compliance with an agreement entered into under section 7.1; (b) fixing, in accordance with subsection (2), a penalty, or a range of penalties, in respect of any violation; (c) respecting the service of documents required or authorized to be served under sections 20 to 31, including the manner and proof of service and the circumstances under which documents are deemed to be served; (c.1) prescribing the circumstances in which the Commissioner shall not make public, under subsection 31(1), the name of the person who committed the violation; and (d) generally, for carrying out the purposes and provisions of this section and sections 20 to 31. (2) The maximum penalty for a violation is $1,000,000 in the case of a violation that is committed by a natural person, and $10,000,000 in the case of a violation that is committed by a financial institution or a payment card network operator. Previous Version"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Violations",
+      "section": "20",
+      "title": "Criteria for penalty",
+      "content": "20 Except if a penalty is fixed under paragraph 19(1)(b), the amount of a penalty shall, in each case, be determined taking into account (a) the degree of intention or negligence on the part of the person who committed the violation; (b) the harm done by the violation; (c) the duration of the violation; (d) the ability of the person who committed the violation to pay the penalty; (e) the history of the person who committed the violation with respect to any prior violation or conviction under an Act listed in Schedule 1 within the five-year period immediately before the violation; and (f) any other criteria that may be prescribed. Previous Version"
+    },
+    {
+      "provision_ref": "s20.1",
+      "chapter": "Violations",
+      "section": "20.1",
+      "title": "Purpose of penalty",
+      "content": "20.1 The purpose of the penalty is to promote compliance with the consumer provisions, compliance agreements that have been entered into under an Act listed in Schedule 1, any terms and conditions, undertakings or directions referred to in subparagraph 3(2)(a)(ii), the provisions of the Payment Card Networks Act or its regulations, and agreements entered into under section 7.1, and not to punish."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Violations",
+      "section": "21",
+      "title": "How act or omission may be proceeded with",
+      "content": "21 If a contravention or non-compliance that is designated under paragraph 19(1)(a) or (a.1) can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other. Previous Version"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Proceedings",
+      "section": "22",
+      "title": "Commission of violation",
+      "content": "22 (1) Every contravention or non-compliance that is designated under paragraphs 19(1)(a) to (a.2) constitutes a violation and the person that commits the violation is liable to a penalty determined in accordance with sections 19 and 20. (2) If the Commissioner believes on reasonable grounds that a person has committed a violation, he or she may issue, and shall cause to be served on the person, a notice of violation. (3) A notice of violation shall name the person believed to have committed a violation, identify the violation and set out (a) the penalty that the Commissioner proposes to impose; (b) the right of the person, within 30 days after the notice is served, or within any longer period that the Commissioner specifies, to pay the penalty or to make representations to the Commissioner with respect to the violation and the proposed penalty, and the manner for doing so; and (c) the fact that, if the person does not pay the penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the Commissioner may impose a penalty in respect of it. Previous Version"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Determination of Responsibility and Penalty",
+      "section": "23",
+      "title": "Payment of penalty",
+      "content": "23 (1) If the person pays the penalty proposed in the notice of violation, the person is deemed to have committed the violation and proceedings in respect of it are ended. (2) If the person makes representations in accordance with the notice, the Commissioner shall decide, on a balance of probabilities, whether the person committed the violation and, if so, may, subject to any regulations made under paragraph 19(1)(b), impose the penalty proposed, a lesser penalty or no penalty. (3) A person who neither pays the penalty nor makes representations in accordance with the notice is deemed to have committed the violation and the Commissioner may, subject to any regulations made under paragraph 19(1)(b), impose the penalty proposed, a lesser penalty or no penalty. (4) The Commissioner shall cause notice of any decision made under subsection (2) or (3) to be issued and served on the person together with notice of the right of appeal under section 24."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Appeal to Federal Court",
+      "section": "24",
+      "title": "Right of appeal",
+      "content": "24 (1) A person on whom a notice under subsection 23(4) is served may, within 30 days after the notice is served, or within any longer period that the Court allows, appeal the decision to the Federal Court. (2) In an appeal, the Court shall take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person of confidential information referred to in subsection 17(1) or (3). (3) On an appeal, the Court may confirm, set aside or, subject to any regulations made under paragraph 19(1)(b), vary the decision of the Commissioner. Previous Version"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Enforcement",
+      "section": "25",
+      "title": "Debts to Her Majesty",
+      "content": "25 (1) A penalty constitutes a debt due to Her Majesty in right of Canada that may be recovered as such in the Federal Court. (2) No proceedings to recover a debt referred to in subsection (1) may be commenced later than five years after the debt became payable. (3) A penalty paid or recovered under sections 19 to 24, this section and sections 26 to 31 is payable to and shall be remitted to the Receiver General."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Enforcement",
+      "section": "26",
+      "title": "Certificate of default",
+      "content": "26 (1) The unpaid amount of any debt referred to in subsection 25(1) may be certified by the Commissioner. (2) Registration in the Federal Court of a certificate made under subsection (1) has the same effect as a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Rules about Violations",
+      "section": "27",
+      "title": "Violations not offences",
+      "content": "27 For greater certainty, a violation is not an offence and, accordingly, section 126 of the Criminal Code does not apply in respect of one."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Rules about Violations",
+      "section": "28",
+      "title": "Due diligence available",
+      "content": "28 (1) Due diligence is a defence in a proceeding in relation to a violation. (2) Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence in relation to a consumer provision applies in respect of a violation to the extent that it is not inconsistent with this Act. (3) Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence in relation to a provision of the Payment Card Networks Act applies in respect of a violation to the extent that it is not inconsistent with this Act. Previous Version"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "General Provisions",
+      "section": "29",
+      "title": "Evidence",
+      "content": "29 In a proceeding in respect of a violation or a prosecution for an offence, a notice purporting to be issued under subsection 22(2) or 23(4) or a certificate purporting to be made under subsection 26(1) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "General Provisions",
+      "section": "30",
+      "title": "Time limit",
+      "content": "30 (1) No proceedings in respect of a violation may be commenced later than two years after the subject-matter of the proceedings became known to the Commissioner. (2) A document appearing to have been issued by the Commissioner, certifying the day on which the subject-matter of any proceedings became known to the Commissioner, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "General Provisions",
+      "section": "31",
+      "title": "Publication",
+      "content": "31 (1) Subject to any regulations, the Commissioner shall make public the nature of a violation, the name of the person who committed it and the amount of the penalty imposed. (2) In making public the nature of a violation, the Commissioner may include the reasons for his or her decision, including the relevant facts, analysis and considerations that formed part of the decision. Previous Version"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Regulations",
+      "section": "32",
+      "title": "Regulations",
+      "content": "32 The Governor in Council may make regulations prescribing (a) anything that is required or authorized by this Act to be prescribed; and (b) the way in which anything that is required or authorized by this Act to be prescribed shall be determined."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "No Liability",
+      "section": "33",
+      "title": "No liability",
+      "content": "33 No action lies against His Majesty, the Minister, the Commissioner, the Senior Deputy Commissioner, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties that under any Act of Parliament are intended or authorized to be executed or performed. Previous Version"
+    },
+    {
+      "provision_ref": "s33.1",
+      "chapter": "Immunities",
+      "section": "33.1",
+      "title": "Not compellable",
+      "content": "33.1 The Commissioner, the Senior Deputy Commissioner, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the instructions of the Commissioner is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or an Act listed in Schedule 1. Previous Version"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Annual Report",
+      "section": "34",
+      "title": "Annual report",
+      "content": "34 The Minister shall cause to be laid before each House of Parliament, not later than the fifth sitting day of that House after September 30 next after the end of each fiscal year, a report showing the Agency’s operations for that year and describing (a) in aggregate form, its conclusions on the compliance, in that year, of financial institutions and the external complaints body with the consumer provisions applicable to them; and (b) in aggregate form, its conclusions on the compliance, in that year, of payment card network operators with the provisions of the Payment Card Networks Act and its regulations; and (c) its collaboration with stakeholders, and the coordination of its activities with those of stakeholders, to contribute to and support initiatives to strengthen the financial literacy of Canadians. Previous Version"
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "Amendments to Acts in Relation to Financial Institutions",
+      "section": "141",
+      "title": "",
+      "content": "141 (1) [Amendment] (2) [Repealed, 2007, c. 6, s. 437] (3) [Amendment] 142 to 571 [Amendments]"
+    },
+    {
+      "provision_ref": "s593",
+      "chapter": "Coming into Force",
+      "section": "593",
+      "title": "Coming into force",
+      "content": "593 The provisions of this Act, other than subsections 120(2), 122(2), 155(2), 157(2), 424(2) and 444(2), section 473 and subsections 545(2) and 547(2), or the provisions of any Act enacted or amended by this Act, come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Subsections 120(2), 122(2), 155(2), 157(2), 424(2) and 444(2), section 473 and subsections 545(2) and 547(2) in force on assent June 14, 2001; sections 1 to 106 and 108 to 119, subsections 120(1) and (3), section 121, subsection 122(1), sections 123 to 140, subsections 141(1) and (3), sections 142 to 154, subsections 155(1) and (3), section 156, subsection 157(1), sections 158 to 222, subsections 223(1), (4) and (5) and sections 224 to 238, section 28 and the heading before section 28, as enacted by section 239, sections 241 to 310, sections 382 and 382.1, as enacted by section 311, sections 312 to 417 and 419 to 423, subsection 424(1), sections 425 to 443, subsection 444(1), sections 445 to 472, 475 to 533 and 535 to 544, subsections 545(1) and (3), section 546, subsection 547(1) and sections 548 to 592 and 594 in force October 24, 2001, see SI/2001-102; section 27 and the heading before section 27, as enacted by section 239, in force June 21, 2002, see SI/2002-99; section 107, sections 383 to 383.2, as enacted by section 311 and sections 418 and 534 in force January 1, 2004, see SI/2003-181; section 474 in force December 1, 2005, see SI/2005-116.]"
+    },
+    {
+      "provision_ref": "s594",
+      "chapter": "Coming into Force",
+      "section": "594",
+      "title": "Authority to substitute actual date",
+      "content": "594 The Governor in Council may, by regulation, amend any provision of the Bank Act , the Cooperative Credit Associations Act , the Insurance Companies Act or the Trust and Loan Companies Act that contains a reference to the coming into force of any provision of any of those Acts, or a reference to the coming into force of any provision of this Act, by replacing that reference with a reference to the actual date of the coming into force of the provision."
+    },
+    {
+      "provision_ref": "sched-schedule1",
+      "chapter": "SCHEDULE 1",
+      "section": "SCHEDULE 1",
+      "title": "SCHEDULE 1",
+      "content": "SCHEDULE 1 (Subsections 3(2) and (4), 5(1) and 19(1) and sections 20, 20.1 and 33.1) Bank Act Loi sur les banques Consumer-Driven Banking Act Loi sur les services bancaires axés sur les consommateurs Cooperative Credit Associations Act Loi sur les associations coopératives de crédit Green Shield Canada Act Loi sur l’association personnalisée le Bouclier vert du Canada Insurance Companies Act Loi sur les sociétés d’assurances Payment Card Networks Act Loi sur les réseaux de cartes de paiement Trust and Loan Companies Act Loi sur les sociétés de fiducie et de prêt Previous Version"
+    },
+    {
+      "provision_ref": "sched-schedules2and3",
+      "chapter": "SCHEDULES 2 AND 3",
+      "section": "SCHEDULES 2 AND 3",
+      "title": "SCHEDULES 2 AND 3",
+      "content": "SCHEDULES 2 AND 3 [Amendments]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agency",
+      "definition": "Agency means the Financial Consumer Agency of Canada established under section 3. ( Agence )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bank holding company",
+      "definition": "bank holding company means a bank holding company as defined in section 2 of the Bank Act ; ( société de portefeuille bancaire )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "Commissioner means the Commissioner of the Agency appointed under section 4. ( commissaire )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer provision",
+      "definition": "consumer provision means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Commissioner",
+      "definition": "Deputy Commissioner means a Deputy Commissioner appointed under section 8. ( commissaire adjoint )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "external complaints body",
+      "definition": "external complaints body has the same meaning as in section 2 of the Bank Act . ( organisme externe de traitement des plaintes )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial institution",
+      "definition": "financial institution means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Financial Literacy Leader",
+      "definition": "Financial Literacy Leader [Repealed, 2018, c. 27, s. 336]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "governing statute",
+      "definition": "governing statute means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "insurance holding company",
+      "definition": "insurance holding company means an insurance holding company as defined in subsection 2(1) of the Insurance Companies Act . ( société de portefeuille d’assurances )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister means the Minister of Finance. ( ministre )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "participating entity",
+      "definition": "participating entity means a participating entity under the Consumer-Driven Banking Act . ( entité participante )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "payment card network operator",
+      "definition": "payment card network operator means an entity, as defined in section 3 of the Payment Card Networks Act , that operates or manages a payment card network, as defined in that section, including by establishing standards and procedures for the acceptance, transmission or processing of payment transactions and by facilitating the electronic transfer of information and funds. ( exploitant de réseau de cartes de paiement )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "penalty",
+      "definition": "penalty means an administrative monetary penalty. ( pénalité )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed means prescribed by regulation. ( Version anglaise seulement )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Senior Deputy Commissioner",
+      "definition": "Senior Deputy Commissioner means the Senior Deputy Commissioner for Consumer-Driven Banking appointed under subsection 7.2(1). ( commissaire adjoint principal )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "technical standards body",
+      "definition": "technical standards body means the technical standards body designated under subsection 8(1) of the Consumer-Driven Banking Act . ( organisme de normalisation technique )",
+      "source_provision": "s2"
+    }
+  ]
+}

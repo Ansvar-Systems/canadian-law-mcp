@@ -1,0 +1,80 @@
+{
+  "id": "s-15-8",
+  "type": "statute",
+  "title": "Sports Pool and Loto Canada Winding-Up Act",
+  "title_en": "Sports Pool and Loto Canada Winding-Up Act",
+  "short_name": "Sports Pool and Loto Canada Winding-U...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/S-15.8/",
+  "description": "Sports Pool and Loto Canada Winding-Up Act (Sports Pool and Loto Canada Winding-U...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Sports Pool and Loto Canada Winding-Up Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 In this Act, Corporation Corporation means the Canadian Sports Pool Corporation established by section 3 of the Athletic Contests and Events Pools Act ; ( Société ) Her Majesty Her Majesty means Her Majesty in right of Canada; ( Sa Majesté ) Minister Minister means the Minister of Health. ( ministre )"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Canadian Sports Pool Corporation",
+      "section": "3",
+      "title": "Corporation ceases to exist",
+      "content": "3 The Corporation hereby ceases to exist."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Canadian Sports Pool Corporation",
+      "section": "4",
+      "title": "Transfer of property and obligations of the Corporation",
+      "content": "4 (1) All rights and property held by or in the name of or in trust for the Corporation and all obligations and liabilities of the Corporation are deemed to be rights, property, obligations and liabilities of Her Majesty. (2) The Minister may do and perform all acts and things necessary for or incidental to closing out the affairs of the Corporation."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Canadian Sports Pool Corporation",
+      "section": "5",
+      "title": "Repeal",
+      "content": "5 The Athletic Contests and Events Pools Act is repealed."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Loto Canada Inc.",
+      "section": "6",
+      "title": "Transfer of property and obligations of Loto Canada Inc.",
+      "content": "6 (1) All rights and property held by or in the name of or in trust for Loto Canada Inc. and all obligations and liabilities of Loto Canada Inc. are deemed to be rights, property, obligations and liabilities of Her Majesty. (2) The Minister may do and perform all acts and things necessary for or incidental to procuring the dissolution and closing out of the affairs of Loto Canada Inc."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Legal Proceedings",
+      "section": "7",
+      "title": "Legal proceedings",
+      "content": "7 (1) Any action, suit or other legal proceeding in respect of an obligation or liability incurred by the Corporation or Loto Canada Inc., or incurred by the Minister in closing out the affairs of the Corporation or Loto Canada Inc., may be brought or taken against Her Majesty in any court that would have had jurisdiction if the action, suit or other legal proceeding had been brought or taken against the Corporation or Loto Canada Inc., as the case may be. (2) Any action, suit or other legal proceeding pending in any court against the Corporation or Loto Canada Inc. may be continued against Her Majesty to the same extent as it could, but for the coming into force of this Act, have been continued against the Corporation or Loto Canada Inc., as the case may be. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Corporation",
+      "definition": "Corporation means the Canadian Sports Pool Corporation established by section 3 of the Athletic Contests and Events Pools Act ; ( Société )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Her Majesty",
+      "definition": "Her Majesty means Her Majesty in right of Canada; ( Sa Majesté )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister means the Minister of Health. ( ministre )",
+      "source_provision": "s2"
+    }
+  ]
+}

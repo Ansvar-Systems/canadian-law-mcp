@@ -1,0 +1,3319 @@
+{
+  "id": "b-9-858",
+  "type": "statute",
+  "title": "Budget Implementation Act, 2009",
+  "title_en": "Budget Implementation Act, 2009",
+  "short_name": "Budget Implementation Act, 2009",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/B-9.858/",
+  "description": "Budget Implementation Act, 2009 (Budget Implementation Act, 2009). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Budget Implementation Act, 2009 ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Income Tax Act",
+      "section": "2",
+      "title": "Short title",
+      "content": "2 [Amendment]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Income Tax Act",
+      "section": "3",
+      "title": "Short title",
+      "content": "3 [Amendment]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Income Tax Act",
+      "section": "4",
+      "title": "Short title",
+      "content": "4 [Amendments]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Income Tax Act",
+      "section": "5",
+      "title": "Short title",
+      "content": "5 [Amendment]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Income Tax Act",
+      "section": "6",
+      "title": "Short title",
+      "content": "6 [Amendment]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Income Tax Act",
+      "section": "7",
+      "title": "Short title",
+      "content": "7 [Amendment]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Income Tax Act",
+      "section": "8",
+      "title": "Short title",
+      "content": "8 [Amendment]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Income Tax Act",
+      "section": "9",
+      "title": "Short title",
+      "content": "9 [Amendment]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Income Tax Act",
+      "section": "10",
+      "title": "Short title",
+      "content": "10 [Amendments]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Income Tax Act",
+      "section": "11",
+      "title": "Short title",
+      "content": "11 [Amendments]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Income Tax Act",
+      "section": "12",
+      "title": "",
+      "content": "12 [Amendments]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Income Tax Act",
+      "section": "13",
+      "title": "",
+      "content": "13 [Amendments]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Income Tax Act",
+      "section": "14",
+      "title": "",
+      "content": "14 [Amendment]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Income Tax Act",
+      "section": "15",
+      "title": "",
+      "content": "15 [Amendment]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Income Tax Act",
+      "section": "16",
+      "title": "",
+      "content": "16 [Amendment]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Income Tax Act",
+      "section": "17",
+      "title": "",
+      "content": "17 [Amendment]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Income Tax Act",
+      "section": "18",
+      "title": "",
+      "content": "18 [Amendment]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Income Tax Act",
+      "section": "19",
+      "title": "",
+      "content": "19 [Amendments]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Income Tax Act",
+      "section": "20",
+      "title": "",
+      "content": "20 [Amendment]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Income Tax Act",
+      "section": "21",
+      "title": "",
+      "content": "21 [Amendment]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Income Tax Act",
+      "section": "22",
+      "title": "",
+      "content": "22 [Amendments]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Income Tax Act",
+      "section": "23",
+      "title": "",
+      "content": "23 [Amendment]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Income Tax Act",
+      "section": "24",
+      "title": "",
+      "content": "24 [Amendment]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Income Tax Act",
+      "section": "25",
+      "title": "",
+      "content": "25 [Amendments]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Income Tax Act",
+      "section": "26",
+      "title": "",
+      "content": "26 [Amendments]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Income Tax Act",
+      "section": "27",
+      "title": "",
+      "content": "27 [Amendment]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Income Tax Act",
+      "section": "28",
+      "title": "",
+      "content": "28 [Amendment]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Income Tax Act",
+      "section": "29",
+      "title": "",
+      "content": "29 [Amendments]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Income Tax Act",
+      "section": "30",
+      "title": "",
+      "content": "30 [Amendments]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Income Tax Act",
+      "section": "31",
+      "title": "",
+      "content": "31 [Amendment]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Income Tax Act",
+      "section": "32",
+      "title": "",
+      "content": "32 [Amendment]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Income Tax Act",
+      "section": "33",
+      "title": "",
+      "content": "33 [Amendment]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Income Tax Act",
+      "section": "34",
+      "title": "",
+      "content": "34 [Amendments]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Income Tax Act",
+      "section": "35",
+      "title": "",
+      "content": "35 [Amendment]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Income Tax Act",
+      "section": "36",
+      "title": "",
+      "content": "36 [Amendments]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Income Tax Act",
+      "section": "37",
+      "title": "",
+      "content": "37 [Amendment]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Income Tax Act",
+      "section": "38",
+      "title": "",
+      "content": "38 [Amendment]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Income Tax Act",
+      "section": "39",
+      "title": "",
+      "content": "39 [Amendments]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Income Tax Act",
+      "section": "40",
+      "title": "",
+      "content": "40 [Amendments]"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Income Tax Act",
+      "section": "41",
+      "title": "",
+      "content": "41 [Amendments]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Income Tax Act",
+      "section": "42",
+      "title": "",
+      "content": "42 [Amendment]"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Income Tax Act",
+      "section": "43",
+      "title": "",
+      "content": "43 [Amendment]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Income Tax Act",
+      "section": "44",
+      "title": "",
+      "content": "44 [Amendment]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Income Tax Act",
+      "section": "45",
+      "title": "",
+      "content": "45 [Amendments]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Income Tax Act",
+      "section": "46",
+      "title": "",
+      "content": "46 [Amendments]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Income Tax Act",
+      "section": "47",
+      "title": "",
+      "content": "47 [Amendment]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Income Tax Act",
+      "section": "48",
+      "title": "",
+      "content": "48 [Amendment]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Income Tax Act",
+      "section": "49",
+      "title": "",
+      "content": "49 [Amendments]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Income Tax Act",
+      "section": "50",
+      "title": "",
+      "content": "50 [Amendment]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Income Tax Act",
+      "section": "51",
+      "title": "",
+      "content": "51 [Amendments]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Income Tax Act",
+      "section": "52",
+      "title": "",
+      "content": "52 [Amendments]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Income Tax Act",
+      "section": "53",
+      "title": "",
+      "content": "53 [Amendments]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Income Tax Act",
+      "section": "54",
+      "title": "",
+      "content": "54 [Amendments]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Income Tax Act",
+      "section": "55",
+      "title": "",
+      "content": "55 [Amendments]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Income Tax Act",
+      "section": "56",
+      "title": "",
+      "content": "56 [Amendments]"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Income Tax Act",
+      "section": "57",
+      "title": "",
+      "content": "57 [Amendment]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Income Tax Act",
+      "section": "58",
+      "title": "",
+      "content": "58 [Amendments]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Income Tax Act",
+      "section": "59",
+      "title": "",
+      "content": "59 [Amendment]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Income Tax Act",
+      "section": "60",
+      "title": "",
+      "content": "60 [Amendments]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Income Tax Act",
+      "section": "61",
+      "title": "",
+      "content": "61 [Amendment]"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Income Tax Act",
+      "section": "62",
+      "title": "",
+      "content": "62 [Amendments]"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Income Tax Act",
+      "section": "63",
+      "title": "",
+      "content": "63 [Amendment]"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Income Tax Act",
+      "section": "64",
+      "title": "",
+      "content": "64 [Amendment]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Income Tax Act",
+      "section": "65",
+      "title": "",
+      "content": "65 [Amendment]"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Income Tax Act",
+      "section": "66",
+      "title": "",
+      "content": "66 [Amendment]"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Income Tax Act",
+      "section": "67",
+      "title": "",
+      "content": "67 [Amendment]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Income Tax Act",
+      "section": "68",
+      "title": "",
+      "content": "68 [Amendments]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Income Tax Act",
+      "section": "69",
+      "title": "",
+      "content": "69 [Amendment]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Income Tax Act",
+      "section": "70",
+      "title": "",
+      "content": "70 [Amendments]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Income Tax Act",
+      "section": "71",
+      "title": "",
+      "content": "71 [Amendment]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Income Tax Act",
+      "section": "72",
+      "title": "",
+      "content": "72 [Amendment]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Income Tax Act",
+      "section": "73",
+      "title": "",
+      "content": "73 [Amendment]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Income Tax Act",
+      "section": "74",
+      "title": "",
+      "content": "74 [Amendment]"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Income Tax Act",
+      "section": "75",
+      "title": "",
+      "content": "75 [Amendments]"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Income Tax Act",
+      "section": "76",
+      "title": "",
+      "content": "76 [Amendments]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Income Tax Act",
+      "section": "77",
+      "title": "",
+      "content": "77 [Amendment]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Income Tax Act",
+      "section": "78",
+      "title": "",
+      "content": "78 [Amendments]"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Income Tax Act",
+      "section": "79",
+      "title": "",
+      "content": "79 [Amendment]"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Income Tax Act",
+      "section": "80",
+      "title": "",
+      "content": "80 [Amendment]"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Income Tax Act",
+      "section": "81",
+      "title": "",
+      "content": "81 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Budget Implementation Act, 2008",
+      "section": "82",
+      "title": "",
+      "content": "82 [Amendment]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Income Tax Regulations",
+      "section": "83",
+      "title": "",
+      "content": "83 [Amendment]"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Income Tax Regulations",
+      "section": "84",
+      "title": "",
+      "content": "84 [Amendment]"
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Income Tax Regulations",
+      "section": "85",
+      "title": "",
+      "content": "85 [Amendment]"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Income Tax Regulations",
+      "section": "86",
+      "title": "",
+      "content": "86 [Amendment]"
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Income Tax Regulations",
+      "section": "87",
+      "title": "",
+      "content": "87 [Amendment]"
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Income Tax Regulations",
+      "section": "88",
+      "title": "",
+      "content": "88 [Amendment]"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Income Tax Regulations",
+      "section": "89",
+      "title": "",
+      "content": "89 [Amendment]"
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Income Tax Regulations",
+      "section": "90",
+      "title": "",
+      "content": "90 [Amendment]"
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Income Tax Regulations",
+      "section": "91",
+      "title": "",
+      "content": "91 [Amendments]"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Income Tax Regulations",
+      "section": "92",
+      "title": "",
+      "content": "92 [Amendment]"
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Income Tax Regulations",
+      "section": "93",
+      "title": "",
+      "content": "93 [Amendment]"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Income Tax Regulations",
+      "section": "94",
+      "title": "",
+      "content": "94 [Amendment]"
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Income Tax Regulations",
+      "section": "95",
+      "title": "",
+      "content": "95 [Amendment]"
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Income Tax Regulations",
+      "section": "96",
+      "title": "",
+      "content": "96 [Amendment]"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Income Tax Regulations",
+      "section": "97",
+      "title": "",
+      "content": "97 [Amendment]"
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Income Tax Regulations",
+      "section": "98",
+      "title": "",
+      "content": "98 [Amendment]"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Income Tax Regulations",
+      "section": "99",
+      "title": "",
+      "content": "99 [Amendments]"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Income Tax Regulations",
+      "section": "100",
+      "title": "",
+      "content": "100 [Amendment]"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Income Tax Regulations",
+      "section": "101",
+      "title": "",
+      "content": "101 [Amendments]"
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Income Tax Regulations",
+      "section": "102",
+      "title": "",
+      "content": "102 [Amendment]"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Income Tax Regulations",
+      "section": "103",
+      "title": "",
+      "content": "103 [Amendment]"
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Income Tax Regulations",
+      "section": "104",
+      "title": "",
+      "content": "104 [Amendment]"
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Income Tax Regulations",
+      "section": "105",
+      "title": "",
+      "content": "105 [Amendments]"
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Income Tax Regulations",
+      "section": "106",
+      "title": "",
+      "content": "106 [Amendments]"
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Income Tax Regulations",
+      "section": "107",
+      "title": "",
+      "content": "107 [Amendment]"
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Income Tax Regulations",
+      "section": "108",
+      "title": "",
+      "content": "108 [Amendment]"
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Income Tax Regulations",
+      "section": "109",
+      "title": "",
+      "content": "109 [Amendment]"
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Income Tax Regulations",
+      "section": "110",
+      "title": "",
+      "content": "110 [Amendment]"
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Income Tax Regulations",
+      "section": "111",
+      "title": "",
+      "content": "111 [Amendment]"
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Income Tax Regulations",
+      "section": "112",
+      "title": "",
+      "content": "112 [Amendments]"
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Income Tax Regulations",
+      "section": "113",
+      "title": "",
+      "content": "113 [Amendment]"
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Income Tax Regulations",
+      "section": "114",
+      "title": "",
+      "content": "114 [Amendment]"
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Income Tax Regulations",
+      "section": "115",
+      "title": "",
+      "content": "115 [Amendment]"
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Income Tax Regulations",
+      "section": "116",
+      "title": "",
+      "content": "116 [Amendment]"
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Income Tax Regulations",
+      "section": "117",
+      "title": "",
+      "content": "117 [Amendments]"
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Income Tax Regulations",
+      "section": "118",
+      "title": "",
+      "content": "118 [Amendments]"
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Excise Act, 2001",
+      "section": "119",
+      "title": "",
+      "content": "119 [Amendment]"
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Excise Act, 2001",
+      "section": "120",
+      "title": "",
+      "content": "120 [Amendments]"
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Excise Tax Act",
+      "section": "121",
+      "title": "",
+      "content": "121 [Amendments]"
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Customs Tariff",
+      "section": "122",
+      "title": "",
+      "content": "122 [Amendment]"
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Customs Tariff",
+      "section": "123",
+      "title": "",
+      "content": "123 [Amendment]"
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "Customs Tariff",
+      "section": "124",
+      "title": "",
+      "content": "124 [Amendment]"
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "Customs Tariff",
+      "section": "125",
+      "title": "",
+      "content": "125 [Amendment]"
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "Customs Tariff",
+      "section": "126",
+      "title": "",
+      "content": "126 [Amendment]"
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "Customs Tariff",
+      "section": "127",
+      "title": "",
+      "content": "127 [Amendment]"
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "Customs Tariff",
+      "section": "128",
+      "title": "",
+      "content": "128 [Amendment]"
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "Customs Tariff",
+      "section": "129",
+      "title": "",
+      "content": "129 [Amendment]"
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "Customs Tariff",
+      "section": "130",
+      "title": "",
+      "content": "130 [Amendment]"
+    },
+    {
+      "provision_ref": "s131",
+      "chapter": "Customs Tariff",
+      "section": "131",
+      "title": "",
+      "content": "131 [Amendment]"
+    },
+    {
+      "provision_ref": "s132",
+      "chapter": "Customs Tariff",
+      "section": "132",
+      "title": "",
+      "content": "132 [Amendment]"
+    },
+    {
+      "provision_ref": "s133",
+      "chapter": "Customs Tariff",
+      "section": "133",
+      "title": "",
+      "content": "133 [Amendment]"
+    },
+    {
+      "provision_ref": "s134",
+      "chapter": "Customs Tariff",
+      "section": "134",
+      "title": "",
+      "content": "134 [Amendment]"
+    },
+    {
+      "provision_ref": "s135",
+      "chapter": "Customs Tariff",
+      "section": "135",
+      "title": "",
+      "content": "135 [Amendment]"
+    },
+    {
+      "provision_ref": "s136",
+      "chapter": "Customs Tariff",
+      "section": "136",
+      "title": "",
+      "content": "136 [Amendment]"
+    },
+    {
+      "provision_ref": "s137",
+      "chapter": "Customs Tariff",
+      "section": "137",
+      "title": "",
+      "content": "137 [Amendment]"
+    },
+    {
+      "provision_ref": "s138",
+      "chapter": "Customs Tariff",
+      "section": "138",
+      "title": "",
+      "content": "138 [Amendment]"
+    },
+    {
+      "provision_ref": "s139",
+      "chapter": "Customs Tariff",
+      "section": "139",
+      "title": "",
+      "content": "139 [Amendment]"
+    },
+    {
+      "provision_ref": "s140",
+      "chapter": "Customs Tariff",
+      "section": "140",
+      "title": "",
+      "content": "140 [Amendment]"
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "Customs Tariff",
+      "section": "141",
+      "title": "",
+      "content": "141 [Amendment]"
+    },
+    {
+      "provision_ref": "s142",
+      "chapter": "Customs Tariff",
+      "section": "142",
+      "title": "",
+      "content": "142 [Amendment]"
+    },
+    {
+      "provision_ref": "s143",
+      "chapter": "Customs Tariff",
+      "section": "143",
+      "title": "",
+      "content": "143 [Amendment]"
+    },
+    {
+      "provision_ref": "s144",
+      "chapter": "Customs Tariff",
+      "section": "144",
+      "title": "",
+      "content": "144 [Amendment]"
+    },
+    {
+      "provision_ref": "s145",
+      "chapter": "Customs Tariff",
+      "section": "145",
+      "title": "",
+      "content": "145 [Amendment]"
+    },
+    {
+      "provision_ref": "s146",
+      "chapter": "Customs Tariff",
+      "section": "146",
+      "title": "",
+      "content": "146 [Amendment]"
+    },
+    {
+      "provision_ref": "s147",
+      "chapter": "Customs Tariff",
+      "section": "147",
+      "title": "",
+      "content": "147 [Amendment]"
+    },
+    {
+      "provision_ref": "s148",
+      "chapter": "Customs Tariff",
+      "section": "148",
+      "title": "",
+      "content": "148 [Amendment]"
+    },
+    {
+      "provision_ref": "s149",
+      "chapter": "Customs Tariff",
+      "section": "149",
+      "title": "",
+      "content": "149 [Amendment]"
+    },
+    {
+      "provision_ref": "s150",
+      "chapter": "Customs Tariff",
+      "section": "150",
+      "title": "",
+      "content": "150 [Amendment]"
+    },
+    {
+      "provision_ref": "s151",
+      "chapter": "Customs Tariff",
+      "section": "151",
+      "title": "",
+      "content": "151 [Amendment]"
+    },
+    {
+      "provision_ref": "s152",
+      "chapter": "Customs Tariff",
+      "section": "152",
+      "title": "",
+      "content": "152 [Amendment]"
+    },
+    {
+      "provision_ref": "s153",
+      "chapter": "Customs Tariff",
+      "section": "153",
+      "title": "",
+      "content": "153 [Amendment]"
+    },
+    {
+      "provision_ref": "s154",
+      "chapter": "Customs Tariff",
+      "section": "154",
+      "title": "",
+      "content": "154 [Amendment]"
+    },
+    {
+      "provision_ref": "s155",
+      "chapter": "Customs Tariff",
+      "section": "155",
+      "title": "",
+      "content": "155 [Amendment]"
+    },
+    {
+      "provision_ref": "s156",
+      "chapter": "Customs Tariff",
+      "section": "156",
+      "title": "",
+      "content": "156 [Amendment]"
+    },
+    {
+      "provision_ref": "s157",
+      "chapter": "Customs Tariff",
+      "section": "157",
+      "title": "",
+      "content": "157 [Amendment]"
+    },
+    {
+      "provision_ref": "s158",
+      "chapter": "Customs Tariff",
+      "section": "158",
+      "title": "",
+      "content": "158 [Amendment]"
+    },
+    {
+      "provision_ref": "s159",
+      "chapter": "Customs Tariff",
+      "section": "159",
+      "title": "",
+      "content": "159 [Amendment]"
+    },
+    {
+      "provision_ref": "s160",
+      "chapter": "Customs Tariff",
+      "section": "160",
+      "title": "",
+      "content": "160 [Amendment]"
+    },
+    {
+      "provision_ref": "s161",
+      "chapter": "Customs Tariff",
+      "section": "161",
+      "title": "",
+      "content": "161 [Amendment]"
+    },
+    {
+      "provision_ref": "s162",
+      "chapter": "Customs Tariff",
+      "section": "162",
+      "title": "",
+      "content": "162 [Amendment]"
+    },
+    {
+      "provision_ref": "s163",
+      "chapter": "Customs Tariff",
+      "section": "163",
+      "title": "",
+      "content": "163 [Amendment]"
+    },
+    {
+      "provision_ref": "s164",
+      "chapter": "Customs Tariff",
+      "section": "164",
+      "title": "",
+      "content": "164 [Amendment]"
+    },
+    {
+      "provision_ref": "s165",
+      "chapter": "Customs Tariff",
+      "section": "165",
+      "title": "",
+      "content": "165 [Amendment]"
+    },
+    {
+      "provision_ref": "s166",
+      "chapter": "Customs Tariff",
+      "section": "166",
+      "title": "",
+      "content": "166 [Amendment]"
+    },
+    {
+      "provision_ref": "s167",
+      "chapter": "Customs Tariff",
+      "section": "167",
+      "title": "",
+      "content": "167 [Amendment]"
+    },
+    {
+      "provision_ref": "s168",
+      "chapter": "Customs Tariff",
+      "section": "168",
+      "title": "",
+      "content": "168 [Amendment]"
+    },
+    {
+      "provision_ref": "s169",
+      "chapter": "Customs Tariff",
+      "section": "169",
+      "title": "",
+      "content": "169 [Amendment]"
+    },
+    {
+      "provision_ref": "s170",
+      "chapter": "Customs Tariff",
+      "section": "170",
+      "title": "",
+      "content": "170 [Amendment]"
+    },
+    {
+      "provision_ref": "s171",
+      "chapter": "Customs Tariff",
+      "section": "171",
+      "title": "",
+      "content": "171 [Amendment]"
+    },
+    {
+      "provision_ref": "s172",
+      "chapter": "Customs Tariff",
+      "section": "172",
+      "title": "",
+      "content": "172 [Amendment]"
+    },
+    {
+      "provision_ref": "s173",
+      "chapter": "Customs Tariff",
+      "section": "173",
+      "title": "",
+      "content": "173 [Amendment]"
+    },
+    {
+      "provision_ref": "s174",
+      "chapter": "Customs Tariff",
+      "section": "174",
+      "title": "",
+      "content": "174 [Amendment]"
+    },
+    {
+      "provision_ref": "s175",
+      "chapter": "Customs Tariff",
+      "section": "175",
+      "title": "",
+      "content": "175 [Amendment]"
+    },
+    {
+      "provision_ref": "s176",
+      "chapter": "Customs Tariff",
+      "section": "176",
+      "title": "",
+      "content": "176 [Amendment]"
+    },
+    {
+      "provision_ref": "s177",
+      "chapter": "Customs Tariff",
+      "section": "177",
+      "title": "",
+      "content": "177 [Amendment]"
+    },
+    {
+      "provision_ref": "s178",
+      "chapter": "Customs Tariff",
+      "section": "178",
+      "title": "",
+      "content": "178 [Amendment]"
+    },
+    {
+      "provision_ref": "s179",
+      "chapter": "Customs Tariff",
+      "section": "179",
+      "title": "",
+      "content": "179 [Amendment]"
+    },
+    {
+      "provision_ref": "s180",
+      "chapter": "Customs Tariff",
+      "section": "180",
+      "title": "",
+      "content": "180 [Amendment]"
+    },
+    {
+      "provision_ref": "s181",
+      "chapter": "Customs Tariff",
+      "section": "181",
+      "title": "",
+      "content": "181 [Amendment]"
+    },
+    {
+      "provision_ref": "s182",
+      "chapter": "Customs Tariff",
+      "section": "182",
+      "title": "",
+      "content": "182 [Amendment]"
+    },
+    {
+      "provision_ref": "s183",
+      "chapter": "Customs Tariff",
+      "section": "183",
+      "title": "",
+      "content": "183 [Amendment]"
+    },
+    {
+      "provision_ref": "s184",
+      "chapter": "Customs Tariff",
+      "section": "184",
+      "title": "",
+      "content": "184 [Amendment]"
+    },
+    {
+      "provision_ref": "s185",
+      "chapter": "Customs Tariff",
+      "section": "185",
+      "title": "",
+      "content": "185 [Amendment]"
+    },
+    {
+      "provision_ref": "s186",
+      "chapter": "Customs Tariff",
+      "section": "186",
+      "title": "",
+      "content": "186 [Amendment]"
+    },
+    {
+      "provision_ref": "s187",
+      "chapter": "Customs Tariff",
+      "section": "187",
+      "title": "",
+      "content": "187 [Amendment]"
+    },
+    {
+      "provision_ref": "s188",
+      "chapter": "Customs Tariff",
+      "section": "188",
+      "title": "",
+      "content": "188 [Amendment]"
+    },
+    {
+      "provision_ref": "s189",
+      "chapter": "Customs Tariff",
+      "section": "189",
+      "title": "",
+      "content": "189 [Amendment]"
+    },
+    {
+      "provision_ref": "s190",
+      "chapter": "Customs Tariff",
+      "section": "190",
+      "title": "",
+      "content": "190 [Amendment]"
+    },
+    {
+      "provision_ref": "s191",
+      "chapter": "Customs Tariff",
+      "section": "191",
+      "title": "",
+      "content": "191 [Amendment]"
+    },
+    {
+      "provision_ref": "s192",
+      "chapter": "Customs Tariff",
+      "section": "192",
+      "title": "",
+      "content": "192 [Amendment]"
+    },
+    {
+      "provision_ref": "s193",
+      "chapter": "Customs Tariff",
+      "section": "193",
+      "title": "",
+      "content": "193 [Amendment]"
+    },
+    {
+      "provision_ref": "s194",
+      "chapter": "Customs Tariff",
+      "section": "194",
+      "title": "",
+      "content": "194 [Amendment]"
+    },
+    {
+      "provision_ref": "s195",
+      "chapter": "Customs Tariff",
+      "section": "195",
+      "title": "",
+      "content": "195 [Amendment]"
+    },
+    {
+      "provision_ref": "s196",
+      "chapter": "Customs Tariff",
+      "section": "196",
+      "title": "",
+      "content": "196 [Amendment]"
+    },
+    {
+      "provision_ref": "s197",
+      "chapter": "Customs Tariff",
+      "section": "197",
+      "title": "",
+      "content": "197 [Amendment]"
+    },
+    {
+      "provision_ref": "s198",
+      "chapter": "Customs Tariff",
+      "section": "198",
+      "title": "",
+      "content": "198 [Amendment]"
+    },
+    {
+      "provision_ref": "s199",
+      "chapter": "Customs Tariff",
+      "section": "199",
+      "title": "",
+      "content": "199 [Amendment]"
+    },
+    {
+      "provision_ref": "s200",
+      "chapter": "Customs Tariff",
+      "section": "200",
+      "title": "",
+      "content": "200 [Amendment]"
+    },
+    {
+      "provision_ref": "s201",
+      "chapter": "Customs Tariff",
+      "section": "201",
+      "title": "",
+      "content": "201 [Amendment]"
+    },
+    {
+      "provision_ref": "s202",
+      "chapter": "Customs Tariff",
+      "section": "202",
+      "title": "",
+      "content": "202 [Amendment]"
+    },
+    {
+      "provision_ref": "s203",
+      "chapter": "Customs Tariff",
+      "section": "203",
+      "title": "",
+      "content": "203 [Amendment]"
+    },
+    {
+      "provision_ref": "s204",
+      "chapter": "Customs Tariff",
+      "section": "204",
+      "title": "",
+      "content": "204 [Amendment]"
+    },
+    {
+      "provision_ref": "s205",
+      "chapter": "Customs Tariff",
+      "section": "205",
+      "title": "",
+      "content": "205 [Amendment]"
+    },
+    {
+      "provision_ref": "s206",
+      "chapter": "Customs Tariff",
+      "section": "206",
+      "title": "",
+      "content": "206 [Amendment]"
+    },
+    {
+      "provision_ref": "s207",
+      "chapter": "Customs Tariff",
+      "section": "207",
+      "title": "",
+      "content": "207 [Amendment]"
+    },
+    {
+      "provision_ref": "s208",
+      "chapter": "Customs Tariff",
+      "section": "208",
+      "title": "",
+      "content": "208 [Amendment]"
+    },
+    {
+      "provision_ref": "s209",
+      "chapter": "Customs Tariff",
+      "section": "209",
+      "title": "",
+      "content": "209 [Amendment]"
+    },
+    {
+      "provision_ref": "s210",
+      "chapter": "Customs Tariff",
+      "section": "210",
+      "title": "",
+      "content": "210 [Amendment]"
+    },
+    {
+      "provision_ref": "s211",
+      "chapter": "Customs Tariff",
+      "section": "211",
+      "title": "",
+      "content": "211 [Amendment]"
+    },
+    {
+      "provision_ref": "s212",
+      "chapter": "Customs Tariff",
+      "section": "212",
+      "title": "",
+      "content": "212 [Amendment]"
+    },
+    {
+      "provision_ref": "s213",
+      "chapter": "Customs Tariff",
+      "section": "213",
+      "title": "",
+      "content": "213 [Amendment]"
+    },
+    {
+      "provision_ref": "s214",
+      "chapter": "Customs Tariff",
+      "section": "214",
+      "title": "",
+      "content": "214 [Amendment]"
+    },
+    {
+      "provision_ref": "s215",
+      "chapter": "Customs Tariff",
+      "section": "215",
+      "title": "",
+      "content": "215 [Amendment]"
+    },
+    {
+      "provision_ref": "s216",
+      "chapter": "Customs Tariff",
+      "section": "216",
+      "title": "",
+      "content": "216 [Amendment]"
+    },
+    {
+      "provision_ref": "s217",
+      "chapter": "Customs Tariff",
+      "section": "217",
+      "title": "",
+      "content": "217 [Amendment]"
+    },
+    {
+      "provision_ref": "s218",
+      "chapter": "Customs Tariff",
+      "section": "218",
+      "title": "",
+      "content": "218 [Amendment]"
+    },
+    {
+      "provision_ref": "s219",
+      "chapter": "Customs Tariff",
+      "section": "219",
+      "title": "",
+      "content": "219 [Amendment]"
+    },
+    {
+      "provision_ref": "s220",
+      "chapter": "Customs Tariff",
+      "section": "220",
+      "title": "",
+      "content": "220 [Amendments]"
+    },
+    {
+      "provision_ref": "s221",
+      "chapter": "Coming into Force",
+      "section": "221",
+      "title": "September 8, 2008",
+      "content": "221 (1) Sections 123 to 127 and subsection 220(1) are deemed to have come into force on September 8, 2008. (2) Sections 122 and 128 to 219 and subsection 220(2) are deemed to have come into force on January 28, 2009."
+    },
+    {
+      "provision_ref": "s222",
+      "chapter": "Employment Insurance Act",
+      "section": "222",
+      "title": "January 28, 2009",
+      "content": "222 [Amendment]"
+    },
+    {
+      "provision_ref": "s223",
+      "chapter": "Employment Insurance Act",
+      "section": "223",
+      "title": "January 28, 2009",
+      "content": "223 [Amendment]"
+    },
+    {
+      "provision_ref": "s224",
+      "chapter": "Employment Insurance Act",
+      "section": "224",
+      "title": "January 28, 2009",
+      "content": "224 [Amendments]"
+    },
+    {
+      "provision_ref": "s225",
+      "chapter": "Claimants Not in Canada",
+      "section": "225",
+      "title": "Subsection 55(7)",
+      "content": "225 The maximum number of weeks for which benefits may be paid to a claimant referred to in subsection 55(7) of the Employment Insurance Regulations whose benefit period has not ended before the second Sunday before the day on which this Act receives royal assent and does not begin after September 11, 2010 is to be determined in accordance with Schedule 10."
+    },
+    {
+      "provision_ref": "s226",
+      "chapter": "Pilot Project Relating To Extended Benefits",
+      "section": "226",
+      "title": "Subsection 55(7)",
+      "content": "226 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s227",
+      "chapter": "Premium Rates Provided for Under the Employment Insurance Act",
+      "section": "227",
+      "title": "Subsection 55(7)",
+      "content": "227 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s228",
+      "chapter": "Premium Rates Provided for Under the Employment Insurance Act",
+      "section": "228",
+      "title": "Subsection 55(7)",
+      "content": "228 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s229",
+      "chapter": "Transitional Provision",
+      "section": "229",
+      "title": "Subsection 55(7)",
+      "content": "229 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s230",
+      "chapter": "Coordinating Amendments",
+      "section": "230",
+      "title": "Subsection 55(7)",
+      "content": "230 [Amendments]"
+    },
+    {
+      "provision_ref": "s231",
+      "chapter": "Coming into Force",
+      "section": "231",
+      "title": "Retroactive effect",
+      "content": "231 (1) Subsection 224(1) is deemed to have come into force on the second Sunday before the day on which this Act receives royal assent. (2) Subsection 224(2) comes into force on September 12, 2010."
+    },
+    {
+      "provision_ref": "s232",
+      "chapter": "DIVISION 1 Financial Administration Act",
+      "section": "232",
+      "title": "September 12, 2010",
+      "content": "232 [Amendment]"
+    },
+    {
+      "provision_ref": "s233",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "233",
+      "title": "September 12, 2010",
+      "content": "233 [Amendment]"
+    },
+    {
+      "provision_ref": "s234",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "234",
+      "title": "September 12, 2010",
+      "content": "234 [Amendment]"
+    },
+    {
+      "provision_ref": "s235",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "235",
+      "title": "September 12, 2010",
+      "content": "235 [Amendment]"
+    },
+    {
+      "provision_ref": "s236",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "236",
+      "title": "September 12, 2010",
+      "content": "236 [Amendments]"
+    },
+    {
+      "provision_ref": "s237",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "237",
+      "title": "September 12, 2010",
+      "content": "237 [Amendment]"
+    },
+    {
+      "provision_ref": "s238",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "238",
+      "title": "September 12, 2010",
+      "content": "238 [Amendment]"
+    },
+    {
+      "provision_ref": "s239",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "239",
+      "title": "September 12, 2010",
+      "content": "239 [Amendment]"
+    },
+    {
+      "provision_ref": "s240",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "240",
+      "title": "September 12, 2010",
+      "content": "240 [Amendment]"
+    },
+    {
+      "provision_ref": "s241",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "241",
+      "title": "",
+      "content": "241 [Amendment]"
+    },
+    {
+      "provision_ref": "s242",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "242",
+      "title": "",
+      "content": "242 [Amendment]"
+    },
+    {
+      "provision_ref": "s243",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "243",
+      "title": "",
+      "content": "243 [Amendments]"
+    },
+    {
+      "provision_ref": "s244",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "244",
+      "title": "",
+      "content": "244 [Amendment]"
+    },
+    {
+      "provision_ref": "s245",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "245",
+      "title": "",
+      "content": "245 [Amendments]"
+    },
+    {
+      "provision_ref": "s246",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "246",
+      "title": "",
+      "content": "246 [Amendment]"
+    },
+    {
+      "provision_ref": "s247",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "247",
+      "title": "",
+      "content": "247 [Amendment]"
+    },
+    {
+      "provision_ref": "s248",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "248",
+      "title": "",
+      "content": "248 [Amendment]"
+    },
+    {
+      "provision_ref": "s249",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "249",
+      "title": "",
+      "content": "249 [Amendment]"
+    },
+    {
+      "provision_ref": "s250",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "250",
+      "title": "",
+      "content": "250 [Amendment]"
+    },
+    {
+      "provision_ref": "s251",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "251",
+      "title": "",
+      "content": "251 [Amendment]"
+    },
+    {
+      "provision_ref": "s252",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "252",
+      "title": "",
+      "content": "252 [Amendment]"
+    },
+    {
+      "provision_ref": "s253",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "253",
+      "title": "",
+      "content": "253 [Amendment]"
+    },
+    {
+      "provision_ref": "s254",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "254",
+      "title": "",
+      "content": "254 [Amendment] Consequential Amendments Access to Information Act"
+    },
+    {
+      "provision_ref": "s255",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "255",
+      "title": "",
+      "content": "255 [Amendment] Canadian Payments Act"
+    },
+    {
+      "provision_ref": "s256",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "256",
+      "title": "",
+      "content": "256 [Amendment] Financial Administration Act"
+    },
+    {
+      "provision_ref": "s257",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "257",
+      "title": "",
+      "content": "257 [Amendments] Winding-up and Restructuring Act"
+    },
+    {
+      "provision_ref": "s258",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "258",
+      "title": "",
+      "content": "258 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s259",
+      "chapter": "DIVISION 2 Canada Deposit Insurance Corporation Act",
+      "section": "259",
+      "title": "Order in council",
+      "content": "259 (1) The provisions of this Division, except for sections 235 and 254 and subsection 257(1), come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 235 and subsection 257(1) in force on assent March 12, 2009; sections 233, 234, 236 to 244, subsections 245(1) to (6), sections 246 to 253, 255 and 256, subsection 257(2) and section 258 in force on July 1, 2009, see SI/2009-57; subsection 245(7) in force November 1, 2010, see SI/2010-80.] (2) Section 254 is deemed to have come into force on January 27, 2009."
+    },
+    {
+      "provision_ref": "s260",
+      "chapter": "DIVISION 3 Export Development Act",
+      "section": "260",
+      "title": "Retroactivity",
+      "content": "260 [Amendments]"
+    },
+    {
+      "provision_ref": "s261",
+      "chapter": "DIVISION 3 Export Development Act",
+      "section": "261",
+      "title": "Retroactivity",
+      "content": "261 [Amendment]"
+    },
+    {
+      "provision_ref": "s262",
+      "chapter": "DIVISION 3 Export Development Act",
+      "section": "262",
+      "title": "Retroactivity",
+      "content": "262 [Amendments]"
+    },
+    {
+      "provision_ref": "s263",
+      "chapter": "DIVISION 3 Export Development Act",
+      "section": "263",
+      "title": "Retroactivity",
+      "content": "263 [Amendment]"
+    },
+    {
+      "provision_ref": "s264",
+      "chapter": "DIVISION 4 Business Development Bank of Canada Act",
+      "section": "264",
+      "title": "Retroactivity",
+      "content": "264 [Amendment]"
+    },
+    {
+      "provision_ref": "s265",
+      "chapter": "DIVISION 5 Canada Small Business Financing Act",
+      "section": "265",
+      "title": "Retroactivity",
+      "content": "265 [Amendments]"
+    },
+    {
+      "provision_ref": "s266",
+      "chapter": "DIVISION 5 Canada Small Business Financing Act",
+      "section": "266",
+      "title": "Retroactivity",
+      "content": "266 [Amendment]"
+    },
+    {
+      "provision_ref": "s267",
+      "chapter": "DIVISION 5 Canada Small Business Financing Act",
+      "section": "267",
+      "title": "Retroactivity",
+      "content": "267 [Amendment] Coming into Force"
+    },
+    {
+      "provision_ref": "s268",
+      "chapter": "DIVISION 5 Canada Small Business Financing Act",
+      "section": "268",
+      "title": "Coming into force",
+      "content": "268 This Division comes into force on April 1, 2009 or, if it is later, on the day on which this Act receives royal assent."
+    },
+    {
+      "provision_ref": "s269",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "269",
+      "title": "Coming into force",
+      "content": "269 [Amendment]"
+    },
+    {
+      "provision_ref": "s270",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "270",
+      "title": "Coming into force",
+      "content": "270 [Amendment]"
+    },
+    {
+      "provision_ref": "s271",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "271",
+      "title": "Coming into force",
+      "content": "271 [Amendment]"
+    },
+    {
+      "provision_ref": "s272",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "272",
+      "title": "Coming into force",
+      "content": "272 [Amendment]"
+    },
+    {
+      "provision_ref": "s273",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "273",
+      "title": "Coming into force",
+      "content": "273 [Amendment]"
+    },
+    {
+      "provision_ref": "s274",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "274",
+      "title": "Coming into force",
+      "content": "274 [Amendment]"
+    },
+    {
+      "provision_ref": "s275",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "275",
+      "title": "Coming into force",
+      "content": "275 [Amendment] Cooperative Credit Associations Act"
+    },
+    {
+      "provision_ref": "s276",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "276",
+      "title": "Coming into force",
+      "content": "276 [Amendment]"
+    },
+    {
+      "provision_ref": "s277",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "277",
+      "title": "Coming into force",
+      "content": "277 [Amendment]"
+    },
+    {
+      "provision_ref": "s278",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "278",
+      "title": "",
+      "content": "278 [Amendment]"
+    },
+    {
+      "provision_ref": "s279",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "279",
+      "title": "",
+      "content": "279 [Amendment] Financial Consumer Agency of Canada Act"
+    },
+    {
+      "provision_ref": "s280",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "280",
+      "title": "",
+      "content": "280 [Amendment] Green Shield Canada Act"
+    },
+    {
+      "provision_ref": "s281",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "281",
+      "title": "",
+      "content": "281 [Amendment] Insurance Companies Act"
+    },
+    {
+      "provision_ref": "s282",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "282",
+      "title": "",
+      "content": "282 [Amendment]"
+    },
+    {
+      "provision_ref": "s283",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "283",
+      "title": "",
+      "content": "283 [Amendment]"
+    },
+    {
+      "provision_ref": "s284",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "284",
+      "title": "",
+      "content": "284 [Amendment]"
+    },
+    {
+      "provision_ref": "s285",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "285",
+      "title": "",
+      "content": "285 [Amendment]"
+    },
+    {
+      "provision_ref": "s286",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "286",
+      "title": "",
+      "content": "286 [Amendment]"
+    },
+    {
+      "provision_ref": "s287",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "287",
+      "title": "",
+      "content": "287 [Amendment] Trust and Loan Companies Act"
+    },
+    {
+      "provision_ref": "s288",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "288",
+      "title": "",
+      "content": "288 [Amendment]"
+    },
+    {
+      "provision_ref": "s289",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "289",
+      "title": "",
+      "content": "289 [Amendment]"
+    },
+    {
+      "provision_ref": "s290",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "290",
+      "title": "",
+      "content": "290 [Amendment]"
+    },
+    {
+      "provision_ref": "s291",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "291",
+      "title": "",
+      "content": "291 [Amendment]"
+    },
+    {
+      "provision_ref": "s292",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "292",
+      "title": "",
+      "content": "292 [Amendment] Coordinating Amendment"
+    },
+    {
+      "provision_ref": "s293",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "293",
+      "title": "",
+      "content": "293 [Amendment] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s294",
+      "chapter": "DIVISION 6 Legislation Governing Financial Institutions",
+      "section": "294",
+      "title": "Order in council",
+      "content": "294 Sections 270, 273, 277, 280, 283, 285, and 290 come into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 270, 273, 277, 280, 283, 285 and 290 in force July 1, 2010, see SI/2010-31.]"
+    },
+    {
+      "provision_ref": "s295",
+      "chapter": "DIVISION 7 Securities",
+      "section": "295",
+      "title": "Maximum payment",
+      "content": "295 (1) The Minister of Finance may make direct payments, in an aggregate amount not exceeding $328,000,000 or any other amount that may be specified in an appropriation Act, to provinces and territories for matters relating to the establishment of a Canadian securities regulation regime and a Canadian regulatory authority. (2) Any amount payable under this section may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance, at the times and in the manner, and on any terms and conditions, that the Minister of Finance considers appropriate. Previous Version"
+    },
+    {
+      "provision_ref": "s296",
+      "chapter": "DIVISION 7 Securities",
+      "section": "296",
+      "title": "Agreements",
+      "content": "296 The Minister of Finance may enter into any agreement respecting securities regulation with any province or territory. Canadian Securities Regulation Regime Transition Office Act"
+    },
+    {
+      "provision_ref": "s297",
+      "chapter": "DIVISION 7 Securities",
+      "section": "297",
+      "title": "Enactment of Act",
+      "content": "297 The Canadian Securities Regulation Regime Transition Office Act is enacted as follows: [See Canadian Securities Regulation Regime Transition Office Act ] Transitional Provision"
+    },
+    {
+      "provision_ref": "s298",
+      "chapter": "DIVISION 7 Securities",
+      "section": "298",
+      "title": "Enactment of Act",
+      "content": "298 [Transitional Provision] Coming into Force Footnote *"
+    },
+    {
+      "provision_ref": "s299",
+      "chapter": "DIVISION 7 Securities",
+      "section": "299",
+      "title": "Order in council",
+      "content": "299 Section 297 comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Section 297 in force July 13, 2009, see SI/2009-60.]"
+    },
+    {
+      "provision_ref": "s300",
+      "chapter": "Infrastructure Stimulus Fund",
+      "section": "300",
+      "title": "Maximum payment of $2,000,000,000",
+      "content": "300 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Transport, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding two billion dollars to provide funding for infrastructure projects primarily related to infrastructure rehabilitation."
+    },
+    {
+      "provision_ref": "s301",
+      "chapter": "Provincial-Territorial Infrastructure Base Funding Program",
+      "section": "301",
+      "title": "Maximum payment of $495,000,000",
+      "content": "301 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Transport, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding four hundred and ninety-five million dollars to provide payments to provinces and territories under the Provincial-Territorial Infrastructure Base Funding Program for infrastructure projects."
+    },
+    {
+      "provision_ref": "s302",
+      "chapter": "Communities Component of the Building Canada Fund",
+      "section": "302",
+      "title": "Maximum payment of $250,000,000",
+      "content": "302 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Transport, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding two hundred and fifty million dollars to provide funding for infrastructure projects in communities that have a population of less than 100,000."
+    },
+    {
+      "provision_ref": "s303",
+      "chapter": "Green Infrastructure Fund",
+      "section": "303",
+      "title": "Maximum payment of $200,000,000",
+      "content": "303 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Transport, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding two hundred million dollars to support infrastructure projects that promote a clean environment."
+    },
+    {
+      "provision_ref": "s304",
+      "chapter": "Community Adjustment Fund",
+      "section": "304",
+      "title": "Maximum payment of $51,000,000",
+      "content": "304 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of State (Atlantic Canada Opportunities Agency), in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding fifty-one million dollars to foster economic development, science and technology initiatives and other measures to promote economic diversification in communities in Atlantic Canada."
+    },
+    {
+      "provision_ref": "s305",
+      "chapter": "Community Adjustment Fund",
+      "section": "305",
+      "title": "Maximum payment of $106,000,000",
+      "content": "305 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of State (Economic Development Agency of Canada for the Regions of Quebec), in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding one hundred and six million dollars to foster economic development, science and technology initiatives and other measures to promote economic diversification in communities in the regions of Quebec."
+    },
+    {
+      "provision_ref": "s306",
+      "chapter": "Community Adjustment Fund",
+      "section": "306",
+      "title": "Maximum payment of $175,000,000",
+      "content": "306 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Industry, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding one hundred and seventy-five million dollars to foster economic development, science and technology initiatives and other measures to promote economic diversification in communities in Ontario."
+    },
+    {
+      "provision_ref": "s307",
+      "chapter": "Community Adjustment Fund",
+      "section": "307",
+      "title": "Maximum payment of $17,000,000",
+      "content": "307 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Indian Affairs and Northern Development, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding seventeen million dollars to foster economic development, science and technology initiatives and other measures to promote economic diversification in communities in the territories."
+    },
+    {
+      "provision_ref": "s308",
+      "chapter": "Community Adjustment Fund",
+      "section": "308",
+      "title": "Maximum payment of $154,000,000",
+      "content": "308 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of State (Western Economic Diversification), in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding one hundred and fifty-four million dollars to foster economic development, science and technology initiatives and other measures to promote economic diversification in communities in Western Canada."
+    },
+    {
+      "provision_ref": "s309",
+      "chapter": "Improving Infrastructure at Universities and Colleges",
+      "section": "309",
+      "title": "Maximum payment of $1,000,000,000",
+      "content": "309 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Industry, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding one billion dollars for the construction, renovation, refurbishment or repair of buildings and facilities at post-secondary institutions. Previous Version"
+    },
+    {
+      "provision_ref": "s310",
+      "chapter": "First Nations Housing",
+      "section": "310",
+      "title": "Maximum payment of $75,000,000",
+      "content": "310 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Indian Affairs and Northern Development, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding seventy-five million dollars to support on-reserve housing."
+    },
+    {
+      "provision_ref": "s311",
+      "chapter": "First Nations Housing",
+      "section": "311",
+      "title": "Maximum payment of $125,000,000",
+      "content": "311 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Human Resources and Skills Development, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding one hundred and twenty-five million dollars to the Canada Mortgage and Housing Corporation to support on-reserve housing."
+    },
+    {
+      "provision_ref": "s312",
+      "chapter": "Renovation and Retrofit of Social Housing",
+      "section": "312",
+      "title": "Maximum payment of $500,000,000",
+      "content": "312 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Human Resources and Skills Development, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding five hundred million dollars to the Canada Mortgage and Housing Corporation to provide funding to the provinces and territories to address the backlog in demand for renovation and energy retrofits of social housing."
+    },
+    {
+      "provision_ref": "s313",
+      "chapter": "Housing for Low-income Seniors",
+      "section": "313",
+      "title": "Maximum payment of $200,000,000",
+      "content": "313 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Human Resources and Skills Development, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding two hundred million dollars to the Canada Mortgage and Housing Corporation to provide funding to the provinces and territories through the Affordable Housing Initiative for the construction of housing units for low-income seniors."
+    },
+    {
+      "provision_ref": "s314",
+      "chapter": "Housing for Persons with Disabilities",
+      "section": "314",
+      "title": "Maximum payment of $25,000,000",
+      "content": "314 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Human Resources and Skills Development, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding twenty-five million dollars to the Canada Mortgage and Housing Corporation to provide funding to the provinces and territories through the Affordable Housing Initiative for the construction of housing units for persons with disabilities."
+    },
+    {
+      "provision_ref": "s315",
+      "chapter": "Northern Housing",
+      "section": "315",
+      "title": "Maximum payment of $100,000,000",
+      "content": "315 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Human Resources and Skills Development, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding one hundred million dollars to the Canada Mortgage and Housing Corporation to provide funding to the territories for the renovation and construction of social housing units."
+    },
+    {
+      "provision_ref": "s316",
+      "chapter": "Canada Health Infoway Inc.",
+      "section": "316",
+      "title": "Maximum payment of $500,000,000",
+      "content": "316 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Health, a sum not exceeding five hundred million dollars to Canada Health Infoway Inc. for the development of electronic health records and related systems."
+    },
+    {
+      "provision_ref": "s317",
+      "chapter": "Amendments to the Act",
+      "section": "317",
+      "title": "Maximum payment of $500,000,000",
+      "content": "317 [Amendment]"
+    },
+    {
+      "provision_ref": "s318",
+      "chapter": "Amendments to the Act",
+      "section": "318",
+      "title": "Maximum payment of $500,000,000",
+      "content": "318 [Amendment]"
+    },
+    {
+      "provision_ref": "s319",
+      "chapter": "Amendments to the Act",
+      "section": "319",
+      "title": "Maximum payment of $500,000,000",
+      "content": "319 [Amendment]"
+    },
+    {
+      "provision_ref": "s320",
+      "chapter": "Amendments to the Act",
+      "section": "320",
+      "title": "Maximum payment of $500,000,000",
+      "content": "320 [Amendments]"
+    },
+    {
+      "provision_ref": "s321",
+      "chapter": "Amendments to the Act",
+      "section": "321",
+      "title": "Maximum payment of $500,000,000",
+      "content": "321 [Amendment]"
+    },
+    {
+      "provision_ref": "s322",
+      "chapter": "Amendments to the Act",
+      "section": "322",
+      "title": "Maximum payment of $500,000,000",
+      "content": "322 [Amendments]"
+    },
+    {
+      "provision_ref": "s323",
+      "chapter": "Amendments to the Act",
+      "section": "323",
+      "title": "Maximum payment of $500,000,000",
+      "content": "323 [Amendment]"
+    },
+    {
+      "provision_ref": "s324",
+      "chapter": "Amendments to the Act",
+      "section": "324",
+      "title": "Maximum payment of $500,000,000",
+      "content": "324 [Amendment]"
+    },
+    {
+      "provision_ref": "s325",
+      "chapter": "Amendments to the Act",
+      "section": "325",
+      "title": "Maximum payment of $500,000,000",
+      "content": "325 [Amendment]"
+    },
+    {
+      "provision_ref": "s326",
+      "chapter": "Amendments to the Act",
+      "section": "326",
+      "title": "",
+      "content": "326 [Amendment]"
+    },
+    {
+      "provision_ref": "s327",
+      "chapter": "Amendments to the Act",
+      "section": "327",
+      "title": "",
+      "content": "327 [Amendment]"
+    },
+    {
+      "provision_ref": "s328",
+      "chapter": "Amendments to the Act",
+      "section": "328",
+      "title": "",
+      "content": "328 [Amendment]"
+    },
+    {
+      "provision_ref": "s329",
+      "chapter": "Amendments to the Act",
+      "section": "329",
+      "title": "",
+      "content": "329 [Amendment]"
+    },
+    {
+      "provision_ref": "s330",
+      "chapter": "Amendments to the Act",
+      "section": "330",
+      "title": "",
+      "content": "330 [Amendment]"
+    },
+    {
+      "provision_ref": "s331",
+      "chapter": "Amendments to the Act",
+      "section": "331",
+      "title": "",
+      "content": "331 [Amendment]"
+    },
+    {
+      "provision_ref": "s332",
+      "chapter": "Amendments to the Act",
+      "section": "332",
+      "title": "",
+      "content": "332 [Amendment]"
+    },
+    {
+      "provision_ref": "s333",
+      "chapter": "Amendments to the Act",
+      "section": "333",
+      "title": "",
+      "content": "333 [Amendment]"
+    },
+    {
+      "provision_ref": "s334",
+      "chapter": "Amendments to the Act",
+      "section": "334",
+      "title": "",
+      "content": "334 [Amendment]"
+    },
+    {
+      "provision_ref": "s335",
+      "chapter": "Amendments to the Act",
+      "section": "335",
+      "title": "",
+      "content": "335 [Amendment]"
+    },
+    {
+      "provision_ref": "s336",
+      "chapter": "Amendments to the Act",
+      "section": "336",
+      "title": "",
+      "content": "336 [Amendment]"
+    },
+    {
+      "provision_ref": "s337",
+      "chapter": "Amendments to the Act",
+      "section": "337",
+      "title": "",
+      "content": "337 [Amendment]"
+    },
+    {
+      "provision_ref": "s338",
+      "chapter": "Amendments to the Act",
+      "section": "338",
+      "title": "",
+      "content": "338 [Amendment]"
+    },
+    {
+      "provision_ref": "s339",
+      "chapter": "Amendments to the Act",
+      "section": "339",
+      "title": "",
+      "content": "339 [Amendment]"
+    },
+    {
+      "provision_ref": "s340",
+      "chapter": "Amendments to the Act",
+      "section": "340",
+      "title": "",
+      "content": "340 [Amendment]"
+    },
+    {
+      "provision_ref": "s341",
+      "chapter": "Consequential Amendment to the International Bridges and Tunnels Act",
+      "section": "341",
+      "title": "",
+      "content": "341 [Amendment]"
+    },
+    {
+      "provision_ref": "s342",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "342",
+      "title": "",
+      "content": "342 [Amendment]"
+    },
+    {
+      "provision_ref": "s343",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "343",
+      "title": "",
+      "content": "343 [Amendments]"
+    },
+    {
+      "provision_ref": "s344",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "344",
+      "title": "",
+      "content": "344 [Amendment]"
+    },
+    {
+      "provision_ref": "s345",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "345",
+      "title": "",
+      "content": "345 [Amendment]"
+    },
+    {
+      "provision_ref": "s346",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "346",
+      "title": "",
+      "content": "346 [Amendments]"
+    },
+    {
+      "provision_ref": "s347",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "347",
+      "title": "",
+      "content": "347 [Amendments] Wage Earner Protection Program Regulations"
+    },
+    {
+      "provision_ref": "s348",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "348",
+      "title": "",
+      "content": "348 [Amendment]"
+    },
+    {
+      "provision_ref": "s349",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "349",
+      "title": "",
+      "content": "349 [Amendments]"
+    },
+    {
+      "provision_ref": "s350",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "350",
+      "title": "",
+      "content": "350 [Amendment]"
+    },
+    {
+      "provision_ref": "s351",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "351",
+      "title": "",
+      "content": "351 [Amendments]"
+    },
+    {
+      "provision_ref": "s352",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "352",
+      "title": "",
+      "content": "352 [Amendment]"
+    },
+    {
+      "provision_ref": "s353",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "353",
+      "title": "",
+      "content": "353 [Amendments]"
+    },
+    {
+      "provision_ref": "s354",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "354",
+      "title": "",
+      "content": "354 [Amendment] Consequential Amendments to the Bankruptcy and Insolvency Act"
+    },
+    {
+      "provision_ref": "s355",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "355",
+      "title": "",
+      "content": "355 [Amendment]"
+    },
+    {
+      "provision_ref": "s356",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "356",
+      "title": "",
+      "content": "356 [Amendment] Transitional Provision"
+    },
+    {
+      "provision_ref": "s357",
+      "chapter": "DIVISION 1 Wage Earner Protection Program",
+      "section": "357",
+      "title": "",
+      "content": "357 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s358",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "358",
+      "title": "",
+      "content": "358 [Amendment]"
+    },
+    {
+      "provision_ref": "s359",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "359",
+      "title": "",
+      "content": "359 [Amendment]"
+    },
+    {
+      "provision_ref": "s360",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "360",
+      "title": "",
+      "content": "360 [Amendment]"
+    },
+    {
+      "provision_ref": "s361",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "361",
+      "title": "",
+      "content": "361 [Amendment]"
+    },
+    {
+      "provision_ref": "s362",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "362",
+      "title": "",
+      "content": "362 [Amendment]"
+    },
+    {
+      "provision_ref": "s363",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "363",
+      "title": "",
+      "content": "363 [Amendment]"
+    },
+    {
+      "provision_ref": "s364",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "364",
+      "title": "",
+      "content": "364 [Amendment] Canada Student Loans Act"
+    },
+    {
+      "provision_ref": "s365",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "365",
+      "title": "",
+      "content": "365 [Amendment]"
+    },
+    {
+      "provision_ref": "s366",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "366",
+      "title": "",
+      "content": "366 [Amendment]"
+    },
+    {
+      "provision_ref": "s367",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "367",
+      "title": "",
+      "content": "367 [Amendment] Consequential Amendment to the Budget Implementation Act, 2008"
+    },
+    {
+      "provision_ref": "s368",
+      "chapter": "DIVISION 2 Federal Financial Assistance for Students",
+      "section": "368",
+      "title": "",
+      "content": "368 [Amendment]"
+    },
+    {
+      "provision_ref": "s369",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "369",
+      "title": "",
+      "content": "369 [Amendment]"
+    },
+    {
+      "provision_ref": "s370",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "370",
+      "title": "",
+      "content": "370 [Amendments]"
+    },
+    {
+      "provision_ref": "s371",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "371",
+      "title": "",
+      "content": "371 [Amendment]"
+    },
+    {
+      "provision_ref": "s372",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "372",
+      "title": "",
+      "content": "372 [Amendment]"
+    },
+    {
+      "provision_ref": "s373",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "373",
+      "title": "",
+      "content": "373 [Amendments]"
+    },
+    {
+      "provision_ref": "s374",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "374",
+      "title": "",
+      "content": "374 [Amendment]"
+    },
+    {
+      "provision_ref": "s375",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "375",
+      "title": "",
+      "content": "375 [Amendment] Consequential Amendments Canada Council for the Arts Act"
+    },
+    {
+      "provision_ref": "s376",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "376",
+      "title": "",
+      "content": "376 [Amendment] Canada Employment Insurance Financing Board Act"
+    },
+    {
+      "provision_ref": "s377",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "377",
+      "title": "",
+      "content": "377 [Amendment] Canada Post Corporation Act"
+    },
+    {
+      "provision_ref": "s378",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "378",
+      "title": "",
+      "content": "378 [Amendment] Canadian Dairy Commission Act"
+    },
+    {
+      "provision_ref": "s379",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "379",
+      "title": "",
+      "content": "379 [Amendment] Canadian Race Relations Foundation Act"
+    },
+    {
+      "provision_ref": "s380",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "380",
+      "title": "",
+      "content": "380 [Amendment] Public Sector Pension Investment Board Act"
+    },
+    {
+      "provision_ref": "s381",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "381",
+      "title": "",
+      "content": "381 [Amendment]"
+    },
+    {
+      "provision_ref": "s382",
+      "chapter": "DIVISION 3 Crown Corporations",
+      "section": "382",
+      "title": "",
+      "content": "382 [Amendment]"
+    },
+    {
+      "provision_ref": "s383",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "383",
+      "title": "",
+      "content": "383 [Amendment]"
+    },
+    {
+      "provision_ref": "s384",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "384",
+      "title": "",
+      "content": "384 [Amendment]"
+    },
+    {
+      "provision_ref": "s385",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "385",
+      "title": "",
+      "content": "385 [Amendment]"
+    },
+    {
+      "provision_ref": "s386",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "386",
+      "title": "",
+      "content": "386 [Amendment]"
+    },
+    {
+      "provision_ref": "s387",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "387",
+      "title": "",
+      "content": "387 [Amendment]"
+    },
+    {
+      "provision_ref": "s388",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "388",
+      "title": "",
+      "content": "388 [Amendment]"
+    },
+    {
+      "provision_ref": "s389",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "389",
+      "title": "",
+      "content": "389 [Amendments]"
+    },
+    {
+      "provision_ref": "s390",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "390",
+      "title": "",
+      "content": "390 [Amendment]"
+    },
+    {
+      "provision_ref": "s391",
+      "chapter": "Federal-Provincial Fiscal Arrangements Act",
+      "section": "391",
+      "title": "",
+      "content": "391 [Amendment]"
+    },
+    {
+      "provision_ref": "s392",
+      "chapter": "Payment to Nova Scotia",
+      "section": "392",
+      "title": "Payment of $74,188,000",
+      "content": "392 There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance, the sum of seventy-four million and one hundred and eighty-eight thousand dollars to Nova Scotia."
+    },
+    {
+      "provision_ref": "s393",
+      "chapter": "PART 10 Expenditure Restraint Act",
+      "section": "393",
+      "title": "Enactment of Act",
+      "content": "393 The Expenditure Restraint Act , whose text is as follows and whose Schedules 1 and 2 are set out in Schedule 11 to this Act, is hereby enacted: [See Expenditure Restraint Act ]"
+    },
+    {
+      "provision_ref": "s394",
+      "chapter": "Public Sector Equitable Compensation Act",
+      "section": "394",
+      "title": "Enactment of Act",
+      "content": "394 The Public Sector Equitable Compensation Act is enacted as follows: [See Public Sector Equitable Compensation Act ]"
+    },
+    {
+      "provision_ref": "s395",
+      "chapter": "Transitional Provisions",
+      "section": "395",
+      "title": "Enactment of Act",
+      "content": "395 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s396",
+      "chapter": "Transitional Provisions",
+      "section": "396",
+      "title": "Enactment of Act",
+      "content": "396 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s397",
+      "chapter": "Transitional Provisions",
+      "section": "397",
+      "title": "Enactment of Act",
+      "content": "397 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s398",
+      "chapter": "Transitional Provisions",
+      "section": "398",
+      "title": "Enactment of Act",
+      "content": "398 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s399",
+      "chapter": "Consequential Amendments",
+      "section": "399",
+      "title": "Enactment of Act",
+      "content": "399 [Repealed before coming into force, 2008, c. 20, s. 3] Previous Version Public Service Labour Relations Act"
+    },
+    {
+      "provision_ref": "s400",
+      "chapter": "Consequential Amendments",
+      "section": "400",
+      "title": "Enactment of Act",
+      "content": "400 [Repealed before coming into force, 2013, c. 40, s. 469] Previous Version The following provision is not in force."
+    },
+    {
+      "provision_ref": "s401",
+      "chapter": "Consequential Amendments",
+      "section": "401",
+      "title": "",
+      "content": "401 [Amendment] The following provision is not in force."
+    },
+    {
+      "provision_ref": "s402",
+      "chapter": "Consequential Amendments",
+      "section": "402",
+      "title": "",
+      "content": "402 [Amendment] The following provision is not in force."
+    },
+    {
+      "provision_ref": "s403",
+      "chapter": "Consequential Amendments",
+      "section": "403",
+      "title": "",
+      "content": "403 [Amendment] The following provision is not in force."
+    },
+    {
+      "provision_ref": "s404",
+      "chapter": "Consequential Amendments",
+      "section": "404",
+      "title": "",
+      "content": "404 [Amendment] The following provision is not in force."
+    },
+    {
+      "provision_ref": "s405",
+      "chapter": "Consequential Amendments",
+      "section": "405",
+      "title": "",
+      "content": "405 [Amendment]"
+    },
+    {
+      "provision_ref": "s406",
+      "chapter": "Coming into Force",
+      "section": "406",
+      "title": "Order in council",
+      "content": "406 Sections 394 and 399 to 405 come into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 394 and 401 to 405 not in force; section 400 repealed before coming into force, see 2013, c. 40, s. 469; section 399 repealed before coming into force, see 2008, c. 20, s. 3.]"
+    },
+    {
+      "provision_ref": "s407",
+      "chapter": "Amendments to the Act",
+      "section": "407",
+      "title": "Order in council",
+      "content": "407 [Amendment]"
+    },
+    {
+      "provision_ref": "s408",
+      "chapter": "Amendments to the Act",
+      "section": "408",
+      "title": "Order in council",
+      "content": "408 [Amendment]"
+    },
+    {
+      "provision_ref": "s409",
+      "chapter": "Amendments to the Act",
+      "section": "409",
+      "title": "Order in council",
+      "content": "409 [Amendment]"
+    },
+    {
+      "provision_ref": "s410",
+      "chapter": "Amendments to the Act",
+      "section": "410",
+      "title": "Order in council",
+      "content": "410 [Amendment]"
+    },
+    {
+      "provision_ref": "s411",
+      "chapter": "Amendments to the Act",
+      "section": "411",
+      "title": "Order in council",
+      "content": "411 [Amendments]"
+    },
+    {
+      "provision_ref": "s412",
+      "chapter": "Amendments to the Act",
+      "section": "412",
+      "title": "Order in council",
+      "content": "412 [Amendment]"
+    },
+    {
+      "provision_ref": "s413",
+      "chapter": "Amendments to the Act",
+      "section": "413",
+      "title": "",
+      "content": "413 [Amendment]"
+    },
+    {
+      "provision_ref": "s414",
+      "chapter": "Amendments to the Act",
+      "section": "414",
+      "title": "",
+      "content": "414 [Amendments]"
+    },
+    {
+      "provision_ref": "s415",
+      "chapter": "Amendments to the Act",
+      "section": "415",
+      "title": "",
+      "content": "415 [Amendment]"
+    },
+    {
+      "provision_ref": "s416",
+      "chapter": "Amendments to the Act",
+      "section": "416",
+      "title": "",
+      "content": "416 [Amendment]"
+    },
+    {
+      "provision_ref": "s417",
+      "chapter": "Amendments to the Act",
+      "section": "417",
+      "title": "",
+      "content": "417 [Amendment]"
+    },
+    {
+      "provision_ref": "s418",
+      "chapter": "Amendments to the Act",
+      "section": "418",
+      "title": "",
+      "content": "418 [Amendment]"
+    },
+    {
+      "provision_ref": "s419",
+      "chapter": "Amendments to the Act",
+      "section": "419",
+      "title": "",
+      "content": "419 [Amendment]"
+    },
+    {
+      "provision_ref": "s420",
+      "chapter": "Amendments to the Act",
+      "section": "420",
+      "title": "",
+      "content": "420 [Amendment]"
+    },
+    {
+      "provision_ref": "s421",
+      "chapter": "Amendments to the Act",
+      "section": "421",
+      "title": "",
+      "content": "421 [Amendment]"
+    },
+    {
+      "provision_ref": "s422",
+      "chapter": "Amendments to the Act",
+      "section": "422",
+      "title": "",
+      "content": "422 [Amendment]"
+    },
+    {
+      "provision_ref": "s423",
+      "chapter": "Amendments to the Act",
+      "section": "423",
+      "title": "",
+      "content": "423 [Amendment]"
+    },
+    {
+      "provision_ref": "s424",
+      "chapter": "Amendments to the Act",
+      "section": "424",
+      "title": "",
+      "content": "424 [Amendments]"
+    },
+    {
+      "provision_ref": "s425",
+      "chapter": "Amendments to the Act",
+      "section": "425",
+      "title": "",
+      "content": "425 [Amendment]"
+    },
+    {
+      "provision_ref": "s426",
+      "chapter": "Amendments to the Act",
+      "section": "426",
+      "title": "",
+      "content": "426 [Amendment]"
+    },
+    {
+      "provision_ref": "s427",
+      "chapter": "Amendments to the Act",
+      "section": "427",
+      "title": "",
+      "content": "427 [Amendments]"
+    },
+    {
+      "provision_ref": "s428",
+      "chapter": "Amendments to the Act",
+      "section": "428",
+      "title": "",
+      "content": "428 [Amendments]"
+    },
+    {
+      "provision_ref": "s429",
+      "chapter": "Amendments to the Act",
+      "section": "429",
+      "title": "",
+      "content": "429 [Amendment]"
+    },
+    {
+      "provision_ref": "s430",
+      "chapter": "Amendments to the Act",
+      "section": "430",
+      "title": "",
+      "content": "430 [Amendment]"
+    },
+    {
+      "provision_ref": "s431",
+      "chapter": "Amendments to the Act",
+      "section": "431",
+      "title": "",
+      "content": "431 [Amendments]"
+    },
+    {
+      "provision_ref": "s432",
+      "chapter": "Amendments to the Act",
+      "section": "432",
+      "title": "",
+      "content": "432 [Amendment]"
+    },
+    {
+      "provision_ref": "s433",
+      "chapter": "Amendments to the Act",
+      "section": "433",
+      "title": "",
+      "content": "433 [Amendment]"
+    },
+    {
+      "provision_ref": "s434",
+      "chapter": "Amendments to the Act",
+      "section": "434",
+      "title": "",
+      "content": "434 [Amendment]"
+    },
+    {
+      "provision_ref": "s435",
+      "chapter": "Amendments to the Act",
+      "section": "435",
+      "title": "",
+      "content": "435 [Amendment]"
+    },
+    {
+      "provision_ref": "s436",
+      "chapter": "Amendments to the Act",
+      "section": "436",
+      "title": "",
+      "content": "436 [Amendment]"
+    },
+    {
+      "provision_ref": "s437",
+      "chapter": "Amendments to the Act",
+      "section": "437",
+      "title": "",
+      "content": "437 [Amendment]"
+    },
+    {
+      "provision_ref": "s438",
+      "chapter": "Amendments to the Act",
+      "section": "438",
+      "title": "",
+      "content": "438 [Amendment]"
+    },
+    {
+      "provision_ref": "s439",
+      "chapter": "Amendments to the Act",
+      "section": "439",
+      "title": "",
+      "content": "439 [Amendment]"
+    },
+    {
+      "provision_ref": "s440",
+      "chapter": "Transitional Provision",
+      "section": "440",
+      "title": "",
+      "content": "440 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s441",
+      "chapter": "Consequential Amendments",
+      "section": "441",
+      "title": "",
+      "content": "441 [Amendment] Criminal Code"
+    },
+    {
+      "provision_ref": "s442",
+      "chapter": "Consequential Amendments",
+      "section": "442",
+      "title": "",
+      "content": "442 [Amendment] Shipping Conferences Exemption Act, 1987"
+    },
+    {
+      "provision_ref": "s443",
+      "chapter": "Consequential Amendments",
+      "section": "443",
+      "title": "",
+      "content": "443 [Amendment]"
+    },
+    {
+      "provision_ref": "s444",
+      "chapter": "Coming into Force",
+      "section": "444",
+      "title": "Sections 410, 429 and 442",
+      "content": "444 Sections 410, 429 and 442 come into force one year after the day on which this Act receives royal assent. Return to footnote * [Note: Sections 410, 429 and 442 in force March 12, 2010.]"
+    },
+    {
+      "provision_ref": "s445",
+      "chapter": "Amendments to the Act",
+      "section": "445",
+      "title": "Sections 410, 429 and 442",
+      "content": "445 [Amendment]"
+    },
+    {
+      "provision_ref": "s446",
+      "chapter": "Amendments to the Act",
+      "section": "446",
+      "title": "Sections 410, 429 and 442",
+      "content": "446 [Amendment]"
+    },
+    {
+      "provision_ref": "s447",
+      "chapter": "Amendments to the Act",
+      "section": "447",
+      "title": "Sections 410, 429 and 442",
+      "content": "447 [Amendments]"
+    },
+    {
+      "provision_ref": "s448",
+      "chapter": "Amendments to the Act",
+      "section": "448",
+      "title": "Sections 410, 429 and 442",
+      "content": "448 (1) and (2) [Repealed before coming into force, 2013, c. 33, s. 146] (3) and (4) [Amendments]"
+    },
+    {
+      "provision_ref": "s449",
+      "chapter": "Amendments to the Act",
+      "section": "449",
+      "title": "Sections 410, 429 and 442",
+      "content": "449 [Amendment]"
+    },
+    {
+      "provision_ref": "s450",
+      "chapter": "Amendments to the Act",
+      "section": "450",
+      "title": "Sections 410, 429 and 442",
+      "content": "450 [Amendment]"
+    },
+    {
+      "provision_ref": "s451",
+      "chapter": "Amendments to the Act",
+      "section": "451",
+      "title": "",
+      "content": "451 [Amendment]"
+    },
+    {
+      "provision_ref": "s452",
+      "chapter": "Amendments to the Act",
+      "section": "452",
+      "title": "",
+      "content": "452 [Amendment]"
+    },
+    {
+      "provision_ref": "s453",
+      "chapter": "Amendments to the Act",
+      "section": "453",
+      "title": "",
+      "content": "453 [Amendment]"
+    },
+    {
+      "provision_ref": "s454",
+      "chapter": "Amendments to the Act",
+      "section": "454",
+      "title": "",
+      "content": "454 [Amendments]"
+    },
+    {
+      "provision_ref": "s455",
+      "chapter": "Amendments to the Act",
+      "section": "455",
+      "title": "",
+      "content": "455 [Amendments]"
+    },
+    {
+      "provision_ref": "s456",
+      "chapter": "Amendments to the Act",
+      "section": "456",
+      "title": "",
+      "content": "456 [Amendment]"
+    },
+    {
+      "provision_ref": "s457",
+      "chapter": "Amendments to the Act",
+      "section": "457",
+      "title": "",
+      "content": "457 [Amendments]"
+    },
+    {
+      "provision_ref": "s458",
+      "chapter": "Amendments to the Act",
+      "section": "458",
+      "title": "",
+      "content": "458 [Amendments]"
+    },
+    {
+      "provision_ref": "s459",
+      "chapter": "Amendments to the Act",
+      "section": "459",
+      "title": "",
+      "content": "459 [Amendment]"
+    },
+    {
+      "provision_ref": "s460",
+      "chapter": "Amendments to the Act",
+      "section": "460",
+      "title": "",
+      "content": "460 [Amendments]"
+    },
+    {
+      "provision_ref": "s461",
+      "chapter": "Amendments to the Act",
+      "section": "461",
+      "title": "",
+      "content": "461 [Amendment]"
+    },
+    {
+      "provision_ref": "s462",
+      "chapter": "Amendments to the Act",
+      "section": "462",
+      "title": "",
+      "content": "462 [Amendments]"
+    },
+    {
+      "provision_ref": "s463",
+      "chapter": "Transitional Provisions",
+      "section": "463",
+      "title": "",
+      "content": "463 [Repealed, 2013, c. 33, s. 147]"
+    },
+    {
+      "provision_ref": "s464",
+      "chapter": "Transitional Provisions",
+      "section": "464",
+      "title": "",
+      "content": "464 [Transitional Provision]"
+    },
+    {
+      "provision_ref": "s465",
+      "chapter": "Coming into Force",
+      "section": "465",
+      "title": "February 6, 2009",
+      "content": "465 (1) Sections 445, 447 and 453 to 456, subsections 457(1) to (4), section 460 and subsections 462(1), (3), (4) and (6) are deemed to have come into force on February 6, 2009. (2) [Repealed, 2013, c. 33, s. 148] Previous Version"
+    },
+    {
+      "provision_ref": "s466",
+      "chapter": "Coming into Force",
+      "section": "466",
+      "title": "February 6, 2009",
+      "content": "466 [Repealed before coming into force, 2018, c. 10, s. 91] Previous Version"
+    },
+    {
+      "provision_ref": "s467",
+      "chapter": "Coming into Force",
+      "section": "467",
+      "title": "February 6, 2009",
+      "content": "467 [Repealed before coming into force, 2018, c. 10, s. 91] Previous Version"
+    },
+    {
+      "provision_ref": "s468",
+      "chapter": "Coming into Force",
+      "section": "468",
+      "title": "February 6, 2009",
+      "content": "468 [Repealed, 2018, c. 10, s. 91] Previous Version"
+    },
+    {
+      "provision_ref": "s469",
+      "chapter": "Coming into Force",
+      "section": "469",
+      "title": "February 6, 2009",
+      "content": "469 [Repealed before coming into force, 2018, c. 10, s. 91] Previous Version"
+    },
+    {
+      "provision_ref": "s470",
+      "chapter": "Coming into Force",
+      "section": "470",
+      "title": "",
+      "content": "470 [Repealed before coming into force, 2018, c. 10, s. 91] Previous Version"
+    },
+    {
+      "provision_ref": "s471",
+      "chapter": "Coming into Force",
+      "section": "471",
+      "title": "",
+      "content": "471 [Repealed, 2018, c. 10, s. 91] Previous Version"
+    },
+    {
+      "provision_ref": "sched-schedule1",
+      "chapter": "SCHEDULE 1",
+      "section": "SCHEDULE 1",
+      "title": "SCHEDULE 1",
+      "content": "SCHEDULE 1 (Section 127) [Amendment] SCHEDULE 2 (Section 170) [Amendment] SCHEDULE 3 (Section 213) [Amendment] SCHEDULE 4 (Section 215) [Amendment] SCHEDULE 5 (Section 218) [Amendment] SCHEDULE 6 (Subsection 220(1)) [Amendment] SCHEDULE 7 (Subsection 220(2)) [Amendment] SCHEDULE 8 (Subsection 224(1)) [Amendment] SCHEDULE 9 (Subsection 224(2)) [Amendment] SCHEDULE 10 (Section 225) Column 1 Column 2 Number of Hours of Insurable Employment Number of Weeks of Benefits 420–454 15 455–489 15 490–524 16 525–559 16 560–594 17 595–629 17 630–664 18 665–699 18 700–734 19 735–769 19 770–804 20 805–839 20 840–874 21 875–909 21 910–944 22 945–979 22 980–1,014 23 1,015–1,049 23 1,050–1,084 24 1,085–1,119 24 1,120–1,154 25 1,155–1,189 25 1,190–1,224 26 1,225–1,259 26 1,260–1,294 27 1,295–1,329 27 1,330–1,364 28 1,365–1,399 28 1,400–1,434 29 1,435–1,469 30 1,470–1,504 31 1,505–1,539 32 1,540–1,574 33 1,575–1,609 34 1,610–1,644 35 1,645–1,679 36 1,680–1,714 37 1,715–1,749 38 1,750–1,784 39 1,785–1,819 40 1,820 or more 41 SCHEDULE 11 (Section 393) [See Expenditure Restraint Act ]"
+    }
+  ],
+  "definitions": []
+}

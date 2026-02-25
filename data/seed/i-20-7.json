@@ -1,0 +1,132 @@
+{
+  "id": "i-20-7",
+  "type": "statute",
+  "title": "Internet child sexual abuse and exploitation material by persons who provide an Internet service, An Act respecting the mandatory reporting of",
+  "title_en": "Internet child sexual abuse and exploitation material by persons who provide an Internet service, An Act respecting the mandatory reporting of",
+  "short_name": "Internet child sexual abuse and explo...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/I-20.7/",
+  "description": "An Act respecting the mandatory reporting of Internet child sexual abuse and exploitation material by persons who provide an Internet service (Internet child sexual abuse and explo...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Interpretation",
+      "section": "1",
+      "title": "Definitions",
+      "content": "1 (1) The following definitions apply in this Act. child sexual abuse and exploitation material child sexual abuse and exploitation material has the same meaning as in subsection 163.1(1) of the Criminal Code . ( matériel d’abus et d’exploitation pédosexuels ) child sexual abuse and exploitation material offence child sexual abuse and exploitation material offence means an offence under any of the following provisions of the Criminal Code : (a) subsection 163.1(2) (making child sexual abuse and exploitation material); (b) subsection 163.1(3) (distribution, etc., of child sexual abuse and exploitation material); (c) subsection 163.1(4) (possession of child sexual abuse and exploitation material); or (d) subsection 163.1(4.1) (accessing child sexual abuse and exploitation material). ( infraction relative au matériel d’abus et d’exploitation pédosexuels ) computer data computer data means representations, including signs, signals or symbols, that are in a form suitable for processing in a computer system. ( données informatiques ) Internet service Internet service means a service providing Internet access, Internet content hosting or electronic mail. ( services Internet ) person person means an individual, a corporation, a partnership or an unincorporated association or organization. ( personne ) (2) The descriptive words in parentheses that follow the reference to a provision of the Criminal Code in the definition child sexual abuse and exploitation material offence in subsection (1) do not form part of that definition but are inserted for convenience of reference only. Previous Version"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Duties",
+      "section": "2",
+      "title": "Duty to report Internet address",
+      "content": "2 If a person is advised, in the course of providing an Internet service to the public, of an Internet Protocol address or a Uniform Resource Locator where child sexual abuse and exploitation material may be available to the public, the person must report that address or Uniform Resource Locator to the organization designated by the regulations, as soon as feasible and in accordance with the regulations. Previous Version"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Duties",
+      "section": "3",
+      "title": "Duty to notify police officer",
+      "content": "3 If a person who provides an Internet service to the public has reasonable grounds to believe that their Internet service is being or has been used to commit a child sexual abuse and exploitation material offence, the person must notify an officer, constable or other person employed for the preservation and maintenance of the public peace of that fact, as soon as feasible and in accordance with the regulations. Previous Version"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Duties",
+      "section": "4",
+      "title": "Preservation of computer data",
+      "content": "4 (1) A person who makes a notification under section 3 must preserve all computer data related to the notification that is in their possession or control for 21 days after the day on which the notification is made. (2) The person must destroy the computer data that would not be retained in the ordinary course of business and any document that is prepared for the purpose of preserving computer data under subsection (1) as soon as feasible after the expiry of the 21-day period, unless the person is required to preserve the computer data by a judicial order made under any other Act of Parliament or the legislature of a province."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Duties",
+      "section": "5",
+      "title": "No disclosure",
+      "content": "5 A person must not disclose that they have made a report under section 2 or a notification under section 3, or disclose the contents of a report or notification, if the disclosure could prejudice a criminal investigation, whether or not a criminal investigation has begun."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Duties",
+      "section": "6",
+      "title": "No seeking out of child sexual abuse and exploitation material",
+      "content": "6 Nothing in this Act requires or authorizes a person to seek out child sexual abuse and exploitation material. Previous Version"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Duties",
+      "section": "7",
+      "title": "Immunity",
+      "content": "7 A civil proceeding cannot be commenced against a person for making a report in good faith under section 2 or for making a notification in good faith under section 3."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Duties",
+      "section": "8",
+      "title": "Self-incrimination",
+      "content": "8 For greater certainty, nothing in this Act affects any right of a person to be protected against self-incrimination."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Duties",
+      "section": "9",
+      "title": "Provincial or foreign jurisdiction",
+      "content": "9 A person who has reported information in compliance with an obligation to report child sexual abuse and exploitation material under the laws of a province or a foreign jurisdiction is deemed to have complied with section 2 of this Act in relation to that information. Previous Version"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Offences and Punishment",
+      "section": "10",
+      "title": "Offence",
+      "content": "10 Every person who knowingly contravenes any of sections 2 to 5 is guilty of an offence and liable on summary conviction, (a) in the case of an individual, (i) for a first offence, to a fine of not more than $1,000, (ii) for a second offence, to a fine of not more than $5,000, and (iii) for each subsequent offence, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both; and (b) in all other cases, (i) for a first offence, to a fine of not more than $10,000, (ii) for a second offence, to a fine of not more than $50,000, and (iii) for each subsequent offence, to a fine of not more than $100,000."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Offences and Punishment",
+      "section": "11",
+      "title": "Limitation period",
+      "content": "11 A prosecution for an offence under this Act cannot be commenced more than two years after the time when the act or omission giving rise to the prosecution occurred."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Regulations",
+      "section": "12",
+      "title": "Regulations",
+      "content": "12 The Governor in Council may make regulations (a) designating an organization for the purpose of section 2; (b) respecting the role, functions and activities of the designated organization in relation to information received under this Act, including any security measures to be taken; (c) respecting the making of a report under section 2; (d) respecting a notification under section 3; (e) respecting security measures to be taken in relation to computer data preserved under section 4; and (f) generally, for carrying out the purposes and provisions of this Act."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Coming into Force",
+      "section": "13",
+      "title": "Order in council",
+      "content": "13 This Act comes into force on a day to be fixed by order of the Governor in Council. Return to footnote * [Note: Act in force December 8, 2011, see SI/2011-110.] Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "child sexual abuse and exploitation material",
+      "definition": "child sexual abuse and exploitation material has the same meaning as in subsection 163.1(1) of the Criminal Code . ( matériel d’abus et d’exploitation pédosexuels )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child sexual abuse and exploitation material offence",
+      "definition": "child sexual abuse and exploitation material offence means an offence under any of the following provisions of the Criminal Code :",
+      "source_provision": "s2"
+    },
+    {
+      "term": "computer data",
+      "definition": "computer data means representations, including signs, signals or symbols, that are in a form suitable for processing in a computer system. ( données informatiques )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Internet service",
+      "definition": "Internet service means a service providing Internet access, Internet content hosting or electronic mail. ( services Internet )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "person means an individual, a corporation, a partnership or an unincorporated association or organization. ( personne )",
+      "source_provision": "s2"
+    }
+  ]
+}

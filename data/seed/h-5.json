@@ -1,0 +1,43 @@
+{
+  "id": "h-5",
+  "type": "statute",
+  "title": "Holidays Act",
+  "title_en": "Holidays Act",
+  "short_name": "Holidays Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/H-5/",
+  "description": "Holidays Act (Holidays Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Holidays Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Canada Day",
+      "section": "2",
+      "title": "Canada Day",
+      "content": "2 (1) July 1, not being a Sunday, is a legal holiday and shall be kept and observed as such throughout Canada under the name of \" Canada Day \". (2) When July 1 is a Sunday, July 2 is a legal holiday and shall be kept and observed as such throughout Canada under the name of \" Canada Day \"."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Remembrance Day",
+      "section": "3",
+      "title": "Remembrance Day",
+      "content": "3 November 11, being the day in the year 1918 on which the Great War was triumphantly concluded by an armistice, is a legal holiday and shall be kept and observed as such throughout Canada under the name of “ Remembrance Day ”. Previous Version"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Victoria Day",
+      "section": "4",
+      "title": "Victoria Day",
+      "content": "4 The first Monday immediately preceding May 25 is a legal holiday and shall be kept and observed as such throughout Canada under the name of \" Victoria Day \". Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": []
+}

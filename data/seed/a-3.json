@@ -1,0 +1,92 @@
+{
+  "id": "a-3",
+  "type": "statute",
+  "title": "Agricultural and Rural Development Act (ARDA)",
+  "title_en": "Agricultural and Rural Development Act (ARDA)",
+  "short_name": "Agricultural and Rural Development Ac...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/A-3/",
+  "description": "Agricultural and Rural Development Act (ARDA) (Agricultural and Rural Development Ac...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Agricultural and Rural Development Act ( ARDA )."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definition of \"Minister\"",
+      "content": "2 In this Act, Minister means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Federal-Provincial Agreements",
+      "section": "3",
+      "title": "Joint projects",
+      "content": "3 The Minister may, with the approval of the Governor in Council, enter into an agreement with any province providing for the undertaking jointly with the government of the province, or any agency of such a government, of (a) projects for the more efficient use and economic development of rural lands specified in the agreement; (b) projects for (i) the development and conservation of water supplies for agricultural or other rural purposes, and (ii) soil improvement and the conservation of rural lands in the province or in any area of the province specified in the agreement; or (c) projects for the development of income and employment opportunities in rural areas specified in the agreement and the improvement of standards of living in those areas."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Federal-Provincial Agreements",
+      "section": "4",
+      "title": "Provincial projects",
+      "content": "4 The Minister may, with the approval of the Governor in Council, enter into an agreement with any province providing for the payment to the province of contributions in respect of the cost of any projects referred to in section 3 undertaken by the government of the province or any agency of that government."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Federal-Provincial Agreements",
+      "section": "5",
+      "title": "Provisions to be included",
+      "content": "5 Every agreement entered into pursuant to this Act shall specify (a) the authority that is to be responsible for the undertaking, operation and maintenance of any project or any part thereof to which the agreement relates; (b) the respective proportions of the cost of any project to which the agreement relates that are to be paid by the Minister and the province, or the contribution in respect of any such project that is to be paid by the Minister, and the times at which the amounts to be paid by the Minister or the province are to be paid; (c) the respective proportions of the revenues from any project to which the agreement relates that are to be paid to the Minister and the province; (d) the terms and conditions respecting the undertaking, operation and maintenance of any project to which the agreement relates; and (e) the charges, if any, that are to be charged to persons to whom any of the benefits of the project to which the agreement relates are made available."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Federal-Provincial Agreements",
+      "section": "6",
+      "title": "Validity of agreements",
+      "content": "6 No agreement entered into pursuant to this Act and providing for the payment of any money by the Minister shall have any force or effect until such time as money has been appropriated by Parliament for the purpose of discharging any commitment under that agreement."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Research",
+      "section": "7",
+      "title": "Rural land use and water supplies",
+      "content": "7 (1) The Minister may cause to be prepared and undertaken, directly or in cooperation with the government of any province or any agency of such a government, programs of research and investigation for (a) the more effective use and economic development of rural lands in the province; and (b) the development and conservation of water supplies and for soil improvement and conservation in the province. (2) For the purpose of assisting the development of income and employment opportunities in rural areas in Canada and the improvement of standards of living in those areas, the Minister may cause to be prepared and undertaken, with the government of any province or any agency of such a government or with any university, educational institution or person, programs of research and investigation, and may coordinate those programs with other similar programs being undertaken in Canada."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Services of Other Departments and Agencies",
+      "section": "8",
+      "title": "Income and employment projects and research",
+      "content": "8 The Minister shall, in carrying out any project referred to in paragraph 3(c) or research program referred to in subsection 7(2), make use, wherever possible, of the services and facilities of other departments and agencies of the Government of Canada."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Advisory Committees",
+      "section": "9",
+      "title": "Establishment of committees",
+      "content": "9 (1) The Minister may, in order to carry out the purposes and provisions of this Act, establish such advisory committees as the Minister deems necessary and appoint the members of those committees. (2) Each member of a committee established under subsection (1) shall be paid such amount for each day the member attends any meeting of the committee as may be fixed by the Governor in Council and reasonable travel and living expenses while absent from his ordinary place of residence in the course of his duties."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Regulations",
+      "section": "10",
+      "title": "Regulations",
+      "content": "10 The Governor in Council may, by regulation, make provision for any matters concerning which he deems regulations necessary or desirable to carry out the purposes and provisions of this Act."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Annual Report",
+      "section": "11",
+      "title": "Report to Parliament",
+      "content": "11 The Minister shall, as soon as possible after the termination of each fiscal year, submit a report to Parliament respecting the operations for that year of the agreements made under this Act. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": []
+}

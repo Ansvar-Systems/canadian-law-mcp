@@ -1,0 +1,64 @@
+{
+  "id": "f-11-2",
+  "type": "statute",
+  "title": "Financial Institutions",
+  "title_en": "Financial Institutions",
+  "short_name": "Financial Institutions",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/F-11.2/",
+  "description": "An Act to amend, enact and repeal certain laws relating to financial institutions (Financial Institutions). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s48",
+      "chapter": "An Act to Amend the Canada Deposit Insurance Corporation Act and to Amend Other Acts in Consequence Thereof",
+      "section": "48",
+      "title": "",
+      "content": "48 [Amendment]"
+    },
+    {
+      "provision_ref": "s162",
+      "chapter": "Payment Clearing and Settlement Act",
+      "section": "162",
+      "title": "Enactment of scheduled Act",
+      "content": "162 The Payment Clearing and Settlement Act is enacted as set out in the schedule."
+    },
+    {
+      "provision_ref": "s163",
+      "chapter": "Canadian Payments Association Act",
+      "section": "163",
+      "title": "Enactment of scheduled Act",
+      "content": "163 [Amendment]"
+    },
+    {
+      "provision_ref": "s166",
+      "chapter": "Repeal",
+      "section": "166",
+      "title": "Enactment of scheduled Act",
+      "content": "166 [Repeal]"
+    },
+    {
+      "provision_ref": "s167",
+      "chapter": "References to Winding-up Act",
+      "section": "167",
+      "title": "Enactment of scheduled Act",
+      "content": "167 (1) [Amendments] (2) A reference to the “ Winding-up Act ” in any other Act or in any instrument issued, made or established under any Act shall, unless the context otherwise requires, be read as a reference to the “ Winding-up and Restructuring Act ”."
+    },
+    {
+      "provision_ref": "s168",
+      "chapter": "Coming into Force",
+      "section": "168",
+      "title": "Coming into force",
+      "content": "168 This Act or any of its provisions or any provision of any other Act enacted or amended by this Act comes into force on a day or days to be fixed by order of the Governor in Council. Return to footnote * [Note: Sections 1 to 26, 28, 30, 32 to 44, 46 to 161, 163 to 165 and 167 in force June 28, 1996, sections 162 and 166 in force July 31, 1996, see SI/96-58.]"
+    },
+    {
+      "provision_ref": "sched-schedule",
+      "chapter": "SCHEDULE",
+      "section": "SCHEDULE",
+      "title": "SCHEDULE",
+      "content": "SCHEDULE (Section 162) [See Payment Clearing and Settlement Act ]"
+    }
+  ],
+  "definitions": []
+}

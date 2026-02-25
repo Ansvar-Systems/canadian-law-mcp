@@ -1,0 +1,50 @@
+{
+  "id": "p-31",
+  "type": "statute",
+  "title": "Public Officers Act",
+  "title_en": "Public Officers Act",
+  "short_name": "Public Officers Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/P-31/",
+  "description": "Public Officers Act (Public Officers Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Public Officers Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Short Title",
+      "section": "2",
+      "title": "Short title",
+      "content": "2 [Repealed, 1992, c. 1, s. 146]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Commissions",
+      "section": "3",
+      "title": "Regulations",
+      "content": "3 The Governor in Council may make regulations declaring and determining what dignitaries, officers or classes of officers, or persons in the federal public administration, appointed under orders in council shall receive commissions under the Great Seal or under the Privy Seal, and what fee shall be paid thereon, and commissions may be issued under this section to the dignitaries, officers and persons who have not received and are declared to be entitled to receive them. Previous Version"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Commissions",
+      "section": "4",
+      "title": "Registrations and publication",
+      "content": "4 Commissions issued under section 3 shall be recorded in the office of the Registrar General of Canada and notice of the appointments shall be inserted in the Canada Gazette by the Registrar General of Canada, and a list of the commissions issued during the year shall be laid before Parliament within the first fifteen days of its next ensuing session in each year. 5 to 32 [Repealed, 1992, c. 1, s. 146]"
+    },
+    {
+      "provision_ref": "sched-schedule",
+      "chapter": "SCHEDULE",
+      "section": "SCHEDULE",
+      "title": "SCHEDULE",
+      "content": "SCHEDULE [Repealed, 1992, c. 1, s. 146]"
+    }
+  ],
+  "definitions": []
+}

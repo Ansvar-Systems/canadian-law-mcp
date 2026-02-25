@@ -1,0 +1,919 @@
+{
+  "id": "d-3-4",
+  "type": "statute",
+  "title": "Divorce Act",
+  "title_en": "Divorce Act",
+  "short_name": "Divorce Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",
+  "description": "Divorce Act (Divorce Act). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Divorce Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 (1) In this Act, age of majority age of majority , in respect of a child, means the age of majority as determined by the laws of the province where the child habitually resides, or, if the child habitually resides outside of Canada, eighteen years of age; ( majeur ) appellate court appellate court , in respect of an appeal from a court, means the court exercising appellate jurisdiction with respect to that appeal; ( cour d’appel ) applicable guidelines applicable guidelines means (a) if both spouses or former spouses are habitually resident in the same province at the time an application is made for a child support order or for a variation order in respect of a child support order or the amount of a child support is to be calculated or recalculated under section 25.01 or 25.1, and that province has been designated by an order made under subsection (5), the laws of the province specified in the order, and (b) in any other case, the Federal Child Support Guidelines; ( lignes directrices applicables ) child of the marriage child of the marriage means a child of two spouses or former spouses who, at the material time, (a) is under the age of majority and who has not withdrawn from their charge, or (b) is the age of majority or over and under their charge but unable, by reason of illness, disability or other cause, to withdraw from their charge or to obtain the necessaries of life; ( enfant à charge ) child support order child support order means an order made under subsection 15.1(1); ( ordonnance alimentaire au profit d’un enfant ) competent authority competent authority means, except as otherwise provided, a tribunal or other entity in a country other than Canada, or a subdivision of such a country, that has the authority to make a decision under their law respecting any subject matter that could be dealt with under this Act; ( autorité compétente ) contact order contact order means an order made under subsection 16.5(1); ( ordonnance de contact ) corollary relief proceeding corollary relief proceeding means a proceeding in a court in which either or both former spouses seek a child support order, a spousal support order or a parenting order; ( action en mesures accessoires ) court court , in respect of a province, means (a) for the Province of Ontario, the Superior Court of Justice, (a.1) for the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province, (b) for the Province of Quebec, the Superior Court, (c) for the Provinces of Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the Province, (d) for the Province of New Brunswick, Manitoba, Saskatchewan or Alberta, the Court of Queen’s Bench for the Province, and (e) for Yukon or the Northwest Territories, the Supreme Court, and in Nunavut, the Nunavut Court of Justice, and includes such other court in the province the judges of which are appointed by the Governor General as is designated by the Lieutenant Governor in Council of the province as a court for the purposes of this Act; ( tribunal ) custody custody [Repealed, 2019, c. 16, s. 1] custody order custody order [Repealed, 2019, c. 16, s. 1] decision-making responsibility decision-making responsibility means the responsibility for making significant decisions about a child’s well-being, including in respect of (a) health; (b) education; (c) culture, language, religion and spirituality; and (d) significant extra-curricular activities; ( responsabilités décisionnelles ) divorce proceeding divorce proceeding means a proceeding in a court in which either or both spouses seek a divorce alone or together with a child support order, a spousal support order or a parenting order; ( action en divorce ) family dispute resolution process family dispute resolution process means a process outside of court that is used by parties to a family law dispute to attempt to resolve any matters in dispute, including negotiation, mediation and collaborative law; ( mécanisme de règlement des différends familiaux ) family justice services family justice services means public or private services intended to help persons deal with issues arising from separation or divorce; ( services de justice familiale ) family member family member includes a member of the household of a child of the marriage or of a spouse or former spouse as well as a dating partner of a spouse or former spouse who participates in the activities of the household; ( membre de la famille ) family violence family violence means any conduct, whether or not the conduct constitutes a criminal offence, by a family member towards another family member, that is violent or threatening or that constitutes a pattern of coercive and controlling behaviour or that causes that other family member to fear for their own safety or for that of another person — and in the case of a child, the direct or indirect exposure to such conduct — and includes (a) physical abuse, including forced confinement but excluding the use of reasonable force to protect themselves or another person; (b) sexual abuse; (c) threats to kill or cause bodily harm to any person; (d) harassment, including stalking; (e) the failure to provide the necessaries of life; (f) psychological abuse; (g) financial abuse; (h) threats to kill or harm an animal or damage property; and (i) the killing or harming of an animal or the damaging of property; ( violence familiale ) Federal Child Support Guidelines Federal Child Support Guidelines means the guidelines made under section 26.1; ( lignes directrices fédérales sur les pensions alimentaires pour enfants ) legal adviser legal adviser means any person who is qualified, in accordance with the law of a province, to represent or provide legal advice to another person in any proceeding under this Act; ( conseiller juridique ) order assignee order assignee means a minister, member, agency or public body to whom a support order is assigned under subsection 20.1(1); ( cessionnaire de la créance alimentaire ) parenting order parenting order means an order made under subsection 16.1(1); ( ordonnance parentale ) parenting time parenting time means the time that a child of the marriage spends in the care of a person referred to in subsection 16.1(1), whether or not the child is physically with that person during that entire time; ( temps parental ) provincial child support service provincial child support service means any service, agency or body designated in an agreement with a province under subsection 25.01(1) or 25.1(1); ( service provincial des aliments pour enfants ) relocation relocation means a change in the place of residence of a child of the marriage or a person who has parenting time or decision-making responsibility — or who has a pending application for a parenting order — that is likely to have a significant impact on the child’s relationship with (a) a person who has parenting time, decision-making responsibility or an application for a parenting order in respect of that child pending; or (b) a person who has contact with the child under a contact order; ( déménagement important ) spousal support order spousal support order means an order made under subsection 15.2(1); ( ordonnance alimentaire au profit d’un époux ) spouse spouse includes, in subsection 6(1) and sections 15.1 to 16.96, 21.1, 25.01 and 25.1, a former spouse; ( époux ) support order support order means a child support order or a spousal support order; ( ordonnance alimentaire ) variation order variation order means an order made under subsection 17(1); ( ordonnance modificative ) variation proceeding variation proceeding means a proceeding in a court in which either or both former spouses seek a variation order. ( action en modification ) (2) For the purposes of the definition child of the marriage in subsection (1), a child of two spouses or former spouses includes (a) any child for whom they both stand in the place of parents; and (b) any child of whom one is the parent an"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Jurisdiction",
+      "section": "3",
+      "title": "Jurisdiction in divorce proceedings",
+      "content": "3 (1) A court in a province has jurisdiction to hear and determine a divorce proceeding if either spouse has been habitually resident in the province for at least one year immediately preceding the commencement of the proceeding. (2) If divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a divorce proceeding was commenced first has exclusive jurisdiction to hear and determine any divorce proceeding then pending between the spouses and the second divorce proceeding is deemed to be discontinued. (3) If divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within 40 days after it was commenced, the Federal Court shall, on application by either or both spouses, determine which court retains jurisdiction by applying the following rules: (a) if at least one of the proceedings includes an application for a parenting order, the court that retains jurisdiction is the court in the province in which the child is habitually resident; (b) if neither of the proceedings includes an application for a parenting order, the court that retains jurisdiction is the court in the province in which the spouses last maintained a habitual residence in common if one of the spouses is habitually resident in that province; and (c) in any other case, the court that retains jurisdiction is the court that the Federal Court determines to be the most appropriate. Previous Version"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Jurisdiction",
+      "section": "4",
+      "title": "Jurisdiction in corollary relief proceedings",
+      "content": "4 (1) A court in a province has jurisdiction to hear and determine a corollary relief proceeding if (a) either former spouse is habitually resident in the province at the commencement of the proceeding; or (b) both former spouses accept the jurisdiction of the court. (2) If corollary relief proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a corollary relief proceeding was commenced first has exclusive jurisdiction to hear and determine any corollary relief proceeding then pending between the former spouses in respect of that matter and the second corollary relief proceeding is deemed to be discontinued. (3) If corollary relief proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within 40 days after it was commenced, the Federal Court shall, on application by either or both former spouses, determine which court retains jurisdiction by applying the following rules: (a) if at least one of the proceedings includes an application for a parenting order, the court that retains jurisdiction is the court in the province in which the child is habitually resident; (b) if neither of the proceedings includes an application for a parenting order, the court that retains jurisdiction is the court in the province in which the former spouses last maintained a habitual residence in common if one of the former spouses is habitually resident in that province; and (c) in any other case, the court that retains jurisdiction is the court that the Federal Court determines to be the most appropriate. Previous Version"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Jurisdiction",
+      "section": "5",
+      "title": "Jurisdiction in variation proceedings",
+      "content": "5 (1) A court in a province has jurisdiction to hear and determine a variation proceeding if (a) either former spouse is habitually resident in the province at the commencement of the proceeding; or (b) both former spouses accept the jurisdiction of the court. (2) If variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a variation proceeding was commenced first has exclusive jurisdiction to hear and determine any variation proceeding then pending between the former spouses in respect of that matter and the second variation proceeding is deemed to be discontinued. (3) If variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within 40 days after it was commenced, the Federal Court shall, on application by either or both former spouses, determine which court retains jurisdiction by applying the following rules: (a) if at least one of the proceedings includes an application for a variation order in respect of a parenting order, the court that retains jurisdiction is the court in the province in which the child is habitually resident; (b) if neither of the proceedings includes an application for a variation order in respect of a parenting order, the court that retains jurisdiction is the court in the province in which the former spouses last maintained a habitual residence in common if one of the former spouses is habitually resident in that province; and (c) in any other case, the court that retains jurisdiction is the court that the Federal Court determines to be the most appropriate. Previous Version"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Jurisdiction",
+      "section": "6",
+      "title": "Transfer of proceeding if parenting order applied for",
+      "content": "6 (1) If an application for an order under section 16.1 is made in a divorce proceeding or corollary relief proceeding to a court in a province and the child of the marriage in respect of whom the order is sought is habitually resident in another province, the court may, on application by a spouse or on its own motion, transfer the proceeding to a court in that other province. (2) If an application for a variation order in respect of a parenting order is made in a variation proceeding to a court in a province and the child of the marriage in respect of whom the variation order is sought is habitually resident in another province, the court may, on application by a former spouse or on its own motion, transfer the variation proceeding to a court in that other province. (3) [Repealed, 2019, c. 16, s. 5] (4) Notwithstanding sections 3 to 5, a court in a province to which a proceeding is transferred under this section has exclusive jurisdiction to hear and determine the proceeding. Previous Version"
+    },
+    {
+      "provision_ref": "s6.1",
+      "chapter": "Jurisdiction",
+      "section": "6.1",
+      "title": "Jurisdiction — application for contact order",
+      "content": "6.1 (1) If a court in a province is seized of an application for a parenting order in respect of a child, the court has jurisdiction to hear and determine an application for a contact order in respect of the child. (2) If no variation proceeding related to a parenting order in respect of a child is pending, a court in a province in which the child is habitually resident has jurisdiction to hear and determine an application for a contact order, an application for a variation order in respect of a contact order or an application for a variation order in respect of a parenting order brought by a person referred to in subparagraph 17(1)(b)(ii), unless the court considers that a court in another province is better placed to hear and determine the application, in which case the court shall transfer the proceeding to the court in that other province. (3) For greater certainty, if no parenting order has been made in respect of a child, no application for a contact order may be brought under this Act in respect of the child."
+    },
+    {
+      "provision_ref": "s6.2",
+      "chapter": "Jurisdiction",
+      "section": "6.2",
+      "title": "Removal or retention of child of marriage",
+      "content": "6.2 (1) If a child of the marriage is removed from or retained in a province contrary to sections 16.9 to 16.96 or provincial law, a court in the province in which the child was habitually resident that would have had jurisdiction under sections 3 to 5 immediately before the removal or retention has jurisdiction to hear and determine an application for a parenting order, unless the court is satisfied (a) that all persons who are entitled to object to the removal or retention have ultimately consented or acquiesced to the removal or retention; (b) that there has been undue delay in contesting the removal or retention by those persons; or (c) that a court in the province in which the child is present is better placed to hear and determine the application. (2) If the court in the province in which the child was habitually resident immediately before the removal or retention is satisfied that any of paragraphs (1)(a) to (c) apply, (a) the court shall transfer the application to the court in the province in which the child is present; and (b) the court may transfer any other application under this Act in respect of the parties to the court in the province in which the child is present. (3) If after the child’s removal from or retention in a province, two proceedings are commenced on the same day as described in subsection 3(3), 4(3) or 5(3), this section prevails over those subsections and the Federal Court shall determine which court has jurisdiction under this section. A reference in this section to “court in the province in which the child was habitually resident” is to be read as “Federal Court”."
+    },
+    {
+      "provision_ref": "s6.3",
+      "chapter": "Jurisdiction",
+      "section": "6.3",
+      "title": "Child habitually resident outside Canada",
+      "content": "6.3 (1) If a child of the marriage is not habitually resident in Canada, a court in the province that would otherwise have jurisdiction under sections 3 to 5 to make a parenting order or contact order, or a variation order in respect of such an order, has jurisdiction to do so only in exceptional circumstances and if the child is present in the province. (2) In determining whether there are exceptional circumstances, the court shall consider all relevant factors, including (a) whether there is a sufficient connection between the child and the province; (b) the urgency of the situation; (c) the importance of avoiding a multiplicity of proceedings and inconsistent decisions; and (d) the importance of discouraging child abduction."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Jurisdiction",
+      "section": "7",
+      "title": "Exercise of jurisdiction by judge",
+      "content": "7 The jurisdiction conferred on a court by this Act to grant a divorce shall be exercised only by a judge of the court without a jury."
+    },
+    {
+      "provision_ref": "s7.1",
+      "chapter": "Parties to a Proceeding",
+      "section": "7.1",
+      "title": "Best interests of child",
+      "content": "7.1 A person to whom parenting time or decision-making responsibility has been allocated in respect of a child of the marriage or who has contact with that child under a contact order shall exercise that time, responsibility or contact in a manner that is consistent with the best interests of the child."
+    },
+    {
+      "provision_ref": "s7.2",
+      "chapter": "Parties to a Proceeding",
+      "section": "7.2",
+      "title": "Protection of children from conflict",
+      "content": "7.2 A party to a proceeding under this Act shall, to the best of their ability, protect any child of the marriage from conflict arising from the proceeding."
+    },
+    {
+      "provision_ref": "s7.3",
+      "chapter": "Parties to a Proceeding",
+      "section": "7.3",
+      "title": "Family dispute resolution process",
+      "content": "7.3 To the extent that it is appropriate to do so, the parties to a proceeding shall try to resolve the matters that may be the subject of an order under this Act through a family dispute resolution process."
+    },
+    {
+      "provision_ref": "s7.4",
+      "chapter": "Parties to a Proceeding",
+      "section": "7.4",
+      "title": "Complete, accurate and up-to-date information",
+      "content": "7.4 A party to a proceeding under this Act or a person who is subject to an order made under this Act shall provide complete, accurate and up-to-date information if required to do so under this Act."
+    },
+    {
+      "provision_ref": "s7.5",
+      "chapter": "Parties to a Proceeding",
+      "section": "7.5",
+      "title": "Duty to comply with orders",
+      "content": "7.5 For greater certainty, a person who is subject to an order made under this Act shall comply with the order until it is no longer in effect."
+    },
+    {
+      "provision_ref": "s7.6",
+      "chapter": "Parties to a Proceeding",
+      "section": "7.6",
+      "title": "Certification",
+      "content": "7.6 Every document that formally commences a proceeding under this Act, or that responds to such a document, that is filed with a court by a party to a proceeding shall contain a statement by the party certifying that they are aware of their duties under sections 7.1 to 7.5."
+    },
+    {
+      "provision_ref": "s7.7",
+      "chapter": "Legal Adviser",
+      "section": "7.7",
+      "title": "Reconciliation",
+      "content": "7.7 (1) Unless the circumstances of the case are of such a nature that it would clearly not be appropriate to do so, it is the duty of every legal adviser who undertakes to act on a spouse’s behalf in a divorce proceeding (a) to draw to the attention of the spouse the provisions of this Act that have as their object the reconciliation of spouses; and (b) to discuss with the spouse the possibility of the reconciliation of the spouses and to inform the spouse of the marriage counselling or guidance facilities known to the legal adviser that might be able to assist the spouses to achieve a reconciliation. (2) It is also the duty of every legal adviser who undertakes to act on a person’s behalf in any proceeding under this Act (a) to encourage the person to attempt to resolve the matters that may be the subject of an order under this Act through a family dispute resolution process, unless the circumstances of the case are of such a nature that it would clearly not be appropriate to do so; (b) to inform the person of the family justice services known to the legal adviser that might assist the person (i) in resolving the matters that may be the subject of an order under this Act, and (ii) in complying with any order or decision made under this Act; and (c) to inform the person of the parties’ duties under this Act. (3) Every document that formally commences a proceeding under this Act, or that responds to such a document, that is filed with a court by a legal adviser shall contain a statement by the legal adviser certifying that they have complied with this section."
+    },
+    {
+      "provision_ref": "s7.8",
+      "chapter": "Court",
+      "section": "7.8",
+      "title": "Purpose of section",
+      "content": "7.8 (1) The purpose of this section is to facilitate (a) the identification of orders, undertakings, recognizances, agreements or measures that may conflict with an order under this Act; and (b) the coordination of proceedings. (2) In a proceeding for corollary relief and in relation to any party to that proceeding, the court has a duty to consider if any of the following are pending or in effect, unless the circumstances of the case are of such a nature that it would clearly not be appropriate to do so: (a) a civil protection order or a proceeding in relation to such an order; (b) a child protection order, proceeding, agreement or measure; or (c) an order, proceeding, undertaking or recognizance in relation to any matter of a criminal nature. In order to carry out the duty, the court may make inquiries of the parties or review information that is readily available and that has been obtained through a search carried out in accordance with provincial law, including the rules made under subsection 25(2). (3) In this section, civil protection order means a civil order that is made to protect a person’s safety, including an order that prohibits a person from (a) being in physical proximity to a specified person or following a specified person from place to place; (b) contacting or communicating with a specified person, either directly or indirectly; (c) attending at or being within a certain distance of a specified place or location; (d) engaging in harassing or threatening conduct directed at a specified person; (e) occupying a family home or a residence; or (f) engaging in family violence."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Divorce",
+      "section": "8",
+      "title": "Divorce",
+      "content": "8 (1) A court of competent jurisdiction may, on application by either or both spouses, grant a divorce to the spouse or spouses on the ground that there has been a breakdown of their marriage. (2) Breakdown of a marriage is established only if (a) the spouses have lived separate and apart for at least one year immediately preceding the determination of the divorce proceeding and were living separate and apart at the commencement of the proceeding; or (b) the spouse against whom the divorce proceeding is brought has, since celebration of the marriage, (i) committed adultery, or (ii) treated the other spouse with physical or mental cruelty of such a kind as to render intolerable the continued cohabitation of the spouses. (3) For the purposes of paragraph (2)(a), (a) spouses shall be deemed to have lived separate and apart for any period during which they lived apart and either of them had the intention to live separate and apart from the other; and (b) a period during which spouses have lived separate and apart shall not be considered to have been interrupted or terminated (i) by reason only that either spouse has become incapable of forming or having an intention to continue to live separate and apart or of continuing to live separate and apart of the spouse’s own volition, if it appears to the court that the separation would probably have continued if the spouse had not become so incapable, or (ii) by reason only that the spouses have resumed cohabitation during a period of, or periods totalling, not more than ninety days with reconciliation as its primary purpose."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Divorce",
+      "section": "9",
+      "title": "Calculation of period of separation",
+      "content": "9 [Repealed, 2019, c. 16, s. 9] Previous Version"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Divorce",
+      "section": "10",
+      "title": "Duty of court — reconciliation",
+      "content": "10 (1) In a divorce proceeding, it is the duty of the court, before considering the evidence, to satisfy itself that there is no possibility of the reconciliation of the spouses, unless the circumstances of the case are of such a nature that it would clearly not be appropriate to do so. (2) Where at any stage in a divorce proceeding it appears to the court from the nature of the case, the evidence or the attitude of either or both spouses that there is a possibility of the reconciliation of the spouses, the court shall (a) adjourn the proceeding to afford the spouses an opportunity to achieve a reconciliation; and (b) with the consent of the spouses or in the discretion of the court, nominate (i) a person with experience or training in marriage counselling or guidance, or (ii) in special circumstances, some other suitable person, to assist the spouses to achieve a reconciliation. (3) Where fourteen days have elapsed from the date of any adjournment under subsection (2), the court shall resume the proceeding on the application of either or both spouses. (4) No person nominated by a court under this section to assist spouses to achieve a reconciliation is competent or compellable in any legal proceedings to disclose any admission or communication made to that person in his or her capacity as a nominee of the court for that purpose. (5) Evidence of anything said or of any admission or communication made in the course of assisting spouses to achieve a reconciliation is not admissible in any legal proceedings."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Divorce",
+      "section": "11",
+      "title": "Duty of court — bars",
+      "content": "11 (1) In a divorce proceeding, it is the duty of the court (a) to satisfy itself that there has been no collusion in relation to the application for a divorce and to dismiss the application if it finds that there was collusion in presenting it; (b) to satisfy itself that reasonable arrangements have been made for the support of any children of the marriage, having regard to the applicable guidelines, and, if such arrangements have not been made, to stay the granting of the divorce until such arrangements are made; and (c) where a divorce is sought in circumstances described in paragraph 8(2)(b), to satisfy itself that there has been no condonation or connivance on the part of the spouse bringing the proceeding, and to dismiss the application for a divorce if that spouse has condoned or connived at the act or conduct complained of unless, in the opinion of the court, the public interest would be better served by granting the divorce. (2) Any act or conduct that has been condoned is not capable of being revived so as to constitute a circumstance described in paragraph 8(2)(b). (3) For the purposes of this section, a continuation or resumption of cohabitation during a period of, or periods totalling, not more than ninety days with reconciliation as its primary purpose shall not be considered to constitute condonation. (4) In this section, collusion means an agreement or conspiracy to which an applicant for a divorce is either directly or indirectly a party for the purpose of subverting the administration of justice, and includes any agreement, understanding or arrangement to fabricate or suppress evidence or to deceive the court, but does not include an agreement to the extent that it provides for separation between the parties, financial support, division of property or the exercise of parenting time or decision-making responsibility. Previous Version"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Divorce",
+      "section": "12",
+      "title": "Effective date generally",
+      "content": "12 (1) Subject to this section, a divorce takes effect on the thirty-first day after the day on which the judgment granting the divorce is rendered. (2) Where, on or after rendering a judgment granting a divorce, (a) the court is of the opinion that by reason of special circumstances the divorce should take effect earlier than the thirty-first day after the day on which the judgment is rendered, and (b) the spouses agree and undertake that no appeal from the judgment will be taken, or any appeal from the judgment that was taken has been abandoned, the court may order that the divorce takes effect at such earlier time as it considers appropriate. (3) A divorce in respect of which an appeal is pending at the end of the period referred to in subsection (1), unless voided on appeal, takes effect on the expiration of the time fixed by law for instituting an appeal from the decision on that appeal or any subsequent appeal, if no appeal has been instituted within that time. (4) For the purposes of subsection (3), the time fixed by law for instituting an appeal from a decision on an appeal includes any extension thereof fixed pursuant to law before the expiration of that time or fixed thereafter on an application instituted before the expiration of that time. (5) Notwithstanding any other law, the time fixed by law for instituting an appeal from a decision referred to in subsection (3) may not be extended after the expiration of that time, except on an application instituted before the expiration of that time. (6) A divorce in respect of which an appeal has been taken to the Supreme Court of Canada, unless voided on the appeal, takes effect on the day on which the judgment on the appeal is rendered. (7) Where a divorce takes effect in accordance with this section, a judge or officer of the court that rendered the judgment granting the divorce or, where that judgment has been appealed, of the appellate court that rendered the judgment on the final appeal, shall, on request, issue to any person a certificate that a divorce granted under this Act dissolved the marriage of the specified persons effective as of a specified date. (8) A certificate referred to in subsection (7), or a certified copy thereof, is conclusive proof of the facts so certified without proof of the signature or authority of the person appearing to have signed the certificate."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Divorce",
+      "section": "13",
+      "title": "Legal effect throughout Canada",
+      "content": "13 On taking effect, a divorce granted under this Act has legal effect throughout Canada."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Divorce",
+      "section": "14",
+      "title": "Marriage dissolved",
+      "content": "14 On taking effect, a divorce granted under this Act dissolves the marriage of the spouses."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Corollary Relief",
+      "section": "15",
+      "title": "Marriage dissolved",
+      "content": "15 [Repealed, 2019, c. 16, s. 11] Previous Version"
+    },
+    {
+      "provision_ref": "s15.1",
+      "chapter": "Child Support Orders",
+      "section": "15.1",
+      "title": "Child support order",
+      "content": "15.1 (1) A court of competent jurisdiction may, on application by either or both spouses, make an order requiring a spouse to pay for the support of any or all children of the marriage. (2) Where an application is made under subsection (1), the court may, on application by either or both spouses, make an interim order requiring a spouse to pay for the support of any or all children of the marriage, pending the determination of the application under subsection (1). (3) A court making an order under subsection (1) or an interim order under subsection (2) shall do so in accordance with the applicable guidelines. (4) The court may make an order under subsection (1) or an interim order under subsection (2) for a definite or indefinite period or until a specified event occurs, and may impose terms, conditions or restrictions in connection with the order or interim order as it thinks fit and just. (5) Notwithstanding subsection (3), a court may award an amount that is different from the amount that would be determined in accordance with the applicable guidelines if the court is satisfied (a) that special provisions in an order, a judgment or a written agreement respecting the financial obligations of the spouses, or the division or transfer of their property, directly or indirectly benefit a child, or that special provisions have otherwise been made for the benefit of a child; and (b) that the application of the applicable guidelines would result in an amount of child support that is inequitable given those special provisions. (6) Where the court awards, pursuant to subsection (5), an amount that is different from the amount that would be determined in accordance with the applicable guidelines, the court shall record its reasons for having done so. (7) Notwithstanding subsection (3), a court may award an amount that is different from the amount that would be determined in accordance with the applicable guidelines on the consent of both spouses if it is satisfied that reasonable arrangements have been made for the support of the child to whom the order relates. (8) For the purposes of subsection (7), in determining whether reasonable arrangements have been made for the support of a child, the court shall have regard to the applicable guidelines. However, the court shall not consider the arrangements to be unreasonable solely because the amount of support agreed to is not the same as the amount that would otherwise have been determined in accordance with the applicable guidelines."
+    },
+    {
+      "provision_ref": "s15.2",
+      "chapter": "Spousal Support Orders",
+      "section": "15.2",
+      "title": "Spousal support order",
+      "content": "15.2 (1) A court of competent jurisdiction may, on application by either or both spouses, make an order requiring a spouse to secure or pay, or to secure and pay, such lump sum or periodic sums, or such lump sum and periodic sums, as the court thinks reasonable for the support of the other spouse. (2) Where an application is made under subsection (1), the court may, on application by either or both spouses, make an interim order requiring a spouse to secure or pay, or to secure and pay, such lump sum or periodic sums, or such lump sum and periodic sums, as the court thinks reasonable for the support of the other spouse, pending the determination of the application under subsection (1). (3) The court may make an order under subsection (1) or an interim order under subsection (2) for a definite or indefinite period or until a specified event occurs, and may impose terms, conditions or restrictions in connection with the order as it thinks fit and just. (4) In making an order under subsection (1) or an interim order under subsection (2), the court shall take into consideration the condition, means, needs and other circumstances of each spouse, including (a) the length of time the spouses cohabited; (b) the functions performed by each spouse during cohabitation; and (c) any order, agreement or arrangement relating to support of either spouse. (5) In making an order under subsection (1) or an interim order under subsection (2), the court shall not take into consideration any misconduct of a spouse in relation to the marriage. (6) An order made under subsection (1) or an interim order under subsection (2) that provides for the support of a spouse should (a) recognize any economic advantages or disadvantages to the spouses arising from the marriage or its breakdown; (b) apportion between the spouses any financial consequences arising from the care of any child of the marriage over and above any obligation for the support of any child of the marriage; (c) relieve any economic hardship of the spouses arising from the breakdown of the marriage; and (d) in so far as practicable, promote the economic self-sufficiency of each spouse within a reasonable period of time."
+    },
+    {
+      "provision_ref": "s15.3",
+      "chapter": "Priority",
+      "section": "15.3",
+      "title": "Priority to child support",
+      "content": "15.3 (1) Where a court is considering an application for a child support order and an application for a spousal support order, the court shall give priority to child support in determining the applications. (2) Where, as a result of giving priority to child support, the court is unable to make a spousal support order or the court makes a spousal support order in an amount that is less than it otherwise would have been, the court shall record its reasons for having done so. (3) Where, as a result of giving priority to child support, a spousal support order was not made, or the amount of a spousal support order is less than it otherwise would have been, any subsequent reduction or termination of that child support constitutes a change of circumstances for the purposes of applying for a spousal support order, or a variation order in respect of the spousal support order, as the case may be."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Best Interests of the Child",
+      "section": "16",
+      "title": "Best interests of child",
+      "content": "16 (1) The court shall take into consideration only the best interests of the child of the marriage in making a parenting order or a contact order. (2) When considering the factors referred to in subsection (3), the court shall give primary consideration to the child’s physical, emotional and psychological safety, security and well-being. (3) In determining the best interests of the child, the court shall consider all factors related to the circumstances of the child, including (a) the child’s needs, given the child’s age and stage of development, such as the child’s need for stability; (b) the nature and strength of the child’s relationship with each spouse, each of the child’s siblings and grandparents and any other person who plays an important role in the child’s life; (c) each spouse’s willingness to support the development and maintenance of the child’s relationship with the other spouse; (d) the history of care of the child; (e) the child’s views and preferences, giving due weight to the child’s age and maturity, unless they cannot be ascertained; (f) the child’s cultural, linguistic, religious and spiritual upbringing and heritage, including Indigenous upbringing and heritage; (g) any plans for the child’s care; (h) the ability and willingness of each person in respect of whom the order would apply to care for and meet the needs of the child; (i) the ability and willingness of each person in respect of whom the order would apply to communicate and cooperate, in particular with one another, on matters affecting the child; (j) any family violence and its impact on, among other things, (i) the ability and willingness of any person who engaged in the family violence to care for and meet the needs of the child, and (ii) the appropriateness of making an order that would require persons in respect of whom the order would apply to cooperate on issues affecting the child; and (k) any civil or criminal proceeding, order, condition, or measure that is relevant to the safety, security and well-being of the child. (4) In considering the impact of any family violence under paragraph (3)(j), the court shall take the following into account: (a) the nature, seriousness and frequency of the family violence and when it occurred; (b) whether there is a pattern of coercive and controlling behaviour in relation to a family member; (c) whether the family violence is directed toward the child or whether the child is directly or indirectly exposed to the family violence; (d) the physical, emotional and psychological harm or risk of harm to the child; (e) any compromise to the safety of the child or other family member; (f) whether the family violence causes the child or other family member to fear for their own safety or for that of another person; (g) any steps taken by the person engaging in the family violence to prevent further family violence from occurring and improve their ability to care for and meet the needs of the child; and (h) any other relevant factor. (5) In determining what is in the best interests of the child, the court shall not take into consideration the past conduct of any person unless the conduct is relevant to the exercise of their parenting time, decision-making responsibility or contact with the child under a contact order. (6) In allocating parenting time, the court shall give effect to the principle that a child should have as much time with each spouse as is consistent with the best interests of the child. (7) In this section, a parenting order includes an interim parenting order and a variation order in respect of a parenting order, and a contact order includes an interim contact order and a variation order in respect of a contact order. Previous Version"
+    },
+    {
+      "provision_ref": "s16.1",
+      "chapter": "Parenting Orders",
+      "section": "16.1",
+      "title": "Parenting order",
+      "content": "16.1 (1) A court of competent jurisdiction may make an order providing for the exercise of parenting time or decision-making responsibility in respect of any child of the marriage, on application by (a) either or both spouses; or (b) a person, other than a spouse, who is a parent of the child, stands in the place of a parent or intends to stand in the place of a parent. (2) The court may, on application by a person described in subsection (1), make an interim parenting order in respect of the child, pending the determination of an application made under that subsection. (3) A person described in paragraph (1)(b) may make an application under subsection (1) or (2) only with leave of the court. (4) The court may, in the order, (a) allocate parenting time in accordance with section 16.2; (b) allocate decision-making responsibility in accordance with section 16.3; (c) include requirements with respect to any means of communication, that is to occur during the parenting time allocated to a person, between a child and another person to whom parenting time or decision-making responsibility is allocated; and (d) provide for any other matter that the court considers appropriate. (5) The court may make an order for a definite or indefinite period or until a specified event occurs, and may impose any terms, conditions and restrictions that it considers appropriate. (6) Subject to provincial law, the order may direct the parties to attend a family dispute resolution process. (7) The order may authorize or prohibit the relocation of the child. (8) The order may require that parenting time or the transfer of the child from one person to another be supervised. (9) The order may prohibit the removal of a child from a specified geographic area without the written consent of any specified person or without a court order authorizing the removal."
+    },
+    {
+      "provision_ref": "s16.2",
+      "chapter": "Parenting Orders",
+      "section": "16.2",
+      "title": "Parenting time — schedule",
+      "content": "16.2 (1) Parenting time may be allocated by way of a schedule. (2) Unless the court orders otherwise, a person to whom parenting time is allocated under paragraph 16.1(4)(a) has exclusive authority to make, during that time, day-to-day decisions affecting the child."
+    },
+    {
+      "provision_ref": "s16.3",
+      "chapter": "Parenting Orders",
+      "section": "16.3",
+      "title": "Allocation of decision-making responsibility",
+      "content": "16.3 Decision-making responsibility in respect of a child, or any aspect of that responsibility, may be allocated to either spouse, to both spouses, to a person described in paragraph 16.1(1)(b), or to any combination of those persons."
+    },
+    {
+      "provision_ref": "s16.4",
+      "chapter": "Parenting Orders",
+      "section": "16.4",
+      "title": "Entitlement to information",
+      "content": "16.4 Unless the court orders otherwise, any person to whom parenting time or decision-making responsibility has been allocated is entitled to request from another person to whom parenting time or decision-making responsibility has been allocated information about the child’s well-being, including in respect of their health and education, or from any other person who is likely to have such information, and to be given such information by those persons subject to any applicable laws."
+    },
+    {
+      "provision_ref": "s16.5",
+      "chapter": "Contact Orders",
+      "section": "16.5",
+      "title": "Contact order",
+      "content": "16.5 (1) A court of competent jurisdiction may, on application by a person other than a spouse, make an order providing for contact between that person and a child of the marriage. (2) The court may, on application by a person referred to in subsection (1), make an interim order providing for contact between that person and the child, pending the determination of the application made under that subsection. (3) A person may make an application under subsection (1) or (2) only with leave of the court, unless they obtained leave of the court to make an application under section 16.1. (4) In determining whether to make a contact order under this section, the court shall consider all relevant factors, including whether contact between the applicant and the child could otherwise occur, for example during the parenting time of another person. (5) The court may, in the contact order, (a) provide for contact between the applicant and the child in the form of visits or by any means of communication; and (b) provide for any other matter that the court considers appropriate. (6) The court may make a contact order for a definite or indefinite period or until a specified event occurs, and may impose any terms, conditions and restrictions that it considers appropriate. (7) The order may require that the contact or transfer of the child from one person to another be supervised. (8) The order may provide that a child shall not be removed from a specified geographic area without the written consent of any specified person or without a court order authorizing the removal. (9) If a parenting order in respect of the child has already been made, the court may make an order varying the parenting order to take into account a contact order it makes under this section, and subsections 17(3) and (11) apply as a consequence with any necessary modifications."
+    },
+    {
+      "provision_ref": "s16.6",
+      "chapter": "Parenting Plan",
+      "section": "16.6",
+      "title": "Parenting plan",
+      "content": "16.6 (1) The court shall include in a parenting order or a contact order, as the case may be, any parenting plan submitted by the parties unless, in the opinion of the court, it is not in the best interests of the child to do so, in which case the court may make any modifications to the plan that it considers appropriate and include it in the order. (2) In subsection (1), parenting plan means a document or part of a document that contains the elements relating to parenting time, decision-making responsibility or contact to which the parties agree."
+    },
+    {
+      "provision_ref": "s16.7",
+      "chapter": "Change in Place of Residence",
+      "section": "16.7",
+      "title": "Non-application",
+      "content": "16.7 Section 16.8 does not apply to a change in the place of residence that is a relocation."
+    },
+    {
+      "provision_ref": "s16.8",
+      "chapter": "Change in Place of Residence",
+      "section": "16.8",
+      "title": "Notice",
+      "content": "16.8 (1) A person who has parenting time or decision-making responsibility in respect of a child of the marriage and who intends to change their place of residence or that of the child shall notify any other person who has parenting time, decision-making responsibility or contact under a contact order in respect of that child of their intention. (2) The notice shall be given in writing and shall set out (a) the date on which the change is expected to occur; and (b) the address of the new place of residence and contact information of the person or child, as the case may be. (3) Despite subsections (1) and (2), the court may, on application, provide that the requirements in those subsections do not apply or may modify them, including where there is a risk of family violence. (4) An application referred to in subsection (3) may be made without notice to any other party."
+    },
+    {
+      "provision_ref": "s16.9",
+      "chapter": "Relocation",
+      "section": "16.9",
+      "title": "Notice",
+      "content": "16.9 (1) A person who has parenting time or decision-making responsibility in respect of a child of the marriage and who intends to undertake a relocation shall notify, at least 60 days before the expected date of the proposed relocation and in the form prescribed by the regulations, any other person who has parenting time, decision-making responsibility or contact under a contact order in respect of that child of their intention. (2) The notice must set out (a) the expected date of the relocation; (b) the address of the new place of residence and contact information of the person or child, as the case may be; (c) a proposal as to how parenting time, decision-making responsibility or contact, as the case may be, could be exercised; and (d) any other information prescribed by the regulations. (3) Despite subsections (1) and (2), the court may, on application, provide that the requirements in those subsections, or in the regulations made for the purposes of those subsections, do not apply or may modify them, including where there is a risk of family violence. (4) An application referred to in subsection (3) may be made without notice to any other party."
+    },
+    {
+      "provision_ref": "s16.91",
+      "chapter": "Relocation",
+      "section": "16.91",
+      "title": "Relocation authorized",
+      "content": "16.91 (1) A person who has given notice under section 16.9 and who intends to relocate a child may do so as of the date referred to in the notice if (a) the relocation is authorized by a court; or (b) the following conditions are satisfied: (i) the person with parenting time or decision-making responsibility in respect of the child who has received a notice under subsection 16.9(1) does not object to the relocation within 30 days after the day on which the notice is received, by setting out their objection in (A) a form prescribed by the regulations, or (B) an application made under subsection 16.1(1) or paragraph 17(1)(b), and (ii) there is no order prohibiting the relocation. (2) The form must set out (a) a statement that the person objects to the proposed relocation; (b) the reasons for the objection; (c) the person’s views on the proposal for the exercise of parenting time, decision-making responsibility or contact, as the case may be, that is set out in the notice referred to in subsection 16.9(1); and (d) any other information prescribed by the regulations."
+    },
+    {
+      "provision_ref": "s16.92",
+      "chapter": "Relocation",
+      "section": "16.92",
+      "title": "Best interests of child — additional factors to be considered",
+      "content": "16.92 (1) In deciding whether to authorize a relocation of a child of the marriage, the court shall, in order to determine what is in the best interests of the child, take into consideration, in addition to the factors referred to in section 16, (a) the reasons for the relocation; (b) the impact of the relocation on the child; (c) the amount of time spent with the child by each person who has parenting time or a pending application for a parenting order and the level of involvement in the child’s life of each of those persons; (d) whether the person who intends to relocate the child complied with any applicable notice requirement under section 16.9, provincial family law legislation, an order, arbitral award, or agreement; (e) the existence of an order, arbitral award, or agreement that specifies the geographic area in which the child is to reside; (f) the reasonableness of the proposal of the person who intends to relocate the child to vary the exercise of parenting time, decision-making responsibility or contact, taking into consideration, among other things, the location of the new place of residence and the travel expenses; and (g) whether each person who has parenting time or decision-making responsibility or a pending application for a parenting order has complied with their obligations under family law legislation, an order, arbitral award, or agreement, and the likelihood of future compliance. (2) In deciding whether to authorize a relocation of the child, the court shall not consider, if the child’s relocation was prohibited, whether the person who intends to relocate the child would relocate without the child or not relocate."
+    },
+    {
+      "provision_ref": "s16.93",
+      "chapter": "Relocation",
+      "section": "16.93",
+      "title": "Burden of proof — person who intends to relocate child",
+      "content": "16.93 (1) If the parties to the proceeding substantially comply with an order, arbitral award, or agreement that provides that a child of the marriage spend substantially equal time in the care of each party, the party who intends to relocate the child has the burden of proving that the relocation would be in the best interests of the child. (2) If the parties to the proceeding substantially comply with an order, arbitral award or agreement that provides that a child of the marriage spends the vast majority of their time in the care of the party who intends to relocate the child, the party opposing the relocation has the burden of proving that the relocation would not be in the best interests of the child. (3) In any other case, the parties to the proceeding have the burden of proving whether the relocation is in the best interests of the child."
+    },
+    {
+      "provision_ref": "s16.94",
+      "chapter": "Relocation",
+      "section": "16.94",
+      "title": "Power of court — interim order",
+      "content": "16.94 A court may decide not to apply subsections 16.93(1) and (2) if the order referred to in those subsections is an interim order."
+    },
+    {
+      "provision_ref": "s16.95",
+      "chapter": "Relocation",
+      "section": "16.95",
+      "title": "Costs relating to exercise of parenting time",
+      "content": "16.95 If a court authorizes the relocation of a child of the marriage, it may provide for the apportionment of costs relating to the exercise of parenting time by a person who is not relocating between that person and the person who is relocating the child."
+    },
+    {
+      "provision_ref": "s16.96",
+      "chapter": "Relocation",
+      "section": "16.96",
+      "title": "Notice — persons with contact",
+      "content": "16.96 (1) A person who has contact with a child of the marriage under a contact order shall notify, in writing, any person with parenting time or decision-making responsibility in respect of that child of their intention to change their place of residence, the date on which the change is expected to occur, the address of their new place of residence and their contact information. (2) If the change is likely to have a significant impact on the child’s relationship with the person, the notice shall be given at least 60 days before the change in place of residence, in the form prescribed by the regulations, and shall set out, in addition to the information required in subsection (1), a proposal as to how contact could be exercised in light of the change and any other information prescribed by the regulations. (3) Despite subsections (1) and (2), the court may, on application, order that the requirements in those subsections, or in the regulations made for the purposes of those subsections, do not apply or modify them, if the court is of the opinion that it is appropriate to do so, including where there is a risk of family violence. (4) An application referred to in subsection (3) may be made without notice to any other party."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Variation, Rescission or Suspension of Orders",
+      "section": "17",
+      "title": "Variation order",
+      "content": "17 (1) A court of competent jurisdiction may make an order varying, rescinding or suspending, retroactively or prospectively, (a) a support order or any provision of one, on application by either or both former spouses; (b) a parenting order or any provision of one, on application by (i) either or both former spouses, or (ii) a person, other than a former spouse, who is a parent of the child, stands in the place of a parent or intends to stand in the place of a parent; or (c) a contact order or any provision of one, on application by a person to whom the order relates. (2) A person to whom the parenting order in question does not relate may make an application under subparagraph (1)(b)(ii) only with leave of the court. (2.1) If the court makes a variation order in respect of a contact order, it may make an order varying the parenting order to take into account that variation order, and subsections (3) and (11) apply as a consequence with any necessary modifications. (2.2) If the court makes a variation order in respect of a parenting order, it may make an order varying any contact order to take into account that variation order, and subsections (3) and (11) apply as a consequence with any necessary modifications. (3) The court may include in a variation order any provision that under this Act could have been included in the order in respect of which the variation order is sought, and the court has the same powers and obligations that it would have when making that order. (4) Before the court makes a variation order in respect of a child support order, the court shall satisfy itself that a change of circumstances as provided for in the applicable guidelines has occurred since the making of the child support order or the last variation order made in respect of that order. (4.1) Before the court makes a variation order in respect of a spousal support order, the court shall satisfy itself that a change in the condition, means, needs or other circumstances of either former spouse has occurred since the making of the spousal support order or the last variation order made in respect of that order, and, in making the variation order, the court shall take that change into consideration. (5) Before the court makes a variation order in respect of a parenting order or contact order, the court shall satisfy itself that there has been a change in the circumstances of the child since the making of the order or the last variation order made in respect of the order, or of an order made under subsection 16.5(9). (5.1) For the purposes of subsection (5), a former spouse’s terminal illness or critical condition shall be considered a change in the circumstances of the child, and the court shall make a variation order in respect of a parenting order with regard to the allocation of parenting time. (5.2) The relocation of a child is deemed to constitute a change in the circumstances of the child for the purposes of subsection (5). (5.3) A relocation of a child that has been prohibited by a court under paragraph (1)(b) or section 16.1 does not, in itself, constitute a change in the circumstances of the child for the purposes of subsection (5). (6) In making a variation order, the court shall not take into consideration any conduct that under this Act could not have been considered in making the order in respect of which the variation order is sought. (6.1) A court making a variation order in respect of a child support order shall do so in accordance with the applicable guidelines. (6.2) Notwithstanding subsection (6.1), in making a variation order in respect of a child support order, a court may award an amount that is different from the amount that would be determined in accordance with the applicable guidelines if the court is satisfied (a) that special provisions in an order, a judgment or a written agreement respecting the financial obligations of the spouses, or the division or transfer of their property, directly or indirectly benefit a child, or that special provisions have otherwise been made for the benefit of a child; and (b) that the application of the applicable guidelines would result in an amount of child support that is inequitable given those special provisions. (6.3) Where the court awards, pursuant to subsection (6.2), an amount that is different from the amount that would be determined in accordance with the applicable guidelines, the court shall record its reasons for having done so. (6.4) Notwithstanding subsection (6.1), a court may award an amount that is different from the amount that would be determined in accordance with the applicable guidelines on the consent of both spouses if it is satisfied that reasonable arrangements have been made for the support of the child to whom the order relates. (6.5) For the purposes of subsection (6.4), in determining whether reasonable arrangements have been made for the support of a child, the court shall have regard to the applicable guidelines. However, the court shall not consider the arrangements to be unreasonable solely because the amount of support agreed to is not the same as the amount that would otherwise have been determined in accordance with the applicable guidelines. (6.6) Section 15.3 applies, with any necessary modifications, when a court is considering an application under paragraph (1)(a) in respect of a child support order and an application under that paragraph in respect of a spousal support order. (7) A variation order varying a spousal support order should (a) recognize any economic advantages or disadvantages to the former spouses arising from the marriage or its breakdown; (b) apportion between the former spouses any financial consequences arising from the care of any child of the marriage over and above any obligation for the support of any child of the marriage; (c) relieve any economic hardship of the former spouses arising from the breakdown of the marriage; and (d) in so far as practicable, promote the economic self-sufficiency of each former spouse within a reasonable period of time. (8) [Repealed, 1997, c. 1, s. 5] (9) [Repealed, 2019, c. 16, s. 13] (10) Notwithstanding subsection (1), where a spousal support order provides for support for a definite period or until a specified event occurs, a court may not, on an application instituted after the expiration of that period or the occurrence of the event, make a variation order for the purpose of resuming that support unless the court is satisfied that (a) a variation order is necessary to relieve economic hardship arising from a change described in subsection (4.1) that is related to the marriage; and (b) the changed circumstances, had they existed at the time of the making of the spousal support order or the last variation order made in respect of that order, as the case may be, would likely have resulted in a different order. (11) Where a court makes a variation order in respect of a support order, parenting order or contact order made by another court, it shall send a copy of the variation order, certified by a judge or officer of the court, to that other court. Previous Version"
+    },
+    {
+      "provision_ref": "s17.1",
+      "chapter": "Variation, Rescission or Suspension of Orders",
+      "section": "17.1",
+      "title": "Copy of order",
+      "content": "17.1 [Repealed, 2019, c. 16, s. 14] Previous Version"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Proceedings Between Provinces and Between a Province and a Designated Jurisdiction To Obtain, Vary, Rescind or Suspend Support Orders or To Recognize Decisions of Designated Jurisdictions",
+      "section": "18",
+      "title": "Definitions",
+      "content": "18 The following definitions apply in this section and in sections 18.1 to 19.1. competent authority competent authority means a court that has the authority to make an order or another entity that has the authority to make a decision with respect to support under this Act. ( autorité compétente ) designated authority designated authority means a person or entity that is designated by a province to exercise the powers or perform the duties and functions set out in sections 18.1 to 19.1 within the province. ( autorité désignée ) designated jurisdiction designated jurisdiction means a jurisdiction outside Canada — whether a country or a political subdivision of a country — that is designated under an Act that relates to the reciprocal enforcement of orders relating to support, of the province in which either of the former spouses resides. ( État désigné ) responsible authority responsible authority means a person or entity that, in a designated jurisdiction, performs functions that are similar to those performed by the designated authority under subsection 19(4). ( autorité responsable ) Previous Version Inter-Jurisdictional Proceedings Between Provinces Receipt and Sending of Applications"
+    },
+    {
+      "provision_ref": "s18.1",
+      "chapter": "Proceedings Between Provinces and Between a Province and a Designated Jurisdiction To Obtain, Vary, Rescind or Suspend Support Orders or To Recognize Decisions of Designated Jurisdictions",
+      "section": "18.1",
+      "title": "If former spouses reside in different provinces",
+      "content": "18.1 (1) If the former spouses are resident in different provinces, either of them may, without notice to the other, (a) commence a proceeding to obtain, vary, rescind or suspend, retroactively or prospectively, a support order; or (b) request to have the amount of child support calculated or recalculated, if the provincial child support service in the province in which the other former spouse habitually resides provides such a service. (2) A proceeding referred to in paragraph (1)(a) shall be governed by this section, sections 18.2 and 18.3 and provincial law, with any necessary modifications, to the extent that the provincial law is not inconsistent with this Act. (3) For the purpose of subsection (1), a former spouse shall submit an application to the designated authority of the province in which they are resident. (4) After reviewing the application and ensuring that it is complete, the designated authority referred to in subsection (3) shall send it to the designated authority of the province in which the applicant believes the respondent is habitually resident. (5) Subject to subsection (9), the designated authority that receives the application under subsection (4) shall send it to the competent authority in its province. (6) If the competent authority is a provincial child support service, the amount of child support shall be calculated or recalculated in accordance with section 25.01 or 25.1, as the case may be. (7) If the competent authority is a court, it or any other person who is authorized to serve documents under the law of the province shall, on receipt of the application, serve the respondent with a copy of the application and a notice setting out the manner in which the respondent shall respond to the application and the respondent’s obligation to provide documents or information as required by the applicable law. (8) If the court or authorized person was unable to serve the documents under subsection (7), they shall return the application to the designated authority referred to in subsection (5). (9) If the designated authority knows that the respondent is habitually resident in another province, it shall send the application to the designated authority of that province. (10) If the habitual residence of the respondent is unknown, the designated authority shall return the application to the designated authority referred to in subsection (3). (11) Service of the notice and documents or information referred to in subsection (7) on the applicant is not required. (12) If the court requires further evidence, it shall adjourn the proceeding. Prior to adjourning, the court may make an interim order. (13) If the court requires further evidence from the applicant, it shall request the designated authority of the province in which the court is located to communicate with the applicant or the designated authority in the province of the applicant in order to obtain the evidence. (14) If the further evidence required under subsection (13) is not received by the court within 12 months after the day on which the court makes a request to the designated authority, the court may dismiss the application referred to in subsection (3) and terminate the interim order. The dismissal of the application does not preclude the applicant from making a new application. (15) The court may, on the basis of the evidence and the submissions of the former spouses, whether presented orally before the court or by affidavit or any means of telecommunication permitted by the rules regulating the practice and procedure in that court, make a support order or an order varying, rescinding or suspending a support order, retroactively or prospectively. (16) Subsections 15.1(3) to (8) and 15.2(3) to (6), section 15.3 and subsections 17(3) to (4.1), (6) to (7), (10) and (11) apply, with any necessary modifications, in respect of an order referred to in subsection (15). (17) For greater certainty, if a court receives a document under this section that is in a form that is different from that required by the rules regulating the practice and procedure in that court, or that contains terminology that is different from that used in this Act or the regulations, the court shall give a broad interpretation to the document for the purpose of giving effect to it. Conversion of Applications"
+    },
+    {
+      "provision_ref": "s18.2",
+      "chapter": "Proceedings Between Provinces and Between a Province and a Designated Jurisdiction To Obtain, Vary, Rescind or Suspend Support Orders or To Recognize Decisions of Designated Jurisdictions",
+      "section": "18.2",
+      "title": "Application to court",
+      "content": "18.2 (1) If an application is made to a court in a province under paragraph 17(1)(a) for a variation order in respect of a support order and the respondent habitually resides in a different province, the respondent may, within 40 days after being served with the application, request that the court convert the application into an application under subsection 18.1(3). (2) Subject to subsection (3) and despite section 5, the court that receives the request shall direct that the application made under paragraph 17(1)(a), along with the evidence in support of it, be considered as an application under subsection 18.1(3), and shall send a copy of the application and of the evidence to the designated authority of the province in which the application was made. (3) If the application under paragraph 17(1)(a) is accompanied by an application under paragraph 17(1)(b) for a variation order in respect of a parenting order, the court that receives the request shall issue the direction referred to in subsection (2) only if it considers it appropriate to do so in the circumstances. (4) Once the designated authority receives the copy of the application under subsection (2), subsections 18.1(2), (4), (5), (7) and (12) to (17) apply, with any necessary modifications, in respect of that application."
+    },
+    {
+      "provision_ref": "s18.3",
+      "chapter": "Proceedings Between Provinces and Between a Province and a Designated Jurisdiction To Obtain, Vary, Rescind or Suspend Support Orders or To Recognize Decisions of Designated Jurisdictions",
+      "section": "18.3",
+      "title": "No action by respondent",
+      "content": "18.3 (1) If an application is made to a court in a province under paragraph 17(1)(a) for a variation order in respect of a support order, the respondent habitually resides in a different province and the respondent does not file an answer to the application or request a conversion under subsection 18.2(1), the court to which the application was made (a) shall hear and determine the application in accordance with section 17 in the respondent’s absence, if it is satisfied that there is sufficient evidence to do so; or (b) if it is not so satisfied, may direct, despite section 5, that the application, along with the evidence in support of it, be considered as an application under subsection 18.1(3), in which case it shall send a copy of the application and of the evidence to the designated authority of the province in which the application was made. (2) Before the court hears and determines an application under paragraph (1)(a), the court shall take into consideration (a) whether the support order has been assigned under subsection 20.1(1); and (b) if the support order has been assigned, whether the order assignee received notice of the application and did not request a conversion under subsection 18.2(1). (3) If paragraph (1)(b) applies, then subsections 18.1(2), (4), (5), (7) and (12) to (17) apply, with any necessary modifications, in respect of the application. Proceedings Between a Province and a Designated Jurisdiction Receipt and Sending of Designated Jurisdictions’ Applications"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Proceedings Between Provinces and Between a Province and a Designated Jurisdiction To Obtain, Vary, Rescind or Suspend Support Orders or To Recognize Decisions of Designated Jurisdictions",
+      "section": "19",
+      "title": "If applicant resides in designated jurisdiction",
+      "content": "19 (1) A former spouse who is resident in a designated jurisdiction may, without notice to the other former spouse, (a) commence a proceeding to obtain, vary, rescind or suspend, retroactively or prospectively, a support order; or (b) request to have the amount of child support calculated or recalculated, if the provincial child support service in the province in which the other former spouse habitually resides provides such a service. (2) A proceeding referred to in paragraph (1)(a) shall be governed by this section and provincial law, with any necessary modifications, to the extent that the provincial law is not inconsistent with this Act. (3) For the purposes of subsection (1), a former spouse shall submit, through the responsible authority in the designated jurisdiction, an application to the designated authority of the province in which the applicant believes the respondent is habitually resident. (4) After reviewing the application and ensuring that it is complete, the designated authority referred to in subsection (3) shall send it to the competent authority in its province. (5) If the competent authority is a provincial child support service, the amount of child support shall be calculated or recalculated in accordance with section 25.01 or 25.1, as the case may be. (6) If the competent authority is a court, it or any other person who is authorized to serve documents under the law of the province shall, on receipt of the application, serve the respondent with a copy of the application and a notice setting out the manner in which the respondent shall respond to the application and the respondent’s obligation to provide documents or information as required by the applicable law. (7) If the court or authorized person was unable to serve the documents under subsection (6), they shall return the application to the designated authority referred to in subsection (3). (8) The designated authority shall return the application to the responsible authority in the designated jurisdiction. (9) Service of the notice and documents or information referred to in subsection (6) on the applicant is not required. (10) If the court requires further evidence, it shall adjourn the proceeding. Prior to adjourning, the court may make an interim order. (11) If the court requires further evidence from the applicant, it shall request the designated authority of the province in which the court is located to communicate with the applicant or the responsible authority in the designated jurisdiction in order to obtain the evidence. (12) If the further evidence required under subsection (11) is not received by the court within 12 months after the day on which the court makes the request to the designated authority, the court may dismiss the application referred to in subsection (3) and terminate the interim order. The dismissal of the application does not preclude the applicant from making a new application. (13) The court may, on the basis of the evidence and the submissions of the former spouses, whether presented orally before the court or by affidavit or any means of telecommunication permitted by the rules regulating the practice and procedure in that court, make a support order or an order varying, rescinding or suspending a support order, retroactively or prospectively. (14) For greater certainty, if an application under paragraph (1)(a) contains a provisional order that was made in the designated jurisdiction and does not have legal effect in Canada, the court may take the provisional order into consideration but is not bound by it. (15) Subsections 15.1(3) to (8) and 15.2(3) to (6), section 15.3 and subsections 17(3) to (4.1), (6) to (7), (10) and (11) apply, with any necessary modifications, in respect of an order referred to in subsection (13). (16) For greater certainty, if a court receives a document under this section that is in a form that is different from that required by the rules regulating the practice and procedure in that court, or that contains terminology that is different from that used in this Act or the regulations, the court shall give a broad interpretation to the document for the purpose of giving effect to it. Previous Version Recognition of Decisions of Designated Jurisdiction"
+    },
+    {
+      "provision_ref": "s19.1",
+      "chapter": "Proceedings Between Provinces and Between a Province and a Designated Jurisdiction To Obtain, Vary, Rescind or Suspend Support Orders or To Recognize Decisions of Designated Jurisdictions",
+      "section": "19.1",
+      "title": "Recognition of decision of designated jurisdiction varying support order",
+      "content": "19.1 (1) A former spouse who is resident in a designated jurisdiction may, through the responsible authority in the designated jurisdiction, make an application to the designated authority of the province in which the respondent habitually resides for recognition and, if applicable, for enforcement, of a decision of the designated jurisdiction that has the effect of varying a support order. (2) The decision of the designated jurisdiction shall be registered in accordance with the law of the province and that law, including the laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada, applies in respect of the recognition of the decision. (3) A decision that is recognized in accordance with the law of the province is deemed to be an order made under section 17, has legal effect throughout Canada and may be enforced in any manner provided for by the law of that province, including its laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Legal Effect, Enforcement, Compliance and Assignment",
+      "section": "20",
+      "title": "Enforcement",
+      "content": "20 (1) In this section, court , in respect of a province, has the meaning assigned by subsection 2(1) and includes such other court having jurisdiction in the province as is designated by the Lieutenant Governor in Council of the province as a court for the purposes of this section. (2) An order made under this Act in respect of support, parenting time, decision-making responsibility or contact and a provincial child support service decision that calculates or recalculates the amount of child support under section 25.01 or 25.1 have legal effect throughout Canada. (3) An order or decision that has legal effect throughout Canada under subsection (2) may be (a) registered in any court in a province and enforced in like manner as an order of that court; or (b) enforced in a province in any other manner provided for by the laws of that province, including its laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada. (4) Notwithstanding subsection (3), a court may only vary an order that has legal effect throughout Canada pursuant to subsection (2) in accordance with this Act. Previous Version"
+    },
+    {
+      "provision_ref": "s20.1",
+      "chapter": "Legal Effect, Enforcement, Compliance and Assignment",
+      "section": "20.1",
+      "title": "Assignment of order",
+      "content": "20.1 (1) A support order may be assigned to (a) any minister of the Crown for Canada designated by the Governor in Council; (b) any minister of the Crown for a province, or any agency in a province, designated by the Lieutenant Governor in Council of the province; (c) any member of the Legislative Assembly of Yukon, or any agency in Yukon, designated by the Commissioner of Yukon; (d) any member of the Legislative Assembly of the Northwest Territories, or any agency in the Northwest Territories, designated by the Commissioner of the Northwest Territories; (e) any member of the Legislative Assembly of Nunavut, or any agency in Nunavut, designated by the Commissioner of Nunavut; or (f) a public body referred to in Article 36 of the 2007 Convention , as defined in section 28. (2) A minister, member or agency referred to in subsection (1) to whom an order is assigned is entitled to the payments due under the order, and has the same right to be notified of, and to participate in, proceedings under this Act to vary, rescind, suspend or enforce the order as the person who would otherwise be entitled to the payments. (3) A public body referred to in paragraph (1)(f) to whom a decision of a State Party that has the effect of varying a child support order has been assigned is entitled to the payments due under the decision, and has the same right to participate in proceedings under this Act, to recognize and enforce the decision or if the recognition of this decision is not possible, to obtain a variation order, as the person who would otherwise be entitled to the payments. (4) For the purpose of subsection (3), State Party has the same meaning as in section 28. Previous Version"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Appeals",
+      "section": "21",
+      "title": "Appeal to appellate court",
+      "content": "21 (1) Subject to subsections (2) and (3), an appeal lies to the appellate court from any judgment or order, whether final or interim, rendered or made by a court under this Act. (2) No appeal lies from a judgment granting a divorce on or after the day on which the divorce takes effect. (3) No appeal lies from an order made under this Act more than thirty days after the day on which the order was made. (4) An appellate court or a judge thereof may, on special grounds, either before or after the expiration of the time fixed by subsection (3) for instituting an appeal, by order extend that time. (5) The appellate court may (a) dismiss the appeal; or (b) allow the appeal and (i) render the judgment or make the order that ought to have been rendered or made, including such order or such further or other order as it deems just, or (ii) order a new hearing where it deems it necessary to do so to correct a substantial wrong or miscarriage of justice. (6) Except as otherwise provided by this Act or the rules or regulations, an appeal under this section shall be asserted, heard and decided according to the ordinary procedure governing appeals to the appellate court from the court rendering the judgment or making the order being appealed."
+    },
+    {
+      "provision_ref": "s21.1",
+      "chapter": "General",
+      "section": "21.1",
+      "title": "Procedure on appeals",
+      "content": "21.1 (1) [Repealed, 2019, c. 16, s. 17] (2) In any proceedings under this Act, a spouse (in this section referred to as the “deponent”) may serve on the other spouse and file with the court an affidavit indicating (a) that the other spouse is the spouse of the deponent; (b) the date and place of the marriage, and the official character of the person who solemnized the marriage; (c) the nature of any barriers to the remarriage of the deponent within the deponent’s religion the removal of which is within the other spouse’s control; (d) where there are any barriers to the remarriage of the other spouse within the other spouse’s religion the removal of which is within the deponent’s control, that the deponent (i) has removed those barriers, and the date and circumstances of that removal, or (ii) has signified a willingness to remove those barriers, and the date and circumstances of that signification; (e) that the deponent has, in writing, requested the other spouse to remove all of the barriers to the remarriage of the deponent within the deponent’s religion the removal of which is within the other spouse’s control; (f) the date of the request described in paragraph (e); and (g) that the other spouse, despite the request described in paragraph (e), has failed to remove all of the barriers referred to in that paragraph. (3) Where a spouse who has been served with an affidavit under subsection (2) does not (a) within fifteen days after that affidavit is filed with the court or within such longer period as the court allows, serve on the deponent and file with the court an affidavit indicating that all of the barriers referred to in paragraph (2)(e) have been removed, and (b) satisfy the court, in any additional manner that the court may require, that all of the barriers referred to in paragraph (2)(e) have been removed, the court may, subject to any terms that the court considers appropriate, (c) dismiss any application filed by that spouse under this Act, and (d) strike out any other pleadings and affidavits filed by that spouse under this Act. (4) Without limiting the generality of the court’s discretion under subsection (3), the court may refuse to exercise its powers under paragraphs (3)(c) and (d) where a spouse who has been served with an affidavit under subsection (2) (a) within fifteen days after that affidavit is filed with the court or within such longer period as the court allows, serves on the deponent and files with the court an affidavit indicating genuine grounds of a religious or conscientious nature for refusing to remove the barriers referred to in paragraph (2)(e); and (b) satisfies the court, in any additional manner that the court may require, that the spouse has genuine grounds of a religious or conscientious nature for refusing to remove the barriers referred to in paragraph (2)(e). (5) For the purposes of this section, an affidavit filed with the court by a spouse must, in order to be valid, indicate the date on which it was served on the other spouse. (6) This section does not apply where the power to remove the barrier to religious remarriage lies with a religious body or official. Previous Version"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "General",
+      "section": "22",
+      "title": "Recognition of foreign divorce",
+      "content": "22 (1) A divorce granted, on or after the coming into force of this Act, by a competent authority shall be recognized for the purpose of determining the marital status in Canada of any person, if either former spouse was habitually resident in the country or subdivision of the competent authority for at least one year immediately preceding the commencement of proceedings for the divorce. (2) A divorce granted after July 1, 1968 by a competent authority, on the basis of the domicile of the wife in the country or subdivision of the competent authority, determined as if she were unmarried and, if she was a minor, as if she had attained the age of majority, shall be recognized for the purpose of determining the marital status in Canada of any person. (3) Nothing in this section abrogates or derogates from any other rule of law respecting the recognition of divorces granted otherwise than under this Act. Previous Version"
+    },
+    {
+      "provision_ref": "s22.1",
+      "chapter": "General",
+      "section": "22.1",
+      "title": "Recognition of foreign order that varies parenting or contact order",
+      "content": "22.1 (1) On application by an interested person, a court in a province that has a sufficient connection with the matter shall recognize a decision made by a competent authority that has the effect of varying, rescinding or suspending a parenting order or contact order, unless (a) the child concerned is not habitually resident in the country other than Canada in which the competent authority is located or that competent authority of that other country would not have had jurisdiction if it applied substantially equivalent rules related to the jurisdiction as those that are set out in section 6.3; (b) the decision was made, except in an urgent case, without the child having been provided with the opportunity to be heard, in violation of fundamental principles of procedure of the province; (c) a person claims that the decision negatively affects the exercise of their parenting time or decision-making responsibility or contact under a contact order, and the decision was made, except in an urgent case, without the person having been given an opportunity to be heard; (d) recognition of the decision would be manifestly contrary to public policy, taking into consideration the best interests of the child; or (e) the decision is incompatible with a later decision that fulfils the requirements for recognition under this section. (2) The court’s decision recognizing the competent authority’s decision is deemed to be an order made under section 17 and has legal effect throughout Canada. (3) The court’s decision refusing to recognize the competent authority’s decision has legal effect throughout Canada."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "General",
+      "section": "23",
+      "title": "Provincial laws of evidence",
+      "content": "23 (1) Subject to this or any other Act of Parliament, the laws of evidence of the province in which any proceedings under this Act are taken, including the laws of proof of service of any document, apply to such proceedings. (2) The Canada Evidence Act applies in respect of a proceeding before the Federal Court to determine, under subsection 3(3), 4(3), 5(3) or 6.2(3), which court retains jurisdiction. Previous Version"
+    },
+    {
+      "provision_ref": "s23.1",
+      "chapter": "General",
+      "section": "23.1",
+      "title": "Means of presenting submissions",
+      "content": "23.1 If the parties to a proceeding are habitually resident in different provinces, a court of competent jurisdiction may, in accordance with any applicable rules regulating the practice and procedure in that court, make an order on the basis of the evidence and the submissions of the parties, whether presented orally before the court or by affidavit or any means of telecommunication permitted by the rules regulating the practice and procedure in that court."
+    },
+    {
+      "provision_ref": "s23.2",
+      "chapter": "General",
+      "section": "23.2",
+      "title": "Official languages",
+      "content": "23.2 (1) A proceeding under this Act may be conducted in English or French, or in both official languages of Canada. (2) In any proceeding under this Act, (a) any person has the right to use either official language, including to (i) file pleadings or other documents, (ii) give evidence, or (iii) make submissions; (b) the court shall, at the request of any person, provide simultaneous interpretation from one official language into the other; (c) any party to that proceeding has the right to a judge who speaks the same official language as that party or both official languages, as the case may be; (d) any party to that proceeding has the right to request a transcript or recording, as the case may be, of (i) what was said during that proceeding in the official language in which it was said, if what was said was taken down by a stenographer or a sound recording apparatus, and (ii) any interpretation into the other official language of what was said; and (e) the court shall, at the request of any party to that proceeding, make available in that party’s official language of choice any judgment or order that is rendered or made under this Act and that relates to that party. (3) In the case of a discrepancy between the original version of a document referred to in paragraph (2)(a) or (e) and the translated text, the original version shall prevail. (4) The court forms relating to any proceedings under this Act shall be made available in both official languages."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "General",
+      "section": "24",
+      "title": "Proof of signature or office",
+      "content": "24 A document offered in a proceeding under this Act that purports to be certified or sworn by a judge or an officer of a court shall, unless the contrary is proved, be proof of the appointment, signature or authority of the judge or officer and, in the case of a document purporting to be sworn, of the appointment, signature or authority of the person before whom the document purports to be sworn. Definition of competent authority"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "General",
+      "section": "25",
+      "title": "Proof of signature or office",
+      "content": "25 (1) In this section, competent authority , in respect of a court, or appellate court, in a province means the body, person or group of persons ordinarily competent under the laws of that province to make rules regulating the practice and procedure in that court. (2) Subject to subsection (3), the competent authority may make rules applicable to any proceedings under this Act in a court, or appellate court, in a province, including, without limiting the generality of the foregoing, rules (a) regulating the practice and procedure in the court, including the addition of persons as parties to the proceedings; (b) respecting the conduct and disposition of any proceedings under this Act without an oral hearing; (b.1) respecting the application of section 23.1; (c) regulating the sittings of the court; (d) respecting the fixing and awarding of costs; (e) prescribing and regulating the duties of officers of the court; (f) respecting the transfer of proceedings under this Act to or from the court; and (g) prescribing and regulating any other matter considered expedient to attain the ends of justice and carry into effect the purposes and provisions of this Act. (3) The power to make rules for a court or appellate court conferred by subsection (2) on a competent authority shall be exercised in the like manner and subject to the like terms and conditions, if any, as the power to make rules for that court conferred on that authority by the laws of the province. (4) Rules made pursuant to this section by a competent authority that is not a judicial or quasi-judicial body shall be deemed not to be statutory instruments within the meaning and for the purposes of the Statutory Instruments Act . Previous Version"
+    },
+    {
+      "provision_ref": "s25.01",
+      "chapter": "General",
+      "section": "25.01",
+      "title": "Provincial child support service — calculation of child support",
+      "content": "25.01 (1) With the approval of the Governor in Council, the Minister of Justice may, on behalf of the Government of Canada, enter into an agreement with a province authorizing a provincial child support service designated in the agreement to calculate the amount of child support in accordance with the applicable guidelines and set it out in a decision. (2) To the extent that it is not inconsistent with this section, the law of the province applies to a provincial child support service in the performance of its functions under this section. (3) The amount of child support calculated under this section is the amount payable by the spouse who is subject to a provincial child support service decision. (4) A spouse who is subject to a provincial child support service decision becomes liable to pay the amount of child support calculated under this section on the day, or on the expiry of a period, specified by the law of the province or, if no day or period is specified, on the expiry of the period prescribed by the regulations. (5) Either or both spouses who do not agree with the amount of the child support calculated under this section may apply to a court of competent jurisdiction for an order under section 15.1 before the day or within the period specified by the law of the province or, if no day or period is specified, within the period prescribed by the regulations. (6) The liability to pay the amount of child support under subsection (4) continues while the determination of the application under subsection (5) is pending. (7) After a spouse subject to a provincial child support service decision becomes liable to pay an amount of child support under subsection (4), either or both spouses may have the amount of child support recalculated under section 25.1 or apply to a court of competent jurisdiction for an order under section 15.1."
+    },
+    {
+      "provision_ref": "s25.1",
+      "chapter": "General",
+      "section": "25.1",
+      "title": "Provincial child support service — recalculation of child support",
+      "content": "25.1 (1) With the approval of the Governor in Council, the Minister of Justice may, on behalf of the Government of Canada, enter into an agreement with a province authorizing a provincial child support service designated in the agreement to recalculate, in accordance with the applicable guidelines, the amount of child support orders on the basis of updated income information. (1.1) To the extent that it is not inconsistent with this section, the law of the province applies to a provincial child support service in the performance of its functions under this section. (1.2) For the purposes of subsection (1), if a spouse does not provide the income information, a provincial child support service may deem the income of that spouse to be the amount determined in accordance with the method of calculation set out in the law of the province or, if no such method is specified, in accordance with the method prescribed by the regulations. (2) Subject to subsection (5), the amount of a child support order as recalculated pursuant to this section shall for all purposes be deemed to be the amount payable under the child support order. (2.1) Subject to subsection (5), the income determined under subsection (1.2) shall be deemed to be the spouse’s income for the purposes of the child support order. (3) The spouse against whom a child support order was made becomes liable to pay the recalculated amount on the day, or on the expiry of the period specified by the law of the province or, if no day or period is specified, on the expiry of the period prescribed by the regulations. (4) If either or both spouses do not agree with the recalculated amount of the child support order, either or both of them may, before the day or within the period specified by the law of the province or, if no day or period is specified, within the period prescribed by the regulations, apply to a court of competent jurisdiction (a) in the case of an interim order made under subsection 15.1(2), for an order under section 15.1; (b) in the case of a provincial child support service decision made under section 25.01, for an order under section 15.1; or (c) in any other case, if they are former spouses, for an order under paragraph 17(1)(a). (5) Where an application is made under subsection (4), the operation of subsection (3) is suspended pending the determination of the application, and the child support order continues in effect. (6) If an application made under subsection (4) is withdrawn before it is determined, the spouse against whom the child support order was made becomes liable to pay the recalculated amount on the day on which the spouse would have become liable had the application not been made. (7) In this section, child support order has the same meaning as in subsection 2(1) and also means an interim order made under subsection 15.1(2), a provincial child support service decision made under section 25.01 and a variation order made under paragraph 17(1)(a). Previous Version"
+    },
+    {
+      "provision_ref": "s25.2",
+      "chapter": "General",
+      "section": "25.2",
+      "title": "Ministerial activities",
+      "content": "25.2 The Minister of Justice may conduct activities related to matters governed by this Act, including undertaking research."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "General",
+      "section": "26",
+      "title": "Regulations",
+      "content": "26 (1) The Governor in Council may make regulations for carrying the purposes and provisions of this Act into effect and, without limiting the generality of the foregoing, may make regulations (a) respecting the establishment, mandate and operation of a central registry of divorce proceedings; (b) providing for uniformity in the rules made under section 25; (c) respecting the framework for the calculation or recalculation of the amount of child support by the provincial child support service under section 25.01 or 25.1; and (d) prescribing any matter or thing that by this Act is to be or may be prescribed. (2) Regulations made under paragraph (1)(b) prevail over rules made under section 25. Previous Version"
+    },
+    {
+      "provision_ref": "s26.1",
+      "chapter": "General",
+      "section": "26.1",
+      "title": "Guidelines",
+      "content": "26.1 (1) The Governor in Council may establish guidelines respecting orders for child support, including, but without limiting the generality of the foregoing, guidelines (a) respecting the way in which the amount of an order for child support is to be determined; (b) respecting the circumstances in which discretion may be exercised in the making of an order for child support; (c) authorizing a court to require that the amount payable under an order for child support be paid in periodic payments, in a lump sum or in a lump sum and periodic payments; (d) authorizing a court to require that the amount payable under an order for child support be paid or secured, or paid and secured, in the manner specified in the order; (e) respecting the circumstances that give rise to the making of a variation order in respect of a child support order; (f) respecting the determination of income for the purposes of the application of the guidelines; (g) authorizing a court to impute income for the purposes of the application of the guidelines; and (h) respecting the production of information relevant to an order for child support and providing for sanctions and other consequences when that information is not provided. (2) The guidelines shall be based on the principle that spouses have a joint financial obligation to maintain the children of the marriage in accordance with their relative abilities to contribute to the performance of that obligation. Definition of order for child support (3) In subsection (1), order for child support means (a) an order or interim order made under section 15.1; (b) a variation order in respect of a child support order; (c) an order made under subsection 18.1(15) or 19(13) in respect of a child support order; or (d) an order made under subsection 28.5(5) or 29.1(5). Previous Version"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "General",
+      "section": "27",
+      "title": "Fees",
+      "content": "27 (1) The Governor in Council may, by order, authorize the Minister of Justice to prescribe a fee to be paid by any person to whom a service is provided under this Act or the regulations. (2) The Minister of Justice may, with the approval of the Governor in Council, enter into an agreement with the government of any province respecting the collection and remittance of any fees prescribed pursuant to subsection (1)."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "28",
+      "title": "Definitions",
+      "content": "28 The following definitions apply in this section and in sections 28.1 to 29.5. 2007 Convention 2007 Convention means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance, concluded at The Hague on November 23, 2007, set out in the schedule. ( Convention de 2007 ) Central Authority Central Authority means any person or entity designated under Article 4 of the 2007 Convention that is responsible for carrying out the duties that are imposed on it by the 2007 Convention. ( autorité centrale ) competent authority competent authority means a court that has the authority to make an order, or another entity that has the authority to make a decision, with respect to support under this Act. ( autorité compétente ) creditor creditor means a former spouse to whom support is owed or who seeks to obtain support. ( créancier ) debtor debtor means a former spouse who owes support or from whom support is sought. ( débiteur ) State Party State Party means a State other than Canada in which the 2007 Convention applies. ( État partie ) Previous Version Implementation, Interpretation and Application of the 2007 Convention"
+    },
+    {
+      "provision_ref": "s28.1",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "28.1",
+      "title": "Force of law",
+      "content": "28.1 (1) The provisions of the 2007 Convention have the force of law in Canada in so far as they relate to subjects that fall within the legislative competence of Parliament. (2) The 2007 Convention prevails over this Act and any other federal law to the extent of any inconsistency between them."
+    },
+    {
+      "provision_ref": "s28.2",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "28.2",
+      "title": "Explanatory Report",
+      "content": "28.2 In interpreting the 2007 Convention, recourse may be had to the Explanatory Report on the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance, adopted by the Twenty-First Session of the Hague Conference on Private International Law held from November 5 to 23, 2007."
+    },
+    {
+      "provision_ref": "s28.3",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "28.3",
+      "title": "Application",
+      "content": "28.3 Sections 28.4 to 29.5 apply if either the creditor or the debtor, as the case may be, resides in a State Party and the other resides in a province in respect of which Canada has made a declaration extending the application of the 2007 Convention to that province. However, the application of those provisions does not exclude the application of the other provisions of this Act unless there is an indication to the contrary. Application of Creditor to Central Authority"
+    },
+    {
+      "provision_ref": "s28.4",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "28.4",
+      "title": "Recognition of State Party decision varying child support order",
+      "content": "28.4 (1) A creditor may, through the Central Authority designated by the State Party in which the creditor resides, submit to the Central Authority in the province in which the debtor is habitually resident an application for recognition and, if applicable, for enforcement of a decision of the State Party that has the effect of varying a child support order. (2) A creditor may also in the same manner submit an application for recognition and, if applicable, for enforcement of a decision of the State Party that has the effect of varying a spousal support order if the application is also for recognition and, if applicable, for enforcement of a decision of the State Party that has the effect of varying a child support order. (3) The decision of the State Party is registered in accordance with the law of the province and that law, including the laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada, applies in respect of the recognition of the decision. (4) A decision that is recognized in accordance with the law of the province is deemed to be an order made under section 17, has legal effect throughout Canada and may be enforced in any manner provided for by the law of that province, including its laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada."
+    },
+    {
+      "provision_ref": "s28.5",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "28.5",
+      "title": "Establishment or variation of child support order or calculation or recalculation of amount",
+      "content": "28.5 (1) A creditor may, through the Central Authority designated by the State Party in which the creditor resides, submit to the Central Authority in the province in which the debtor is habitually resident an application to be sent to the competent authority in the province. (2) An application may seek (a) to obtain or to vary a child support order; or (b) to have the amount of child support calculated or recalculated, if the provincial child support service in the province in which the debtor habitually resides provides such a service. (3) The Central Authority shall, in accordance with the law of the province, send the application to the competent authority of that province. (4) Subsections 19(5) to (12) and (16) apply with necessary modifications to the application except that a reference to a “respondent” shall be read as “debtor”, a reference to “designated authority” shall be read as “Central Authority in the province in which the debtor is habitually resident”, a reference to “responsible authority in the designated jurisdiction” shall be read as “Central Authority designated by the State Party in which the creditor resides” and “applicant” shall be read as “creditor”. (5) The court referred to in subsection 19(6) may, on the basis of the evidence and the submissions of the creditor and of the debtor, whether presented orally before the court or by affidavit or any means of telecommunication permitted by the rules regulating the practice and procedure in that court, make a child support order or an order varying a child support order, retroactively or prospectively. (6) Subsections 15.1(3) to (8), section 15.3 and subsections 17(3), (4), (6) to (6.5) and (11) apply, with any necessary modifications, in respect of an order referred to in subsection (5). (7) Subsections (1) to (6) apply despite sections 4 and 5. Application of Debtor to Central Authority"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "29",
+      "title": "Recognition of State Party decision suspending or limiting enforcement of child support order",
+      "content": "29 (1) A debtor may, through the Central Authority designated by the State Party in which the debtor resides, submit to the Central Authority in the province in which the creditor is habitually resident an application for recognition of a decision of a State Party that has the effect of suspending or limiting the enforcement of a child support order. (2) A debtor may also in the same manner submit an application for recognition of a decision of a State Party that has the effect of suspending or limiting the enforcement of a spousal support order, if the application is also for recognition of a decision of the State Party that has the effect of suspending or limiting the enforcement of a child support order. (3) The decision of the State Party shall be registered in accordance with the law of the province and that law, including the laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada, apply in respect of the recognition of the decision. (4) A decision that is recognized in accordance with the law of the province is deemed to be an order made under section 17, has legal effect throughout Canada and may be enforced in any manner provided for by the law of that province, including its laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada."
+    },
+    {
+      "provision_ref": "s29.1",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "29.1",
+      "title": "Variation of child support order or recalculation of amount",
+      "content": "29.1 (1) A debtor may, through the Central Authority designated by the State Party in which the debtor resides, submit to the Central Authority in the province in which the creditor is habitually resident an application to be sent to the competent authority in the province. (2) An application may seek (a) to vary a child support order; or (b) to have the amount of child support recalculated, if the provincial child support service in the province in which the creditor habitually resides provides such a service. (3) The Central Authority shall, in accordance with the law of the province, send the application to the competent authority of that province. (4) Subsections 19(5) to (12) and (16) apply with necessary modifications to the application except that a reference to a “respondent” shall be read as “creditor”, a reference to “designated authority” shall be read as “Central Authority in the province in which the creditor is habitually resident”, a reference to “responsible authority in the designated jurisdiction” shall be read as “Central Authority designated by the State Party in which the debtor resides” and “applicant” shall be read as “debtor”. (5) The court referred to in subsection 19(6) may, on the basis of the evidence and the submissions of the creditor and of the debtor, whether presented orally before the court or by affidavit or any means of telecommunication permitted by the rules regulating the practice and procedure in that court, make an order varying a child support order, retroactively or prospectively. (6) Subsections 17(3), (4), (6) to (6.5) and (11) apply, with any necessary modifications, in respect of an order referred to in subsection (5). (7) Subsections (1) to (6) apply despite section 5. Spousal Support Orders"
+    },
+    {
+      "provision_ref": "s29.2",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "29.2",
+      "title": "Declaration in respect of a province",
+      "content": "29.2 If Canada declares under Article 2 of the 2007 Convention that the application of Chapters II and III of that Convention is to extend, in respect of a province, to spousal support orders, the applications described in sections 28.4 to 29.1 of this Act may also be made in respect of those orders and in that case those sections apply with any necessary modifications. Application of Creditor to Court"
+    },
+    {
+      "provision_ref": "s29.3",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "29.3",
+      "title": "Recognition of State Party decision varying support order",
+      "content": "29.3 (1) A creditor may submit to a court in the province in which the debtor is habitually resident an application for recognition — and, if applicable, for enforcement — of a decision of a State Party that has the effect of varying a support order. (2) The decision of the State Party shall be registered in accordance with the law of the province and that law, including the laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada, applies in respect of the recognition of the decision. (3) A decision that is recognized in accordance with the law of the province is deemed to be an order made under section 17, has legal effect throughout Canada and may be enforced in any manner provided for by the law of that province, including its laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada. Application of Debtor to Court"
+    },
+    {
+      "provision_ref": "s29.4",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "29.4",
+      "title": "Recognition of State Party decision suspending or limiting enforcement of support order",
+      "content": "29.4 (1) A debtor may submit to a court in the province in which the creditor is habitually resident an application for recognition of a decision of a State Party that has the effect of suspending or limiting the enforcement of a support order. (2) The decision of the State Party shall be registered in accordance with the law of the province and that law, including the laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada, applies in respect of the recognition of the decision. (3) A decision that is recognized in accordance with the law of the province is deemed to be an order made under section 17, has legal effect throughout Canada and may be enforced in any manner provided for by the law of that province, including its laws respecting reciprocal enforcement between the province and a jurisdiction outside Canada. Limits on Divorce Proceedings"
+    },
+    {
+      "provision_ref": "s29.5",
+      "chapter": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "29.5",
+      "title": "Support decision obtained in State Party",
+      "content": "29.5 (1) If a divorce proceeding is commenced in the province in which the debtor is habitually resident, the court of competent jurisdiction is not authorized to make an order under section 15.1 if the creditor has, in the State Party in which the creditor habitually resides, obtained a decision that requires the debtor to pay for the support of any or all of the children of the marriage. (2) Subsection (1) does not apply if (a) the creditor accepts the jurisdiction of the court, either expressly or by defending on the merits of the case without objecting to the jurisdiction at the first available opportunity; (b) the decision-making authority that made the decision in the State Party has no jurisdiction to vary the decision or make a new one or refuses to exercise its jurisdiction to do so; or (c) the decision cannot be recognized or declared enforceable in the province in which the debtor is habitually resident. 30 and 31 [Repealed, 1997, c. 1, s. 12]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Transitional Provisions",
+      "section": "32",
+      "title": "Proceedings based on facts arising before commencement of Act",
+      "content": "32 Proceedings may be commenced under this Act notwithstanding that the material facts or circumstances giving rise to the proceedings or to jurisdiction over the proceedings occurred wholly or partly before the day on which this Act comes into force."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Divorce Act, R.S. 1970, c. D-8",
+      "section": "33",
+      "title": "Proceedings based on facts arising before commencement of Act",
+      "content": "33 [Repealed, 2019, c. 16, s. 32] Previous Version"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Divorce Act, R.S. 1970, c. D-8",
+      "section": "34",
+      "title": "Variation and enforcement of orders previously made",
+      "content": "34 (1) Subject to subsection (1.1), any order made under subsection 11(1) of the Divorce Act , chapter D-8 of the Revised Statutes of Canada, 1970, and any order to the like effect made corollary to a decree of divorce granted in Canada before July 2, 1968 or granted on or after that day under subsection 22(2) of that Act may be varied, rescinded, suspended or enforced in accordance with sections 17 to 20, other than subsection 17(10), of this Act as if (a) the order were a support order, parenting order or contact order, as the case may be; and (b) in subsections 17(4), (4.1) and (5), the words “or the last order made under subsection 11(2) of the Divorce Act , chapter D-8 of the Revised Statutes of Canada, 1970, varying that order” were added immediately before the words “or the last variation order made in respect of that order”. (1.1) Where an application is made under subsection 17(1) to vary an order referred to in subsection (1) that provides a single amount of money for the combined support of one or more children and a former spouse, the court shall rescind the order and treat the application as an application for a child support order and an application for a spousal support order. (2) Any order made under section 10 of the Divorce Act , chapter D-8 of the Revised Statutes of Canada, 1970, may be enforced in accordance with section 20 of this Act as if it were an order made under subsection 15.1(1) or 15.2(1) or section 16.1 or 16.5 of this Act, as the case may be. (3) Any order for the maintenance of a spouse, former spouse or child of the marriage made under section 10 or 11 of the Divorce Act , chapter D-8 of the Revised Statutes of Canada, 1970, and any order to the like effect made corollary to a decree of divorce granted in Canada before July 2, 1968 or granted on or after that day under subsection 22(2) of that Act may be assigned to any minister, member or agency designated under section 20.1. Previous Version"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Divorce Act, R.S. 1970, c. D-8",
+      "section": "35",
+      "title": "Procedural laws continued",
+      "content": "35 The rules and regulations made under the Divorce Act , chapter D-8 of the Revised Statutes of Canada, 1970, and the provisions of any other law or of any rule, regulation or other instrument made thereunder respecting any matter in relation to which rules may be made under subsection 25(2) that were in force in Canada or any province immediately before the day on which this Act comes into force and that are not inconsistent with this Act continue in force as though made or enacted by or under this Act until they are repealed or altered by rules or regulations made under this Act or are, by virtue of the making of rules or regulations under this Act, rendered inconsistent with those rules or regulations."
+    },
+    {
+      "provision_ref": "s35.1",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.1",
+      "title": "Variation and enforcement of support orders previously made",
+      "content": "35.1 (1) Subject to subsection (2), any support order made under this Act before the coming into force of this section may be varied, rescinded, suspended or enforced in accordance with sections 17 to 20 as if the support order were a child support order or a spousal support order, as the case may be. (2) Where an application is made under subsection 17(1) to vary a support order made under this Act before the coming into force of this section that provides for the combined support of one or more children and a former spouse, the court shall rescind the order and treat the application as an application for a child support order and an application for a spousal support order. (3) Any support order made under this Act before the coming into force of this section may be assigned to any minister, member or agency designated pursuant to section 20.1."
+    },
+    {
+      "provision_ref": "s35.2",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.2",
+      "title": "Agreements entered into under subsection 25.1(1)",
+      "content": "35.2 Any agreement entered into by the Minister of Justice under subsection 25.1(1), as that subsection read immediately before the day on which section 27 of An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act comes into force, and that continues to be in force on that day, is deemed to have been entered into under subsection 25.1(1), as that subsection read on that day."
+    },
+    {
+      "provision_ref": "s35.3",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.3",
+      "title": "Proceedings commenced before coming into force",
+      "content": "35.3 A proceeding commenced under this Act before the day on which this section comes into force and not finally disposed of before that day shall be dealt with and disposed of in accordance with this Act as it reads as of that day."
+    },
+    {
+      "provision_ref": "s35.4",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.4",
+      "title": "Person deemed to have parenting time and decision-making responsibility",
+      "content": "35.4 Unless a court orders otherwise, (a) a person who had custody of a child by virtue of a custody order made under this Act, immediately before the day on which this section comes into force, is deemed as of that day, to be a person to whom parenting time and decision-making responsibility have been allocated; and (b) a spouse or former spouse who had access to a child by virtue of a custody order made under this Act, immediately before the day on which this section comes into force, is deemed as of that date, to be a person to whom parenting time has been allocated."
+    },
+    {
+      "provision_ref": "s35.5",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.5",
+      "title": "Person deemed to have contact order",
+      "content": "35.5 If, immediately before the day on which this section comes into force, a person who is not a spouse or former spouse had access to a child by virtue of a custody order made under this Act, then, as of that day, unless a court orders otherwise, that person is deemed to be a person who has contact with the child under a contact order."
+    },
+    {
+      "provision_ref": "s35.6",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.6",
+      "title": "No notice",
+      "content": "35.6 A person who is deemed under section 35.4, to be a person to whom parenting time or decision-making responsibility has been allocated is not required to give notice under either section 16.8 or 16.9 if a custody order to which they are a party specifies that no notice is required in respect of a change in the place of residence by the person or a child to whom the order relates."
+    },
+    {
+      "provision_ref": "s35.7",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.7",
+      "title": "No change in circumstances",
+      "content": "35.7 For the purposes of subsection 17(5), as enacted by subsection 13(2) of An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act , the coming into force of that Act does not constitute a change in the circumstances of the child."
+    },
+    {
+      "provision_ref": "s35.8",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.8",
+      "title": "Variation of orders previously made",
+      "content": "35.8 An order made before the day on which this section comes into force under subsection 16(1), as that subsection read immediately before that day, or an order made in proceedings disposed of by the court in the manner described in section 35.3, may, as of that day, if it is still in effect, be varied, rescinded or suspended in accordance with section 17, as amended by section 13 of An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act , as if the order were a parenting order or contact order."
+    },
+    {
+      "provision_ref": "s35.9",
+      "chapter": "Divorce Act, R.S. 1985, c. 3 (2nd Supp.)",
+      "section": "35.9",
+      "title": "Provisional orders",
+      "content": "35.9 If, before the day on which this section comes into force, a provisional order was made under subsection 18(2) as it read immediately before that day, the provisional order is deemed, as of that day, to be an application made under in subsection 18.1(3) and shall be dealt with and disposed of as such."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Commencement",
+      "section": "36",
+      "title": "Commencement",
+      "content": "36 This Act shall come into force on a day to be fixed by proclamation. Return to footnote * [Note: Act in force June 1, 1986, see SI/86-70.]"
+    },
+    {
+      "provision_ref": "sched-schedule",
+      "chapter": "SCHEDULE - Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "section": "SCHEDULE",
+      "title": "Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+      "content": "SCHEDULE (Section 28) Convention on the International Recovery of Child Support and Other Forms of Family Maintenance Preamble The States signatory to the present Convention, Desiring to improve co-operation among States for the international recovery of child support and other forms of family maintenance, Aware of the need for procedures which produce results and are accessible, prompt, efficient, cost-effective, responsive and fair, Wishing to build upon the best features of existing Hague Conventions and other international instruments, in particular the United Nations Convention on the Recovery Abroad of Maintenance of 20 June 1956, Seeking to take advantage of advances in technologies and to create a flexible system which can continue to evolve as needs change and further advances in technology create new opportunities, Recalling that, in accordance with Articles 3 and 27 of the United Nations Convention on the Rights of the Child of 20 November 1989, in all actions concerning children the best interests of the child shall be a primary consideration, every child has a right to a standard of living adequate for the child’s physical, mental, spiritual, moral and social development, the parent(s) or others responsible for the child have the primary responsibility to secure, within their abilities and financial capacities, the conditions of living necessary for the child’s development, and States Parties should take all appropriate measures, including the conclusion of international agreements, to secure the recovery of maintenance for the child from the parent(s) or other responsible persons, in particular where such persons live in a State different from that of the child, Have resolved to conclude this Convention and have agreed upon the following provisions CHAPTER I Object, Scope and Definitions ARTICLE 1 Object The object of the present Convention is to ensure the effective international recovery of child support and other forms of family maintenance, in particular by – a) establishing a comprehensive system of co-operation between the authorities of the Contracting States; b) making available applications for the establishment of maintenance decisions; c) providing for the recognition and enforcement of maintenance decisions; and d) requiring effective measures for the prompt enforcement of maintenance decisions. ARTICLE 2 Scope 1 This Convention shall apply – a) to maintenance obligations arising from a parent-child relationship towards a person under the age of 21 years; b) to recognition and enforcement or enforcement of a decision for spousal support when the application is made with a claim within the scope of sub-paragraph a); and c) with the exception of Chapters II and III, to spousal support. 2 Any Contracting State may reserve, in accordance with Article 62, the right to limit the application of the Convention under sub-paragraph 1 a), to persons who have not attained the age of 18 years. A Contracting State which makes this reservation shall not be entitled to claim the application of the Convention to persons of the age excluded by its reservation. 3 Any Contracting State may declare in accordance with Article 63 that it will extend the application of the whole or any part of the Convention to any maintenance obligation arising from a family relationship, parentage, marriage or affinity, including in particular obligations in respect of vulnerable persons. Any such declaration shall give rise to obligations between two Contracting States only in so far as their declarations cover the same maintenance obligations and parts of the Convention. 4 The provisions of this Convention shall apply to children regardless of the marital status of the parents. ARTICLE 3 Definitions For the purposes of this Convention – a) “creditor” means an individual to whom maintenance is owed or is alleged to be owed; b) “debtor” means an individual who owes or who is alleged to owe maintenance; c) “legal assistance” means the assistance necessary to enable applicants to know and assert their rights and to ensure that applications are fully and effectively dealt with in the requested State. The means of providing such assistance may include as necessary legal advice, assistance in bringing a case before an authority, legal representation and exemption from costs of proceedings; d) “agreement in writing” means an agreement recorded in any medium, the information contained in which is accessible so as to be usable for subsequent reference; e) “maintenance arrangement” means an agreement in writing relating to the payment of maintenance which i) has been formally drawn up or registered as an authentic instrument by a competent authority, or ii) has been formally drawn up or registered as an authentic instrument by a competent authority; or and may be the subject of review and modification by a competent authority; f) “vulnerable person” means a person who, by reason of an impairment or insufficiency of his or her personal faculties, is not able to support him or herself. CHAPTER II Administrative Co-operation ARTICLE 4 Designation of Central Authorities 1 A Contracting State shall designate a Central Authority to discharge the duties that are imposed by the Convention on such an authority. 2 Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and shall specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State. 3 The designation of the Central Authority or Central Authorities, their contact details, and where appropriate the extent of their functions as specified in paragraph 2, shall be communicated by a Contracting State to the Permanent Bureau of the Hague Conference on Private International Law at the time when the instrument of ratification or accession is deposited or when a declaration is submitted in accordance with Article 61. Contracting States shall promptly inform the Permanent Bureau of any changes. ARTICLE 5 General Functions of Central Authorities Central Authorities shall – a) co-operate with each other and promote co-operation amongst the competent authorities in their States to achieve the purposes of the Convention; b) seek as far as possible solutions to difficulties which arise in the application of the Convention. ARTICLE 6 Specific Functions of Central Authorities 1 Central Authorities shall provide assistance in relation to applications under Chapter III. In particular they shall – a) transmit and receive such applications; b) initiate or facilitate the institution of proceedings in respect of such applications. 2 In relation to such applications they shall take all appropriate measures – a) where the circumstances require, to provide or facilitate the provision of legal assistance; b) to help locate the debtor or the creditor; c) to help obtain relevant information concerning the income and, if necessary, other financial circumstances of the debtor or creditor, including the location of assets; d) to encourage amicable solutions with a view to obtaining voluntary payment of maintenance, where suitable by use of mediation, conciliation or similar processes; e) to facilitate the ongoing enforcement of maintenance decisions, including any arrears; f) to facilitate the collection and expeditious transfer of maintenance payments; g) to facilitate the obtaining of documentary or other evidence; h) to provide assistance in establishing parentage where necessary for the recovery of maintenance; i) to initiate or facilitate the institution of proceedings to obtain any necessary provisional measures that are territorial in nature and the purpose of which is to secure the outcome of a pending maintenance application; j) "
+    },
+    {
+      "provision_ref": "sched-annex1",
+      "chapter": "ANNEX 1 - Transmittal form under Article 12(2)",
+      "section": "ANNEX 1",
+      "title": "Transmittal form under Article 12(2)",
+      "content": "ANNEX 1 Transmittal form under Article 12(2) CONFIDENTIALITY AND PERSONAL DATA PROTECTION NOTICE Personal data gathered or transmitted under the Convention shall be used only for the purposes for which it was gathered or transmitted. Any authority processing such data shall ensure its confidentiality, in accordance with the law of its State. An authority shall not disclose or confirm information gathered or transmitted in application of this Convention if it determines that to do so could jeopardise the health, safety or liberty of a person in accordance with Article 40. □ A determination of non-disclosure has been made by a Central Authority in accordance with Article 40. 1. Requesting Central Authority 2. Contact person in requesting State a. Address a. Address (if different) b. Telephone number b. Telephone number (if different) c. Fax number c. Fax number (if different) d. E-mail d. E-mail (if different) e. Reference number e. Language(s) 3. Requested Central Authority Address 4. Particulars of the applicant a. Family name(s): b. Given name(s): c. Date of birth (dd/mm/yyyy) or a. Name of the public body: 5. Particulars of the person(s) for whom maintenance is sought or payable a. □ The person is the same as the applicant named in point 4 b. i. Family name(s): Given name(s): Date of birth: (dd/mm/yyyy) ii. Family name(s): Given name(s): Date of birth: (dd/mm/yyyy) iii. Family name(s): Given name(s): Date of birth: (dd/mm/yyyy) 6. Particulars of the debtor Footnote for 1 a. □ The person is the same as the applicant named in point 4 b. Family name(s): c. Given name(s): d. Date of birth: (dd/mm/yyyy) Return to footnote 1 According to Art. 3 of the Convention ““debtor” means an individual who owes or who is alleged to owe maintenance”. 7. This transmittal form concerns and is accompanied by an application under: □ Article 10(1) a) □ Article 10(1) b) □ Article 10(1) c) □ Article 10(1) d) □ Article 10(1) e) □ Article 10(1) f) □ Article 10(2) a) □ Article 10(2) b) □ Article 10(2) c) 8. The following documents are appended to the application: a. For the purpose of an application under Article 10(1) a) and: In accordance with Article 25: □ Complete text of the decision (Art. 25(1) a)) □ Abstract or extract of the decision drawn up by the competent authority of the State of origin (Art. 25(3) b)) (if applicable) □ Document stating that the decision is enforceable in the State of origin and, in the case of a decision by an administrative authority, a document stating that the requirements of Article 19(3) are met unless that State has specified in accordance with Article 57 that decisions of its administrative authorities always meet those requirements (Art. 25(1) b)) or if Article 25(3) c) is applicable □ If the respondent did not appear and was not represented in the proceedings in the State or origin, a document or documents attesting, as appropriate, either that the respondent had proper notice of the proceedings and an opportunity to be heard, or that the respondent had proper notice of the decision and the opportunity to challenge or appeal it on fact and law (Art. 25(1) c)) □ Where necessary, a document showing the amount of any arrears and the date such amount was calculated (Art. 25(1) d)) □ Where necessary, a document providing the information necessary to make appropriate calculation in case of a decision providing for automatic adjustment by indexation (Art. 25(1) e)) □ Where necessary, documentation showing the extent to which the applicant received free legal assistance in the State or origin (Art. 25(1) f)) In accordance with Article 30(3): □ Complete text of the maintenance arrangement (Art. 30(3) a)) □ A document stating that the particular maintenance arrangement is enforceable as a decision in the State of origin (Art. 30(3) b)) □ Any other documents accompanying the application (e.g., if required, a document for the purpose of Art. 36(4)): b. For the purpose of an application under Article 10(1) b), c), d), e), f) and (2) a), b) or c), the following number of supporting documents (excluding the transmittal form and the application itself) in accordance with Article 11(3): □ Article 10(1) b) □ Article 10(1) c) □ Article 10(1) d) □ Article 10(1) e) □ Article 10(1) f) □ Article 10(2) a) □ Article 10(2) b) □ Article 10(2) c) Name: (in block letters) Date: Authorised representative of the Central Authority (dd/mm/yyyy) ANNEX 2 Acknowledgement form under Article 12(3) CONFIDENTIALITY AND PERSONAL DATA PROTECTION NOTICE Personal data gathered or transmitted under the Convention shall be used only for the purposes for which it was gathered or transmitted. Any authority processing such data shall ensure its confidentiality, in accordance with the law of its State. An authority shall not disclose or confirm information gathered or transmitted in application of this Convention if it determines that to do so could jeopardise the health, safety or liberty of a person in accordance with Article 40. □ A determination of non-disclosure has been made by a Central Authority in accordance with Article 40. 1. Requested Central Authority 2. Contact person in requesting State a. Address a. Address (if different) b. Telephone number b. Telephone number (if different) c. Fax number c. Fax number (if different) d. E-mail d. E-mail (if different) e. Reference number e. Language(s) 3. Requested Central Authority Contact person Address 4. The requested Central Authority acknowledges receipt on (dd/mm/yyyy) of the transmittal form from the requesting Central Authority (reference number ; dated (dd/mm/yyyy) concerning the following application under: □ Article 10(1) a) □ Article 10(1) b) □ Article 10(1) c) □ Article 10(1) d) □ Article 10(1) e) □ Article 10(1) f) □ Article 10(2) a) □ Article 10(2) b) □ Article 10(2) c) Family name(s) of applicant: Family name(s) of the person(s) for whom maintenance is sought or payable: Family name(s) of debtor: 5. Initial steps taken by the requested Central Authority: □ The file is complete and is under consideration □ See attached status of application report □ Status of application report will follow □ Please provide the following additional information and / or documentation: □ The requested Central Authority refuses to process this application as it is manifest that the requirements of the Convention are not fulfilled (Art. 12(8)). The reasons: □ are set out in an attached document □ will be set out in a document to follow The requested Central Authority requests that the requesting Central Authority inform it of any change in the status of the application. Name: (in block letters) Date: Authorised representative of the Central Authority (dd/mm/yyyy)"
+    },
+    {
+      "provision_ref": "sched-schedule",
+      "chapter": "SCHEDULE - Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children",
+      "section": "SCHEDULE",
+      "title": "Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children",
+      "content": "SCHEDULE (Section 30) Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children The States signatory to the present Convention, Considering the need to improve the protection of children in international situations, Wishing to avoid conflicts between their legal systems in respect of jurisdiction, applicable law, recognition and enforcement of measures for the protection of children, Recalling the importance of international co-operation for the protection of children, Confirming that the best interests of the child are to be a primary consideration, Noting that the Convention of 5 October 1961 concerning the powers of authorities and the law applicable in respect of the protection of minors is in need of revision, Desiring to establish common provisions to this effect, taking into account the United Nations Convention on the Rights of the Child of 20 November 1989, Have agreed on the following provisions — Chapter I – Scope of the Convention ARTICLE 1 1 The objects of the present Convention are – a to determine the State whose authorities have jurisdiction to take measures directed to the protection of the person or property of the child; b to determine which law is to be applied by such authorities in exercising their jurisdiction; c to determine the law applicable to parental responsibility; d to provide for the recognition and enforcement of such measures of protection in all Contracting States; e to establish such co-operation between the authorities of the Contracting States as may be necessary in order to achieve the purposes of this Convention. 2 For the purposes of this Convention, the term “parental responsibility” includes parental authority, or any analogous relationship of authority determining the rights, powers and responsibilities of parents, guardians and other legal representatives in relation to the person or the property of the child. ARTICLE 2 The Convention applies to children from the moment of their birth until they reach the age of 18 years. ARTICLE 3 The measures referred to in Article 1 may deal in particular with – a the attribution, exercise, termination or restriction of parental responsibility, as well as its delegation; b rights of custody, including rights relating to the care of the person of the child and, in particular, the right to determine the child’s place of residence, as well as rights of access including the right to take a child for a limited period of time to a place other than the child’s habitual residence; c guardianship, curatorship and analogous institutions; d the designation and functions of any person or body having charge of the child’s person or property, representing or assisting the child; e the placement of the child in a foster family or in institutional care, or the provision of care by kafala or an analogous institution; f the supervision by a public authority of the care of a child by any person having charge of the child; g the administration, conservation or disposal of the child’s property. ARTICLE 4 The Convention does not apply to – a the establishment or contesting of a parent-child relationship; b decisions on adoption, measures preparatory to adoption, or the annulment or revocation of adoption; c the name and forenames of the child; d emancipation; e maintenance obligations; f trusts or succession; g social security; h public measures of a general nature in matters of education or health; i measures taken as a result of penal offences committed by children; j decisions on the right of asylum and on immigration. Chapter II – Jurisdiction ARTICLE 5 1 The judicial or administrative authorities of the Contracting State of the habitual residence of the child have jurisdiction to take measures directed to the protection of the child’s person or property. 2 Subject to Article 7, in case of a change of the child’s habitual residence to another Contracting State, the authorities of the State of the new habitual residence have jurisdiction. ARTICLE 6 1 For refugee children and children who, due to disturbances occurring in their country, are internationally displaced, the authorities of the Contracting State on the territory of which these children are present as a result of their displacement have the jurisdiction provided for in paragraph 1 of Article 5. 2 The provisions of the preceding paragraph also apply to children whose habitual residence cannot be established. ARTICLE 7 1 In case of wrongful removal or retention of the child, the authorities of the Contracting State in which the child was habitually resident immediately before the removal or retention keep their jurisdiction until the child has acquired a habitual resident in another State, and a each person, institution or other body having rights of custody has acquiesced in the removal or retention; or b the child has resided in that other State for a period of at least one year after the person, institution or other body having rights of custody has or should have had knowledge of the whereabouts of the child, no request for return lodged within that period is still pending, and the child is settled in his or her new environment. 2 The removal or the retention of a child is to be considered wrongful where a it is in breach of rights of custody attributed to a person, an institution or any other body, either jointly or alone, under the law of the State in which the child was habitually resident immediately before the removal or retention; and b at the time of removal or retention those rights were actually exercised, either jointly or alone, or would have been so exercised but for the removal or retention. The rights of custody mentioned in sub-paragraph a above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State. 3 So long as the authorities first mentioned in paragraph 1 keep their jurisdiction, the authorities of the Contracting State to which the child has been removed or in which he or she has been retained can take only such urgent measures under Article 11 as are necessary for the protection of the person or property of the child. ARTICLE 8 1 By way of exception, the authority of a Contracting State having jurisdiction under Article 5 or 6, if it considers that the authority of another Contracting State would be better placed in the particular case to assess the best interests of the child, may either – request that other authority, directly or with the assistance of the Central Authority of its State, to assume jurisdiction to take such measures of protection as it considers to be necessary, or – suspend consideration of the case and invite the parties to introduce such a request before the authority of that other State. 2 The Contracting States whose authorities may be addressed as provided in the preceding paragraph are a a State of which the child is a national, b a State in which property of the child is located, c a State whose authorities are seised of an application for divorce or legal separation of the child’s parents, or for annulment of their marriage, d a State with which the child has a substantial connection. 3 The authorities concerned may proceed to an exchange of views. 4 The authority addressed as provided in paragraph 1 may assume jurisdiction, in place of the authority having jurisdiction under Article 5 or 6, if it considers that this is in the child’s best interests. ARTICLE 9 1 If the authorities of a Contracting State referred to in Article 8, paragraph 2, consider that they are better placed in the particular case to assess the child’s best interests, they may either – request the competent authority of the Contracting State of the habitual residence of the child, directly or with the assistance of the Central Authority of that State, that they be authorized to ex"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "age of majority",
+      "definition": "age of majority , in respect of a child, means the age of majority as determined by the laws of the province where the child habitually resides, or, if the child habitually resides outside of Canada, eighteen years of age; ( majeur )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appellate court",
+      "definition": "appellate court , in respect of an appeal from a court, means the court exercising appellate jurisdiction with respect to that appeal; ( cour d’appel )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "applicable guidelines",
+      "definition": "applicable guidelines means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child of the marriage",
+      "definition": "child of the marriage means a child of two spouses or former spouses who, at the material time,",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child support order",
+      "definition": "child support order means an order made under subsection 15.1(1); ( ordonnance alimentaire au profit d’un enfant )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent authority",
+      "definition": "competent authority means, except as otherwise provided, a tribunal or other entity in a country other than Canada, or a subdivision of such a country, that has the authority to make a decision under their law respecting any subject matter that could be dealt with under this Act; ( autorité compétente )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contact order",
+      "definition": "contact order means an order made under subsection 16.5(1); ( ordonnance de contact )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "corollary relief proceeding",
+      "definition": "corollary relief proceeding means a proceeding in a court in which either or both former spouses seek a child support order, a spousal support order or a parenting order; ( action en mesures accessoires )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "court , in respect of a province, means",
+      "source_provision": "s2"
+    },
+    {
+      "term": "custody",
+      "definition": "custody [Repealed, 2019, c. 16, s. 1]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "custody order",
+      "definition": "custody order [Repealed, 2019, c. 16, s. 1]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "decision-making responsibility",
+      "definition": "decision-making responsibility means the responsibility for making significant decisions about a child’s well-being, including in respect of",
+      "source_provision": "s2"
+    },
+    {
+      "term": "divorce proceeding",
+      "definition": "divorce proceeding means a proceeding in a court in which either or both spouses seek a divorce alone or together with a child support order, a spousal support order or a parenting order; ( action en divorce )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "family dispute resolution process",
+      "definition": "family dispute resolution process means a process outside of court that is used by parties to a family law dispute to attempt to resolve any matters in dispute, including negotiation, mediation and collaborative law; ( mécanisme de règlement des différends familiaux )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "family justice services",
+      "definition": "family justice services means public or private services intended to help persons deal with issues arising from separation or divorce; ( services de justice familiale )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "family member",
+      "definition": "family member includes a member of the household of a child of the marriage or of a spouse or former spouse as well as a dating partner of a spouse or former spouse who participates in the activities of the household; ( membre de la famille )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "family violence",
+      "definition": "family violence means any conduct, whether or not the conduct constitutes a criminal offence, by a family member towards another family member, that is violent or threatening or that constitutes a pattern of coercive and controlling behaviour or that causes that other family member to fear for their own safety or for that of another person — and in the case of a child, the direct or indirect exposure to such conduct — and includes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Federal Child Support Guidelines",
+      "definition": "Federal Child Support Guidelines means the guidelines made under section 26.1; ( lignes directrices fédérales sur les pensions alimentaires pour enfants )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal adviser",
+      "definition": "legal adviser means any person who is qualified, in accordance with the law of a province, to represent or provide legal advice to another person in any proceeding under this Act; ( conseiller juridique )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "order assignee",
+      "definition": "order assignee means a minister, member, agency or public body to whom a support order is assigned under subsection 20.1(1); ( cessionnaire de la créance alimentaire )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parenting order",
+      "definition": "parenting order means an order made under subsection 16.1(1); ( ordonnance parentale )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parenting time",
+      "definition": "parenting time means the time that a child of the marriage spends in the care of a person referred to in subsection 16.1(1), whether or not the child is physically with that person during that entire time; ( temps parental )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "provincial child support service",
+      "definition": "provincial child support service means any service, agency or body designated in an agreement with a province under subsection 25.01(1) or 25.1(1); ( service provincial des aliments pour enfants )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relocation",
+      "definition": "relocation means a change in the place of residence of a child of the marriage or a person who has parenting time or decision-making responsibility — or who has a pending application for a parenting order — that is likely to have a significant impact on the child’s relationship with",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spousal support order",
+      "definition": "spousal support order means an order made under subsection 15.2(1); ( ordonnance alimentaire au profit d’un époux )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spouse",
+      "definition": "spouse includes, in subsection 6(1) and sections 15.1 to 16.96, 21.1, 25.01 and 25.1, a former spouse; ( époux )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "support order",
+      "definition": "support order means a child support order or a spousal support order; ( ordonnance alimentaire )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "variation order",
+      "definition": "variation order means an order made under subsection 17(1); ( ordonnance modificative )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "variation proceeding",
+      "definition": "variation proceeding means a proceeding in a court in which either or both former spouses seek a variation order. ( action en modification )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent authority",
+      "definition": "competent authority means a court that has the authority to make an order or another entity that has the authority to make a decision with respect to support under this Act. ( autorité compétente )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "designated authority",
+      "definition": "designated authority means a person or entity that is designated by a province to exercise the powers or perform the duties and functions set out in sections 18.1 to 19.1 within the province. ( autorité désignée )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "designated jurisdiction",
+      "definition": "designated jurisdiction means a jurisdiction outside Canada — whether a country or a political subdivision of a country — that is designated under an Act that relates to the reciprocal enforcement of orders relating to support, of the province in which either of the former spouses resides. ( État désigné )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "responsible authority",
+      "definition": "responsible authority means a person or entity that, in a designated jurisdiction, performs functions that are similar to those performed by the designated authority under subsection 19(4). ( autorité responsable )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "2007 Convention",
+      "definition": "2007 Convention means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance, concluded at The Hague on November 23, 2007, set out in the schedule. ( Convention de 2007 )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Central Authority",
+      "definition": "Central Authority means any person or entity designated under Article 4 of the 2007 Convention that is responsible for carrying out the duties that are imposed on it by the 2007 Convention. ( autorité centrale )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent authority",
+      "definition": "competent authority means a court that has the authority to make an order, or another entity that has the authority to make a decision, with respect to support under this Act. ( autorité compétente )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "creditor",
+      "definition": "creditor means a former spouse to whom support is owed or who seeks to obtain support. ( créancier )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "debtor",
+      "definition": "debtor means a former spouse who owes support or from whom support is sought. ( débiteur )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State Party",
+      "definition": "State Party means a State other than Canada in which the 2007 Convention applies. ( État partie )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spouse",
+      "definition": "spouse includes, in subsection 6(1) and sections 15.1 to 16.96, 21.1, 25.01, 25.1 and 30.7, a former spouse; ( époux )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "1996 Convention",
+      "definition": "1996 Convention means the Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children, concluded at The Hague on October 19, 1996, set out in the schedule. ( Convention de 1996 )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "State Party",
+      "definition": "State Party means a State other than Canada in which the 1996 Convention applies. ( État partie )",
+      "source_provision": "s2"
+    }
+  ]
+}

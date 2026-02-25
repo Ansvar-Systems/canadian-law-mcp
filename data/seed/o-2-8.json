@@ -1,0 +1,110 @@
+{
+  "id": "o-2-8",
+  "type": "statute",
+  "title": "Official Development Assistance Accountability Act",
+  "title_en": "Official Development Assistance Accountability Act",
+  "short_name": "Official Development Assistance Accou...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/O-2.8/",
+  "description": "Official Development Assistance Accountability Act (Official Development Assistance Accou...). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Official Development Assistance Accountability Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Purpose",
+      "section": "2",
+      "title": "Purpose",
+      "content": "2 (1) The purpose of this Act is to ensure that all Canadian official development assistance abroad is provided with a central focus on poverty reduction and in a manner that is consistent with Canadian values, Canadian foreign policy, the principles of the Paris Declaration on Aid Effectiveness of March 2, 2005, sustainable development and democracy promotion and that promotes international human rights standards. (2) Canadian official development assistance abroad shall be defined exclusively with regard to these values."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Interpretation",
+      "section": "3",
+      "title": "Definitions",
+      "content": "3 The following definitions apply in this Act. Canadian values Canadian values means, amongst others, values of global citizenship, equity and environmental sustainability. ( valeurs canadiennes ) civil society organization civil society organization means a not-for-profit or charitable organization whose governing structure is independent of government direction, and includes, but is not limited to, registered charities, non-governmental development organizations, community groups, women’s organizations, faith-based organizations, professional associations, trade unions, self-help groups, social movements, business associations, coalitions, human rights organizations and advocacy groups. ( organisme de la société civile ) competent minister competent minister means the Minister for International Development, the Minister of Finance, the Minister of Foreign Affairs or any other minister who is providing official development assistance. ( ministre compétent ) democracy democracy includes, but is not limited to, political and civil rights as defined by the International Covenant on Civil and Political Rights . ( démocratie ) international agency international agency means any organization whose objectives include global poverty reduction or international human­itarian assistance. ( agence internationale ) international assistance international assistance means funding provided by government for international development, international financial institutions, global peace and security, crises overseas and international development research. ( aide internationale ) international human rights standards international human rights standards means standards that are based on international human rights conventions to which Canada is a party and on international customary law. ( normes internationales en matière de droits de la personne ) Minister Minister means the Minister for International Development or any other minister designated by the Governor in Council as the Minister for the purposes of this Act. ( ministre ) official development assistance official development assistance [Repealed, 2018, c. 27, s. 656] Previous Version"
+    },
+    {
+      "provision_ref": "s3.1",
+      "chapter": "Interpretation",
+      "section": "3.1",
+      "title": "Regulations",
+      "content": "3.1 For the purposes of this Act, the Governor in Council may make regulations defining the expression official development assistance , in which case, the Governor in Council must take into account, among other things, the most recent definition of official development assistance formulated by the Development Assistance Committee of the Organisation for Economic Co-operation and Development."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Official Development Assistance",
+      "section": "4",
+      "title": "Official development assistance",
+      "content": "4 (1) Official development assistance may be provided only if the competent minister is of the opinion that it (a) contributes to poverty reduction; (b) takes into account the perspectives of the poor; and (c) is consistent with international human rights standards. (1.1) Notwithstanding subsection (1), official development assistance may be provided for the purposes of alleviating the effects of a natural or artificial disaster or other emergency occurring outside Canada. (2) The competent minister shall consult with governments, international agencies and Canadian civil society organizations at least once every two years, and shall take their views and recommendations into consideration when forming an opinion described in subsection (1). (3) In calculating Canada’s official development assistance contribution in Government of Canada publications, the competent minister or the Governor in Council shall consider only official development assistance as defined by this Act that meets the criteria in subsections (1) and (1.1). (4) Nothing in this Act shall be construed so as to limit the funding or restrict the activities of the International Development Research Centre."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Reports",
+      "section": "5",
+      "title": "Report to Parliament",
+      "content": "5 (1) The Minister or the competent minister shall cause to be laid before each House of Parliament within one year after the end of each fiscal year or, if either House is not sitting, on any of the first five days on which that House of Parliament is sitting, a report containing (a) the total amount spent by the Government of Canada on official development assistance in the previous fiscal year; (b) a summary of any activity or initiative taken under this Act; (c) a summary of Canada’s activities under the Bretton Woods and Related Agreements Act that have contributed to carrying out the purpose of this Act. (d) [Repealed, 2018, c. 27, s. 658] (e) [Repealed, 2013, c. 33, s. 193] (2) The Minister shall issue a statistical report on the disbursement of official development assistance within one year after the end of each fiscal year. (3) [Repealed, 2018, c. 27, s. 658] (4) [Repealed, 2018, c. 27, s. 658] Previous Version"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Coming into Force",
+      "section": "6",
+      "title": "Coming into force",
+      "content": "6 This Act comes into force 30 days after the day on which it receives royal assent. Return to footnote * [Note: Act in force June 28, 2008.] Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Canadian values",
+      "definition": "Canadian values means, amongst others, values of global citizenship, equity and environmental sustainability. ( valeurs canadiennes )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "civil society organization",
+      "definition": "civil society organization means a not-for-profit or charitable organization whose governing structure is independent of government direction, and includes, but is not limited to, registered charities, non-governmental development organizations, community groups, women’s organizations, faith-based organizations, professional associations, trade unions, self-help groups, social movements, business associations, coalitions, human rights organizations and advocacy groups. ( organisme de la société civile )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "competent minister",
+      "definition": "competent minister means the Minister for International Development, the Minister of Finance, the Minister of Foreign Affairs or any other minister who is providing official development assistance. ( ministre compétent )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "democracy",
+      "definition": "democracy includes, but is not limited to, political and civil rights as defined by the International Covenant on Civil and Political Rights . ( démocratie )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "international agency",
+      "definition": "international agency means any organization whose objectives include global poverty reduction or international human­itarian assistance. ( agence internationale )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "international assistance",
+      "definition": "international assistance means funding provided by government for international development, international financial institutions, global peace and security, crises overseas and international development research. ( aide internationale )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "international human rights standards",
+      "definition": "international human rights standards means standards that are based on international human rights conventions to which Canada is a party and on international customary law. ( normes internationales en matière de droits de la personne )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "Minister means the Minister for International Development or any other minister designated by the Governor in Council as the Minister for the purposes of this Act. ( ministre )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official development assistance",
+      "definition": "official development assistance [Repealed, 2018, c. 27, s. 656]",
+      "source_provision": "s2"
+    }
+  ]
+}

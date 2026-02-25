@@ -1,0 +1,229 @@
+{
+  "id": "c-23-7",
+  "type": "statute",
+  "title": "Canadian Victims Bill of Rights",
+  "title_en": "Canadian Victims Bill of Rights",
+  "short_name": "Canadian Victims Bill of Rights",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://laws-lois.justice.gc.ca/eng/acts/C-23.7/",
+  "description": "Canadian Victims Bill of Rights (Canadian Victims Bill of Rights). Current to 2026-02-04.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Short Title",
+      "section": "1",
+      "title": "Short title",
+      "content": "1 This Act may be cited as the Canadian Victims Bill of Rights ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Interpretation",
+      "section": "2",
+      "title": "Definitions",
+      "content": "2 The following definitions apply in this Act. offence offence means an offence under the Criminal Code , the Youth Criminal Justice Act or the Crimes Against Humanity and War Crimes Act , a designated substance offence as defined in subsection 2(1) of the Controlled Drugs and Substances Act , a designated offence as defined in subsection 2(1) of the Cannabis Act or an offence under section 91 or Part 3 of the Immigration and Refugee Protection Act . ( infraction ) victim victim means an individual who has suffered physical or emotional harm, property damage or economic loss as the result of the commission or alleged commission of an offence. ( victime ) Previous Version"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Interpretation",
+      "section": "3",
+      "title": "Acting on victim’s behalf",
+      "content": "3 Any of the following individuals may exercise a victim’s rights under this Act if the victim is dead or incapable of acting on their own behalf: (a) the victim’s spouse or the individual who was at the time of the victim’s death their spouse; (b) the individual who is or was at the time of the victim’s death, cohabiting with them in a conjugal relationship, having so cohabited for a period of at least one year; (c) a relative or dependant of the victim; (d) an individual who has in law or fact custody, or is responsible for the care or support, of the victim; (e) an individual who has in law or fact custody, or is responsible for the care or support, of a dependant of the victim."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Interpretation",
+      "section": "4",
+      "title": "Exception",
+      "content": "4 An individual is not a victim in relation to an offence, or entitled to exercise a victim’s rights under this Act, if the individual is charged with the offence, found guilty of the offence or found not criminally responsible on account of mental disorder or unfit to stand trial in respect of the offence."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Interpretation",
+      "section": "5",
+      "title": "Criminal justice system",
+      "content": "5 For the purpose of this Act, the criminal justice system consists of (a) the investigation and prosecution of offences in Canada; (b) the corrections process and the conditional release process in Canada; and (c) the proceedings of courts and Review Boards, as those terms are defined in subsection 672.1(1) of the Criminal Code , in respect of accused who are found not criminally responsible on account of mental disorder or unfit to stand trial."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Information",
+      "section": "6",
+      "title": "General information",
+      "content": "6 Every victim has the right, on request, to information about (a) the criminal justice system and the role of victims in it; (b) the services and programs available to them as a victim, including restorative justice programs; and (c) their right to file a complaint for an infringement or denial of any of their rights under this Act."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Information",
+      "section": "7",
+      "title": "Investigation and proceedings",
+      "content": "7 Every victim has the right, on request, to information about (a) the status and outcome of the investigation into the offence; and (b) the location of proceedings in relation to the offence, when they will take place and their progress and outcome."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Information",
+      "section": "8",
+      "title": "Information about offender or accused",
+      "content": "8 Every victim has the right, on request, to information about (a) reviews under the Corrections and Conditional Release Act relating to the offender’s conditional release and the timing and conditions of that release; and (b) hearings held for the purpose of making dispositions, as defined in subsection 672.1(1) of the Criminal Code , in relation to the accused, if the accused is found not criminally responsible on account of mental disorder or unfit to stand trial, and the dispositions made at those hearings."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Protection",
+      "section": "9",
+      "title": "Security",
+      "content": "9 Every victim has the right to have their security considered by the appropriate author- ities in the criminal justice system."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Protection",
+      "section": "10",
+      "title": "Protection from intimidation and retaliation",
+      "content": "10 Every victim has the right to have reasonable and necessary measures taken by the appropriate authorities in the criminal justice system to protect the victim from intimidation and retaliation."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Protection",
+      "section": "11",
+      "title": "Privacy",
+      "content": "11 Every victim has the right to have their privacy considered by the appropriate authorities in the criminal justice system."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Protection",
+      "section": "12",
+      "title": "Identity protection",
+      "content": "12 Every victim has the right to request that their identity be protected if they are a complainant to the offence or a witness in proceedings relating to the offence."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Protection",
+      "section": "13",
+      "title": "Testimonial aids",
+      "content": "13 Every victim has the right to request testimonial aids when appearing as a witness in proceedings relating to the offence."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Participation",
+      "section": "14",
+      "title": "Views to be considered",
+      "content": "14 Every victim has the right to convey their views about decisions to be made by appropriate authorities in the criminal justice system that affect the victim’s rights under this Act and to have those views considered."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Participation",
+      "section": "15",
+      "title": "Victim impact statement",
+      "content": "15 Every victim has the right to present a victim impact statement to the appropriate authorities in the criminal justice system and to have it considered."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Restitution",
+      "section": "16",
+      "title": "Restitution order",
+      "content": "16 Every victim has the right to have the court consider making a restitution order against the offender."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Restitution",
+      "section": "17",
+      "title": "Enforcement",
+      "content": "17 Every victim in whose favour a restitution order is made has the right, if they are not paid, to have the order entered as a civil court judgment that is enforceable against the offender."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "General Provisions",
+      "section": "18",
+      "title": "Application",
+      "content": "18 (1) This Act applies in respect of a victim of an offence in their interactions with the criminal justice system (a) while the offence is investigated or prosecuted; (b) while the offender is subject to the corrections process or the conditional release process in relation to the offence; and (c) while the accused is, in relation to the offence, under the jurisdiction of a court or a Review Board, as those terms are defined in subsection 672.1(1) of the Criminal Code , if they are found not criminally responsible on account of mental disorder or unfit to stand trial. (2) For the purpose of subsection (1), if an offence is reported to the appropriate authorities in the criminal justice system, the investigation of the offence is deemed to begin at the time of the reporting. (3) Subject to subsection (4), this Act does not apply in respect of offences that are service offences , as defined in subsection 2(1) of the National Defence Act , that are investigated or proceeded with under that Act. (4) This Act applies in respect of an offender who is convicted of a service offence , as defined in subsection 2(1) of the National Defence Act and who is committed to a penitentiary or a civil prison , as those terms are defined in that subsection. Previous Version"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "General Provisions",
+      "section": "19",
+      "title": "Exercise of rights",
+      "content": "19 (1) The rights of victims under this Act are to be exercised through the mechanisms provided by law. (2) A victim is entitled to exercise their rights under this Act only if they are present in Canada or they are a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "General Provisions",
+      "section": "20",
+      "title": "Interpretation of this Act",
+      "content": "20 This Act is to be construed and applied in a manner that is reasonable in the circumstances, and in a manner that is not likely to (a) interfere with the proper administration of justice, including (i) by causing interference with police discretion or causing excessive delay in, or compromising or hindering, the investigation of any offence, and (ii) by causing interference with prosecutorial discretion or causing excessive delay in, or compromising or hindering, the prosecution of any offence; (b) interfere with ministerial discretion; (c) interfere with the discretion that may be exercised by any person or body authorized to release an offender into the community; (d) endanger the life or safety of any individual; or (e) cause injury to international relations or national defence or national security."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "General Provisions",
+      "section": "21",
+      "title": "Interpretation of other Acts, regulations, etc.",
+      "content": "21 To the extent that it is possible to do so, every Act of Parliament enacted — and every order, rule or regulation made under such an Act — before, on or after the day on which this Act comes into force must be construed and applied in a manner that is compatible with the rights under this Act."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "General Provisions",
+      "section": "22",
+      "title": "Primacy in event of inconsistency",
+      "content": "22 (1) If, after the application of sections 20 and 21, there is any inconsistency between any provision of this Act and any provision of any Act, order, rule or regulation referred to in section 21, the provision of this Act prevails to the extent of the inconsistency. (2) Subsection (1) does not apply in respect of the Canadian Bill of Rights , the Canadian Human Rights Act , the Official Languages Act , the Access to Information Act and the Privacy Act and in respect of orders, rules and regulations made under any of those Acts. It also does not apply in respect of Division 1.1 of Part III of the National Defence Act and in respect of any orders, rules and regulations made under that Act to the extent that they apply in relation to that Division. Previous Version"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "General Provisions",
+      "section": "23",
+      "title": "No adverse inference",
+      "content": "23 No adverse inference is to be drawn against a person who is charged with an offence from the fact that an individual has been identified as a victim in relation to the offence."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "General Provisions",
+      "section": "24",
+      "title": "Entering or remaining in Canada",
+      "content": "24 Nothing in this Act is to be construed so as to permit any individual to (a) enter Canada or to remain in Canada beyond the end of the period for which they are authorized to so remain; (b) delay any removal proceedings or prevent the enforcement of any removal order; or (c) delay any extradition proceedings or prevent the extradition of any person to or from Canada."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Remedies",
+      "section": "25",
+      "title": "Complaint — federal entity",
+      "content": "25 (1) Every victim who is of the opinion that any of their rights under this Act have been infringed or denied by a federal department, agency or body has the right to file a complaint in accordance with its complaints mechanism. (2) Every victim who has exhausted their recourse under the complaints mechanism and who is not satisfied with the response of the federal department, agency or body may file a complaint with any authority that has jurisdiction to review complaints in relation to that department, agency or body. (3) Every federal department, agency or body that is involved in the criminal justice system must have a complaints mechanism that provides for (a) a review of complaints involving alleged infringements or denials of rights under this Act; (b) the power to make recommendations to remedy such infringements and denials; and (c) the obligation to notify victims of the result of those reviews and of the recommendations, if any were made."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Remedies",
+      "section": "26",
+      "title": "Complaint — provincial or territorial entity",
+      "content": "26 Every victim who is of the opinion that their rights under this Act have been infringed or denied by a provincial or territorial department, agency or body may file a complaint in accordance with the laws of the province or territory."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Remedies",
+      "section": "27",
+      "title": "Status",
+      "content": "27 Nothing in this Act is to be construed as granting to, or removing from, any victim or any individual acting on behalf of a victim the status of party, intervenor or observer in any proceedings."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Remedies",
+      "section": "28",
+      "title": "No cause of action",
+      "content": "28 No cause of action or right to damages arises from an infringement or denial of a right under this Act."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Remedies",
+      "section": "29",
+      "title": "No appeal",
+      "content": "29 No appeal lies from any decision or order solely on the grounds that a right under this Act has been infringed or denied. RELATED PROVISIONS — 2015, c. 13, s. 2.1 Review of Canadian Victims Bill of Rights 2.1 Five years after section 2 comes into force, a committee of Parliament is to be designated or established for the purpose of reviewing the Canadian Victims Bill of Rights enacted by that section. Page Details Date modified: 2026-02-18 Justice Laws Website Constitutional Documents Related Resources Consolidated Acts and Regulations Search Help Contact Us Department of Justice Canada Family Law Criminal Justice Funding Canada's System of Justice Laws Government of Canada All contacts Departments and agencies About government Themes and topics Jobs Immigration and citizenship Travel and tourism Business Benefits Health Taxes Environment and natural resources National security and defence Culture, history and sport Policing, justice and emergencies Transport and infrastructure Canada and the world Money and finance Science and innovation Indigenous peoples Veterans and military Youth Social media Mobile applications About Canada.ca Terms and conditions Privacy Top of Page _satellite.pageBottom();"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "offence",
+      "definition": "offence means an offence under the Criminal Code , the Youth Criminal Justice Act or the Crimes Against Humanity and War Crimes Act , a designated substance offence as defined in subsection 2(1) of the Controlled Drugs and Substances Act , a designated offence as defined in subsection 2(1) of the Cannabis Act or an offence under section 91 or Part 3 of the Immigration and Refugee Protection Act . ( infraction )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "victim",
+      "definition": "victim means an individual who has suffered physical or emotional harm, property damage or economic loss as the result of the commission or alleged commission of an offence. ( victime )",
+      "source_provision": "s2"
+    }
+  ]
+}
