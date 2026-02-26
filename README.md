@@ -2,13 +2,14 @@
 
 **The Justice Laws alternative for the AI age.**
 
-[![npm version](https://badge.fury.io/js/%40ansvar/canadian-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/canadian-law-mcp)
+[![npm version](https://badge.fury.io/js/@ansvar%2Fcanadian-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/canadian-law-mcp)
 [![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Canadian-law-mcp?style=social)](https://github.com/Ansvar-Systems/Canadian-law-mcp)
-[![CI](https://github.com/Ansvar-Systems/Canadian-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Canadian-law-mcp/actions/workflows/ci.yml)
+[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/canadian-law-mcp?style=social)](https://github.com/Ansvar-Systems/canadian-law-mcp)
+[![CI](https://github.com/Ansvar-Systems/canadian-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/canadian-law-mcp/actions/workflows/ci.yml)
+[![Provisions](https://img.shields.io/badge/provisions-53%2C954-blue)]()
 
-Query **Canadian legislation** -- covering data protection, cybersecurity, corporate law, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **956 Canadian federal Acts** -- from PIPEDA and the Criminal Code to the Competition Act, Bank Act, Copyright Act, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Canadian legal research, this is your verified reference database.
 
@@ -18,13 +19,14 @@ Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
 ## Why This Exists
 
-Canadian legal research is scattered across official government databases, commercial legal platforms, and institutional archives. Whether you're:
-- A **lawyer** validating citations in a brief or contract
-- A **compliance officer** checking if a statute is still in force
-- A **legal tech developer** building tools on Canadian law
-- A **researcher** tracing legislative history
+Canadian federal law research means navigating [laws-lois.justice.gc.ca](https://laws-lois.justice.gc.ca), downloading HTML pages across a bilingual site, and manually cross-referencing between Acts and sections. Whether you're:
 
-...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
+- A **lawyer** validating citations in a brief or contract
+- A **compliance officer** checking PIPEDA obligations or CASL requirements
+- A **legal tech developer** building tools on Canadian law
+- A **researcher** tracing legislative provisions across 956 federal Acts
+
+...you shouldn't need dozens of browser tabs and manual cross-referencing. Ask Claude. Get the exact provision. With context.
 
 This MCP server makes Canadian law **searchable, cross-referenceable, and AI-readable**.
 
@@ -112,63 +114,86 @@ npx @ansvar/canadian-law-mcp
 
 Once connected, just ask naturally:
 
-- *"What does the Canadian data protection law say about consent?"*
-- *"Search for cybersecurity requirements in Canadian legislation"*
-- *"Is this statute still in force?"*
-- *"Find provisions about personal data in Canadian law"*
-- *"What EU directives does this Canadian law implement?"*
-- *"Which Canadian laws implement the GDPR?"*
-- *"Validate this legal citation"*
-- *"Build a legal stance on data breach notification requirements"*
+- *"What does PIPEDA Section 7 say about consent exceptions?"*
+- *"Is CASL still in force?"*
+- *"Find provisions about personal information in Canadian law"*
+- *"What EU laws does PIPEDA align with?"*
+- *"What does Criminal Code s.342.1 say about unauthorized computer use?"*
+- *"Search for data breach notification requirements across Canadian statutes"*
+- *"Validate the citation 's. 5 PIPEDA'"*
+- *"Build a legal stance on competition law enforcement in Canada"*
 
 ---
 
-## Key Legislation Covered
+## What's Included
 
-| Act | Domain | Key Topics |
-|-----|--------|------------|
-| **Personal Information Protection and Electronic Documents Act (PIPEDA)** | Data Protection | Personal information, consent, accountability principles, breach notification, EU adequacy |
-| **Consumer Privacy Protection Act (CPPA/Bill C-27)** | Data Protection (proposed) | PIPEDA replacement, AIDA (AI regulation), enhanced enforcement, privacy tribunal |
-| **Canada's Anti-Spam Legislation (CASL)** | Electronic Commerce | Commercial electronic messages, consent, unsubscribe mechanism, penalties |
-| **Criminal Code (cybercrime provisions)** | Cybercrime | Unauthorized use of computer (s.342.1), mischief to data (s.430), interception (s.184) |
-| **Privacy Act** | Public Sector Privacy | Government institutions, personal information, access rights |
-| **Canada Business Corporations Act** | Corporate Law | Corporate governance, directors duties, shareholder rights |
-| **Competition Act** | Competition Law | Anti-competitive practices, mergers, deceptive marketing |
-| **Telecommunications Act** | Communications | Carrier regulation, CRTC powers, network security |
+| Category | Count | Details |
+|----------|-------|---------|
+| **Federal Acts** | 956 statutes | Complete A-Z from Justice Laws Website |
+| **Provisions** | 53,954 sections | Full-text searchable with FTS5 |
+| **Legal Definitions** | 12,393 definitions | Extracted from all Acts |
+| **Database Size** | ~82 MB | Optimized SQLite, portable |
+| **Weekly Freshness Checks** | Automated | Drift detection against Justice Laws |
 
----
+### Largest Acts by Provision Count
 
----
+| Act | Provisions |
+|-----|-----------|
+| Criminal Code | 1,644 |
+| Bank Act | 1,376 |
+| Insurance Companies Act | 1,211 |
+| Canada Elections Act | 1,102 |
+| Income Tax Act | 760 |
+| Excise Tax Act | 683 |
+| National Defence Act | 666 |
 
-## Deployment Tier
+### Largest Acts by Definition Count
 
-**MEDIUM** -- dual tier, free database bundled in npm package.
+| Act | Definitions |
+|-----|------------|
+| Income Tax Act | 1,621 |
+| Excise Tax Act | 500 |
+| Criminal Code | 309 |
+| Global Minimum Tax Act | 247 |
+| Bank Act | 239 |
 
-| Tier | Platform | Database | Content |
-|------|----------|----------|---------|
-| **Free** | Vercel (Hobby) / npm (stdio) | Core federal statutes (~100-180 MB) | Key federal Acts (PIPEDA, CASL, Criminal Code, Privacy Act, Competition Act), FTS search, EU/international cross-references |
-| **Professional** | Azure Container Apps / Docker / Local | Full database (~500-800 MB) | + All consolidated Acts and regulations, OPC guidance, provincial privacy law summaries (Quebec Law 25, PIPA Alberta) |
-
-The full database is larger due to the comprehensive scope of consolidated federal legislation and supplementary regulatory guidance. The free tier contains all key cybersecurity, privacy, and commercial legislation from the Justice Laws Website.
-
----
-
----
-
-## Database Estimates
-
-| Component | Free Tier | Full (Professional) |
-|-----------|-----------|---------------------|
-| Core federal Acts | ~80-120 MB | ~80-120 MB |
-| All consolidated regulations | -- | ~250-400 MB |
-| OPC guidance & findings | -- | ~50-80 MB |
-| Provincial privacy law summaries | -- | ~30-50 MB |
-| Cross-references & metadata | ~5 MB | ~15 MB |
-| **Total** | **~100-180 MB** | **~500-800 MB** |
-
-**Delivery strategy:** Free-tier DB bundled in npm package (Strategy A -- fits within Vercel 250 MB function limit). If final size exceeds 250 MB after ingestion, switch to Strategy B (runtime download from GitHub Releases).
+**Verified data only** -- every citation is validated against official sources (Department of Justice Canada). Zero LLM-generated content.
 
 ---
+
+## Why This Works
+
+**Verbatim Source Text (No LLM Processing):**
+- All statute text is ingested from the [Justice Laws Website](https://laws-lois.justice.gc.ca) (Department of Justice Canada)
+- Provisions are returned **unchanged** from SQLite FTS5 database rows
+- Zero LLM summarization or paraphrasing -- the database contains statute text, not AI interpretations
+
+**Smart Context Management:**
+- Search returns ranked provisions with BM25 scoring (safe for context)
+- Provision retrieval gives exact text by Act identifier + section number
+- Cross-references help navigate without loading everything at once
+
+**Technical Architecture:**
+```
+Justice Laws HTML --> Parse --> SQLite --> FTS5 snippet() --> MCP response
+                       ^                        ^
+                Provision parser         Verbatim database query
+```
+
+### Traditional Research vs. This MCP
+
+| Traditional Approach | This MCP Server |
+|---------------------|-----------------|
+| Search Justice Laws by Act name | Search by plain language: *"personal information consent"* |
+| Navigate multi-part statutes manually | Get the exact provision with context |
+| Manual cross-referencing between Acts | `build_legal_stance` aggregates across sources |
+| "Is this statute still in force?" --> check manually | `check_currency` tool --> answer in seconds |
+| Find EU alignment --> dig through EUR-Lex | `get_eu_basis` --> linked EU directives instantly |
+| No API, no integration | MCP protocol --> AI-native |
+
+**Traditional:** Search Justice Laws --> Navigate HTML --> Ctrl+F --> Cross-reference between Acts --> Check EUR-Lex for EU adequacy --> Repeat
+
+**This MCP:** *"What are the consent requirements under PIPEDA and how do they align with GDPR?"* --> Done.
 
 ---
 
@@ -178,56 +203,38 @@ The full database is larger due to the comprehensive scope of consolidated feder
 
 | Tool | Description |
 |------|-------------|
-| `search_legislation` | FTS5 full-text search across all provisions with BM25 ranking |
-| `get_provision` | Retrieve specific provision by statute + chapter/section |
-| `check_currency` | Check if statute is in force, amended, or repealed |
-| `validate_citation` | Validate citation against database (zero-hallucination check) |
-| `build_legal_stance` | Aggregate citations from statutes for a legal topic |
+| `search_legislation` | FTS5 full-text search across 53,954 provisions with BM25 ranking. Supports quoted phrases, boolean operators, prefix wildcards |
+| `get_provision` | Retrieve specific provision by Act identifier + section (e.g., "PIPEDA" + "7", or "Criminal Code" + "342.1") |
+| `check_currency` | Check if a statute is in force, amended, or repealed |
+| `validate_citation` | Validate citation against database -- zero-hallucination check. Supports "Section 5 PIPEDA", "s. 342.1 Criminal Code" |
+| `build_legal_stance` | Aggregate citations from multiple statutes for a legal topic |
 | `format_citation` | Format citations per Canadian conventions (full/short/pinpoint) |
-| `list_sources` | List all available statutes with metadata |
-| `about` | Server info, capabilities, and coverage summary |
+| `list_sources` | List all available statutes with metadata, coverage scope, and data provenance |
+| `about` | Server info, capabilities, dataset statistics, and coverage summary |
 
 ### EU/International Law Integration Tools (5)
 
 | Tool | Description |
 |------|-------------|
-| `get_eu_basis` | Get EU directives/regulations for Canadian statute |
-| `get_canadian_implementations` | Find Canadian laws implementing EU act |
-| `search_eu_implementations` | Search EU documents with Canadian implementation counts |
-| `get_provision_eu_basis` | Get EU law references for specific provision |
-| `validate_eu_compliance` | Check implementation status of EU directives |
+| `get_eu_basis` | Get EU directives/regulations that a Canadian statute aligns with (e.g., PIPEDA-GDPR adequacy) |
+| `get_canadian_implementations` | Find Canadian laws aligning with a specific EU act |
+| `search_eu_implementations` | Search EU documents with Canadian alignment counts |
+| `get_provision_eu_basis` | Get EU law references for a specific provision |
+| `validate_eu_compliance` | Check alignment status of Canadian statutes against EU directives |
 
 ---
 
-## Why This Works
+## EU Law Integration
 
-**Verbatim Source Text (No LLM Processing):**
-- All statute text is ingested from official Canadian government sources
-- Provisions are returned **unchanged** from SQLite FTS5 database rows
-- Zero LLM summarization or paraphrasing -- the database contains regulation text, not AI interpretations
+Canada is not an EU member state, but certain Canadian laws have significant EU alignment:
 
-**Smart Context Management:**
-- Search returns ranked provisions with BM25 scoring (safe for context)
-- Provision retrieval gives exact text by statute identifier + chapter/section
-- Cross-references help navigate without loading everything at once
+- **PIPEDA** has an [EU adequacy decision](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) for commercial-sector personal data transfers under GDPR (Commission Decision 2002/2/EC, upheld under GDPR Article 45)
+- **CASL** aligns with the ePrivacy Directive on commercial electronic messages
+- Canada participates in multilateral frameworks (e.g., APEC CBPR, Convention 108+) that share principles with EU data protection
 
-**Technical Architecture:**
-```
-Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
-                     ^                       ^
-              Provision parser         Verbatim database query
-```
+The EU bridge tools allow you to explore these alignment relationships -- checking which Canadian provisions correspond to EU requirements, and vice versa.
 
-### Traditional Research vs. This MCP
-
-| Traditional Approach | This MCP Server |
-|---------------------|-----------------|
-| Search official databases by statute number | Search by plain language |
-| Navigate multi-chapter statutes manually | Get the exact provision with context |
-| Manual cross-referencing between laws | `build_legal_stance` aggregates across sources |
-| "Is this statute still in force?" --> check manually | `check_currency` tool --> answer in seconds |
-| Find EU basis --> dig through EUR-Lex | `get_eu_basis` --> linked EU directives instantly |
-| No API, no integration | MCP protocol --> AI-native |
+> **Note:** EU cross-references reflect alignment and adequacy relationships, not transposition. Canada adopts its own legislative approach, and the EU tools help identify where Canadian and EU law address similar domains.
 
 ---
 
@@ -235,7 +242,28 @@ Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
 
 All content is sourced from authoritative Canadian legal databases:
 
-- **[Justice Laws Website](https://laws-lois.justice.gc.ca)** -- Official Canadian government legal database
+- **[Justice Laws Website](https://laws-lois.justice.gc.ca)** -- Official consolidated Acts and regulations, Department of Justice Canada
+
+### Data Provenance
+
+| Field | Value |
+|-------|-------|
+| **Authority** | Department of Justice Canada |
+| **Retrieval method** | HTML scrape from Justice Laws A-Z index |
+| **Languages** | English and French (bilingual -- both official languages) |
+| **License** | [Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada) |
+| **Coverage** | All 956 consolidated federal Acts |
+| **Last ingested** | 2026-02-25 |
+
+### Automated Freshness Checks (Weekly)
+
+A [weekly GitHub Actions workflow](.github/workflows/check-freshness.yml) monitors the Justice Laws Website for changes:
+
+| Check | Method |
+|-------|--------|
+| **Statute amendments** | Drift detection against known provision anchors |
+| **New statutes** | Comparison against Justice Laws A-Z index |
+| **Repealed statutes** | Status change detection |
 
 **Verified data only** -- every citation is validated against official sources. Zero LLM-generated content.
 
@@ -264,11 +292,13 @@ See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
 
 > **THIS TOOL IS NOT LEGAL ADVICE**
 >
-> Statute text is sourced from official Canadian government publications. However:
+> Statute text is sourced from the Justice Laws Website (Department of Justice Canada). However:
 > - This is a **research tool**, not a substitute for professional legal counsel
-> - **Court case coverage is limited** -- do not rely solely on this for case law research
+> - **Court case coverage is not included** -- do not rely solely on this for case law research
 > - **Verify critical citations** against primary sources for court filings
-> - **EU cross-references** are extracted from statute text, not EUR-Lex full text
+> - **EU cross-references** reflect alignment relationships, not transposition
+> - **Bilingual system** -- Acts are available in English and French, but only English-language versions were ingested in this release. Verify French text against the official [Justice Laws Website](https://laws-lois.justice.gc.ca)
+> - **Provincial and territorial legislation is not included** -- this covers federal Acts only
 
 **Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [SECURITY.md](SECURITY.md)
 
@@ -283,8 +313,8 @@ Queries go through the Claude API. For privileged or confidential matters, use o
 ### Setup
 
 ```bash
-git clone https://github.com/Ansvar-Systems/Canadian-law-mcp
-cd Canadian-law-mcp
+git clone https://github.com/Ansvar-Systems/canadian-law-mcp
+cd canadian-law-mcp
 npm install
 npm run build
 npm test
@@ -296,6 +326,22 @@ npm test
 npm run dev                                       # Start MCP server
 npx @anthropic/mcp-inspector node dist/index.js   # Test with MCP Inspector
 ```
+
+### Data Management
+
+```bash
+npm run ingest                    # Ingest statutes from Justice Laws
+npm run build:db                  # Rebuild SQLite database
+npm run drift:detect              # Run drift detection against anchors
+npm run check:freshness           # Check for amendments and new Acts
+npm run check-updates             # Check for source updates
+```
+
+### Performance
+
+- **Search Speed:** <100ms for most FTS5 queries
+- **Database Size:** ~82 MB (efficient, portable)
+- **Reliability:** 100% ingestion success rate across 956 Acts
 
 ---
 
@@ -315,7 +361,7 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 ### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
 **Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
 
-**30+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Kenya, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
+**70+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Kenya, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
 
 ---
 
@@ -324,23 +370,27 @@ This server is part of **Ansvar's Compliance Suite** -- MCP servers that work to
 Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 Priority areas:
-- Court case law expansion
-- EU cross-reference improvements
+- French-language provision ingestion
+- EU cross-reference expansion (PIPEDA-GDPR mapping)
+- Court case law coverage
 - Historical statute versions and amendment tracking
-- Additional statutory instruments and regulations
+- Provincial privacy law summaries (Quebec Law 25, PIPA Alberta/BC)
 
 ---
 
 ## Roadmap
 
 - [x] Core statute database with FTS5 search
-- [x] EU/international law cross-references
+- [x] Full corpus ingestion (956 Acts, 53,954 provisions, 12,393 definitions)
+- [x] EU/international law alignment tools
 - [x] Vercel Streamable HTTP deployment
 - [x] npm package publication
+- [x] Drift detection and weekly freshness checks
+- [ ] French-language provision text
 - [ ] Court case law expansion
 - [ ] Historical statute versions (amendment tracking)
-- [ ] Preparatory works / explanatory memoranda
-- [ ] Lower court and tribunal decisions
+- [ ] OPC guidance documents
+- [ ] Provincial privacy law summaries
 
 ---
 
@@ -349,12 +399,12 @@ Priority areas:
 If you use this MCP server in academic research:
 
 ```bibtex
-@software{canadian_law_mcp_2025,
+@software{canadian_law_mcp_2026,
   author = {Ansvar Systems AB},
   title = {Canadian Law MCP Server: AI-Powered Legal Research Tool},
-  year = {2025},
-  url = {https://github.com/Ansvar-Systems/Canadian-law-mcp},
-  note = {Canadian legal database with full-text search and EU cross-references}
+  year = {2026},
+  url = {https://github.com/Ansvar-Systems/canadian-law-mcp},
+  note = {956 Canadian federal Acts with 53,954 provisions and 12,393 definitions}
 }
 ```
 
@@ -366,7 +416,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Canadian Government (Open Government Licence)
+- **Statutes & Legislation:** Department of Justice Canada ([Open Government Licence - Canada](https://open.canada.ca/en/open-government-licence-canada))
 - **EU Metadata:** EUR-Lex (EU public domain)
 
 ---
@@ -375,7 +425,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building compliance tools has the same research frustrations.
 
-So we're open-sourcing it.
+So we're open-sourcing it. Navigating 956 federal Acts shouldn't require a law degree.
 
 **[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
 
