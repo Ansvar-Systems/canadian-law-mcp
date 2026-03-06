@@ -7,11 +7,21 @@
 import type Database from '@ansvar/mcp-sqlite';
 
 /**
+ * Well-known abbreviations that do not appear verbatim in the DB.
+ * Keys are uppercase; resolution is case-insensitive.
+ */
+const ABBREVIATIONS: Record<string, string> = {
+  'PIPEDA': 'p-8-6',
+  'pipeda': 'p-8-6',
+};
+
+/**
  * Resolve a document identifier to a database document ID.
  * Supports:
- * - Direct ID match (e.g., "pipeda")
+ * - Well-known abbreviation map (e.g., "PIPEDA", "pipeda")
+ * - Direct ID match (e.g., "p-8-6")
  * - Act chapter match (e.g., "P-8.6", "C-46")
- * - Title substring match (e.g., "Personal Information Protection", "PIPEDA")
+ * - Title substring match (e.g., "Personal Information Protection")
  */
 export function resolveDocumentId(
   db: InstanceType<typeof Database>,
@@ -20,6 +30,10 @@ export function resolveDocumentId(
   if (!input || typeof input !== 'string') return null;
   const trimmed = input.trim();
   if (!trimmed) return null;
+
+  // Abbreviation map (case-insensitive: check exact key then uppercased key)
+  const abbrMatch = ABBREVIATIONS[trimmed] ?? ABBREVIATIONS[trimmed.toUpperCase()];
+  if (abbrMatch) return abbrMatch;
 
   // Direct ID match
   const directMatch = db.prepare(
