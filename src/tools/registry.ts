@@ -23,9 +23,20 @@ import { searchEUImplementations, type SearchEUImplementationsInput } from './se
 import { getProvisionEUBasis, type GetProvisionEUBasisInput } from './get-provision-eu-basis.js';
 import { validateEUCompliance, type ValidateEUComplianceInput } from './validate-eu-compliance.js';
 import { listSources } from './list-sources.js';
+import { checkDataFreshness } from './check-data-freshness.js';
 import { getAbout, type AboutContext } from './about.js';
 import { detectCapabilities, upgradeMessage } from '../capabilities.js';
 export type { AboutContext } from './about.js';
+
+const CHECK_DATA_FRESHNESS_TOOL: Tool = {
+  name: 'check_data_freshness',
+  description:
+    'Report the freshness and staleness of the Canadian law database. ' +
+    'Returns the database build date, days since last update, freshness status (fresh/stale/unknown), ' +
+    'and a recommendation. Use this to verify whether the data is current before relying on results. ' +
+    'Data is sourced from the Justice Laws Website (Department of Justice Canada).',
+  inputSchema: { type: 'object', properties: {} },
+};
 
 const ABOUT_TOOL: Tool = {
   name: 'about',
@@ -303,7 +314,7 @@ export function buildTools(
   db?: InstanceType<typeof Database>,
   context?: AboutContext,
 ): Tool[] {
-  const tools = [...TOOLS, LIST_SOURCES_TOOL];
+  const tools = [...TOOLS, LIST_SOURCES_TOOL, CHECK_DATA_FRESHNESS_TOOL];
 
   if (db) {
     try {
@@ -374,6 +385,9 @@ export function registerTools(
           break;
         case 'list_sources':
           result = await listSources(db);
+          break;
+        case 'check_data_freshness':
+          result = await checkDataFreshness(db);
           break;
         case 'about':
           if (context) {
