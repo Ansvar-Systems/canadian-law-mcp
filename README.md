@@ -257,7 +257,7 @@ All content is sourced from authoritative Canadian legal databases:
 
 ### Automated Freshness Checks (Weekly)
 
-A [weekly GitHub Actions workflow](.github/workflows/check-freshness.yml) monitors the Justice Laws Website for changes:
+A [weekly GitHub Actions workflow](.github/workflows/check-updates.yml) monitors the Justice Laws Website for changes:
 
 | Check | Method |
 |-------|--------|
