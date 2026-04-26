@@ -54,11 +54,7 @@
     "health": "curl -s http://localhost:3000/health | jq .",
     "build:db": "tsx scripts/build-db.ts",
     "build:db:free": "tsx scripts/build-db-free.ts",
-    "ingest": "tsx scripts/ingest.ts",
-    "drift:detect": "tsx scripts/drift-detect.ts",
-    "check:freshness": "tsx scripts/check-freshness.ts",
-    "validate": "npm run lint && npm run test && npm run test:contract",
-    "check-updates": "node --import tsx scripts/check-updates.ts"
+    "validate": "npm run lint && npm run test && npm run test:contract"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.3",
@@ -70,7 +66,6 @@
     "@types/node": "^22.0.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
-    "@vercel/node": "^5.6.4",
     "better-sqlite3": "^11.0.0",
     "eslint": "^9.0.0",
     "prettier": "^3.4.0",
