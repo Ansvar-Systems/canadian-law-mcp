@@ -53,7 +53,6 @@
     "start:stdio": "node dist/index.js --stdio",
     "health": "curl -s http://localhost:3000/health | jq .",
     "build:db": "tsx scripts/build-db.ts",
-    "build:db:free": "tsx scripts/build-db-free.ts",
     "validate": "npm run lint && npm run test && npm run test:contract"
   },
   "dependencies": {
